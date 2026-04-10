@@ -787,7 +787,20 @@
       "AI",
       "SpaceX"
     ],
-    "sources": [],
+    "sources": [
+      {
+        "id": "youtube-musk-mit-aeroastro-2014",
+        "url": "https://www.youtube.com/watch?v=4DUbiCQpw_4",
+        "kind": "video",
+        "title": "Elon Musk at the MIT AeroAstro Centennial Symposium",
+        "publisher": "Elon Musk Sound Bites (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
     "source_hints": null
   },
   {
@@ -817,6 +830,18 @@
         "lang": "en",
         "primary": false,
         "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-tesla-model-x-reveal",
+        "url": "https://www.youtube.com/watch?v=mURbzh9t0_0",
+        "kind": "video",
+        "title": "Tesla Model X Reveal",
+        "publisher": "Tesla (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }
@@ -1274,6 +1299,18 @@
         "lang": "en",
         "primary": false,
         "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-tesla-model-y-unveil",
+        "url": "https://www.youtube.com/watch?v=Tb_Wn6K0uVs",
+        "kind": "video",
+        "title": "Model Y Unveil",
+        "publisher": "Tesla (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }

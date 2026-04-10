@@ -1,1 +1,546 @@
-[]
+[
+  {
+    "id": "carnegie-1835-11-25-birth",
+    "person_id": "carnegie",
+    "date": "1835-11-25",
+    "date_precision": "day",
+    "type": "life",
+    "title": "安德鲁·卡内基出生于苏格兰邓弗姆林",
+    "title_en": "Andrew Carnegie born in Dunfermline, Scotland",
+    "summary": "1835 年 11 月 25 日，安德鲁·卡内基出生于苏格兰法夫郡的邓弗姆林，父亲威廉·卡内基是一名手工织布工，母亲玛格丽特来自一个激进的政治活动家庭。邓弗姆林曾是苏格兰手工编织的中心，但工业革命中的动力织机使手工织布工大量失业。童年的贫困与苏格兰工人阶级的激进传统深刻影响了卡内基一生——既驱动了他对财富的渴望，也播下了他日后慈善事业的种子。",
+    "summary_en": "Andrew Carnegie was born on November 25, 1835, in Dunfermline, Fife, Scotland. His father William was a handloom weaver, and his mother Margaret came from a family of radical political activists. Dunfermline had been a center of Scottish handloom weaving, but the Industrial Revolution's power looms displaced weavers en masse. Childhood poverty and the Scottish working-class radical tradition profoundly shaped Carnegie — fueling both his hunger for wealth and the seeds of his later philanthropy.",
+    "location": "Dunfermline, Scotland",
+    "key": true,
+    "tags": [
+      "出生",
+      "苏格兰",
+      "邓弗姆林",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1848-emigrates-to-pittsburgh",
+    "person_id": "carnegie",
+    "date": "1848-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "全家移民美国，定居匹兹堡",
+    "title_en": "Family emigrates to the United States, settles in Pittsburgh",
+    "summary": "1848 年，由于苏格兰手工编织业的彻底衰落，卡内基一家借债渡过大西洋，移民至美国宾夕法尼亚州匹兹堡附近的阿勒格尼城。13 岁的安德鲁立即开始在棉纺厂当线轴工，周薪仅 1.2 美元。这段赤贫移民的经历成为他终生的原始驱动力。匹兹堡——这座因煤铁资源而崛起的工业城市——将成为卡内基建立钢铁帝国的舞台。",
+    "summary_en": "In 1848, with the handloom weaving industry in complete decline, the Carnegie family borrowed money to cross the Atlantic and settled in Allegheny City, near Pittsburgh, Pennsylvania. Thirteen-year-old Andrew immediately went to work as a bobbin boy in a cotton mill, earning just $1.20 per week. This experience of immigrant poverty became a lifelong driving force. Pittsburgh — a city rising on coal and iron — would become the stage for Carnegie's steel empire.",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "key": true,
+    "tags": [
+      "移民",
+      "匹兹堡",
+      "贫困",
+      "童工"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1853-pennsylvania-railroad",
+    "person_id": "carnegie",
+    "date": "1853-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入宾夕法尼亚铁路公司，师从汤姆·斯科特",
+    "title_en": "Joins Pennsylvania Railroad under Tom Scott's mentorship",
+    "summary": "1853 年，18 岁的卡内基加入宾夕法尼亚铁路公司，成为西区总管汤姆·斯科特的私人电报员和秘书。斯科特成为卡内基一生中最重要的导师——他教会了卡内基铁路运营、资本投资和商业网络的运作方式。在斯科特的指导下，卡内基进行了人生第一笔投资：用母亲抵押房屋借来的 500 美元购买了亚当斯快递公司的股票，获得了丰厚回报。这段学徒经历使卡内基从一个工人阶级移民少年转变为具备资本家思维的年轻商人。",
+    "summary_en": "In 1853, 18-year-old Carnegie joined the Pennsylvania Railroad as personal telegrapher and secretary to Thomas A. Scott, the western division superintendent. Scott became Carnegie's most important mentor, teaching him railroad operations, capital investment, and business networking. Under Scott's guidance, Carnegie made his first investment — $500 borrowed against his mother's house to buy Adams Express stock, which yielded handsome returns. This apprenticeship transformed Carnegie from a working-class immigrant boy into a young man with a capitalist's instincts.",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "key": true,
+    "tags": [
+      "铁路",
+      "汤姆·斯科特",
+      "导师",
+      "第一笔投资"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1865-keystone-bridge",
+    "person_id": "carnegie",
+    "date": "1865-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "创立基石桥梁公司",
+    "title_en": "Founds Keystone Bridge Company",
+    "summary": "1865 年内战结束后，卡内基辞去宾夕法尼亚铁路的职务，全力投入自己的商业事业。他创立了基石桥梁公司（Keystone Bridge Company），专门建造铁制桥梁以取代传统的木制桥梁。公司抓住了战后铁路大扩张的历史机遇，获得了大量合同。基石桥梁公司标志着卡内基从铁路雇员向独立企业家的关键转型，也是他后来钢铁帝国的雏形——他意识到铁（后来是钢）才是美国工业化的核心材料。",
+    "summary_en": "In 1865, after the Civil War ended, Carnegie resigned from the Pennsylvania Railroad to focus on his own ventures. He founded the Keystone Bridge Company, specializing in building iron bridges to replace traditional wooden ones. The company capitalized on the massive postwar railroad expansion. Keystone Bridge marked Carnegie's critical transition from railroad employee to independent entrepreneur and foreshadowed his steel empire — he recognized that iron (and later steel) was the essential material of American industrialization.",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "key": true,
+    "tags": [
+      "创立",
+      "桥梁",
+      "铁路",
+      "创业"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1875-edgar-thomson-steel",
+    "person_id": "carnegie",
+    "date": "1875-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "开设埃德加·汤姆森钢铁厂（贝塞麦炼钢法）",
+    "title_en": "Opens Edgar Thomson Steel Works (Bessemer process)",
+    "summary": "1875 年卡内基在匹兹堡附近的布拉多克开设了埃德加·汤姆森钢铁厂（Edgar Thomson Steel Works），采用当时最先进的贝塞麦炼钢法大规模生产钢轨。工厂以宾夕法尼亚铁路总裁 J. Edgar Thomson 的名字命名（以确保铁路的钢轨订单）。卡内基以无情的成本控制著称——他雇佣化学家精确分析原料成分，不断降低每吨钢的生产成本。到 1880 年代，卡内基钢铁公司已成为世界上成本最低、产量最大的钢铁生产商，奠定了美国取代英国成为世界工业霸主的物质基础。",
+    "summary_en": "In 1875 Carnegie opened the Edgar Thomson Steel Works in Braddock, near Pittsburgh, using the cutting-edge Bessemer process for mass steel production. The plant was named after Pennsylvania Railroad president J. Edgar Thomson to secure rail orders. Carnegie became legendary for ruthless cost control — hiring chemists to precisely analyze raw materials and relentlessly reducing per-ton costs. By the 1880s, Carnegie Steel was the world's lowest-cost, highest-volume steel producer, helping establish America's industrial supremacy over Britain.",
+    "location": "Braddock, Pennsylvania, USA",
+    "key": true,
+    "tags": [
+      "钢铁",
+      "贝塞麦",
+      "工厂",
+      "成本控制"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1883-2509-libraries",
+    "person_id": "carnegie",
+    "date": "1883-01-01",
+    "date_precision": "year",
+    "type": "award",
+    "title": "资助建造 2,509 座卡内基图书馆遍布全球",
+    "title_en": "Funds 2,509 Carnegie libraries worldwide",
+    "summary": "从 1883 年首座卡内基图书馆在邓弗姆林落成开始，卡内基一生共资助建造了 2,509 座免费公共图书馆，遍及美国（1,689 座）、英国、加拿大、澳大利亚、新西兰等国，总投入约 5,620 万美元。卡内基的资助模式独具匠心：他只提供建设资金，要求当地政府承诺永久提供维护经费和免费公共服务，从而确保了图书馆的可持续运营。卡内基图书馆计划是人类历史上规模最大的单一慈善项目之一，深刻改变了英语世界的公共教育基础设施。对于童年因贫穷而无法接受正规教育的卡内基而言，图书馆是他最深刻的个人慈善寄托。",
+    "summary_en": "Beginning with the first Carnegie library in Dunfermline in 1883, Carnegie funded a total of 2,509 free public libraries worldwide — 1,689 in the United States alone, plus hundreds across the United Kingdom, Canada, Australia, and New Zealand — investing approximately $56.2 million. Carnegie's funding model was ingenious: he provided construction costs only if the local government committed to permanent funding for maintenance and free public access, ensuring long-term sustainability. The Carnegie library program was one of the largest single philanthropic projects in human history, fundamentally transforming public education infrastructure across the English-speaking world. For Carnegie, who was denied formal education by childhood poverty, libraries were his most deeply personal philanthropic legacy.",
+    "location": "全球",
+    "key": true,
+    "tags": [
+      "图书馆",
+      "慈善",
+      "公共教育",
+      "遗产"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-carnegie-library",
+        "url": "https://en.wikipedia.org/wiki/Carnegie_library",
+        "kind": "article",
+        "title": "Carnegie library (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": "First library in Dunfermline 1883; U.S. program 1889-1919; 2,509 total"
+  },
+  {
+    "id": "carnegie-1901-04-marries-whitfield",
+    "person_id": "carnegie",
+    "date": "1887-04-22",
+    "date_precision": "day",
+    "type": "life",
+    "title": "与露易丝·惠特菲尔德结婚",
+    "title_en": "Marries Louise Whitfield",
+    "summary": "1887 年 4 月 22 日，51 岁的卡内基与 30 岁的露易丝·惠特菲尔德（Louise Whitfield）在纽约市结婚。卡内基之所以迟婚，部分原因是他的母亲玄格丽特反对他婚婚——卡内基与母亲感情深厚，直到 1886 年母亲去世后才得以成婚。露易丝成为卡内基晚年慕善事业的重要伙伴，两人于 1897 年生下唯一的女儿玛格丽特。",
+    "summary_en": "On April 22, 1887, the 51-year-old Carnegie married 30-year-old Louise Whitfield in New York City. Carnegie's late marriage was partly due to his mother Margaret's opposition — he was deeply devoted to her and only married after her death in 1886. Louise became an important partner in Carnegie's later philanthropic endeavors, and in 1897 the couple had their only child, Margaret.",
+    "location": "New York City, USA",
+    "key": false,
+    "tags": [
+      "婚姻",
+      "家庭"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1889-gospel-of-wealth",
+    "person_id": "carnegie",
+    "date": "1889-06-01",
+    "date_precision": "month",
+    "type": "writing",
+    "title": "发表《财富的福音》",
+    "title_en": "Publishes \"The Gospel of Wealth\"",
+    "summary": "1889 年 6 月，卡内基在《北美评论》杂志上发表了著名文章《财富的福音》（The Gospel of Wealth）。文章提出了一个在当时极为激进的观点：富人有道德义务在生前将财富用于造福社会，而非留给后代。他认为“在巨富中死去是一种耻辱”。这篇文章成为现代慈善事业的奠基性文献，深刻影响了此后一个多世纪的亿万富翁——从洛克菲勒到比尔·盖茨和沃伦·巴菲特的“捐赠誓言”（Giving Pledge），都能追溯到卡内基的这篇文章。",
+    "summary_en": "In June 1889, Carnegie published 'The Gospel of Wealth' in the North American Review. The article argued a then-radical proposition: the wealthy have a moral obligation to distribute their fortunes for the public good during their lifetimes rather than bequeathing them to heirs. He declared that 'the man who dies rich dies disgraced.' This essay became the foundational document of modern philanthropy, influencing generations of billionaires — from Rockefeller to Bill Gates and Warren Buffett's Giving Pledge, all trace their philosophical roots to Carnegie's manifesto.",
+    "location": "New York City, USA",
+    "key": true,
+    "tags": [
+      "财富的福音",
+      "慈善哲学",
+      "写作"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-gospel-of-wealth",
+        "url": "https://en.wikipedia.org/wiki/The_Gospel_of_Wealth",
+        "kind": "article",
+        "title": "The Gospel of Wealth (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1892-07-homestead-strike",
+    "person_id": "carnegie",
+    "date": "1892-07-06",
+    "date_precision": "day",
+    "type": "life",
+    "title": "霍姆斯特德钢铁厂大罢工——卡内基一生最大的污点",
+    "title_en": "Homestead Strike — the darkest chapter of Carnegie's life",
+    "summary": "1892 年 7 月 6 日，卡内基钢铁公司位于宾州霍姆斯特德的工厂爆发了美国工业史上最血腥的劳资冲突之一。卡内基本人远在苏格兰度假，将工厂管理权交给了铁腕副手亨利·克莱·弗里克。弗里克拒绝与工会谈判，并雇佣了 300 名平克顿侦探社武装人员强行进厂，与工人发生武装冲突，导致 16 人死亡、数十人受伤。宾州州长最终派遣 8,500 名民兵镇压罢工。虽然卡内基声称事先不知情，但作为企业所有者，他无法推卸责任。霍姆斯特德事件永久性地玷污了他作为“开明资本家”和慈善家的形象。",
+    "summary_en": "On July 6, 1892, one of the bloodiest labor conflicts in American industrial history erupted at Carnegie Steel's Homestead mill in Pennsylvania. Carnegie was vacationing in Scotland, having delegated authority to his hardline deputy Henry Clay Frick. Frick refused to negotiate with the union and hired 300 armed Pinkerton agents to force entry, resulting in a pitched battle that killed 16 and wounded dozens. The Pennsylvania governor eventually deployed 8,500 militia to crush the strike. Though Carnegie claimed ignorance, he bore ultimate responsibility as owner. The Homestead Strike permanently stained his reputation as an 'enlightened capitalist' and philanthropist.",
+    "location": "Homestead, Pennsylvania, USA",
+    "key": true,
+    "tags": [
+      "罢工",
+      "霍姆斯特德",
+      "劳资冲突",
+      "弗里克",
+      "阴暗面"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-homestead-strike",
+        "url": "https://en.wikipedia.org/wiki/Homestead_strike",
+        "kind": "article",
+        "title": "Homestead Strike (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1901-03-02-sells-to-morgan",
+    "person_id": "carnegie",
+    "date": "1901-03-02",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "将卡内基钢铁以 4.8 亿美元出售给 J.P.摩根（组建美国钢铁）",
+    "title_en": "Sells Carnegie Steel to J.P. Morgan for $480 million (forming U.S. Steel)",
+    "summary": "1901 年 3 月 2 日，65 岁的卡内基将卡内基钢铁公司以 4.8 亿美元（约合今日 170 亿美元）出售给 J.P.摩根，后者将其与其他钢铁公司合并组建了美国钢铁公司（U.S. Steel）——当时世界上第一家市值超过 10 亿美元的公司。交割完成后，摩根对卡内基说：“恭喜你，卡内基先生，你现在是世界上最富有的人了。”卡内基个人所得约 2.26 亿美元（以 2024 年美元计约 3,100 亿美元），使他成为人类历史上最富有的人之一。从此他将余生全部投入慈善事业。",
+    "summary_en": "On March 2, 1901, the 65-year-old Carnegie sold Carnegie Steel Company to J.P. Morgan for $480 million (roughly $17 billion today). Morgan merged it with other steel firms to create U.S. Steel — the world's first corporation valued at over $1 billion. After the deal closed, Morgan told Carnegie: 'Congratulations, Mr. Carnegie, you are now the richest man in the world.' Carnegie personally received about $226 million (approximately $310 billion in 2024 dollars), making him one of the wealthiest individuals in human history. He devoted the rest of his life entirely to philanthropy.",
+    "location": "New York City, USA",
+    "key": true,
+    "tags": [
+      "出售",
+      "J.P.摩根",
+      "美国钢铁",
+      "世界首富"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1902-carnegie-institution",
+    "person_id": "carnegie",
+    "date": "1902-01-28",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "创立卡内基科学研究院",
+    "title_en": "Founds the Carnegie Institution for Science",
+    "summary": "1902 年 1 月 28 日，卡内基出资 1,000 万美元在华盛顿特区创立了卡内基科学研究院（Carnegie Institution for Science），致力于资助基础科学研究。这是美国历史上第一批大规模的私人科学基金之一。研究院在天文学、遗传学、地球物理学等领域取得了大量突破性成果，包括哈勃的宇宙膨胀研究（在卡内基资助的威尔逊山天文台完成）。卡内基相信“知识是社会进步的根基”，科学研究是他慈善事业的核心支柱之一。",
+    "summary_en": "On January 28, 1902, Carnegie donated $10 million to establish the Carnegie Institution for Science in Washington, D.C., dedicated to funding basic scientific research. It was one of the first large-scale private science foundations in American history. The institution produced breakthrough discoveries in astronomy, genetics, and geophysics, including Hubble's expanding-universe research (conducted at the Carnegie-funded Mount Wilson Observatory). Carnegie believed 'knowledge is the foundation of social progress,' making scientific research a core pillar of his philanthropy.",
+    "location": "Washington, D.C., USA",
+    "key": true,
+    "tags": [
+      "创立",
+      "科学研究",
+      "基金会",
+      "慈善"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1905-carnegie-foundation-teaching",
+    "person_id": "carnegie",
+    "date": "1905-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "创立卡内基教学促进基金会",
+    "title_en": "Founds Carnegie Foundation for the Advancement of Teaching",
+    "summary": "1905 年卡内基出资 1,500 万美元创立了卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching），最初目的是为大学教授提供退休金（后来这一功能发展为独立的 TIAA 退休金系统，至今管理着数万亿美元的教育工作者退休资产）。基金会还推动了美国高等教育的标准化，其中最重要的成果是 1910 年的弗莱克斯纳报告（Flexner Report），彻底改革了美国医学教育体系，关闭了数百所不合格的医学院校。",
+    "summary_en": "In 1905 Carnegie donated $15 million to establish the Carnegie Foundation for the Advancement of Teaching, initially to provide pensions for university professors (this function later evolved into TIAA, which today manages trillions in educator retirement assets). The Foundation also drove standardization of American higher education; its most important product was the 1910 Flexner Report, which revolutionized medical education by shutting down hundreds of substandard medical schools.",
+    "location": "New York City, USA",
+    "key": true,
+    "tags": [
+      "创立",
+      "教育",
+      "基金会",
+      "TIAA"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1910-carnegie-endowment-peace",
+    "person_id": "carnegie",
+    "date": "1910-12-14",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "创立卡内基国际和平基金会",
+    "title_en": "Founds the Carnegie Endowment for International Peace",
+    "summary": "1910 年 12 月 14 日，卡内基出资 1,000 万美元创立了卡内基国际和平基金会（Carnegie Endowment for International Peace），致力于通过国际法和多边外交促进世界和平。卡内基深信战争是人类最大的浪费和罪恶，他希望通过制度建设消除战争。然而，仅三年后第一次世界大战就爆发了，这对老年卡内基造成了深重的心理打击。基金会至今仍在运作，是国际关系领域最重要的智库之一。",
+    "summary_en": "On December 14, 1910, Carnegie donated $10 million to establish the Carnegie Endowment for International Peace, dedicated to promoting world peace through international law and multilateral diplomacy. Carnegie deeply believed war was humanity's greatest waste and evil, and hoped to eliminate it through institutional means. Tragically, World War I erupted just three years later, dealing a devastating psychological blow to the aging Carnegie. The Endowment continues to operate today as one of the most important think tanks in international relations.",
+    "location": "Washington, D.C., USA",
+    "key": true,
+    "tags": [
+      "创立",
+      "和平",
+      "国际关系",
+      "基金会"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1911-carnegie-corporation",
+    "person_id": "carnegie",
+    "date": "1911-11-10",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "创立纽约卡内基公司（最大的慈善实体）",
+    "title_en": "Founds the Carnegie Corporation of New York",
+    "summary": "1911 年 11 月 10 日，卡内基创立了纽约卡内基公司（Carnegie Corporation of New York），注入 1.25 亿美元——这是他最后也是最大的慈善实体，使命是“促进和扩散知识与理解”。卡内基公司被设计为一个兜底机构，负责分配卡内基去世后的剩余财富。它至今仍是美国最重要的私人基金会之一，在教育、国际和平、民主治理等领域持续发挥影响力。卡内基通过这一系列基金会的创立，系统性地实践了《财富的福音》中的理念。",
+    "summary_en": "On November 10, 1911, Carnegie established the Carnegie Corporation of New York with an endowment of $125 million — his final and largest philanthropic entity, with the mission to 'promote the advancement and diffusion of knowledge and understanding.' Designed as a catch-all institution to distribute Carnegie's remaining fortune after his death, it remains one of America's most important private foundations, with ongoing influence in education, international peace, and democratic governance. Through this series of foundations, Carnegie systematically put into practice the principles of 'The Gospel of Wealth.'",
+    "location": "New York City, USA",
+    "key": true,
+    "tags": [
+      "创立",
+      "慈善",
+      "基金会",
+      "纽约卡内基公司"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "carnegie-1919-08-11-death",
+    "person_id": "carnegie",
+    "date": "1919-08-11",
+    "date_precision": "day",
+    "type": "life",
+    "title": "在马萨诸塞州去世，享年 83 岁",
+    "title_en": "Dies in Lenox, Massachusetts, at age 83",
+    "summary": "1919 年 8 月 11 日，安德鲁·卡内基在马萨诸塞州莱诺克斯的影溪庄园（Shadow Brook）因支气管肺炎去世，享年 83 岁。去世前他已捐出约 3.5 亿美元（约合今日 60 亿美元），仅留下约 3,000 万美元遗产给家人和最后的慈善拨款。他忠实地实践了自己“在巨富中死去是一种耻辱”的信条，将超过 90% 的财富用于公共事业。卡内基从苏格兰贫困移民到世界首富再到史上最伟大慈善家的人生轨迹，至今仍是“美国梦”最有力也最矛盾的注脚——他的慈善遗产辉煌灿烂，而霍姆斯特德的血泪却同样无法抹去。",
+    "summary_en": "Andrew Carnegie died of bronchial pneumonia on August 11, 1919, at Shadow Brook, his estate in Lenox, Massachusetts, at age 83. By his death he had given away approximately $350 million (about $6 billion today), leaving only about $30 million to family and final charitable bequests. He faithfully practiced his creed that 'the man who dies rich dies disgraced,' distributing over 90% of his fortune for public purposes. Carnegie's arc from impoverished Scottish immigrant to world's richest man to history's greatest philanthropist remains the most powerful — and most contradictory — embodiment of the 'American Dream.' His philanthropic legacy shines brilliantly, yet the blood of Homestead can never be erased.",
+    "location": "Lenox, Massachusetts, USA",
+    "key": true,
+    "tags": [
+      "逝世",
+      "纪念",
+      "遗产",
+      "慈善"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-carnegie-bio",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+        "kind": "article",
+        "title": "Andrew Carnegie (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  }
+]

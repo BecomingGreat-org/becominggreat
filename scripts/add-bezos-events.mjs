@@ -1,0 +1,1007 @@
+#!/usr/bin/env node
+/**
+ * Bootstrap Jeff Bezos events into data/events/bezos.json.
+ * Idempotent: skips events whose id already exists.
+ * After running, run audit-urls.mjs --write + parse-youtube.mjs --write + verify-embeds.mjs.
+ */
+import fs from "node:fs";
+import path from "node:path";
+
+const filePath = path.join(process.cwd(), "data", "events", "bezos.json");
+const events = fs.existsSync(filePath)
+  ? JSON.parse(fs.readFileSync(filePath, "utf8"))
+  : [];
+const existingIds = new Set(events.map((e) => e.id));
+
+const HUMAN = { license: "all-rights-reserved", authored_by: "human", mentions: [] };
+const CCBYSA = { license: "cc-by-sa", authored_by: "human", mentions: [] };
+
+const newEvents = [
+  // ============ 1964-01-12 Birth ============
+  {
+    id: "bezos-1964-01-12-birth",
+    person_id: "bezos",
+    date: "1964-01-12",
+    date_precision: "day",
+    type: "life",
+    title: "出生于新墨西哥州阿尔伯克基",
+    title_en: "Born in Albuquerque, New Mexico",
+    summary:
+      "Jeffrey Preston Jorgensen 出生于新墨西哥州阿尔伯克基。母亲 Jacklyn Gise 当时只有 17 岁。亲生父亲 Ted Jorgensen 是马戏团表演者，婚姻很快破裂。4 岁时母亲改嫁古巴移民 Miguel \"Mike\" Bezos，他正式收养了 Jeff 并给了他 Bezos 这个姓氏。Jeff 在休斯顿和迈阿密长大，暑假在外祖父 Lawrence Preston Gise（前 DARPA 区域主管）位于德克萨斯州的牧场度过——这段经历培养了他的动手能力和独立精神。",
+    location: "Albuquerque, NM",
+    key: true,
+    tags: ["出生", "童年"],
+    sources: [
+      {
+        id: "wikipedia-bezos-bio",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Brad Stone《The Everything Store》第 1 章",
+  },
+
+  // ============ 1982 High school valedictorian ============
+  {
+    id: "bezos-1982-high-school-valedictorian",
+    person_id: "bezos",
+    date: "1982-06-01",
+    date_precision: "month",
+    type: "education",
+    title: "以全校第一名毕业于迈阿密 Palmetto 高中",
+    title_en: "Graduates valedictorian from Miami Palmetto Senior High School",
+    summary:
+      "以 valedictorian（毕业致辞代表）身份从迈阿密 Palmetto 高中毕业。高中时已展现极强的学术和领导力，获得 National Merit Scholar 和 Silver Knight Award。毕业演讲中他就谈到了太空殖民的梦想——他想建造太空旅馆、游乐园和殖民地，让 200-300 万人在太空生活。",
+    location: "Miami, FL",
+    key: false,
+    tags: ["教育", "太空梦想"],
+    sources: [
+      {
+        id: "wikipedia-bezos-early",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "miami-herald-bezos-1982",
+        url: "https://www.miamiherald.com/news/local/community/miami-dade/article230301989.html",
+        kind: "article",
+        title: "Jeff Bezos' Miami Palmetto graduation speech — Miami Herald",
+        publisher: "Miami Herald",
+        lang: "en",
+        primary: false,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1986 Princeton graduation ============
+  {
+    id: "bezos-1986-princeton-graduation",
+    person_id: "bezos",
+    date: "1986-06-01",
+    date_precision: "month",
+    type: "education",
+    title: "以最优等荣誉（summa cum laude）毕业于普林斯顿大学",
+    title_en: "Graduates summa cum laude from Princeton (CS & EE)",
+    summary:
+      "以最优等荣誉（summa cum laude）从普林斯顿大学毕业，获得计算机科学和电气工程双学位。入学时他本想学物理，但很快意识到自己不是能进前 50 名的那类理论物理天才，于是果断切换到计算机科学。在普林斯顿他加入了 Phi Beta Kappa 荣誉学会，并当选为 Tau Beta Pi 工程荣誉学会成员。",
+    location: "Princeton, NJ",
+    key: true,
+    tags: ["教育", "普林斯顿", "计算机科学"],
+    sources: [
+      {
+        id: "wikipedia-bezos-princeton",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Brad Stone《The Everything Store》第 2 章；Bezos 在普林斯顿毕业典礼演讲（2010）",
+  },
+
+  // ============ 1986-1994 Wall Street career ============
+  {
+    id: "bezos-1988-de-shaw",
+    person_id: "bezos",
+    date: "1988-01-01",
+    date_precision: "year",
+    type: "career",
+    title: "加入 D.E. Shaw 对冲基金，成为最年轻的高级副总裁",
+    title_en: "Joins D.E. Shaw, becomes youngest SVP",
+    summary:
+      "毕业后先后在 Fitel（金融电信公司）、Bankers Trust 和 D.E. Shaw 工作。1990 年加入 D.E. Shaw——一家由哥伦比亚大学计算机科学教授 David Shaw 创立的量化对冲基金。Bezos 迅速晋升，30 岁就成为该公司最年轻的高级副总裁。在 D.E. Shaw 期间，他负责探索互联网商业机会，正是在这里他发现了一个关键数据：互联网使用量正以每年 2,300% 的速度增长。这个数字直接催生了 Amazon。",
+    location: "New York, NY",
+    key: true,
+    tags: ["职业", "华尔街", "D.E. Shaw", "量化"],
+    sources: [
+      {
+        id: "wikipedia-de-shaw",
+        url: "https://en.wikipedia.org/wiki/D._E._Shaw_%26_Co.",
+        kind: "article",
+        title: "D. E. Shaw & Co. (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "wikipedia-bezos-career",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Brad Stone《The Everything Store》第 2 章",
+  },
+
+  // ============ 1994-07-05 Amazon founding ============
+  {
+    id: "bezos-1994-07-05-amazon-founding",
+    person_id: "bezos",
+    date: "1994-07-05",
+    date_precision: "day",
+    type: "founding",
+    title: "在华盛顿州贝尔维尤车库创立 Amazon",
+    title_en: "Founds Amazon in a garage in Bellevue, Washington",
+    summary:
+      "辞去 D.E. Shaw 的高薪职位，和妻子 MacKenzie 从纽约开车横穿美国到西雅图（路上他在副驾驶座上写商业计划书）。在华盛顿州贝尔维尤的一个租来的房子的车库里创立 \"Cadabra, Inc.\"（后改名 Amazon.com）。他从 20 个可能的品类中选择了书籍作为切入点——因为书有 300 万种在售品种，没有任何实体书店能全部陈列。他使用\"后悔最小化框架\"（Regret Minimization Framework）做出辞职决定：\"80 岁的我会后悔没有尝试参与互联网这个大事吗？会的。\"",
+    location: "Bellevue, WA",
+    key: true,
+    tags: ["创业", "Amazon", "车库"],
+    sources: [
+      {
+        id: "wikipedia-amazon-history",
+        url: "https://en.wikipedia.org/wiki/Amazon_(company)",
+        kind: "article",
+        title: "Amazon (company) (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "wikipedia-bezos-founding",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Brad Stone《The Everything Store》第 3 章",
+  },
+
+  // ============ 1995-07-16 Amazon.com launches ============
+  {
+    id: "bezos-1995-07-16-amazon-launches",
+    person_id: "bezos",
+    date: "1995-07-16",
+    date_precision: "day",
+    type: "product",
+    title: "Amazon.com 正式上线：\"地球上最大的书店\"",
+    title_en: "Amazon.com launches as 'Earth's Biggest Bookstore'",
+    summary:
+      "Amazon.com 正式对公众上线，号称\"地球上最大的书店\"，上线首月就收到了来自全美 50 个州和 45 个国家的订单。网站最初托管在 Bezos 车库里的服务器上。第一位非员工客户 John Wainwright 买了一本《Fluid Concepts & Creative Analogies》。上线头 30 天销售额达到 2 万美元/周。贝佐斯在办公室放了一个铃铛，每次有人下单就会响——很快铃铛响得太频繁，不得不关掉。",
+    location: "Bellevue, WA",
+    key: true,
+    tags: ["Amazon", "产品发布", "电商"],
+    sources: [
+      {
+        id: "wikipedia-amazon-launch",
+        url: "https://en.wikipedia.org/wiki/Amazon_(company)",
+        kind: "article",
+        title: "Amazon (company) (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Brad Stone《The Everything Store》第 4 章",
+  },
+
+  // ============ 1997-05-15 Amazon IPO ============
+  {
+    id: "bezos-1997-05-15-amazon-ipo",
+    person_id: "bezos",
+    date: "1997-05-15",
+    date_precision: "day",
+    type: "deal",
+    title: "Amazon 在纳斯达克 IPO，发行价 18 美元",
+    title_en: "Amazon IPO on NASDAQ at $18 per share",
+    summary:
+      "Amazon 以每股 18 美元在纳斯达克上市，股票代码 AMZN，市值约 4.38 亿美元。当时 Amazon 年收入仅 1,580 万美元且深度亏损。IPO 当天股价涨到 23.50 美元。许多华尔街分析师嘲笑这个定价，因为公司完全没有盈利。20 多年后回头看，18 美元的 IPO 价格（经拆股调整）对应的回报率超过 100,000%。",
+    location: "NASDAQ",
+    key: true,
+    tags: ["Amazon", "IPO"],
+    sources: [
+      {
+        id: "wikipedia-amazon-ipo",
+        url: "https://en.wikipedia.org/wiki/Amazon_(company)",
+        kind: "article",
+        title: "Amazon (company) (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1997 First shareholder letter (Day 1) ============
+  {
+    id: "bezos-1997-shareholder-letter-day1",
+    person_id: "bezos",
+    date: "1997-04-01",
+    date_precision: "month",
+    type: "speech",
+    title: "第一封致股东信：\"Day 1\" 哲学的诞生",
+    title_en: "First annual shareholder letter: the birth of 'Day 1' philosophy",
+    summary:
+      "贝佐斯写了他的第一封年度致股东信，这封信后来被认为是商业史上最重要的CEO信件之一。信中他明确了 Amazon 的核心理念：永远把今天当作\"第一天\"（Day 1），长期主义高于短期利润，痴迷于客户而非竞争对手，快速做决策（大部分决策在有 70% 信息时就应该出手），以及\"你的利润空间就是我的机会\"（Your margin is my opportunity）。此后每年的股东信都会附上这封 1997 年原信。他甚至把自己办公所在的 Amazon 大楼命名为 \"Day 1\"。",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["Amazon", "股东信", "Day 1", "长期主义", "经典"],
+    sources: [
+      {
+        id: "amazon-1997-letter",
+        url: "https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders",
+        kind: "article",
+        title: "1997 Letter to Shareholders (reprinted annually)",
+        publisher: "About Amazon",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+      {
+        id: "wikipedia-bezos-day1",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "原文标题为 \"It's All About the Long Term\"；每封 Amazon 年度股东信末尾都附上 1997 年原文",
+  },
+
+  // ============ 1999 Time Person of the Year ============
+  {
+    id: "bezos-1999-time-person-of-year",
+    person_id: "bezos",
+    date: "1999-12-27",
+    date_precision: "day",
+    type: "award",
+    title: "当选《时代》年度人物",
+    title_en: "Named Time magazine Person of the Year",
+    summary:
+      "35 岁的贝佐斯被《时代》杂志评为 1999 年度人物，标题是\"E-Commerce Is Changing the Way the World Shops\"。当时正处互联网泡沫巅峰，Amazon 股价年内涨了近 10 倍。《时代》称赞他\"帮助建立了电子商务的基础\"。讽刺的是，不到一年后互联网泡沫破裂，Amazon 股价从 107 美元跌到不足 6 美元。",
+    location: "New York, NY",
+    key: true,
+    tags: ["荣誉", "时代", "年度人物"],
+    sources: [
+      {
+        id: "time-poy-1999",
+        url: "https://content.time.com/time/covers/0,16641,19991227,00.html",
+        kind: "article",
+        title: "Person of the Year 1999: Jeff Bezos",
+        publisher: "Time",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+      {
+        id: "wikipedia-time-poy",
+        url: "https://en.wikipedia.org/wiki/Time_Person_of_the_Year",
+        kind: "article",
+        title: "Time Person of the Year (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2000 Blue Origin founding ============
+  {
+    id: "bezos-2000-blue-origin-founding",
+    person_id: "bezos",
+    date: "2000-09-01",
+    date_precision: "month",
+    type: "founding",
+    title: "秘密创立 Blue Origin 太空公司",
+    title_en: "Secretly founds Blue Origin",
+    summary:
+      "在互联网泡沫破裂的同时，贝佐斯悄悄创立了太空公司 Blue Origin，公司座右铭 \"Gradatim Ferociter\"（步步为营，凶猛前行）。这个决定源于他高中毕业演讲里的太空殖民梦想。他的长期愿景是建造大型旋转太空站（参考物理学家 Gerard O'Neill 的设想），让数百万人在太空生活和工作，从而减轻地球的工业负担。Blue Origin 在最初几年极度低调，直到 2003 年才被媒体发现。",
+    location: "Kent, WA",
+    key: true,
+    tags: ["Blue Origin", "创业", "太空"],
+    sources: [
+      {
+        id: "wikipedia-blue-origin",
+        url: "https://en.wikipedia.org/wiki/Blue_Origin",
+        kind: "article",
+        title: "Blue Origin (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Christian Davenport《The Space Barons》",
+  },
+
+  // ============ 2000-2001 Dot-com bust survival ============
+  {
+    id: "bezos-2001-dotcom-bust-survival",
+    person_id: "bezos",
+    date: "2001-01-01",
+    date_precision: "year",
+    type: "career",
+    title: "互联网泡沫破裂中存活：股价从 107 美元跌至 6 美元",
+    title_en: "Survives the dot-com bust — stock drops from $107 to $6",
+    summary:
+      "互联网泡沫破裂后 Amazon 股价从 1999 年 12 月的 107 美元暴跌至 2001 年 9 月的不到 6 美元——跌幅超过 94%。华尔街分析师 Ravi Suria 发布报告预测 Amazon 将在数月内耗尽现金破产。贝佐斯在一次全员会议上对大屏幕显示的股价说：\"股价涨了 30%，大家并没有变聪明 30%；股价跌了 30%，大家也没有变笨 30%。\"他砍掉了不赚钱的业务线、关闭了多个仓库、裁员约 1,300 人，但坚持对基础设施和客户体验的投入。Amazon 在 2001 年第四季度首次实现季度盈利（净利 500 万美元），证明商业模式可行。",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["Amazon", "危机", "泡沫", "韧性"],
+    sources: [
+      {
+        id: "wikipedia-amazon-dotcom",
+        url: "https://en.wikipedia.org/wiki/Amazon_(company)",
+        kind: "article",
+        title: "Amazon (company) (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Brad Stone《The Everything Store》第 5-6 章；Ravi Suria 的 Lehman Brothers 报告",
+  },
+
+  // ============ 2002 AWS concept ============
+  {
+    id: "bezos-2002-aws-concept",
+    person_id: "bezos",
+    date: "2002-01-01",
+    date_precision: "year",
+    type: "career",
+    title: "提出 Amazon Web Services 概念：从内部基础设施到外部平台",
+    title_en: "Conceives Amazon Web Services — from internal infra to external platform",
+    summary:
+      "贝佐斯发现 Amazon 内部为了支撑电商业务而建立的大规模计算和存储基础设施，可以作为标准化服务出售给外部开发者。他发布了一份著名的内部备忘录（\"API Mandate\"），要求所有 Amazon 团队必须通过服务接口（API）相互通信，所有接口必须设计成可以对外暴露。这个决定把 Amazon 从一家零售商变成了世界上最大的云计算平台的种子。",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["Amazon", "AWS", "云计算", "战略"],
+    sources: [
+      {
+        id: "wikipedia-aws",
+        url: "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+        kind: "article",
+        title: "Amazon Web Services (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Steve Yegge 的 \"Google Platforms Rant\"（2011）中转述了 Bezos 的 API Mandate",
+  },
+
+  // ============ 2005-02-02 Amazon Prime launched ============
+  {
+    id: "bezos-2005-02-02-amazon-prime",
+    person_id: "bezos",
+    date: "2005-02-02",
+    date_precision: "day",
+    type: "product",
+    title: "推出 Amazon Prime：79 美元/年享受免费两日送达",
+    title_en: "Launches Amazon Prime — $79/year for free two-day shipping",
+    summary:
+      "Amazon 推出 Prime 会员服务，年费 79 美元即可享受美国境内免费两日送达。CFO 和财务团队反对这个项目——他们算出免费配送的成本会让公司巨亏。贝佐斯力排众议推进，他的逻辑是：一旦客户养成在 Amazon 上购买一切的习惯（因为配送不再是摩擦），他们的终身消费额会远超配送补贴成本。这个判断被证明完全正确。Prime 后来发展成拥有 2 亿以上全球会员的超级生态系统，涵盖视频流媒体、音乐、阅读、游戏等。",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["Amazon", "Prime", "产品发布", "飞轮"],
+    sources: [
+      {
+        id: "wikipedia-amazon-prime",
+        url: "https://en.wikipedia.org/wiki/Amazon_Prime",
+        kind: "article",
+        title: "Amazon Prime (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Brad Stone《The Everything Store》第 8 章",
+  },
+
+  // ============ 2006-03-14 AWS S3 launch ============
+  {
+    id: "bezos-2006-03-14-aws-s3-launch",
+    person_id: "bezos",
+    date: "2006-03-14",
+    date_precision: "day",
+    type: "product",
+    title: "AWS 正式启动：S3 上线，云计算时代开幕",
+    title_en: "AWS launches S3 — the cloud computing era begins",
+    summary:
+      "Amazon Web Services 正式推出第一个核心产品 Simple Storage Service（S3），允许开发者以极低成本通过互联网存储和检索任意数量的数据。三个月后 Elastic Compute Cloud（EC2）上线。AWS 彻底改变了全球科技行业的基础设施模式——初创公司不再需要购买服务器，只需按使用量付费。截至 2024 年 AWS 年营收超过 900 亿美元，是 Amazon 最大的利润来源。这个业务线让无数初创公司得以用极低成本启动，也让 Netflix、Airbnb、Slack 等公司成为可能。",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["Amazon", "AWS", "S3", "云计算", "产品发布", "里程碑"],
+    sources: [
+      {
+        id: "wikipedia-aws-s3",
+        url: "https://en.wikipedia.org/wiki/Amazon_S3",
+        kind: "article",
+        title: "Amazon S3 (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "wikipedia-aws-history",
+        url: "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+        kind: "article",
+        title: "Amazon Web Services (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2007-11-19 Kindle launch ============
+  {
+    id: "bezos-2007-11-19-kindle-launch",
+    person_id: "bezos",
+    date: "2007-11-19",
+    date_precision: "day",
+    type: "product",
+    title: "Kindle 电子阅读器发布",
+    title_en: "Launches the Amazon Kindle e-reader",
+    summary:
+      "Amazon 发布 Kindle 电子阅读器，售价 399 美元，上市后 5.5 小时即售罄。Kindle 的革命性在于它内置了免费 3G 无线连接（Whispernet），用户可以直接从设备上购买和下载电子书——不需要电脑。贝佐斯开发 Kindle 的动力来自于对\"创新者困境\"的深刻理解：他宁可自己颠覆纸质图书生意，也不愿让别人来做这件事。Kindle 后来定义了电子书市场，推动 Amazon 从\"卖书的\"变成了\"控制阅读平台的\"。",
+    location: "New York, NY",
+    key: true,
+    tags: ["Amazon", "Kindle", "产品发布", "硬件"],
+    sources: [
+      {
+        id: "wikipedia-kindle",
+        url: "https://en.wikipedia.org/wiki/Amazon_Kindle",
+        kind: "article",
+        title: "Amazon Kindle (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Brad Stone《The Everything Store》第 9 章",
+  },
+
+  // ============ 2010-05-30 Princeton speech ============
+  {
+    id: "bezos-2010-05-30-princeton-speech",
+    person_id: "bezos",
+    date: "2010-05-30",
+    date_precision: "day",
+    type: "speech",
+    title: "普林斯顿毕业典礼演讲：\"聪明是天赋，善良是选择\"",
+    title_en: "Princeton commencement speech: 'Cleverness is a gift, kindness is a choice'",
+    summary:
+      "在母校普林斯顿大学毕业典礼上发表演讲。他回忆童年时计算外祖母抽烟的死亡概率，让外祖母哭了——外祖父把他拉到一边说：\"Jeff，有一天你会明白，善良比聪明更重要。\" 这场演讲的核心信息是：\"In the end, we are our choices, not our gifts.\"（最终定义我们的是选择，而非天赋。）这成为他最被引用的金句之一。",
+    location: "Princeton, NJ",
+    key: true,
+    tags: ["演讲", "普林斯顿", "价值观", "经典"],
+    sources: [
+      {
+        id: "youtube-bezos-princeton-2010",
+        url: "https://www.youtube.com/watch?v=vBmavNoChZc",
+        kind: "video",
+        title: "Jeff Bezos Princeton Commencement Speech 2010",
+        publisher: "YouTube",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+      {
+        id: "princeton-bezos-speech",
+        url: "https://www.princeton.edu/news/2010/06/01/bezos-urges-princeton-graduates-create-and-be-gifted",
+        kind: "article",
+        title: "Bezos urges Princeton graduates: create and be gifted",
+        publisher: "Princeton University",
+        lang: "en",
+        primary: false,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2013-08-05 Washington Post acquisition ============
+  {
+    id: "bezos-2013-08-05-washington-post",
+    person_id: "bezos",
+    date: "2013-08-05",
+    date_precision: "day",
+    type: "deal",
+    title: "以 2.5 亿美元个人资金收购《华盛顿邮报》",
+    title_en: "Acquires The Washington Post for $250 million",
+    summary:
+      "以 2.5 亿美元个人资金（非 Amazon 资金）从 Graham 家族手中收购了《华盛顿邮报》。当时报纸行业正遭受数字化的毁灭性冲击，Post 的发行量和收入持续下滑。贝佐斯把 Amazon 的技术和客户至上理念注入了 Post：重建网站、投资数字订阅、引入数据驱动的新闻编辑流程。在他的管理下 Post 的流量激增，数字订阅在两年内翻了数倍。他反复对编辑部说的一句话是：\"问自己，读者想要什么。\"",
+    location: "Washington, D.C.",
+    key: true,
+    tags: ["华盛顿邮报", "收购", "媒体"],
+    sources: [
+      {
+        id: "wikipedia-wapo-sale",
+        url: "https://en.wikipedia.org/wiki/The_Washington_Post",
+        kind: "article",
+        title: "The Washington Post (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2015-06 Amazon surpasses Walmart ============
+  {
+    id: "bezos-2015-07-amazon-surpasses-walmart",
+    person_id: "bezos",
+    date: "2015-07-24",
+    date_precision: "day",
+    type: "milestone",
+    title: "Amazon 市值首次超越沃尔玛",
+    title_en: "Amazon surpasses Walmart by market cap",
+    summary:
+      "Amazon 市值首次超过沃尔玛，成为全球最有价值的零售商。这一天 Amazon 市值约 2,480 亿美元，而沃尔玛约 2,330 亿美元。考虑到沃尔玛的营收是 Amazon 的约 4 倍、员工数量是 Amazon 的 6 倍以上，华尔街用市值差距表明它更看好电商的未来。贝佐斯后来在一次采访中说：\"你不会因为竞争对手而获得顾客，你会因为更好地服务顾客而获得顾客。\"",
+    location: "NASDAQ / NYSE",
+    key: true,
+    tags: ["Amazon", "里程碑", "沃尔玛"],
+    sources: [
+      {
+        id: "nytimes-amazon-walmart",
+        url: "https://www.nytimes.com/2015/07/24/business/amazon-surpasses-walmart-as-most-valuable-retailer.html",
+        kind: "article",
+        title: "Amazon Surpasses Walmart as Most Valuable Retailer",
+        publisher: "The New York Times",
+        lang: "en",
+        primary: false,
+        ...HUMAN,
+      },
+      {
+        id: "wikipedia-amazon-walmart",
+        url: "https://en.wikipedia.org/wiki/Amazon_(company)",
+        kind: "article",
+        title: "Amazon (company) (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2015-11-23 New Shepard first landing ============
+  {
+    id: "bezos-2015-11-23-new-shepard-landing",
+    person_id: "bezos",
+    date: "2015-11-23",
+    date_precision: "day",
+    type: "product",
+    title: "Blue Origin New Shepard 火箭首次垂直降落",
+    title_en: "Blue Origin's New Shepard makes first successful vertical landing",
+    summary:
+      "Blue Origin 的 New Shepard 亚轨道火箭在到达 100.5 公里高度（超过卡门线）后，助推器成功垂直降落在德克萨斯州西部的发射场。这是人类历史上第一次火箭在进入太空后垂直降落——比 SpaceX Falcon 9 的首次着陆早了大约一个月（不过 New Shepard 是亚轨道，技术难度不同）。贝佐斯亲自发推特宣布：\"The rarest of beasts — a used rocket.\"",
+    location: "West Texas, TX",
+    key: true,
+    tags: ["Blue Origin", "New Shepard", "里程碑", "火箭回收"],
+    sources: [
+      {
+        id: "wikipedia-new-shepard",
+        url: "https://en.wikipedia.org/wiki/New_Shepard",
+        kind: "article",
+        title: "New Shepard (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "blueorigin-new-shepard-2015",
+        url: "https://www.blueorigin.com/news/first-landing",
+        kind: "article",
+        title: "Blue Origin — Historic Rocket Landing",
+        publisher: "Blue Origin",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2017-06-16 Whole Foods acquisition ============
+  {
+    id: "bezos-2017-06-16-whole-foods",
+    person_id: "bezos",
+    date: "2017-06-16",
+    date_precision: "day",
+    type: "deal",
+    title: "Amazon 以 137 亿美元收购 Whole Foods",
+    title_en: "Amazon acquires Whole Foods for $13.7 billion",
+    summary:
+      "Amazon 宣布以 137 亿美元全现金收购高端有机超市 Whole Foods Market——这是 Amazon 历史上最大的一笔收购。消息一出，整个零售业股价暴跌：沃尔玛、Kroger、Target 纷纷大跌。这笔交易让 Amazon 一夜之间拥有了 470+ 家线下实体店和强大的生鲜供应链。贝佐斯对 Whole Foods 的战略是典型的 Amazon 风格：降价（收购完成后第一天就全面降价）、整合 Prime 会员、建立线上线下融合的购物体验。",
+    location: "Seattle, WA / Austin, TX",
+    key: true,
+    tags: ["Amazon", "Whole Foods", "收购", "零售"],
+    sources: [
+      {
+        id: "wikipedia-whole-foods-acquisition",
+        url: "https://en.wikipedia.org/wiki/Whole_Foods_Market",
+        kind: "article",
+        title: "Whole Foods Market (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "amazon-press-whole-foods",
+        url: "https://press.aboutamazon.com/2017/6/amazon-com-inc-announces-agreement-to-acquire-whole-foods-market",
+        kind: "article",
+        title: "Amazon.com Announces Agreement to Acquire Whole Foods Market",
+        publisher: "Amazon Press Center",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2018-01 Briefly world's richest ============
+  {
+    id: "bezos-2018-01-worlds-richest",
+    person_id: "bezos",
+    date: "2018-01-09",
+    date_precision: "day",
+    type: "milestone",
+    title: "成为现代史上最富有的人（净资产超 1,050 亿美元）",
+    title_en: "Becomes the richest person in modern history ($105B+)",
+    summary:
+      "随着 Amazon 股价持续上涨，贝佐斯的净资产超过 1,050 亿美元，超过比尔·盖茨成为世界首富，也是 1999 年福布斯以美元衡量以来净资产最高的人。Bloomberg 亿万富翁指数显示他的财富在一天之内增减可达数十亿。他后来多次在首富位置上进出——特别是在 2019 年与前妻 MacKenzie 离婚并分割约 380 亿美元股票之后。",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["财富", "首富", "里程碑"],
+    sources: [
+      {
+        id: "bloomberg-bezos-richest",
+        url: "https://www.bloomberg.com/billionaires/",
+        kind: "article",
+        title: "Bloomberg Billionaires Index",
+        publisher: "Bloomberg",
+        lang: "en",
+        primary: false,
+        ...HUMAN,
+      },
+      {
+        id: "wikipedia-bezos-wealth",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2018-09 Bezos Day One Fund ============
+  {
+    id: "bezos-2018-09-bezos-day-one-fund",
+    person_id: "bezos",
+    date: "2018-09-13",
+    date_precision: "day",
+    type: "founding",
+    title: "成立 20 亿美元 Bezos Day One Fund",
+    title_en: "Launches $2 billion Bezos Day One Fund",
+    summary:
+      "宣布投入 20 亿美元成立 Bezos Day One Fund，包括两个部分：Day 1 Families Fund（资助为无家可归家庭服务的非营利组织）和 Day 1 Academies Fund（在低收入社区创建免费的蒙特梭利学前教育学校）。这是贝佐斯长期被批评\"不做慈善\"之后的首次大规模慈善承诺。他特意用了 Amazon 的核心理念 \"Day 1\" 来命名基金。",
+    location: "Seattle, WA",
+    key: false,
+    tags: ["慈善", "Day One Fund", "教育"],
+    sources: [
+      {
+        id: "wikipedia-bezos-day-one-fund",
+        url: "https://en.wikipedia.org/wiki/Bezos_Day_One_Fund",
+        kind: "article",
+        title: "Bezos Day One Fund (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2019-02-07 re:MARS conference vision ============
+  {
+    id: "bezos-2019-06-remars-conference",
+    person_id: "bezos",
+    date: "2019-06-06",
+    date_precision: "day",
+    type: "speech",
+    title: "re:MARS 大会主题演讲：AI、机器人与太空愿景",
+    title_en: "Keynote at re:MARS conference on AI, robotics, and space",
+    summary:
+      "在 Amazon 的 re:MARS（Machine learning, Automation, Robotics, Space）大会上发表主题演讲。他展示了 Blue Origin 的月球着陆器 Blue Moon，分享了对 O'Neill 太空殖民地的愿景，并讨论了 AI 和机器人技术在 Amazon 供应链中的应用。re:MARS 是贝佐斯亲自推动的跨领域技术大会，反映了他对未来技术的全方位思考。他在演讲中说：\"我们要去太空来拯救地球。\"",
+    location: "Las Vegas, NV",
+    key: false,
+    tags: ["演讲", "re:MARS", "AI", "Blue Origin"],
+    sources: [
+      {
+        id: "youtube-bezos-remars-2019",
+        url: "https://www.youtube.com/watch?v=GQ98hGUe6FM",
+        kind: "video",
+        title: "Going to Space to Benefit Earth — Jeff Bezos at re:MARS 2019",
+        publisher: "YouTube (Blue Origin)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2020-02-17 Bezos Earth Fund ============
+  {
+    id: "bezos-2020-02-17-earth-fund",
+    person_id: "bezos",
+    date: "2020-02-17",
+    date_precision: "day",
+    type: "founding",
+    title: "宣布 100 亿美元 Bezos Earth Fund 应对气候变化",
+    title_en: "Announces $10 billion Bezos Earth Fund to fight climate change",
+    summary:
+      "在 Instagram 上宣布成立 100 亿美元的 Bezos Earth Fund，致力于应对气候变化。这是当时历史上最大的个人气候慈善承诺。他写道：\"气候变化是对地球的最大威胁。我想与其他人一起放大已知的方法，并探索新的方法来对抗气候变化的毁灭性影响。\" 基金后续资助了自然保护、清洁能源和环境正义等多个领域的项目。",
+    location: "Seattle, WA",
+    key: false,
+    tags: ["慈善", "Earth Fund", "气候"],
+    sources: [
+      {
+        id: "wikipedia-bezos-earth-fund",
+        url: "https://en.wikipedia.org/wiki/Bezos_Earth_Fund",
+        kind: "article",
+        title: "Bezos Earth Fund (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2021-02-02 Announces stepping down as CEO ============
+  {
+    id: "bezos-2021-02-02-steps-down-announcement",
+    person_id: "bezos",
+    date: "2021-02-02",
+    date_precision: "day",
+    type: "career",
+    title: "宣布将卸任 Amazon CEO，Andy Jassy 接任",
+    title_en: "Announces stepping down as Amazon CEO; Andy Jassy to succeed",
+    summary:
+      "在致员工信中宣布将在第三季度卸任 Amazon CEO，转任执行董事长，由 AWS 负责人 Andy Jassy 接任 CEO。他在信中写道：\"作为执行董事长，我打算将精力集中在新产品和早期倡议上。Andy 在公司内部很知名，他的能力超群。\" 这标志着 Amazon 创始人时代的结束。贝佐斯表示他将把更多时间投入 Blue Origin、Washington Post、Day One Fund 和 Earth Fund。",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["Amazon", "CEO", "Andy Jassy", "权力交接"],
+    sources: [
+      {
+        id: "aboutamazon-bezos-transition",
+        url: "https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees",
+        kind: "article",
+        title: "Email from Jeff Bezos to employees",
+        publisher: "About Amazon",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+      {
+        id: "wikipedia-bezos-transition",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2021-07-05 Steps down as CEO ============
+  {
+    id: "bezos-2021-07-05-steps-down-ceo",
+    person_id: "bezos",
+    date: "2021-07-05",
+    date_precision: "day",
+    type: "career",
+    title: "正式卸任 Amazon CEO，选在 Amazon 成立 27 周年纪念日",
+    title_en: "Officially steps down as Amazon CEO on Amazon's 27th anniversary",
+    summary:
+      "在 Amazon 成立 27 周年纪念日正式卸任 CEO，转任执行董事长。Andy Jassy 正式成为 Amazon 第二任 CEO。贝佐斯在 27 年间把 Amazon 从车库里的在线书店做成了市值超过 1.7 万亿美元的全球最大电商和云计算公司，年收入超过 4,000 亿美元，全球员工超过 150 万人。",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["Amazon", "CEO", "卸任"],
+    sources: [
+      {
+        id: "wikipedia-bezos-ceo-transition",
+        url: "https://en.wikipedia.org/wiki/Jeff_Bezos",
+        kind: "article",
+        title: "Jeff Bezos (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2021-07-20 Bezos goes to space ============
+  {
+    id: "bezos-2021-07-20-space-flight",
+    person_id: "bezos",
+    date: "2021-07-20",
+    date_precision: "day",
+    type: "milestone",
+    title: "搭乘 New Shepard 飞入太空",
+    title_en: "Flies to space aboard Blue Origin's New Shepard",
+    summary:
+      "在卸任 Amazon CEO 仅 15 天后，贝佐斯搭乘 Blue Origin 的 New Shepard 火箭飞入太空。同行的还有他的弟弟 Mark Bezos、82 岁的女飞行员先驱 Wally Funk（成为最年长的太空旅行者）和 18 岁的荷兰学生 Oliver Daemen（最年轻的太空旅行者）。飞行持续约 10 分钟 10 秒，最高飞到距地面约 107 公里。他选择 7 月 20 日这天是为了纪念阿波罗 11 号登月 52 周年。着陆后他说：\"Best day ever.\"",
+    location: "Launch Site One, West Texas, TX",
+    key: true,
+    tags: ["Blue Origin", "New Shepard", "太空", "里程碑"],
+    sources: [
+      {
+        id: "wikipedia-ns-first-human",
+        url: "https://en.wikipedia.org/wiki/New_Shepard_NS-16",
+        kind: "article",
+        title: "New Shepard NS-16 (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "blueorigin-ns16",
+        url: "https://www.blueorigin.com/missions/ns-16",
+        kind: "article",
+        title: "NS-16 Mission — Blue Origin",
+        publisher: "Blue Origin",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ Charlie Rose interview (1999) ============
+  {
+    id: "bezos-1999-11-charlie-rose-interview",
+    person_id: "bezos",
+    date: "1999-11-19",
+    date_precision: "day",
+    type: "interview",
+    title: "Charlie Rose 采访：互联网、客户痴迷与长期思维",
+    title_en: "Charlie Rose interview on the internet, customer obsession, and long-term thinking",
+    summary:
+      "在 Charlie Rose 节目上接受深度采访。35 岁的贝佐斯解释了为什么 Amazon 不急于盈利：\"我们在做的是建立一个客户信赖的品牌——这件事需要时间。\" 他还谈到了互联网的本质是降低搜索成本、增加选择，以及为什么在电商时代\"客户体验\"是唯一可持续的竞争壁垒。这段采访成为研究早期 Amazon 战略和贝佐斯思维方式的经典资料。",
+    location: "New York, NY",
+    key: false,
+    tags: ["采访", "Charlie Rose", "战略"],
+    sources: [
+      {
+        id: "youtube-bezos-charlie-rose-1999",
+        url: "https://www.youtube.com/watch?v=mBFxMrGMoGY",
+        kind: "video",
+        title: "Jeff Bezos 1999 Interview on Charlie Rose",
+        publisher: "YouTube (Charlie Rose)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ Lex Fridman podcast ============
+  {
+    id: "bezos-2023-12-lex-fridman-podcast",
+    person_id: "bezos",
+    date: "2023-12-14",
+    date_precision: "day",
+    type: "interview",
+    title: "Lex Fridman 播客深度访谈：Amazon、Blue Origin 与人生决策",
+    title_en: "Lex Fridman podcast: Amazon, Blue Origin, and life decisions",
+    summary:
+      "在 Lex Fridman Podcast #405 中接受近 2 小时深度访谈。他详细讨论了：\"后悔最小化框架\"如何帮助他做重大人生决策、为什么 Amazon 的核心原则是\"顾客至上\"而非\"竞争对手至上\"、Day 1 vs Day 2 心态的区别（Day 2 是停滞、然后痛苦地缓慢消亡）、创建 Blue Origin 的太空殖民愿景、以及如何思考长期投资。他还罕见地谈到了自己的童年和养父 Miguel Bezos 对他的影响。这是贝佐斯近年来最深入、最个人化的一次公开对话。",
+    location: "Remote / Austin, TX",
+    key: true,
+    tags: ["采访", "Lex Fridman", "播客", "哲学", "经典"],
+    sources: [
+      {
+        id: "youtube-bezos-lex-fridman",
+        url: "https://www.youtube.com/watch?v=DcWqzZ3I2cY",
+        kind: "video",
+        title: "Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405",
+        publisher: "YouTube (Lex Fridman)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+];
+
+const toAdd = newEvents.filter((e) => !existingIds.has(e.id));
+const skipped = newEvents.length - toAdd.length;
+
+if (toAdd.length === 0) {
+  console.log("nothing to add");
+  process.exit(0);
+}
+
+const merged = [...events, ...toAdd].sort((a, b) =>
+  a.date.localeCompare(b.date)
+);
+
+fs.writeFileSync(filePath, JSON.stringify(merged, null, 2) + "\n");
+console.log(
+  `added ${toAdd.length} bezos events (skipped ${skipped}); total now ${merged.length}`
+);

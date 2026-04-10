@@ -1,0 +1,1062 @@
+#!/usr/bin/env node
+/**
+ * Bootstrap Warren Buffett events into data/events/buffett.json.
+ * Idempotent: skips events whose id already exists.
+ * Run audit-urls.mjs --write + parse-youtube.mjs --write + verify-embeds.mjs after.
+ */
+import fs from "node:fs";
+import path from "node:path";
+
+const filePath = path.join(process.cwd(), "data", "events", "buffett.json");
+const events = fs.existsSync(filePath)
+  ? JSON.parse(fs.readFileSync(filePath, "utf8"))
+  : [];
+const existingIds = new Set(events.map((e) => e.id));
+
+const HUMAN = { license: "all-rights-reserved", authored_by: "human", mentions: [] };
+const CCBYSA = { license: "cc-by-sa", authored_by: "human", mentions: [] };
+
+const wikipediaBuffettSource = {
+  id: "wikipedia-buffett-bio",
+  url: "https://en.wikipedia.org/wiki/Warren_Buffett",
+  kind: "article",
+  title: "Warren Buffett (Wikipedia)",
+  publisher: "Wikipedia",
+  lang: "en",
+  primary: false,
+  ...CCBYSA,
+};
+
+const berkshireLettersSource = {
+  id: "berkshire-letters",
+  url: "https://www.berkshirehathaway.com/letters/letters.html",
+  kind: "document",
+  title: "Berkshire Hathaway Shareholder Letters",
+  publisher: "Berkshire Hathaway",
+  lang: "en",
+  primary: true,
+  ...HUMAN,
+};
+
+const wikipediaBerkshireSource = {
+  id: "wikipedia-berkshire",
+  url: "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+  kind: "article",
+  title: "Berkshire Hathaway (Wikipedia)",
+  publisher: "Wikipedia",
+  lang: "en",
+  primary: false,
+  ...CCBYSA,
+};
+
+const newEvents = [
+  // ===== EARLY LIFE & EDUCATION =====
+  {
+    id: "buffett-1930-08-30-birth",
+    person_id: "buffett",
+    date: "1930-08-30",
+    date_precision: "day",
+    type: "life",
+    title: "沃伦·巴菲特出生于内布拉斯加州奥马哈",
+    title_en: "Warren Buffett born in Omaha, Nebraska",
+    summary:
+      "1930 年 8 月 30 日，沃伦·爱德华·巴菲特出生于内布拉斯加州奥马哈，父亲霍华德·巴菲特是股票经纪人，后来成为美国国会议员。巴菲特从小展现出对数字和商业的痴迷：六岁时从祖父的杂货店批发可口可乐，逐门逐户售卖赚取利润；他搜集瓶盖、计算各品牌的销售频率，对数据的兴趣在童年就已萌芽。奥马哈——这座美国中西部的安静城市——将成为他一生的家，也是他日后「奥马哈先知」绰号的来源。",
+    summary_en:
+      "Warren Edward Buffett was born on August 30, 1930, in Omaha, Nebraska. His father Howard was a stockbroker and later a U.S. congressman. Young Buffett showed a precocious fascination with numbers and business — at age six he bought six-packs of Coca-Cola from his grandfather's grocery store and resold bottles door-to-door for a profit.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["出生", "奥马哈", "童年"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1941-first-stock",
+    person_id: "buffett",
+    date: "1941-01-01",
+    date_precision: "year",
+    type: "life",
+    title: "11 岁时买入人生第一只股票",
+    title_en: "Buys his first stock at age 11",
+    summary:
+      "1941 年，年仅 11 岁的巴菲特用积攒的零花钱以每股 38 美元买入了 3 股 Cities Service 优先股（同时也为姐姐 Doris 买了 3 股）。股价很快跌到 27 美元，他焦虑地等待回升，在 40 美元时卖出——小赚了一笔。但股票随后飙升至 200 美元。这次经历教会了他两个终身铭记的教训：第一，不要过度关注买入成本；第二，不要急于获利了结。",
+    summary_en:
+      "In 1941, 11-year-old Buffett bought three shares of Cities Service Preferred at $38 per share. The stock dropped to $27, then recovered; he sold at $40, only to watch it later soar to $200. The experience taught him lasting lessons about patience and the folly of selling too early.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["第一只股票", "Cities Service", "早期投资"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: "Recounted in The Snowball by Alice Schroeder and multiple Buffett interviews",
+  },
+
+  {
+    id: "buffett-1945-washington-post-paper-route",
+    person_id: "buffett",
+    date: "1945-01-01",
+    date_precision: "year",
+    type: "career",
+    title: "经营《华盛顿邮报》送报路线，年赚超过大多数成年人",
+    title_en: "Runs Washington Post paper route, earning more than most adults",
+    summary:
+      "1942 年父亲当选国会议员后，巴菲特随家人迁居华盛顿特区。他很快在当地经营起多条《华盛顿邮报》和《华盛顿时报先驱》的送报路线，同时高效地组织替补送报员。到 1945 年，15 岁的巴菲特每月收入超过许多全职成年人。他还用送报积蓄买入了一块 40 英亩的农田出租获利。这段经历培养了他对经常性收入、资本复利和微型企业运营的直觉——这些原则后来贯穿他的整个投资生涯。",
+    summary_en:
+      "After his family moved to Washington D.C. when his father was elected to Congress, teenage Buffett managed multiple Washington Post and Washington Times-Herald paper routes. By age 15 he was earning more monthly than most adults, and used his savings to buy a 40-acre farm in Nebraska.",
+    location: "Washington, D.C.",
+    key: true,
+    tags: ["送报", "华盛顿邮报", "少年创业"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1947-pinball-business",
+    person_id: "buffett",
+    date: "1947-01-01",
+    date_precision: "year",
+    type: "career",
+    title: "与朋友合伙经营弹球机生意",
+    title_en: "Runs a pinball machine business with a friend",
+    summary:
+      "1946-1947 年，巴菲特与好友 Don Danly 合伙，以 25 美元购买了一台二手弹球机，放在理发店里供顾客投币娱乐。利润很快滚入更多弹球机，高峰时期他们在多家理发店拥有数台机器。巴菲特最终以 1,200 美元出售了这门生意。这是他最早的「资本配置」实验之一——用最少的初始投入产生现金流，再将利润再投资以扩大规模——一个贯穿他一生的核心策略。",
+    summary_en:
+      "In 1946-47, Buffett and friend Don Danly bought a used pinball machine for $25 and placed it in a barbershop. Profits were reinvested into more machines across multiple shops. Buffett eventually sold the business for $1,200 — an early exercise in capital allocation and compounding.",
+    location: "Washington, D.C.",
+    key: false,
+    tags: ["弹球机", "少年创业", "资本配置"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1950-columbia-graham",
+    person_id: "buffett",
+    date: "1950-01-01",
+    date_precision: "year",
+    type: "education",
+    title: "进入哥伦比亚商学院师从本杰明·格雷厄姆",
+    title_en: "Enrolls at Columbia Business School to study under Benjamin Graham",
+    summary:
+      "1950 年，巴菲特在内布拉斯加大学林肯分校以三年时间完成学士学位后，被哈佛商学院拒绝。他随即申请哥伦比亚商学院——因为得知「价值投资之父」本杰明·格雷厄姆在那里任教。格雷厄姆的课程彻底改变了巴菲特的投资框架：不再是预测股价走势，而是将股票视为底层企业的一部分，通过计算内在价值和安全边际来做出买卖决策。1951 年巴菲特以 A+ 的成绩毕业，是格雷厄姆在哥伦比亚数十年教学中给出这一成绩的极少数学生之一。",
+    summary_en:
+      "After graduating from the University of Nebraska in three years and being rejected by Harvard Business School, Buffett enrolled at Columbia Business School in 1950 specifically to study under Benjamin Graham, the father of value investing. Graham's framework — treating stocks as fractional ownership of businesses and demanding a margin of safety — became the bedrock of Buffett's career. He graduated in 1951 with an A+ in Graham's class.",
+    location: "New York, NY",
+    key: true,
+    tags: ["教育", "哥伦比亚", "格雷厄姆", "价值投资"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      {
+        id: "wikipedia-graham",
+        url: "https://en.wikipedia.org/wiki/Benjamin_Graham",
+        kind: "article",
+        title: "Benjamin Graham (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1954-graham-newman",
+    person_id: "buffett",
+    date: "1954-01-01",
+    date_precision: "year",
+    type: "career",
+    title: "加入格雷厄姆-纽曼公司担任证券分析师",
+    title_en: "Joins Graham-Newman Corp as a securities analyst",
+    summary:
+      "1954 年，在多次主动请求后，巴菲特终于获得导师本杰明·格雷厄姆的邀请，加入其位于纽约的投资公司 Graham-Newman Corp 担任证券分析师。这是巴菲特唯一一次为他人工作的投资岗位。在格雷厄姆身边的两年里，他将课堂理论转化为实战技能，深入学习了净营运资本分析和套利操作。1956 年格雷厄姆退休并解散公司后，巴菲特带着改变一生的训练返回奥马哈。",
+    summary_en:
+      "In 1954, after persistent requests, Buffett was invited by mentor Benjamin Graham to join Graham-Newman Corp in New York as a securities analyst — the only time Buffett worked for someone else in investing. When Graham retired and dissolved the firm in 1956, Buffett returned to Omaha with transformative practical experience.",
+    location: "New York, NY",
+    key: true,
+    tags: ["格雷厄姆", "证券分析", "纽约"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: null,
+  },
+
+  // ===== INVESTMENT CAREER =====
+  {
+    id: "buffett-1956-partnership-founded",
+    person_id: "buffett",
+    date: "1956-05-01",
+    date_precision: "month",
+    type: "founding",
+    title: "创立巴菲特合伙公司",
+    title_en: "Founds Buffett Partnership, Ltd.",
+    summary:
+      "1956 年 5 月，25 岁的巴菲特回到奥马哈，以 100 美元的个人出资加上七位亲友合伙人的 105,000 美元，创立了巴菲特合伙公司（Buffett Partnership, Ltd.）。他设立了一个独特的收费结构：合伙人年回报率低于 6% 时巴菲特不收管理费，超过部分他取 25%。在随后的 13 年里，这个合伙企业取得了年化约 31.6% 的惊人回报（扣除费用后约 25.3%），同期道琼斯指数仅约 9.1%。这段经历奠定了巴菲特作为投资者的传奇声誉。",
+    summary_en:
+      "In May 1956, 25-year-old Buffett returned to Omaha and founded Buffett Partnership, Ltd., with $100 of his own money and $105,000 from seven family and friends. Over the next 13 years the partnership delivered roughly 31.6% annualized gross returns, versus about 9.1% for the Dow Jones Industrial Average.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["创立", "巴菲特合伙", "价值投资"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      {
+        id: "wikipedia-buffett-partnership",
+        url: "https://en.wikipedia.org/wiki/Buffett_Partnership",
+        kind: "article",
+        title: "Buffett Partnership (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1962-berkshire-buying",
+    person_id: "buffett",
+    date: "1962-01-01",
+    date_precision: "year",
+    type: "deal",
+    title: "开始买入伯克希尔·哈撒韦股份",
+    title_en: "Begins buying Berkshire Hathaway shares",
+    summary:
+      "1962 年，巴菲特通过合伙公司开始以每股约 7.50 美元的价格买入伯克希尔·哈撒韦——一家位于马萨诸塞州新贝德福德的衰落中的纺织企业。按照格雷厄姆的「烟蒂股」理论，这家公司的股价远低于清算价值，看起来是一笔经典的便宜货。然而巴菲特后来坦承，收购伯克希尔是他职业生涯中最大的错误之一：他将资本锁在了一个注定衰退的行业里。但也正是这个「错误」最终被他转化为人类历史上最伟大的投资载体。",
+    summary_en:
+      "In 1962, Buffett's partnership began buying shares of Berkshire Hathaway, a declining New England textile mill, at around $7.50 per share. It was a classic Graham 'cigar butt' play — trading below liquidation value. Buffett later called the purchase one of his biggest mistakes, yet ultimately transformed the textile company into the greatest investment vehicle in history.",
+    location: "New Bedford, Massachusetts",
+    key: true,
+    tags: ["伯克希尔", "纺织", "烟蒂股"],
+    sources: [{ ...wikipediaBuffettSource }, { ...wikipediaBerkshireSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1965-berkshire-control",
+    person_id: "buffett",
+    date: "1965-05-10",
+    date_precision: "day",
+    type: "deal",
+    title: "取得伯克希尔·哈撒韦控制权",
+    title_en: "Takes control of Berkshire Hathaway",
+    summary:
+      "1965 年 5 月 10 日，巴菲特在积累了足够多的股份后，正式取得伯克希尔·哈撒韦的控制权并出任董事长。最初他继续尝试改善纺织业务，但很快意识到纺织行业面临不可逆的结构性衰退。从 1967 年开始，他利用伯克希尔这个上市公司壳，将资本重新配置到保险（收购 National Indemnity）和其他高回报业务中。伯克希尔由此从一家年营收数百万美元的纺织厂，开始了向万亿级企业集团的漫长蜕变。",
+    summary_en:
+      "On May 10, 1965, Buffett took control of Berkshire Hathaway and became its chairman. Rather than continuing the declining textile business, he began redeploying capital into insurance (acquiring National Indemnity in 1967) and other higher-return businesses, beginning Berkshire's transformation from a failing textile mill into a trillion-dollar conglomerate.",
+    location: "New Bedford, Massachusetts",
+    key: true,
+    tags: ["伯克希尔", "控制权", "转型"],
+    sources: [{ ...wikipediaBuffettSource }, { ...wikipediaBerkshireSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1967-national-indemnity",
+    person_id: "buffett",
+    date: "1967-03-01",
+    date_precision: "month",
+    type: "deal",
+    title: "收购 National Indemnity 保险公司——进入保险业",
+    title_en: "Acquires National Indemnity — enters the insurance business",
+    summary:
+      "1967 年 3 月，巴菲特以 860 万美元收购了奥马哈的 National Indemnity Company 及其姐妹公司 National Fire & Marine Insurance。这笔交易标志着伯克希尔战略的根本性转折：保险公司的「浮存金」——即收到保费与支付赔款之间的时间差产生的可投资资金——为巴菲特提供了近乎零成本甚至负成本的长期投资资本。浮存金模式成为伯克希尔整个商业帝国的核心引擎，到 2020 年代伯克希尔的保险浮存金已超过 1,600 亿美元。",
+    summary_en:
+      "In March 1967, Buffett acquired National Indemnity Company for $8.6 million, marking Berkshire's pivotal entry into insurance. The 'float' — premiums collected before claims are paid — gave Buffett a growing pool of virtually free capital to invest. Insurance float became the engine of Berkshire's entire empire, exceeding $160 billion by the 2020s.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["保险", "浮存金", "National Indemnity", "伯克希尔"],
+    sources: [{ ...wikipediaBuffettSource }, { ...wikipediaBerkshireSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1969-partnership-dissolved",
+    person_id: "buffett",
+    date: "1969-05-29",
+    date_precision: "day",
+    type: "career",
+    title: "解散巴菲特合伙公司",
+    title_en: "Dissolves Buffett Partnership",
+    summary:
+      "1969 年 5 月 29 日，巴菲特致信合伙人宣布解散巴菲特合伙公司。他给出的理由是：在当时极度投机的市场环境下，他已找不到足够多的廉价投资标的，不愿意在无法理解的市场中冒合伙人的资本风险。合伙人可以选择现金清算或转换为伯克希尔·哈撒韦的股票——大部分人选择了后者。至此，巴菲特将全部精力集中在经营伯克希尔上。13 年间，合伙公司将初始资本增长了约 25 倍，无一年亏损。",
+    summary_en:
+      "On May 29, 1969, Buffett announced the dissolution of Buffett Partnership, citing an overheated, speculative market where he could no longer find enough undervalued investments. Partners could take cash or convert to Berkshire Hathaway stock — most chose stock. Over 13 years the partnership had multiplied its capital roughly 25-fold with no losing year.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["巴菲特合伙", "解散", "伯克希尔"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: "Buffett's May 29, 1969 letter to partners is widely reproduced",
+  },
+
+  {
+    id: "buffett-1972-sees-candies",
+    person_id: "buffett",
+    date: "1972-01-01",
+    date_precision: "year",
+    type: "deal",
+    title: "与芒格联手收购 See's Candies",
+    title_en: "Acquires See's Candies with Charlie Munger",
+    summary:
+      "1972 年，巴菲特和芒格通过 Blue Chip Stamps 以 2,500 万美元收购了加州巧克力品牌 See's Candies。这是巴菲特第一次以大幅高于账面价值的价格收购企业——芒格说服他，具有强大品牌和定价权的优质企业值得溢价。此后五十年间，See's Candies 以极少的追加资本投入创造了超过 20 亿美元的税前利润。巴菲特后来称这笔交易是「改变他投资哲学的转折点」，标志着他从格雷厄姆的「烟蒂股」路线转向以合理价格买入卓越企业的「芒格路线」。",
+    summary_en:
+      "In 1972, Buffett and Munger acquired See's Candies for $25 million via Blue Chip Stamps — paying well above book value for the first time. Munger convinced Buffett that a business with pricing power and brand loyalty was worth a premium. See's generated over $2 billion in pre-tax earnings over the next five decades with minimal reinvestment. Buffett called it the deal that changed his investment philosophy.",
+    location: "Los Angeles, CA",
+    key: true,
+    tags: ["See's Candies", "芒格", "品牌", "投资哲学"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      { ...berkshireLettersSource },
+    ],
+    source_hints: "Cross-reference with munger-1972-sees-candies in munger.json",
+  },
+
+  {
+    id: "buffett-1973-washington-post",
+    person_id: "buffett",
+    date: "1973-01-01",
+    date_precision: "year",
+    type: "deal",
+    title: "买入华盛顿邮报公司股份",
+    title_en: "Buys Washington Post Company shares",
+    summary:
+      "1973 年，巴菲特以约 1,060 万美元大举买入华盛顿邮报公司约 10% 的股份。当时该公司市值约 8,000 万美元，但巴菲特估算其内在价值至少在 4 亿至 5 亿美元之间——这是价值投资教科书式的「安全边际」案例。巴菲特与出版人凯瑟琳·格雷厄姆建立了深厚的友谊和信任关系，加入了公司董事会并为其经营提供建议。这笔投资最终增值超过 100 倍，也是巴菲特「少年送报员成为报纸所有者」传奇故事的最佳注脚。",
+    summary_en:
+      "In 1973, Buffett invested about $10.6 million to acquire roughly 10% of The Washington Post Company, whose market value was around $80 million but whose intrinsic value Buffett estimated at $400-500 million. He joined the board and formed a close friendship with publisher Katharine Graham. The investment eventually appreciated more than 100-fold.",
+    location: "Washington, D.C.",
+    key: true,
+    tags: ["华盛顿邮报", "安全边际", "媒体"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1977-buffalo-news",
+    person_id: "buffett",
+    date: "1977-04-01",
+    date_precision: "month",
+    type: "deal",
+    title: "收购《布法罗晚报》",
+    title_en: "Acquires Buffalo Evening News",
+    summary:
+      "1977 年 4 月，巴菲特通过 Blue Chip Stamps 以 3,250 万美元收购了《布法罗晚报》（Buffalo Evening News）。收购后立即面临来自竞争对手《布法罗快报》（Courier-Express）的激烈价格战和反垄断诉讼。初期连年亏损，但巴菲特坚持投资于新闻质量和周日版扩张。1982 年 Courier-Express 倒闭后，《布法罗新闻报》成为该城市唯一的主要日报，此后持续产生丰厚利润——验证了巴菲特对优质报纸特许经营权的长期判断。",
+    summary_en:
+      "In April 1977, Buffett acquired the Buffalo Evening News for $32.5 million via Blue Chip Stamps. After surviving an intense price war and antitrust lawsuit from rival Courier-Express, the paper became the city's sole major daily in 1982 and generated strong profits for decades, validating Buffett's thesis on newspaper franchise value.",
+    location: "Buffalo, NY",
+    key: false,
+    tags: ["媒体", "报纸", "布法罗新闻报"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-1984-superinvestors-speech",
+    person_id: "buffett",
+    date: "1984-05-17",
+    date_precision: "day",
+    type: "speech",
+    title: "发表《格雷厄姆与多德学派的超级投资者》",
+    title_en: "Delivers \"The Superinvestors of Graham-and-Doddsville\"",
+    summary:
+      "1984 年 5 月 17 日，巴菲特在哥伦比亚商学院为纪念本杰明·格雷厄姆的《证券分析》出版 50 周年举办的研讨会上发表了著名演讲《格雷厄姆与多德学派的超级投资者》。他以实证数据驳斥了有效市场假说，列举了九位独立运作但都师从格雷厄姆的投资者——包括他自己、芒格、Walter Schloss、Tom Knapp 等人——的长期出色业绩记录，论证他们的成功并非随机运气，而是来自同一套价值投资原则。这篇文章随后刊登在《哥伦比亚商业评论》上，成为价值投资最具影响力的辩护文献之一。",
+    summary_en:
+      "On May 17, 1984, Buffett delivered 'The Superinvestors of Graham-and-Doddsville' at Columbia Business School, commemorating the 50th anniversary of Graham's Security Analysis. He refuted the Efficient Market Hypothesis by presenting the track records of nine investors — including himself, Munger, and Walter Schloss — all trained by Graham, arguing their success stemmed from shared value-investing principles rather than chance.",
+    location: "New York, NY",
+    key: true,
+    tags: ["演讲", "格雷厄姆", "价值投资", "有效市场"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      {
+        id: "superinvestors-pdf",
+        url: "https://www8.gsb.columbia.edu/sites/valueinvesting/files/files/Buffett1984.pdf",
+        kind: "document",
+        title: "The Superinvestors of Graham-and-Doddsville (PDF)",
+        publisher: "Columbia Business School",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: "Originally published in Hermes, the Columbia Business School Magazine, Fall 1984",
+  },
+
+  {
+    id: "buffett-1988-coca-cola",
+    person_id: "buffett",
+    date: "1988-01-01",
+    date_precision: "year",
+    type: "deal",
+    title: "开始大举买入可口可乐股票",
+    title_en: "Begins buying Coca-Cola stock",
+    summary:
+      "1988 年，巴菲特开始大规模买入可口可乐公司股票，在随后两年内投入约 10.2 亿美元，收购了该公司约 6.2% 的股份。这是他当时最大的单笔投资。巴菲特选择可口可乐的逻辑完美诠释了他进化后的投资哲学：全球最强的消费品牌、几乎无限的定价权、极低的资本需求、以及在全球人口增长和新兴市场开拓中的巨大增长空间。从童年在祖父杂货店逐瓶售卖可乐，到成为其最大股东之一，巴菲特与可口可乐的故事堪称投资史上最浪漫的叙事。",
+    summary_en:
+      "In 1988, Buffett began aggressively buying Coca-Cola shares, investing roughly $1.02 billion over two years to acquire about 6.2% of the company — his largest single investment at the time. The thesis embodied his evolved philosophy: the world's strongest consumer brand, pricing power, low capital requirements, and vast global growth potential. From selling individual Coke bottles as a six-year-old to becoming one of its largest shareholders, Buffett's Coca-Cola journey became one of investing's most iconic narratives.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["可口可乐", "消费品牌", "核心持仓"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      { ...berkshireLettersSource },
+    ],
+    source_hints: "Detailed in 1988 and 1989 Berkshire shareholder letters",
+  },
+
+  {
+    id: "buffett-1996-class-b-shares",
+    person_id: "buffett",
+    date: "1996-05-09",
+    date_precision: "day",
+    type: "career",
+    title: "推出伯克希尔 B 类股",
+    title_en: "Introduces Berkshire Hathaway Class B shares",
+    summary:
+      "1996 年 5 月 9 日，伯克希尔·哈撒韦发行了 B 类股票（BRK.B），每股价值为 A 类股的 1/30（后调整为 1/1500）。巴菲特推出 B 类股的直接动因是：一些基金公司计划创建「伯克希尔单位信托」向散户募资，收取高额费用——巴菲特认为这是在利用伯克希尔的名声欺骗小投资者。通过发行低面值的 B 类股，他让普通投资者可以直接购买伯克希尔股票，无需通过中间人。这一举措进一步巩固了巴菲特保护股东利益的声誉。",
+    summary_en:
+      "On May 9, 1996, Berkshire Hathaway issued Class B shares (BRK.B) at 1/30th the value of Class A shares (later adjusted to 1/1500th). Buffett created them to undercut fund promoters who planned to sell 'Berkshire unit trusts' to retail investors at high fees. The move let ordinary investors buy Berkshire directly and reinforced Buffett's reputation for protecting shareholders.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["伯克希尔", "B 类股", "股东保护"],
+    sources: [{ ...wikipediaBuffettSource }, { ...wikipediaBerkshireSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2003-annual-meeting-classic",
+    person_id: "buffett",
+    date: "2003-05-03",
+    date_precision: "day",
+    type: "speech",
+    title: "伯克希尔年会：巴菲特与芒格经典问答",
+    title_en: "Berkshire annual meeting: classic Buffett-Munger Q&A",
+    summary:
+      "2003 年 5 月 3 日的伯克希尔股东年会是被广泛记录的经典年会之一。在互联网泡沫破裂后的余波中，巴菲特和芒格花了数小时回答股东问题，讨论了衍生品的危险（巴菲特称之为「金融大规模杀伤性武器」）、保险定价纪律、以及长期投资的心态。伯克希尔年会从 1960 年代十几人的小聚会，发展成每年吸引数万人前往奥马哈的「资本主义的伍德斯托克」，成为全球价值投资者的年度朝圣。",
+    summary_en:
+      "The May 3, 2003 Berkshire annual meeting was a landmark session. In the aftermath of the dot-com bust, Buffett and Munger spent hours answering shareholder questions, discussing the dangers of derivatives ('financial weapons of mass destruction'), insurance discipline, and long-term thinking. The annual meetings grew from a dozen attendees in the 1960s to tens of thousands — the 'Woodstock for Capitalists.'",
+    location: "Omaha, Nebraska",
+    key: false,
+    tags: ["年会", "芒格", "衍生品", "股东问答"],
+    sources: [
+      { ...wikipediaBerkshireSource },
+      {
+        id: "cnbc-berkshire-2003-morning",
+        url: "https://buffett.cnbc.com/video/2003/05/03/morning-session---2003-berkshire-hathaway-annual-meeting.html",
+        kind: "video",
+        title: "Morning Session - 2003 Berkshire Hathaway Annual Meeting",
+        publisher: "CNBC Warren Buffett Archive",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "CNBC Warren Buffett Archive 提供的 2003 年伯克希尔年会上午场完整视频。",
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2006-philanthropy-pledge",
+    person_id: "buffett",
+    date: "2006-06-25",
+    date_precision: "day",
+    type: "life",
+    title: "承诺将大部分财富捐赠给盖茨基金会",
+    title_en: "Pledges majority of wealth to the Gates Foundation",
+    summary:
+      "2006 年 6 月 25 日，巴菲特宣布了人类历史上最大规模的慈善承诺之一：将其约 85% 的伯克希尔·哈撒韦股份（当时价值约 370 亿美元）逐年捐赠，其中绝大部分流向比尔及梅琳达·盖茨基金会，其余分配给以其三个孩子名字命名的家族基金会。巴菲特解释道：「社会让我致富，我有义务将财富回馈社会。与其自己建立一个新基金会，不如将资源交给已经证明能高效运作的组织。」这一决定颠覆了美国富豪传统上以自己名字创建基金会的模式。",
+    summary_en:
+      "On June 25, 2006, Buffett announced one of history's largest philanthropic pledges: he would gradually donate approximately 85% of his Berkshire Hathaway shares — then worth about $37 billion — primarily to the Bill & Melinda Gates Foundation, with the remainder going to family foundations. Rather than creating his own foundation, he chose to channel resources to an organization he believed was already operating effectively.",
+    location: "New York, NY",
+    key: true,
+    tags: ["慈善", "盖茨基金会", "捐赠"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      {
+        id: "fortune-buffett-pledge-2006",
+        url: "https://fortune.com/2006/06/25/warren-buffett-gives-away-his-fortune/",
+        kind: "article",
+        title: "Warren Buffett gives away his fortune",
+        publisher: "Fortune",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2008-financial-crisis",
+    person_id: "buffett",
+    date: "2008-10-16",
+    date_precision: "day",
+    type: "writing",
+    title: "在金融危机中撰文：\"在别人恐惧时贪婪\"",
+    title_en: "Writes \"Buy American. I Am.\" during the financial crisis",
+    summary:
+      "2008 年 10 月 16 日，在全球金融危机最恐慌的时刻，巴菲特在《纽约时报》发表署名文章《买入美国。我正在买。》（Buy American. I Am.）。他写道：「在别人贪婪时我恐惧，在别人恐惧时我贪婪。而现在，恐惧正在蔓延。」这句话成为投资史上最著名的格言之一。在危机期间，巴菲特向高盛注资 50 亿美元，向通用电气注资 30 亿美元，以极为有利的条件获得优先股和认股权证——展现了在极端恐慌中保持理性和行动力的典范。",
+    summary_en:
+      "On October 16, 2008, at the height of the global financial crisis, Buffett published 'Buy American. I Am.' in the New York Times. He wrote: 'Be fearful when others are greedy, and greedy when others are fearful.' During the crisis he invested $5 billion in Goldman Sachs and $3 billion in GE on highly favorable terms — a masterclass in rational action amid panic.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["金融危机", "恐惧与贪婪", "高盛", "纽约时报"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      {
+        id: "nyt-buy-american-2008",
+        url: "https://www.nytimes.com/2008/10/17/opinion/17buffett.html",
+        kind: "article",
+        title: "Buy American. I Am.",
+        publisher: "The New York Times",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        quotes: [
+          {
+            text: "Be fearful when others are greedy, and greedy when others are fearful.",
+            text_zh: "在别人贪婪时恐惧，在别人恐惧时贪婪。",
+            text_en: "Be fearful when others are greedy, and greedy when others are fearful.",
+            speaker: "Warren Buffett",
+            context: "From 'Buy American. I Am.' published in the New York Times, October 16, 2008",
+            context_en: "From 'Buy American. I Am.' published in the New York Times, October 16, 2008",
+          },
+        ],
+      },
+    ],
+    source_hints: "The quote itself predates 2008 — Buffett used it in his 1986 shareholder letter",
+  },
+
+  {
+    id: "buffett-2010-giving-pledge",
+    person_id: "buffett",
+    date: "2010-08-04",
+    date_precision: "day",
+    type: "life",
+    title: "与盖茨夫妇发起「捐赠誓言」运动",
+    title_en: "Launches The Giving Pledge with Bill and Melinda Gates",
+    summary:
+      "2010 年 8 月 4 日，巴菲特与比尔·盖茨和梅琳达·盖茨正式宣布发起「捐赠誓言」（The Giving Pledge）——一项呼吁全球亿万富翁承诺在有生之年或遗嘱中捐出至少一半财富用于慈善事业的倡议。首批签署者包括 40 位美国最富有的个人和家庭。截至 2020 年代，已有来自 20 多个国家的超过 240 位亿万富翁签署了这一誓言。巴菲特推动这一运动的核心信念是：巨额财富的跨代传递对社会和继承者都弊大于利。",
+    summary_en:
+      "On August 4, 2010, Buffett joined Bill and Melinda Gates to formally launch The Giving Pledge, a campaign encouraging billionaires to commit at least half their wealth to philanthropy. The first cohort included 40 of America's wealthiest individuals. By the 2020s, over 240 billionaires from more than 20 countries had signed on.",
+    location: "USA",
+    key: true,
+    tags: ["捐赠誓言", "慈善", "盖茨"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      {
+        id: "wikipedia-giving-pledge",
+        url: "https://en.wikipedia.org/wiki/The_Giving_Pledge",
+        kind: "article",
+        title: "The Giving Pledge (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2016-apple-investment",
+    person_id: "buffett",
+    date: "2016-05-16",
+    date_precision: "day",
+    type: "deal",
+    title: "伯克希尔开始投资苹果公司",
+    title_en: "Berkshire begins investing in Apple",
+    summary:
+      "2016 年 5 月，伯克希尔·哈撒韦的 13F 报告首次披露持有苹果公司约 981 万股股票。虽然初始头寸由巴菲特的投资经理 Todd Combs 和 Ted Weschler 之一建立，但巴菲特本人在深入研究苹果的生态系统和消费者忠诚度后，开始大规模加仓。到 2018 年底，伯克希尔成为苹果最大的股东之一，持仓市值超过 400 亿美元。巴菲特将苹果定义为一家「消费品公司」而非科技公司——用户对 iPhone 的依赖程度堪比对可口可乐的依赖。苹果投资成为伯克希尔历史上最赚钱的单笔投资。",
+    summary_en:
+      "In May 2016, Berkshire's 13F filing first disclosed approximately 9.81 million Apple shares. Though the initial position was built by one of Buffett's investment managers, Buffett himself dramatically scaled up the position after studying Apple's ecosystem and consumer loyalty. By late 2018 Berkshire was Apple's largest shareholder. Buffett viewed Apple as a 'consumer products company,' not a tech company — users were as loyal to iPhones as to Coca-Cola. It became Berkshire's most profitable single investment ever.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["苹果", "科技投资", "核心持仓"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      { ...berkshireLettersSource },
+    ],
+    source_hints: "First disclosed in Berkshire's Q1 2016 13F filing dated May 16, 2016",
+  },
+
+  // ===== BERKSHIRE ANNUAL MEETINGS WITH YOUTUBE =====
+  {
+    id: "buffett-2018-berkshire-annual-meeting",
+    person_id: "buffett",
+    date: "2018-05-05",
+    date_precision: "day",
+    type: "speech",
+    title: "2018 年伯克希尔年会——巴菲特与芒格六小时问答",
+    title_en: "2018 Berkshire annual meeting — six-hour Buffett-Munger Q&A",
+    summary:
+      "2018 年 5 月 5 日，约四万名股东齐聚奥马哈 CHI 健康中心，参加伯克希尔年度股东大会。巴菲特和芒格用六个小时回答了涵盖加密货币、中美贸易、苹果投资、保险浮存金以及继任计划等话题的数十个提问。巴菲特重申苹果是「我们拥有的最好的企业之一」，芒格则以一贯的犀利将比特币称为「老鼠药」。年会同时也是一场文化盛事：可口可乐、Dairy Queen、GEICO 等伯克希尔子公司在展厅设立体验区，被媒体称为「资本主义的伍德斯托克」。",
+    summary_en:
+      "On May 5, 2018, approximately 40,000 shareholders gathered in Omaha for the Berkshire annual meeting. Buffett and Munger fielded questions for six hours on topics including cryptocurrency, U.S.-China trade, Apple, insurance float, and succession planning. Buffett reaffirmed Apple as 'one of the best businesses we own,' while Munger memorably called Bitcoin 'rat poison.' The event was also a cultural spectacle, with Berkshire subsidiaries filling the exhibition hall — truly the 'Woodstock for Capitalists.'",
+    location: "Omaha, Nebraska",
+    key: false,
+    tags: ["年会", "芒格", "苹果", "比特币"],
+    sources: [
+      { ...wikipediaBerkshireSource },
+      {
+        id: "cnbc-berkshire-2018-morning",
+        url: "https://buffett.cnbc.com/video/2018/05/05/morning-session--2018-berkshire-hathaway-annual-meeting.html",
+        kind: "video",
+        title: "Morning Session - 2018 Berkshire Hathaway Annual Meeting",
+        publisher: "CNBC Warren Buffett Archive",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "CNBC Warren Buffett Archive 提供的 2018 年伯克希尔年会上午场完整视频。",
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2024-berkshire-annual-meeting",
+    person_id: "buffett",
+    date: "2024-05-04",
+    date_precision: "day",
+    type: "speech",
+    title: "2024 年伯克希尔年会——芒格去世后首次年会",
+    title_en: "2024 Berkshire annual meeting — first without Charlie Munger",
+    summary:
+      "2024 年 5 月 4 日，伯克希尔举行了芒格 2023 年 11 月去世后的首次股东年会。巴菲特以深情的致辞开场，回忆与芒格长达 65 年的友谊和合作。在随后的问答环节中，他讨论了 AI 的影响（将其类比为核武器——「魔鬼已从瓶中放出」）、大幅减持苹果的决定、以及伯克希尔创纪录的现金储备。副董事长 Greg Abel（被确认为 CEO 继任者）和 Ajit Jain 陪同巴菲特出席，标志着领导层过渡的加速。",
+    summary_en:
+      "On May 4, 2024, Berkshire held its first annual meeting after Charlie Munger's death in November 2023. Buffett opened with an emotional tribute to his 65-year partnership with Munger. The Q&A covered AI (Buffett compared it to nuclear weapons: 'the genie is out of the bottle'), the decision to significantly reduce Apple holdings, and Berkshire's record cash reserves. Vice Chairman Greg Abel, confirmed as CEO successor, and Ajit Jain joined Buffett on stage, signaling the leadership transition.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["年会", "芒格纪念", "继任", "AI"],
+    sources: [
+      { ...wikipediaBerkshireSource },
+      {
+        id: "youtube-berkshire-2024",
+        url: "https://www.youtube.com/watch?v=X3wLdzddRtI",
+        kind: "video",
+        title: "Warren Buffett presides over the 2024 Berkshire Hathaway annual shareholders meeting",
+        publisher: "CNBC Television (YouTube)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "CNBC 完整转播 2024 年伯克希尔年会——芒格去世后首次年会。",
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ===== FAMOUS INTERVIEWS =====
+  {
+    id: "buffett-2009-charlie-rose-interview",
+    person_id: "buffett",
+    date: "2009-11-24",
+    date_precision: "day",
+    type: "interview",
+    title: "Charlie Rose 深度访谈——从金融危机到人生哲学",
+    title_en: "In-depth Charlie Rose interview — from financial crisis to life philosophy",
+    summary:
+      "2009 年 11 月 24 日，巴菲特接受了 Charlie Rose 的深度电视访谈。在长达一小时的对话中，他回顾了 2008 年金融危机中的决策过程——包括向高盛和通用电气注资的幕后故事，讨论了对美国经济的长期信心，以及他的个人生活哲学。巴菲特多次接受 Charlie Rose 访谈，这些对话以其深度和坦诚著称，被认为是了解巴菲特真实思想的最佳窗口之一。",
+    summary_en:
+      "On November 24, 2009, Buffett sat for an in-depth interview with Charlie Rose. Over an hour, he discussed his decision-making during the 2008 financial crisis — including the behind-the-scenes stories of investing in Goldman Sachs and GE — his long-term confidence in the American economy, and his personal philosophy. Buffett's multiple Charlie Rose appearances are considered among the best windows into his authentic thinking.",
+    location: "New York, NY",
+    key: false,
+    tags: ["访谈", "Charlie Rose", "金融危机"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      {
+        id: "youtube-charlie-rose-buffett",
+        url: "https://www.youtube.com/watch?v=9UyMLPVCAVY",
+        kind: "video",
+        title: "Warren Buffett Charlie Rose Full Interview",
+        publisher: "Prosperity Partner (YouTube)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "Charlie Rose 对巴菲特的深度访谈完整版。",
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2017-hbo-becoming",
+    person_id: "buffett",
+    date: "2017-01-30",
+    date_precision: "day",
+    type: "interview",
+    title: "HBO 纪录片《成为沃伦·巴菲特》首播",
+    title_en: "HBO documentary \"Becoming Warren Buffett\" premieres",
+    summary:
+      "2017 年 1 月 30 日，HBO 播出了纪录片《成为沃伦·巴菲特》（Becoming Warren Buffett），由 Peter Kunhardt 执导。这部 90 分钟的纪录片罕见地深入巴菲特的私人生活：他的日常习惯（每天喝五罐可乐、吃麦当劳早餐）、与第一任妻子 Susan 的复杂婚姻（Susan 搬离但未离婚，并引荐 Astrid Menks 照顾巴菲特）、他承认的育儿遗憾，以及他对财富和幸福的哲学思考。纪录片的标题也正是本项目 becominggreat.org 名称的灵感来源之一。",
+    summary_en:
+      "On January 30, 2017, HBO premiered 'Becoming Warren Buffett,' a 90-minute documentary directed by Peter Kunhardt. The film offered rare access to Buffett's private life: his daily habits (five Cokes a day, McDonald's breakfast), his complex marriage with first wife Susan (who moved away but never divorced, and introduced Astrid Menks to care for him), his parenting regrets, and his philosophy on wealth and happiness. The documentary's title is also one of the inspirations for becominggreat.org.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["纪录片", "HBO", "个人生活"],
+    sources: [
+      {
+        id: "wikipedia-becoming-buffett",
+        url: "https://en.wikipedia.org/wiki/Becoming_Warren_Buffett",
+        kind: "article",
+        title: "Becoming Warren Buffett (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "youtube-becoming-buffett-trailer",
+        url: "https://www.youtube.com/watch?v=jXg0V2tyhXo",
+        kind: "video",
+        title: "Becoming Warren Buffett (HBO Documentary Films)",
+        publisher: "HBO (YouTube)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "HBO 官方预告片：纪录片《成为沃伦·巴菲特》。",
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2019-cnbc-becky-quick",
+    person_id: "buffett",
+    date: "2019-02-25",
+    date_precision: "day",
+    type: "interview",
+    title: "CNBC Becky Quick 年度专访——论长期价值与 Kraft Heinz 反思",
+    title_en: "Annual CNBC interview with Becky Quick — on long-term value and Kraft Heinz lessons",
+    summary:
+      "2019 年 2 月 25 日，巴菲特在伯克希尔年报发布后接受 CNBC 记者 Becky Quick 的年度三小时专访（\"Buffett Watch\"）。在这次访谈中，他坦诚地反思了 Kraft Heinz 投资的失误——承认为该公司的品牌和分销网络支付了过高的价格。他还讨论了苹果持仓的逻辑、伯克希尔的未来方向、以及在低利率环境下寻找投资机会的挑战。Becky Quick 自 2000 年代中期起成为巴菲特最信任的媒体对话者之一，每年年报发布后的专访已成为投资界的固定日程。",
+    summary_en:
+      "On February 25, 2019, Buffett gave his annual three-hour interview ('Buffett Watch') to CNBC's Becky Quick following Berkshire's annual report release. He candidly reflected on the Kraft Heinz investment mistake — admitting he overpaid — and discussed Apple, Berkshire's future direction, and the challenge of finding opportunities in a low-interest-rate environment. Quick has been one of Buffett's most trusted media interlocutors since the mid-2000s.",
+    location: "Omaha, Nebraska",
+    key: false,
+    tags: ["访谈", "CNBC", "Becky Quick", "Kraft Heinz"],
+    sources: [
+      {
+        id: "cnbc-buffett-2019-interview",
+        url: "https://www.cnbc.com/video/2019/02/25/warren-buffett-cnbc-full-interview-berkshire-hathaway.html",
+        kind: "video",
+        title: "Watch CNBC's full interview with iconic investor Warren Buffett",
+        publisher: "CNBC",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "CNBC Becky Quick 2019 年 2 月 25 日对巴菲特的年度专访完整视频。",
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ===== WRITINGS & QUOTES =====
+  {
+    id: "buffett-shareholder-letters",
+    person_id: "buffett",
+    date: "1977-01-01",
+    date_precision: "year",
+    type: "writing",
+    title: "开始每年发布伯克希尔股东信",
+    title_en: "Begins writing annual Berkshire Hathaway shareholder letters",
+    summary:
+      "从 1977 年起，巴菲特每年亲笔撰写伯克希尔·哈撒韦致股东的年度信函。这些信件以清晰、坦诚、幽默和深刻的洞察著称，被誉为「美国商业文学的最高成就」。在信中，巴菲特不仅汇报公司业绩，还系统性地阐述投资原则、分享错误教训、点评宏观经济。他的写作风格——用普通人能理解的语言解释复杂的商业和金融概念——本身就成为一种教育工具。全部信件在伯克希尔官网免费公开，被全球商学院列为必读材料。",
+    summary_en:
+      "Beginning in 1977, Buffett personally wrote Berkshire Hathaway's annual shareholder letters — regarded as the finest body of business writing in America. The letters combine candid performance reviews with systematic explanations of investment principles, lessons from mistakes, and macroeconomic commentary. All letters are freely available at berkshirehathaway.com and are required reading at business schools worldwide.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["股东信", "写作", "投资教育"],
+    sources: [
+      { ...berkshireLettersSource },
+      { ...wikipediaBuffettSource },
+    ],
+    source_hints: "Full archive at https://www.berkshirehathaway.com/letters/letters.html",
+  },
+
+  {
+    id: "buffett-quote-rule-no-1",
+    person_id: "buffett",
+    date: "1986-01-01",
+    date_precision: "year",
+    type: "other",
+    title: "经典语录：\"第一条规则：永远不要赔钱\"",
+    title_en: "Famous quote: \"Rule No. 1: Never lose money\"",
+    summary:
+      "巴菲特最广为流传的语录之一：「第一条规则：永远不要赔钱。第二条规则：永远不要忘记第一条规则。」这句话并非字面上禁止任何亏损——巴菲特本人也有过投资失误——而是强调资本保全的核心重要性：在追求收益之前，首先要确保不会遭受永久性的资本损失。这一原则体现了格雷厄姆「安全边际」概念的精髓，是巴菲特投资哲学中最基础的支柱。",
+    summary_en:
+      "One of Buffett's most famous quotes: 'Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1.' It doesn't literally mean never have a losing investment — Buffett has had plenty — but emphasizes the paramount importance of capital preservation and avoiding permanent loss, embodying Graham's margin of safety concept.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["语录", "投资原则", "安全边际"],
+    sources: [
+      {
+        ...berkshireLettersSource,
+        quotes: [
+          {
+            text: "Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1.",
+            text_zh: "第一条规则：永远不要赔钱。第二条规则：永远不要忘记第一条规则。",
+            text_en: "Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1.",
+            speaker: "Warren Buffett",
+            context: "Widely attributed, appearing in various shareholder letters and interviews",
+            context_en: "Widely attributed, appearing in various shareholder letters and interviews",
+          },
+        ],
+      },
+    ],
+    source_hints: "Attributed in multiple sources; exact first usage debated",
+  },
+
+  {
+    id: "buffett-quote-price-value",
+    person_id: "buffett",
+    date: "2008-01-01",
+    date_precision: "year",
+    type: "other",
+    title: "经典语录：\"价格是你付出的，价值是你得到的\"",
+    title_en: "Famous quote: \"Price is what you pay. Value is what you get.\"",
+    summary:
+      "「价格是你付出的，价值是你得到的」——巴菲特这句简洁而深刻的格言，浓缩了价值投资的全部精髓。市场先生（Mr. Market）每天报出一个价格，但真正的投资者关注的是底层资产的内在价值。当价格远低于价值时买入，当价格远超价值时卖出（或不买）。这句话直接呼应了格雷厄姆的教导，也是巴菲特从可口可乐、苹果到 See's Candies 等所有成功投资背后的统一逻辑。",
+    summary_en:
+      "'Price is what you pay. Value is what you get.' — this Buffett maxim distills the essence of value investing. Mr. Market offers a price every day, but the true investor focuses on intrinsic value. Buy when price is far below value; sell (or don't buy) when price far exceeds value. It echoes Graham's teachings and is the unified logic behind every great Buffett investment.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["语录", "价值投资", "格雷厄姆"],
+    sources: [
+      {
+        ...berkshireLettersSource,
+        quotes: [
+          {
+            text: "Price is what you pay. Value is what you get.",
+            text_zh: "价格是你付出的，价值是你得到的。",
+            text_en: "Price is what you pay. Value is what you get.",
+            speaker: "Warren Buffett",
+            context: "From Buffett's 2008 shareholder letter, echoing Benjamin Graham",
+            context_en: "From Buffett's 2008 shareholder letter, echoing Benjamin Graham",
+          },
+        ],
+      },
+    ],
+    source_hints: "Appears in the 2008 Berkshire shareholder letter; derived from Graham's 'price is what you pay, value is what you get'",
+  },
+
+  // ===== LATER CAREER & LEGACY =====
+  {
+    id: "buffett-2011-ibm-investment",
+    person_id: "buffett",
+    date: "2011-11-14",
+    date_precision: "day",
+    type: "deal",
+    title: "大举投资 IBM——后来承认的错误",
+    title_en: "Makes major IBM investment — later admits mistake",
+    summary:
+      "2011 年 11 月，巴菲特披露伯克希尔已积累了价值约 107 亿美元的 IBM 股份（约 5.5% 的持股比例），令市场大为震惊——这是他首次大规模投资科技公司。然而 IBM 未能成功转型云计算，收入持续下滑。到 2017-2018 年，巴菲特逐步清仓 IBM，坦诚地承认这是一次投资错误：他高估了 IBM 的竞争护城河。但正是这次经历促使他更深入地研究科技行业，最终导向了回报更为丰厚的苹果投资。",
+    summary_en:
+      "In November 2011, Buffett revealed Berkshire had amassed approximately $10.7 billion in IBM shares (~5.5% stake), surprising markets with his first major tech investment. However, IBM failed to successfully pivot to cloud computing, and Buffett exited the position by 2017-2018, candidly admitting he'd overestimated IBM's competitive moat. The experience deepened his tech sector understanding, ultimately leading to the far more successful Apple investment.",
+    location: "Omaha, Nebraska",
+    key: false,
+    tags: ["IBM", "科技投资", "投资错误"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      { ...berkshireLettersSource },
+    ],
+    source_hints: "Discussed extensively in Buffett's 2017 CNBC interview and annual letters",
+  },
+
+  {
+    id: "buffett-2020-pandemic-meeting",
+    person_id: "buffett",
+    date: "2020-05-02",
+    date_precision: "day",
+    type: "speech",
+    title: "疫情中的伯克希尔年会——首次线上直播",
+    title_en: "Pandemic-era Berkshire annual meeting — first ever virtual broadcast",
+    summary:
+      "2020 年 5 月 2 日，受新冠疫情影响，伯克希尔年会首次在没有现场观众的情况下举行，通过 Yahoo Finance 向全球直播。89 岁的巴菲特独自坐在空旷的体育馆舞台上（芒格因高龄未出席），花了约四个半小时回答问题。他承认卖出了全部航空股持仓——四大美国航空公司——亏损数十亿美元，因为他判断新冠将永久改变航空业的经济特征。巴菲特同时强调：「永远不要做空美国。」这场年会因其视觉反差——空荡荡的万人场馆中一位老人独自面对镜头——成为疫情时代的标志性画面。",
+    summary_en:
+      "On May 2, 2020, Berkshire's annual meeting was held virtually for the first time due to COVID-19, streamed on Yahoo Finance to a global audience. The 89-year-old Buffett sat alone in an empty arena (Munger did not attend due to his age) and answered questions for over four hours. He revealed he had sold all airline holdings — the four major U.S. carriers — at a multi-billion dollar loss, but maintained: 'Never bet against America.'",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["年会", "疫情", "航空股", "线上直播"],
+    sources: [
+      { ...wikipediaBerkshireSource },
+      {
+        id: "cnbc-berkshire-2020",
+        url: "https://buffett.cnbc.com/video/2020/05/04/berkshire-hathaway-annual-meeting--may-02-2020.html",
+        kind: "video",
+        title: "Berkshire Hathaway Annual Meeting - May 02, 2020",
+        publisher: "CNBC Warren Buffett Archive",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "CNBC Warren Buffett Archive 提供的 2020 年疫情中伯克希尔年会完整视频。",
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2025-05-03-retirement",
+    person_id: "buffett",
+    date: "2025-05-03",
+    date_precision: "day",
+    type: "career",
+    title: "宣布年底退任 CEO，Greg Abel 将接任",
+    title_en: "Announces retirement as CEO at year-end; Greg Abel to succeed",
+    summary:
+      "2025 年 5 月 3 日，94 岁的巴菲特在伯克希尔年度股东大会上宣布，他将于 2025 年底正式退任首席执行官，推荐副董事长 Greg Abel 接任。巴菲特表示将继续担任董事长，但日常管理权将全面移交。这一宣布标志着一个时代的终结——从 1965 年至 2025 年，巴菲特执掌伯克希尔长达 60 年，将一家濒临倒闭的纺织厂打造为全球市值最高的公司之一（市值超过 1.1 万亿美元），A 类股价格从约 18 美元涨至超过 80 万美元——增长超过 44,000 倍。",
+    summary_en:
+      "On May 3, 2025, the 94-year-old Buffett announced at the Berkshire annual meeting that he would step down as CEO at year-end 2025, recommending Vice Chairman Greg Abel as his successor. Buffett said he would remain chairman but hand over day-to-day management. The announcement marked the end of an era: from 1965 to 2025, Buffett led Berkshire for 60 years, transforming a failing textile mill into one of the world's most valuable companies (market cap exceeding $1.1 trillion), with Class A shares rising from about $18 to over $800,000 — a gain of more than 44,000-fold.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["退休", "继任", "Greg Abel", "伯克希尔"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      { ...wikipediaBerkshireSource },
+      {
+        id: "youtube-berkshire-2025-retirement",
+        url: "https://www.youtube.com/watch?v=1LWBphTImy4",
+        kind: "video",
+        title: "Warren Buffett presides over the 2025 Berkshire Hathaway annual shareholder meeting",
+        publisher: "CNBC Television (YouTube)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "CNBC 转播 2025 年伯克希尔年会上巴菲特宣布退休的历史性时刻。",
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ===== MARRIAGE & PERSONAL LIFE =====
+  {
+    id: "buffett-1952-marriage-susan",
+    person_id: "buffett",
+    date: "1952-04-19",
+    date_precision: "day",
+    type: "life",
+    title: "与苏珊·汤普森结婚",
+    title_en: "Marries Susan Thompson",
+    summary:
+      "1952 年 4 月 19 日，21 岁的巴菲特与苏珊·汤普森（Susan Thompson）在奥马哈结婚。苏珊是一位热情、善于社交的女性，在很多方面与内向、专注数字的巴菲特形成互补。两人育有三个孩子：Susie Jr.、Howard 和 Peter。苏珊在巴菲特的情感生活和社交能力方面扮演了至关重要的角色。1977 年苏珊搬到旧金山追求歌唱事业，两人虽然分居但从未离婚。苏珊后来引荐 Astrid Menks 照顾巴菲特的日常生活——这段非传统的三角关系持续多年，直到苏珊 2004 年因癌症去世。",
+    summary_en:
+      "On April 19, 1952, Buffett married Susan Thompson in Omaha. They had three children: Susie Jr., Howard, and Peter. In 1977, Susan moved to San Francisco to pursue a singing career; though they separated, they never divorced. Susan introduced Astrid Menks to care for Buffett — an unconventional arrangement that lasted until Susan's death from cancer in 2004.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["婚姻", "家庭", "苏珊"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2006-marriage-astrid",
+    person_id: "buffett",
+    date: "2006-08-30",
+    date_precision: "day",
+    type: "life",
+    title: "在 76 岁生日当天与 Astrid Menks 结婚",
+    title_en: "Marries Astrid Menks on his 76th birthday",
+    summary:
+      "2006 年 8 月 30 日——巴菲特 76 岁生日当天，他与同居近 30 年的 Astrid Menks 在奥马哈一场私人仪式上正式结婚。Astrid 是拉脱维亚裔美国人，1978 年经巴菲特的第一任妻子苏珊介绍认识巴菲特，此后一直是他日常生活的陪伴者。苏珊 2004 年去世后，巴菲特和 Astrid 的正式结合既是对这段长期伴侣关系的确认，也是一件极为低调的私事——这正是巴菲特的风格。",
+    summary_en:
+      "On his 76th birthday, August 30, 2006, Buffett married Astrid Menks in a small private ceremony in Omaha. Astrid, of Latvian descent, had been introduced to Buffett by his first wife Susan in 1978 and had been his daily companion for nearly 30 years. After Susan's death in 2004, the marriage formalized their long-standing partnership.",
+    location: "Omaha, Nebraska",
+    key: false,
+    tags: ["婚姻", "家庭"],
+    sources: [{ ...wikipediaBuffettSource }],
+    source_hints: null,
+  },
+
+  // ===== ADDITIONAL KEY EVENTS =====
+  {
+    id: "buffett-1998-gen-re",
+    person_id: "buffett",
+    date: "1998-06-19",
+    date_precision: "day",
+    type: "deal",
+    title: "以 220 亿美元收购 General Re",
+    title_en: "Acquires General Re for $22 billion",
+    summary:
+      "1998 年 6 月，伯克希尔宣布以约 220 亿美元（大部分以伯克希尔股票支付）收购再保险巨头 General Re Corporation。这是当时伯克希尔历史上最大的收购案，极大地扩充了伯克希尔的保险浮存金规模。然而这笔交易初期带来了意想不到的麻烦：General Re 的承保纪律在收购前已经松弛，加上其衍生品子公司 General Re Securities 积累了大量有毒合约，巴菲特花了数年时间才清理干净。他后来将此列为需要更审慎尽职调查的教训之一。",
+    summary_en:
+      "In June 1998, Berkshire announced the acquisition of reinsurance giant General Re for approximately $22 billion, mostly in Berkshire stock — the largest deal in Berkshire's history at the time. The acquisition dramatically expanded Berkshire's insurance float but initially brought problems: General Re's underwriting discipline had deteriorated, and its derivatives subsidiary held toxic contracts that took years to unwind.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["General Re", "再保险", "收购", "浮存金"],
+    sources: [{ ...wikipediaBuffettSource }, { ...wikipediaBerkshireSource }],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2009-bnsf-railway",
+    person_id: "buffett",
+    date: "2009-11-03",
+    date_precision: "day",
+    type: "deal",
+    title: "以 440 亿美元收购 BNSF 铁路——\"押注美国\"",
+    title_en: "Acquires BNSF Railway for $44 billion — \"an all-in wager on America\"",
+    summary:
+      "2009 年 11 月 3 日，巴菲特宣布伯克希尔将以约 440 亿美元收购美国最大铁路公司之一 BNSF Railway 的剩余约 77% 股份。他将这笔交易称为「对美国经济未来的全力押注」（an all-in wager on the economic future of the United States）。在全球刚经历金融危机的背景下，这一巨额收购体现了巴菲特对美国长期经济增长的坚定信心。BNSF 此后成为伯克希尔最重要的运营子公司之一，每年贡献数十亿美元的营业利润。",
+    summary_en:
+      "On November 3, 2009, Buffett announced Berkshire would acquire the remaining ~77% of BNSF Railway for approximately $44 billion, calling it 'an all-in wager on the economic future of the United States.' Coming shortly after the global financial crisis, the acquisition demonstrated Buffett's deep confidence in America's long-term growth. BNSF became one of Berkshire's most important operating subsidiaries, contributing billions in annual operating profit.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["BNSF", "铁路", "押注美国", "大型收购"],
+    sources: [
+      { ...wikipediaBuffettSource },
+      {
+        id: "wikipedia-bnsf",
+        url: "https://en.wikipedia.org/wiki/BNSF_Railway",
+        kind: "article",
+        title: "BNSF Railway (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  {
+    id: "buffett-2023-berkshire-annual-meeting",
+    person_id: "buffett",
+    date: "2023-05-06",
+    date_precision: "day",
+    type: "speech",
+    title: "2023 年伯克希尔年会——巴菲特与芒格最后一次同台",
+    title_en: "2023 Berkshire annual meeting — Buffett and Munger's final appearance together",
+    summary:
+      "2023 年 5 月 6 日，92 岁的巴菲特和 99 岁的芒格最后一次一起出席伯克希尔股东年会。芒格在 2023 年 11 月 28 日去世，这成为他们最后一次公开同台。在长达五个多小时的问答中，两人讨论了银行业危机、AI、日本商社投资以及伯克希尔的未来。芒格以他一贯的金句风格评论道：「这个世界对我来说很疯狂，但对我来说很好。」这场年会后来被视为一个时代终结的象征。",
+    summary_en:
+      "On May 6, 2023, the 92-year-old Buffett and 99-year-old Munger made their final public appearance together at the Berkshire annual meeting. Munger passed away on November 28, 2023. During five-plus hours of Q&A, they discussed the banking crisis, AI, Japanese trading companies, and Berkshire's future. This meeting became a symbol of an era's end.",
+    location: "Omaha, Nebraska",
+    key: true,
+    tags: ["年会", "芒格", "最后同台"],
+    sources: [
+      { ...wikipediaBerkshireSource },
+      {
+        id: "youtube-berkshire-2023-buffett",
+        url: "https://www.youtube.com/watch?v=UKw_NjWtg5w",
+        kind: "video",
+        title: "Warren Buffett and Charlie Munger at 2023 Berkshire Hathaway Annual Meeting",
+        publisher: "CNBC Television (YouTube)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "CNBC 完整转播 2023 年伯克希尔年会——巴菲特和芒格最后一次同台。",
+      },
+    ],
+    source_hints: "Cross-reference with munger-1978-berkshire-vice-chairman in munger.json",
+  },
+];
+
+const toAdd = newEvents.filter((e) => !existingIds.has(e.id));
+const skipped = newEvents.length - toAdd.length;
+
+if (toAdd.length === 0) {
+  console.log("nothing to add");
+  process.exit(0);
+}
+
+const merged = [...events, ...toAdd].sort((a, b) =>
+  a.date.localeCompare(b.date)
+);
+
+fs.writeFileSync(filePath, JSON.stringify(merged, null, 2) + "\n");
+console.log(
+  `added ${toAdd.length} buffett events (skipped ${skipped}); total now ${merged.length}`
+);

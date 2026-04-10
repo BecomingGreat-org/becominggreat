@@ -1,1 +1,627 @@
-[]
+[
+  {
+    "id": "yang-1922-10-01-birth",
+    "person_id": "yang",
+    "date": "1922-10-01",
+    "date_precision": "day",
+    "type": "life",
+    "title": "杨振宁出生于安徽合肥",
+    "title_en": "Chen-Ning Yang born in Hefei, Anhui, China",
+    "summary": "1922 年 10 月 1 日，杨振宁出生于安徽省合肥县（今合肥市）。父亲杨武之是著名数学家，后任清华大学数学系教授。杨振宁自幼受父亲数学思维熏陶，对对称性与结构之美产生了深刻直觉——这一童年印记深远地影响了他日后在理论物理领域的研究方向。",
+    "summary_en": "Chen-Ning (Frank) Yang was born on October 1, 1922, in Hefei, Anhui Province, China. His father Yang Wuzhi was a prominent mathematician who later taught at Tsinghua University. Growing up immersed in mathematical thinking gave Yang an early intuition for symmetry and structure that would shape his career in theoretical physics.",
+    "location": "合肥, 安徽, 中国",
+    "key": true,
+    "tags": [
+      "出生",
+      "合肥",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-yang-zh",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%8C%AF%E5%AE%81",
+        "kind": "article",
+        "title": "杨振宁 (维基百科)",
+        "publisher": "维基百科",
+        "lang": "zh",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1938-southwest-associated-university",
+    "person_id": "yang",
+    "date": "1938-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "进入西南联合大学就读（昆明战时大学）",
+    "title_en": "Enrolls at Southwest Associated University (wartime Kunming)",
+    "summary": "1938 年，因抗日战争爆发，北大、清华、南开三校南迁昆明组成国立西南联合大学。杨振宁随家人辗转来到昆明，在西南联大物理系学习。在极其艰苦的战时条件下，他师从吴大猷、王竹溪等著名物理学家，并结识了李政道等同学。西南联大虽然物质匮乏，却在学术自由和师资水平上达到了中国近代教育史上的巅峰。",
+    "summary_en": "In 1938, as Japan's invasion forced China's top universities to relocate, Yang enrolled at the National Southwest Associated University (Xinan Lianda) in Kunming — a wartime merger of Peking, Tsinghua, and Nankai universities. Despite extreme hardship, the university maintained extraordinary academic standards, and Yang studied under leading physicists including Wu Dayou and Wang Zhuxi.",
+    "location": "昆明, 云南, 中国",
+    "key": true,
+    "tags": [
+      "教育",
+      "西南联大",
+      "抗战",
+      "昆明"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-xinan-lianda",
+        "url": "https://en.wikipedia.org/wiki/National_Southwestern_Associated_University",
+        "kind": "article",
+        "title": "National Southwestern Associated University (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1944-tsinghua-masters",
+    "person_id": "yang",
+    "date": "1944-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "获得清华大学硕士学位",
+    "title_en": "Earns master's degree from Tsinghua University",
+    "summary": "1944 年杨振宁在西南联大（以清华大学名义授予学位）取得硕士学位，师从王竹溪教授研究统计力学。硕士论文研究方向为对称性在物理中的应用，这一课题成为他终生学术追求的起点。获得硕士学位后，杨振宁获得庚子赔款奖学金，准备赴美留学深造。",
+    "summary_en": "In 1944 Yang received his master's degree from Tsinghua University (awarded through Southwest Associated University), studying statistical mechanics under Professor Wang Zhuxi. His thesis explored symmetry in physics — a theme that would define his life's work. He then won a Boxer Indemnity Scholarship to study in America.",
+    "location": "昆明, 云南, 中国",
+    "key": false,
+    "tags": [
+      "教育",
+      "硕士",
+      "清华",
+      "统计力学"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1945-chicago-teller",
+    "person_id": "yang",
+    "date": "1945-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "赴芝加哥大学深造，师从爱德华·泰勒",
+    "title_en": "Goes to University of Chicago, studies under Edward Teller",
+    "summary": "1945 年杨振宁获庚子赔款奖学金赴美，进入芝加哥大学攻读博士学位。他最初希望做实验物理，但很快发现自己在实验室中笨手笨脚（同事们戏称“哪里有爆炸，哪里就有杨振宁”），于是转向理论物理，师从“氢弹之父”爱德华·泰勒。1948 年他以对称性与核反应为主题的论文获得博士学位。在芝大期间他还深受恩利克·费米的影响，费米的物理直觉和教学风格令他终生受益。",
+    "summary_en": "In 1945 Yang arrived at the University of Chicago on a Boxer Indemnity Scholarship. After realizing experimental work was not his forte, he switched to theoretical physics under Edward Teller, earning his Ph.D. in 1948. He was also profoundly influenced by Enrico Fermi's physical intuition and teaching style.",
+    "location": "Chicago, Illinois, USA",
+    "key": true,
+    "tags": [
+      "教育",
+      "芝加哥大学",
+      "泰勒",
+      "费米",
+      "博士"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1949-princeton-ias",
+    "person_id": "yang",
+    "date": "1949-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入普林斯顿高等研究院",
+    "title_en": "Joins the Institute for Advanced Study at Princeton",
+    "summary": "1949 年杨振宁受邀加入普林斯顿高等研究院（IAS），与奥本海默、爱因斯坦等学术巨擘共事。他在这里度过了学术生涯中最富创造力的岁月，先后完成了杨-米尔斯规范场论、宇称不守恒理论等划时代工作。普林斯顿的自由学术氛围和顶尖同事为他提供了理想的研究环境。",
+    "summary_en": "In 1949 Yang joined the Institute for Advanced Study (IAS) at Princeton, where he worked alongside Oppenheimer, Einstein, and other luminaries. He would spend his most creative years here, producing groundbreaking work including the Yang-Mills gauge theory and the parity non-conservation theory.",
+    "location": "Princeton, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "普林斯顿",
+      "高等研究院",
+      "学术生涯"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1954-yang-mills-theory",
+    "person_id": "yang",
+    "date": "1954-01-01",
+    "date_precision": "year",
+    "type": "award",
+    "title": "与罗伯特·米尔斯提出杨-米尔斯规范场论",
+    "title_en": "Proposes Yang-Mills gauge theory with Robert Mills",
+    "summary": "1954 年杨振宁与罗伯特·米尔斯在普林斯顿高等研究院合作提出了非阿贝尔规范场论（Yang-Mills theory）。这一理论将局域对称性原理推广到非交换群，为粒子物理的标准模型奠定了数学基础。虽然论文发表时并未引起轰动（泡利曾当面提出尖锐质疑），但它后来被公认为20世纪理论物理最重要的成就之一，深刻影响了电弱统一理论和量子色动力学的发展。许多物理学家认为杨-米尔斯理论的重要性甚至超过了为杨振宁赢得诺贝尔奖的宇称不守恒工作。",
+    "summary_en": "In 1954 Yang and Robert Mills at the Institute for Advanced Study proposed the non-Abelian gauge field theory (Yang-Mills theory), extending the principle of local symmetry to non-commutative groups. Though initially met with skepticism — Pauli famously challenged Yang during his presentation — it later became the mathematical foundation of the Standard Model of particle physics. Many physicists consider Yang-Mills theory Yang's greatest contribution, even more important than the parity work that won him the Nobel Prize.",
+    "location": "Princeton, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "杨-米尔斯",
+      "规范场论",
+      "标准模型",
+      "理论物理"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-yang-mills",
+        "url": "https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_theory",
+        "kind": "article",
+        "title": "Yang-Mills theory (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1956-parity-violation",
+    "person_id": "yang",
+    "date": "1956-01-01",
+    "date_precision": "year",
+    "type": "award",
+    "title": "与李政道提出宇称不守恒理论",
+    "title_en": "Proposes parity non-conservation theory with T.D. Lee",
+    "summary": "1956 年杨振宁与李政道在研究“θ-τ 之谜”时大胆提出：在弱相互作用中宇称（即镜像对称性）并不守恒。这一假说直接挑战了物理学界数十年来深信不疑的宇称守恒定律。实验物理学家吴健雄随即设计并完成了钴-60 衰变实验，于 1957 年初以无可辩驳的实验数据证实了宇称确实不守恒。这一发现震惊了整个物理学界，彻底改写了人类对基本对称性和自然规律的认知。",
+    "summary_en": "In 1956 Yang and T.D. Lee proposed that parity (mirror symmetry) is not conserved in weak interactions — a bold challenge to one of physics' most cherished assumptions. Experimentalist Chien-Shiung Wu quickly confirmed their hypothesis through a cobalt-60 decay experiment in early 1957, stunning the physics world and fundamentally reshaping our understanding of nature's symmetries.",
+    "location": "Princeton, New Jersey / New York, USA",
+    "key": true,
+    "tags": [
+      "宇称不守恒",
+      "李政道",
+      "弱相互作用",
+      "吴健雄"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-parity-violation",
+        "url": "https://en.wikipedia.org/wiki/Parity_(physics)#Parity_violation",
+        "kind": "article",
+        "title": "Parity violation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1957-nobel-prize",
+    "person_id": "yang",
+    "date": "1957-12-10",
+    "date_precision": "day",
+    "type": "award",
+    "title": "荣获诺贝尔物理学奖",
+    "title_en": "Awarded the Nobel Prize in Physics",
+    "summary": "1957 年 12 月 10 日，杨振宁与李政道因提出宇称不守恒理论共同获得诺贝尔物理学奖。从论文发表到获奖仅隔一年，是诺贝尔物理学奖历史上最快的授奖之一。35 岁的杨振宁和 31 岁的李政道成为首位获得诺贝尔奖的中国人（当时两人均持中华民国护照），在全球华人世界引起巨大轰动，极大鼓舞了华人科学家的信心。",
+    "summary_en": "On December 10, 1957, Yang and T.D. Lee received the Nobel Prize in Physics for their theory of parity non-conservation. The award came just one year after their paper — one of the fastest Nobel recognitions in history. At 35 and 31 respectively, they became the first Chinese laureates, inspiring generations of Chinese scientists worldwide.",
+    "location": "Stockholm, Sweden",
+    "key": true,
+    "tags": [
+      "诺贝尔奖",
+      "物理学",
+      "李政道",
+      "荣誉"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "nobelprize-yang",
+        "url": "https://www.nobelprize.org/prizes/physics/1957/yang/facts/",
+        "kind": "article",
+        "title": "Chen Ning Yang - Nobel Prize Facts",
+        "publisher": "Nobel Prize",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1964-us-citizen",
+    "person_id": "yang",
+    "date": "1964-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "加入美国国籍",
+    "title_en": "Becomes a United States citizen",
+    "summary": "1964 年杨振宁正式加入美国国籍。这一决定在冷战背景下具有深远意义：当时中美关系完全中断，中国大陆正经历政治运动，杨振宁判断短期内无法回国工作。入籍美国使他能够更自由地开展学术研究和国际交流，但也在日后引发了关于华人科学家身份认同的持续讨论。",
+    "summary_en": "In 1964 Yang became a naturalized citizen of the United States. With China-U.S. relations severed and political upheaval on the mainland, Yang judged that returning to China was not feasible. U.S. citizenship allowed him greater academic freedom and international mobility, though the decision would later stir debate about identity among overseas Chinese scientists.",
+    "location": "USA",
+    "key": true,
+    "tags": [
+      "国籍",
+      "美国",
+      "冷战"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1966-stony-brook-itp",
+    "person_id": "yang",
+    "date": "1966-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "出任纽约州立大学石溪分校理论物理研究所所长",
+    "title_en": "Becomes founding director of ITP at Stony Brook University",
+    "summary": "1966 年杨振宁离开普林斯顿高等研究院，前往纽约州立大学石溪分校创建并领导理论物理研究所（ITP，后更名为杨振宁理论物理研究所）。在他长达三十余年的领导下，石溪分校的物理系从默默无闻发展为世界一流的理论物理研究中心。杨振宁不仅继续自己的研究工作，还培养了大批杰出的物理学人才，建立了完整的学术团队和研究传统。",
+    "summary_en": "In 1966 Yang left the Institute for Advanced Study to found and direct the Institute for Theoretical Physics (ITP, later renamed the C.N. Yang Institute for Theoretical Physics) at the State University of New York at Stony Brook. Under his leadership for over three decades, Stony Brook's physics program grew from obscurity to world-class stature.",
+    "location": "Stony Brook, New York, USA",
+    "key": true,
+    "tags": [
+      "石溪大学",
+      "理论物理研究所",
+      "所长",
+      "学术领导"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-1971-china-visit",
+    "person_id": "yang",
+    "date": "1971-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "文革后首次访问中国大陆",
+    "title_en": "First visit to China after the Cultural Revolution",
+    "summary": "1971 年夏天，杨振宁成为中美关系解冻后第一批访问中华人民共和国的美籍华人科学家之一，比尼克松访华还早了几个月。他在北京受到周恩来总理的接见，并参观了多所大学和研究机构。这次访问在海外华人科学家群体中引起极大震动，杨振宁回美后积极介绍中国现状，推动了此后大批华人科学家的访华潮。这一举动也使他成为中美科学交流的重要桥梁人物。",
+    "summary_en": "In the summer of 1971, Yang became one of the first Chinese-American scientists to visit the People's Republic of China after the Cultural Revolution — months before Nixon's historic trip. He was received by Premier Zhou Enlai and visited universities and research institutes. His visit catalyzed a wave of return visits by overseas Chinese scientists and established Yang as a key bridge figure in Sino-American scientific exchange.",
+    "location": "北京, 中国",
+    "key": true,
+    "tags": [
+      "访华",
+      "文革后",
+      "周恩来",
+      "中美关系"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-yang-zh",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%8C%AF%E5%AE%81",
+        "kind": "article",
+        "title": "杨振宁 (维基百科)",
+        "publisher": "维基百科",
+        "lang": "zh",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-2003-tsinghua-return",
+    "person_id": "yang",
+    "date": "2003-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "回归清华大学定居并任教",
+    "title_en": "Returns to Tsinghua University permanently",
+    "summary": "2003 年，81 岁的杨振宁正式回到清华大学定居，出任清华大学高等研究中心名誉主任。他在清华建立了“杨振宁讲座”，亲自为本科生授课，并积极参与中国物理学人才培养和科研规划。杨振宁的回归被视为海外顶尖华人科学家“落叶归根”的标志性事件，也极大提升了清华大学在基础物理学领域的国际声望。",
+    "summary_en": "In 2003, at the age of 81, Yang returned permanently to Tsinghua University in Beijing, serving as honorary director of the Center for Advanced Study. He established lecture series, personally taught undergraduates, and actively participated in China's physics talent development. His return was seen as a landmark 'homecoming' for overseas Chinese scientists and significantly boosted Tsinghua's international profile in fundamental physics.",
+    "location": "北京, 中国",
+    "key": true,
+    "tags": [
+      "清华大学",
+      "回国",
+      "定居",
+      "教育"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-yang-zh",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%8C%AF%E5%AE%81",
+        "kind": "article",
+        "title": "杨振宁 (维基百科)",
+        "publisher": "维基百科",
+        "lang": "zh",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-2004-12-24-marries-weng-fan",
+    "person_id": "yang",
+    "date": "2004-12-24",
+    "date_precision": "day",
+    "type": "life",
+    "title": "与翁帆结婚（82 岁与 28 岁的年龄差婚姻）",
+    "title_en": "Marries Weng Fan (age 28; Yang was 82)",
+    "summary": "2004 年 12 月 24 日，82 岁的杨振宁与 28 岁的广东外语外贸大学硕士研究生翁帆在汕头登记结婚，54 岁的年龄差引起了社会广泛关注和争议。杨振宁此前的妻子杜致礼（蒋介石侍卫长杜聿明之女）于 2003 年去世。杨振宁公开回应质疑时表示，这段婚姻是他晚年生活的最大幸福。翁帆此后一直陪伴杨振宁在清华大学生活和工作。",
+    "summary_en": "On December 24, 2004, the 82-year-old Yang married 28-year-old Weng Fan, a graduate student at Guangdong University of Foreign Studies, in Shantou. The 54-year age gap attracted enormous public attention and debate. Yang's first wife Du Zhili (daughter of KMT general Du Yuming) had passed away in 2003. Yang publicly stated the marriage brought him great happiness in his later years. Weng Fan accompanied Yang throughout his remaining years at Tsinghua University.",
+    "location": "汕头, 广东, 中国",
+    "key": true,
+    "tags": [
+      "婚姻",
+      "翁帆",
+      "争议"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-yang-zh",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%8C%AF%E5%AE%81",
+        "kind": "article",
+        "title": "杨振宁 (维基百科)",
+        "publisher": "维基百科",
+        "lang": "zh",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-2017-renounces-us-citizenship",
+    "person_id": "yang",
+    "date": "2017-02-01",
+    "date_precision": "month",
+    "type": "life",
+    "title": "放弃美国国籍，正式恢复中国国籍",
+    "title_en": "Renounces US citizenship, becomes a Chinese citizen again",
+    "summary": "2017 年 2 月，95 岁的杨振宁与姚期智一同正式放弃美国国籍，转为中国科学院院士（此前两人为中科院外籍院士）。杨振宁表示，自己的父亲杨武之生前一直希望他回归中国国籍，如今终于实现了这个心愿。这一决定在中国引发了热烈讨论——有人赞扬他的爱国情怀，也有人质疑为何在年老体衰后才做出这一选择。无论争议如何，杨振宁从“中国留学生→美国公民→重归中国公民”的完整身份轨迹，折射出 20 世纪华人科学家在大历史变迁中的典型命运。",
+    "summary_en": "In February 2017, the 95-year-old Yang renounced his U.S. citizenship and became a citizen of the People's Republic of China, along with computer scientist Andrew Yao. Both converted from foreign to full members of the Chinese Academy of Sciences. Yang said his late father had always wished for him to return to Chinese nationality. The decision sparked spirited debate in China about patriotism, timing, and the complex identity journeys of overseas Chinese scientists across the 20th century.",
+    "location": "北京, 中国",
+    "key": true,
+    "tags": [
+      "国籍",
+      "中国公民",
+      "中科院院士"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-yang-zh",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%8C%AF%E5%AE%81",
+        "kind": "article",
+        "title": "杨振宁 (维基百科)",
+        "publisher": "维基百科",
+        "lang": "zh",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yang-2025-10-18-death",
+    "person_id": "yang",
+    "date": "2025-10-18",
+    "date_precision": "day",
+    "type": "life",
+    "title": "在北京去世，享年 103 岁",
+    "title_en": "Dies in Beijing at age 103",
+    "summary": "2025 年 10 月 18 日，杨振宁在北京去世，享年 103 岁。他是 20 世纪最伟大的理论物理学家之一，杨-米尔斯规范场论和宇称不守恒理论是他留给物理学的两座丰碑。杨振宁的一生横跨了中国从军阀混战到成为世界第二大经济体的完整历程，他既是冷战时期中美科学交流的关键桥梁，也是“落叶归根”的海外华人科学家的象征。他的学术成就、跨文化经历以及晚年的种种争议，构成了 20 世纪华人科学家最丰富也最复杂的人生叙事之一。",
+    "summary_en": "Chen-Ning Yang died on October 18, 2025, in Beijing at the age of 103. One of the greatest theoretical physicists of the 20th century, his legacy rests on two monumental contributions: Yang-Mills gauge theory and the theory of parity non-conservation. His life spanned China's entire modern transformation, and he served as a crucial bridge in Sino-American scientific exchange. His academic achievements, cross-cultural journey, and later-life controversies together form one of the richest and most complex narratives of any 20th-century Chinese scientist.",
+    "location": "北京, 中国",
+    "key": true,
+    "tags": [
+      "逝世",
+      "纪念",
+      "遗产"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yang-bio",
+        "url": "https://en.wikipedia.org/wiki/Yang_Chen-Ning",
+        "kind": "article",
+        "title": "Yang Chen-Ning (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-yang-zh",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%8C%AF%E5%AE%81",
+        "kind": "article",
+        "title": "杨振宁 (维基百科)",
+        "publisher": "维基百科",
+        "lang": "zh",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  }
+]

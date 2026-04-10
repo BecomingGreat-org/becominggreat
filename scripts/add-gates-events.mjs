@@ -1,0 +1,1154 @@
+#!/usr/bin/env node
+/**
+ * Bootstrap Bill Gates events into data/events/gates.json.
+ * Idempotent: skips events whose id already exists.
+ * After running, run audit-urls.mjs --write + parse-youtube.mjs --write + verify-embeds.mjs.
+ */
+import fs from "node:fs";
+import path from "node:path";
+
+const filePath = path.join(process.cwd(), "data", "events", "gates.json");
+const events = fs.existsSync(filePath)
+  ? JSON.parse(fs.readFileSync(filePath, "utf8"))
+  : [];
+const existingIds = new Set(events.map((e) => e.id));
+
+const HUMAN = { license: "all-rights-reserved", authored_by: "human", mentions: [] };
+const CCBYSA = { license: "cc-by-sa", authored_by: "human", mentions: [] };
+
+const newEvents = [
+  // ============ 1955-10-28 Birth ============
+  {
+    id: "gates-1955-10-28-birth",
+    person_id: "gates",
+    date: "1955-10-28",
+    date_precision: "day",
+    type: "life",
+    title: "出生于西雅图",
+    title_en: "Born in Seattle, Washington",
+    summary:
+      "William Henry Gates III 出生于华盛顿州西雅图一个上层中产家庭。父亲 William H. Gates Sr. 是知名律师，母亲 Mary Maxwell Gates 是银行家和 United Way 董事。家境优渥、注重教育，母亲后来在 IBM 董事会的人脉对微软拿到第一个大合同至关重要。",
+    summary_en:
+      "William Henry Gates III was born in Seattle, Washington, into an upper-middle-class family. His father, William H. Gates Sr., was a prominent attorney; his mother, Mary Maxwell Gates, was a banker and board member of United Way. The family's emphasis on education and his mother's later connections on the IBM board proved pivotal for Microsoft's first major deal.",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["出生", "家庭"],
+    sources: [
+      {
+        id: "wikipedia-bill-gates",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates",
+        kind: "article",
+        title: "Bill Gates (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1968 Lakeside School ============
+  {
+    id: "gates-1968-lakeside-school",
+    person_id: "gates",
+    date: "1968-01-01",
+    date_precision: "year",
+    type: "education",
+    title: "在湖滨中学接触电脑，结识 Paul Allen",
+    title_en: "Discovers computers at Lakeside School, meets Paul Allen",
+    summary:
+      "13 岁的盖茨进入西雅图精英私立学校 Lakeside School。学校的「母亲俱乐部」用义卖所得租下了一台 ASR-33 电传打字终端，通过电话线连到 General Electric 的分时系统。盖茨对编程一见钟情，很快和大他两岁的 Paul Allen 成了搭档。两人后来利用 Computer Center Corporation（C-Cubed）的系统找 bug 换取免费机时，在高中阶段就积累了远超大多数专业程序员的编程经验。",
+    summary_en:
+      "At age 13 Gates enrolled at Lakeside School, an elite private school in Seattle. The school's Mothers' Club used proceeds from a rummage sale to lease an ASR-33 teletype terminal connected to a General Electric time-sharing system. Gates was instantly hooked on programming and soon partnered with Paul Allen, two years his senior. They later gained unlimited computer time by finding bugs for Computer Center Corporation (C-Cubed), accumulating more programming experience by high school graduation than most professional programmers.",
+    location: "Lakeside School, Seattle, WA",
+    key: true,
+    tags: ["求学", "编程", "Paul Allen"],
+    sources: [
+      {
+        id: "wikipedia-bill-gates-early",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Early_life",
+        kind: "article",
+        title: "Bill Gates — Early life (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: "Stephen Manes & Paul Andrews《Gates》第 2-4 章",
+  },
+
+  // ============ 1970 Lakeside Traf-O-Data ============
+  {
+    id: "gates-1970-traf-o-data",
+    person_id: "gates",
+    date: "1970-01-01",
+    date_precision: "year",
+    type: "founding",
+    title: "与 Paul Allen 创立 Traf-O-Data",
+    title_en: "Co-founds Traf-O-Data with Paul Allen",
+    summary:
+      "盖茨和 Allen 在高中时期创建了 Traf-O-Data，用 Intel 8008 处理器制造了一台小型计算机来分析西雅图地区的交通流量数据并出售给地方政府。虽然公司商业上不算成功（据称有一次演示机器当场死机），但这次创业经历让两人学到了微处理器的能力和商业运作的基础——这些经验直接催生了五年后的微软。",
+    summary_en:
+      "Gates and Allen formed Traf-O-Data while still in high school, building a small computer based on the Intel 8008 processor to read traffic-flow data from road counters and sell reports to local governments. Though commercially modest — legend has it the machine crashed during a key demo — the venture taught both teenagers the power of microprocessors and the basics of running a business, lessons that directly seeded Microsoft five years later.",
+    location: "Seattle, WA",
+    key: false,
+    tags: ["创业", "Traf-O-Data", "Paul Allen"],
+    sources: [
+      {
+        id: "wikipedia-traf-o-data",
+        url: "https://en.wikipedia.org/wiki/Traf-O-Data",
+        kind: "article",
+        title: "Traf-O-Data (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1973 Harvard ============
+  {
+    id: "gates-1973-09-harvard",
+    person_id: "gates",
+    date: "1973-09-01",
+    date_precision: "month",
+    type: "education",
+    title: "进入哈佛大学",
+    title_en: "Enters Harvard University",
+    summary:
+      "盖茨以 SAT 1590 分（满分 1600）的成绩进入哈佛大学，注册为法律预科生，但把大部分时间花在了计算机中心和扑克牌桌上。他在这里结识了未来的微软 CEO Steve Ballmer。大学期间他保持着与 Paul Allen（当时在波士顿 Honeywell 工作）的密切联系，两人不断讨论创办软件公司的可能性。",
+    summary_en:
+      "Gates entered Harvard University with a near-perfect SAT score of 1590, registering as a pre-law student but spending most of his time at the computer center and the poker table. He met Steve Ballmer, who would later become Microsoft's CEO. Throughout college he stayed in close contact with Paul Allen, then working at Honeywell in Boston, and the two continually discussed starting a software company.",
+    location: "Harvard University, Cambridge, MA",
+    key: true,
+    tags: ["求学", "Harvard", "Steve Ballmer"],
+    sources: [
+      {
+        id: "wikipedia-gates-harvard",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Harvard",
+        kind: "article",
+        title: "Bill Gates — Harvard (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1975-04 Microsoft founded ============
+  {
+    id: "gates-1975-04-04-microsoft-founding",
+    person_id: "gates",
+    date: "1975-04-04",
+    date_precision: "day",
+    type: "founding",
+    title: "与 Paul Allen 联合创立微软",
+    title_en: "Co-founds Microsoft with Paul Allen",
+    summary:
+      "1975 年 1 月，Paul Allen 在《Popular Electronics》封面上看到 Altair 8800 微型计算机的消息，立刻拉着盖茨给 MITS 打电话，声称他们已经为 Altair 写好了 BASIC 解释器。事实上他们一行代码都没写——但在接下来 8 周内，两人疯狂编程，由 Allen 飞到 MITS 总部 Albuquerque 现场演示，一次通过。4 月 4 日，两人正式成立合伙企业「Micro-Soft」（后改为 Microsoft）。盖茨持股 60%，Allen 持股 40%，理由是盖茨写了更多代码。盖茨从哈佛休学（后来再也没回去完成学位，直到 2007 年获得荣誉学位）。",
+    summary_en:
+      "In January 1975, Paul Allen spotted the Altair 8800 on the cover of Popular Electronics and persuaded Gates to call MITS, claiming they had a BASIC interpreter ready — when they hadn't written a single line. Over the next eight weeks they coded furiously; Allen flew to MITS headquarters in Albuquerque for a live demo that worked on the first try. On April 4 the pair formally established the partnership 'Micro-Soft' (later Microsoft), with Gates holding 60% and Allen 40%, reflecting Gates's larger share of the coding. Gates took a leave of absence from Harvard — he never returned to finish his degree, receiving an honorary doctorate in 2007.",
+    location: "Albuquerque, NM",
+    key: true,
+    tags: ["创业", "Microsoft", "Paul Allen", "BASIC"],
+    sources: [
+      {
+        id: "wikipedia-microsoft-founding",
+        url: "https://en.wikipedia.org/wiki/Microsoft#1972%E2%80%931985:_Founding_and_early_years",
+        kind: "article",
+        title: "Microsoft — Founding (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "wikipedia-altair-basic",
+        url: "https://en.wikipedia.org/wiki/Altair_BASIC",
+        kind: "article",
+        title: "Altair BASIC (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1980 IBM PC-DOS deal ============
+  {
+    id: "gates-1980-11-ibm-dos-deal",
+    person_id: "gates",
+    date: "1980-11-06",
+    date_precision: "day",
+    type: "deal",
+    title: "与 IBM 签署 PC-DOS 协议",
+    title_en: "Signs the IBM PC-DOS deal",
+    summary:
+      "IBM 需要为即将推出的个人电脑 IBM PC 找操作系统。盖茨的母亲 Mary Gates 恰好与 IBM CEO John Opel 同在 United Way 董事会，这层关系帮微软拿到了会面机会。盖茨没有自己的操作系统，但他以 5 万美元从 Seattle Computer Products 的 Tim Paterson 手里买下了 86-DOS（QDOS），改名 MS-DOS 授权给 IBM。关键是：盖茨坚持保留了向其他 PC 厂商授权的权利。这一条款后来价值连城——当 IBM PC 兼容机市场爆发时，几乎所有厂商都要向微软付费。这是科技史上最精明的一笔交易。",
+    summary_en:
+      "IBM needed an operating system for its upcoming Personal Computer. Gates's mother, Mary Gates, sat on the United Way board alongside IBM CEO John Opel, a connection that helped Microsoft get the meeting. Gates didn't have an OS of his own, so he bought 86-DOS (QDOS) from Tim Paterson at Seattle Computer Products for $50,000, rebranded it MS-DOS, and licensed it to IBM. Crucially, Gates insisted on retaining the right to license MS-DOS to other PC manufacturers. That clause proved extraordinarily valuable: when the IBM PC-compatible market exploded, virtually every manufacturer paid Microsoft. It is widely considered the shrewdest deal in tech history.",
+    location: "Boca Raton, FL / Seattle, WA",
+    key: true,
+    tags: ["IBM", "MS-DOS", "操作系统", "经典交易"],
+    sources: [
+      {
+        id: "wikipedia-ibm-pc-dos",
+        url: "https://en.wikipedia.org/wiki/IBM_PC_DOS",
+        kind: "article",
+        title: "IBM PC DOS (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+      {
+        id: "wikipedia-ms-dos",
+        url: "https://en.wikipedia.org/wiki/MS-DOS",
+        kind: "article",
+        title: "MS-DOS (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1985-11 Windows 1.0 ============
+  {
+    id: "gates-1985-11-20-windows-1",
+    person_id: "gates",
+    date: "1985-11-20",
+    date_precision: "day",
+    type: "product",
+    title: "发布 Windows 1.0",
+    title_en: "Launches Windows 1.0",
+    summary:
+      "微软发布 Windows 1.0——一个运行在 MS-DOS 之上的图形用户界面。虽然第一版评价不高（被批评为慢、功能有限、远不如 Macintosh），但它标志着盖茨对 GUI 未来的押注。苹果的乔布斯指责盖茨抄袭 Mac 的界面，盖茨著名地回应：\"我们都有一个叫施乐的富邻居，我闯进去偷电视的时候发现你已经偷过了。\"这一产品线最终成为全球最流行的操作系统。",
+    summary_en:
+      "Microsoft released Windows 1.0, a graphical user interface shell running on top of MS-DOS. The first version was poorly received — critics called it slow, limited, and far inferior to the Macintosh — but it signaled Gates's bet on the GUI future. Apple's Steve Jobs accused Gates of stealing the Mac interface; Gates famously replied: 'Well, Steve, I think there's more than one way of looking at it. I think it's more like we both had this rich neighbor named Xerox and I broke into his house to steal the TV set and found out that you had already stolen it.' The product line would eventually become the world's dominant operating system.",
+    location: "Redmond, WA",
+    key: true,
+    tags: ["Windows", "产品发布", "GUI"],
+    sources: [
+      {
+        id: "wikipedia-windows-1",
+        url: "https://en.wikipedia.org/wiki/Windows_1.0x",
+        kind: "article",
+        title: "Windows 1.0x (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1986-03-13 Microsoft IPO ============
+  {
+    id: "gates-1986-03-13-microsoft-ipo",
+    person_id: "gates",
+    date: "1986-03-13",
+    date_precision: "day",
+    type: "deal",
+    title: "微软 IPO，盖茨成为最年轻亿万富翁",
+    title_en: "Microsoft IPO makes Gates youngest self-made billionaire",
+    summary:
+      "微软在纳斯达克以每股 21 美元上市，当天收盘价 28 美元，市值达 7.78 亿美元。30 岁的盖茨持有公司 45% 的股份，一夜之间身价超过 3.5 亿美元。一年内，31 岁的他正式成为美国最年轻的白手起家亿万富翁。微软 IPO 也造就了大约 12,000 名百万富翁员工——\"微软百万富翁\"成了西雅图的一个文化现象。",
+    summary_en:
+      "Microsoft went public on NASDAQ at $21 per share, closing at $28 and giving the company a market capitalization of $778 million. Gates, age 30, held 45% of the company's shares, instantly making his stake worth over $350 million. Within a year, at 31, he became America's youngest self-made billionaire. The IPO also created approximately 12,000 employee millionaires — 'Microsoft Millionaires' became a cultural phenomenon in Seattle.",
+    location: "Redmond, WA",
+    key: true,
+    tags: ["Microsoft", "IPO", "亿万富翁"],
+    sources: [
+      {
+        id: "wikipedia-microsoft-ipo",
+        url: "https://en.wikipedia.org/wiki/Microsoft#1985%E2%80%931994:_Windows_and_Office",
+        kind: "article",
+        title: "Microsoft — IPO (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1990-05-22 Windows 3.0 ============
+  {
+    id: "gates-1990-05-22-windows-3",
+    person_id: "gates",
+    date: "1990-05-22",
+    date_precision: "day",
+    type: "product",
+    title: "Windows 3.0 发布，PC 图形界面真正普及",
+    title_en: "Windows 3.0 launch brings GUI to the masses",
+    summary:
+      "Windows 3.0 在纽约市城市中心举行了盛大的发布会，微软花了 300 万美元。这一版本终于让 Windows 变得实用——支持虚拟内存、改进的多任务和全新的程序管理器。发布后两周内卖出 10 万份，两年内累计销售超过 1,000 万份。Windows 从此成为 PC 世界的标准操作系统，奠定了微软 90 年代统治地位的基础。",
+    summary_en:
+      "Windows 3.0 debuted at a lavish $3 million launch event in New York City. This version finally made Windows practical — with virtual memory support, improved multitasking, and a new Program Manager. It sold 100,000 copies in the first two weeks and over 10 million copies within two years. Windows became the standard PC operating system, laying the foundation for Microsoft's dominance throughout the 1990s.",
+    location: "New York, NY",
+    key: true,
+    tags: ["Windows", "产品发布"],
+    sources: [
+      {
+        id: "wikipedia-windows-3",
+        url: "https://en.wikipedia.org/wiki/Windows_3.0",
+        kind: "article",
+        title: "Windows 3.0 (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1994-01-01 Marries Melinda ============
+  {
+    id: "gates-1994-01-01-marries-melinda",
+    person_id: "gates",
+    date: "1994-01-01",
+    date_precision: "day",
+    type: "life",
+    title: "与 Melinda French 结婚",
+    title_en: "Marries Melinda French",
+    summary:
+      "盖茨与微软产品经理 Melinda French 在夏威夷拉奈岛举行婚礼。两人于 1987 年在微软的一次新闻发布会上相识。盖茨后来透露自己曾在白板上列出结婚的利弊——这成为他理性决策风格的一个经典轶事。婚后育有三个孩子：Jennifer (1996)、Rory (1999)、Phoebe (2002)。",
+    summary_en:
+      "Gates married Melinda French, a Microsoft product manager, on the Hawaiian island of Lanai. They had met in 1987 at a Microsoft press event. Gates later revealed he had made a pros-and-cons list about getting married on a whiteboard — a classic anecdote about his analytical decision-making style. The couple would have three children: Jennifer (1996), Rory (1999), and Phoebe (2002).",
+    location: "Lanai, Hawaii",
+    key: true,
+    tags: ["婚姻", "Melinda Gates", "家庭"],
+    sources: [
+      {
+        id: "wikipedia-gates-personal",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Personal_life",
+        kind: "article",
+        title: "Bill Gates — Personal life (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1995-08-24 Windows 95 launch ============
+  {
+    id: "gates-1995-08-24-windows-95",
+    person_id: "gates",
+    date: "1995-08-24",
+    date_precision: "day",
+    type: "product",
+    title: "Windows 95 发布：Start Me Up",
+    title_en: "Windows 95 launch — 'Start Me Up'",
+    summary:
+      "Windows 95 的发布是科技史上最大规模的产品营销事件之一。微软花了 3 亿美元做推广，买下滚石乐队《Start Me Up》的版权作为主题曲，盖茨上了 Jay Leno 的《今夜秀》做现场演示。帝国大厦亮起微软的红黄绿蓝四色灯，伦敦的《泰晤士报》免费赠送一整期。发布当天全美消费者排队抢购，首四天卖出 100 万份。Windows 95 引入了开始菜单和任务栏——这个界面范式延续至今。",
+    summary_en:
+      "The Windows 95 launch was one of the largest product-marketing events in tech history. Microsoft spent $300 million on promotion, licensed the Rolling Stones' 'Start Me Up' as the theme song, and Gates appeared on Jay Leno's Tonight Show for a live demo. The Empire State Building was lit in Microsoft's red-yellow-green-blue colors; London's Times gave away an entire free issue. Consumers queued overnight on launch day, and one million copies sold in the first four days. Windows 95 introduced the Start menu and taskbar — an interface paradigm that endures to this day.",
+    location: "Redmond, WA",
+    key: true,
+    tags: ["Windows", "产品发布", "经典"],
+    sources: [
+      {
+        id: "wikipedia-windows-95",
+        url: "https://en.wikipedia.org/wiki/Windows_95",
+        kind: "article",
+        title: "Windows 95 (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1995-05 "The Internet Tidal Wave" memo ============
+  {
+    id: "gates-1995-05-26-internet-tidal-wave",
+    person_id: "gates",
+    date: "1995-05-26",
+    date_precision: "day",
+    type: "writing",
+    title: "发送\"互联网浪潮\"内部备忘录",
+    title_en: "Sends 'The Internet Tidal Wave' memo",
+    summary:
+      "盖茨向微软高管团队发送了一份名为《The Internet Tidal Wave》的内部备忘录，宣称互联网是\"自 IBM PC 以来最重要的发展\"，要求公司全面转向互联网。这份备忘录彻底改变了微软的战略方向——从此 IE 浏览器被捆绑进 Windows，微软开始了与 Netscape 的浏览器大战。这也是后来反垄断诉讼的起源之一。这份备忘录被广泛认为是商业史上最重要的内部文件之一。",
+    summary_en:
+      "Gates sent an internal memo titled 'The Internet Tidal Wave' to Microsoft's executive staff, declaring the Internet 'the most important single development since the IBM PC' and ordering the company to pivot fully toward the Internet. The memo fundamentally redirected Microsoft's strategy — Internet Explorer was bundled into Windows, launching the browser war with Netscape. It also became a key exhibit in the later antitrust case. The memo is widely regarded as one of the most consequential internal documents in business history.",
+    location: "Redmond, WA",
+    key: true,
+    tags: ["备忘录", "互联网", "战略转向", "经典"],
+    sources: [
+      {
+        id: "wikipedia-internet-tidal-wave",
+        url: "https://en.wikipedia.org/wiki/The_Internet_Tidal_Wave",
+        kind: "article",
+        title: "The Internet Tidal Wave (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1995-11 The Road Ahead ============
+  {
+    id: "gates-1995-11-road-ahead",
+    person_id: "gates",
+    date: "1995-11-16",
+    date_precision: "day",
+    type: "writing",
+    title: "出版《未来之路》",
+    title_en: "Publishes 'The Road Ahead'",
+    summary:
+      "盖茨出版第一本书《The Road Ahead》（未来之路），与 Nathan Myhrvold 和 Peter Rinearson 合著。书中展望了信息高速公路的未来，但有趣的是初版低估了互联网的重要性——更看好微软自建的封闭网络 MSN。半年后，在写了\"互联网浪潮\"备忘录之后，他修订了平装版，大幅增加了关于互联网的内容。该书登上《纽约时报》畅销书榜首七周。",
+    summary_en:
+      "Gates published his first book, 'The Road Ahead,' co-authored with Nathan Myhrvold and Peter Rinearson. The book envisioned the future of the information superhighway, but notably, the first edition underestimated the Internet's importance — favoring Microsoft's closed MSN network. Six months later, after writing the 'Internet Tidal Wave' memo, Gates revised the paperback edition to heavily emphasize the Internet. The book topped the New York Times bestseller list for seven weeks.",
+    location: "Redmond, WA",
+    key: false,
+    tags: ["著作", "互联网", "未来预测"],
+    sources: [
+      {
+        id: "wikipedia-road-ahead",
+        url: "https://en.wikipedia.org/wiki/The_Road_Ahead_(Gates_book)",
+        kind: "article",
+        title: "The Road Ahead (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1998-05 US v Microsoft antitrust ============
+  {
+    id: "gates-1998-05-18-antitrust",
+    person_id: "gates",
+    date: "1998-05-18",
+    date_precision: "day",
+    type: "career",
+    title: "美国司法部反垄断诉讼",
+    title_en: "U.S. v. Microsoft antitrust lawsuit filed",
+    summary:
+      "美国司法部和 20 个州联合起诉微软，指控其滥用操作系统垄断地位，将 IE 浏览器捆绑进 Windows 以打压 Netscape。盖茨在录像取证中的表现备受争议——他反复回答\"我不记得了\"，显得回避且傲慢。2000 年法官 Thomas Penfield Jackson 裁定微软违反反垄断法并下令拆分公司。微软上诉后，2001 年达成和解，公司免于被拆分但受到行为限制。这场诉讼深刻改变了盖茨的公众形象，也被认为是他从微软日常管理退出、转向慈善的催化剂之一。",
+    summary_en:
+      "The U.S. Department of Justice and 20 state attorneys general filed an antitrust suit against Microsoft, alleging it had abused its operating system monopoly by bundling Internet Explorer with Windows to crush Netscape. Gates's videotaped deposition was widely criticized — he repeatedly answered 'I don't recall' and appeared evasive and arrogant. In 2000 Judge Thomas Penfield Jackson ruled Microsoft had violated antitrust law and ordered the company broken up. Microsoft appealed and reached a settlement in 2001 that preserved the company but imposed behavioral restrictions. The case profoundly altered Gates's public image and is widely seen as a catalyst for his gradual withdrawal from Microsoft's daily management and pivot to philanthropy.",
+    location: "Washington, D.C.",
+    key: true,
+    tags: ["反垄断", "法律", "IE", "Netscape"],
+    sources: [
+      {
+        id: "wikipedia-us-v-microsoft",
+        url: "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+        kind: "article",
+        title: "United States v. Microsoft Corp. (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1999-01 Business @ Speed of Thought ============
+  {
+    id: "gates-1999-01-business-speed-thought",
+    person_id: "gates",
+    date: "1999-01-01",
+    date_precision: "month",
+    type: "writing",
+    title: "出版《思维的速度》",
+    title_en: "Publishes 'Business @ the Speed of Thought'",
+    summary:
+      "盖茨出版第二本书《Business @ the Speed of Thought》（思维的速度），与 Collins Hemingway 合著。书中提出\"数字神经系统\"的概念，主张企业应通过数字化信息流来加速决策。该书被翻译成 25 种语言，登上《纽约时报》和《华尔街日报》畅销书榜。",
+    summary_en:
+      "Gates published his second book, 'Business @ the Speed of Thought,' co-authored with Collins Hemingway. The book introduced the concept of a 'digital nervous system,' arguing that businesses should use digital information flow to accelerate decision-making. It was translated into 25 languages and made the New York Times and Wall Street Journal bestseller lists.",
+    location: "Redmond, WA",
+    key: false,
+    tags: ["著作", "商业", "数字化"],
+    sources: [
+      {
+        id: "wikipedia-business-speed-thought",
+        url: "https://en.wikipedia.org/wiki/Business_@_the_Speed_of_Thought",
+        kind: "article",
+        title: "Business @ the Speed of Thought (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2000-01 Gates Foundation ============
+  {
+    id: "gates-2000-01-gates-foundation",
+    person_id: "gates",
+    date: "2000-01-01",
+    date_precision: "month",
+    type: "founding",
+    title: "成立比尔及梅琳达·盖茨基金会",
+    title_en: "Establishes the Bill & Melinda Gates Foundation",
+    summary:
+      "盖茨夫妇将之前成立的 William H. Gates Foundation 和 Gates Learning Foundation 合并，正式创建比尔及梅琳达·盖茨基金会（BMGF），初始捐赠超过 200 亿美元。基金会聚焦全球健康（疟疾、HIV、疫苗）、教育和消除贫困。盖茨的父亲 William H. Gates Sr. 担任联合主席。这是全球历史上最大的私人慈善基金会，彻底改变了全球公共卫生和发展援助的格局。",
+    summary_en:
+      "The Gateses merged the existing William H. Gates Foundation and Gates Learning Foundation to formally create the Bill & Melinda Gates Foundation (BMGF), with initial endowment exceeding $20 billion. The foundation focused on global health (malaria, HIV, vaccines), education, and poverty eradication. Gates's father, William H. Gates Sr., served as co-chair. It became the largest private charitable foundation in history, fundamentally reshaping global public health and development aid.",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["慈善", "Gates Foundation", "全球健康"],
+    sources: [
+      {
+        id: "wikipedia-gates-foundation",
+        url: "https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation",
+        kind: "article",
+        title: "Bill & Melinda Gates Foundation (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2000-01 Steps down as CEO ============
+  {
+    id: "gates-2000-01-13-steps-down-ceo",
+    person_id: "gates",
+    date: "2000-01-13",
+    date_precision: "day",
+    type: "career",
+    title: "卸任微软 CEO，Ballmer 接任",
+    title_en: "Steps down as Microsoft CEO; Steve Ballmer takes over",
+    summary:
+      "盖茨将微软 CEO 职位交给大学室友兼多年搭档 Steve Ballmer，自己转任\"首席软件架构师\"（Chief Software Architect）。这一转变让盖茨可以专注于技术战略和产品方向，同时开始将更多时间投入基金会工作。他在反垄断案的压力下做出这一决定，标志着微软从\"盖茨时代\"向\"后盖茨时代\"的过渡开始。",
+    summary_en:
+      "Gates handed the Microsoft CEO role to his college friend and long-time partner Steve Ballmer, taking the new title of Chief Software Architect. The transition allowed Gates to focus on technology strategy and product direction while devoting increasing time to the foundation. Made partly under the pressure of the antitrust case, the move marked the beginning of Microsoft's transition from the 'Gates era' to the 'post-Gates era.'",
+    location: "Redmond, WA",
+    key: true,
+    tags: ["Microsoft", "领导层变动", "Steve Ballmer"],
+    sources: [
+      {
+        id: "wikipedia-gates-csa",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Microsoft",
+        kind: "article",
+        title: "Bill Gates — Microsoft (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2001-11-15 Xbox launch ============
+  {
+    id: "gates-2001-11-15-xbox-launch",
+    person_id: "gates",
+    date: "2001-11-15",
+    date_precision: "day",
+    type: "product",
+    title: "Xbox 游戏主机发布",
+    title_en: "Xbox console launches",
+    summary:
+      "微软推出第一款游戏主机 Xbox，正式进军由索尼和任天堂主导的家用游戏市场。盖茨亲自在拉斯维加斯的发布会上揭幕，与 Dwayne 'The Rock' Johnson 同台。Xbox 搭载了定制的英特尔处理器和 NVIDIA 显卡，首发游戏包括《Halo: Combat Evolved》——这款游戏成为 Xbox 的杀手级应用。虽然初代 Xbox 亏损数十亿美元，但它让微软成功打入了游戏行业，最终发展成一个每年数百亿美元收入的业务线。",
+    summary_en:
+      "Microsoft launched its first gaming console, the Xbox, entering the home gaming market dominated by Sony and Nintendo. Gates personally unveiled the console at a Las Vegas event alongside Dwayne 'The Rock' Johnson. The Xbox featured a custom Intel processor and NVIDIA graphics, with 'Halo: Combat Evolved' as its killer launch title. Though the original Xbox lost billions, it established Microsoft's foothold in gaming — a business line that would grow to tens of billions in annual revenue.",
+    location: "Las Vegas, NV / Redmond, WA",
+    key: true,
+    tags: ["Xbox", "游戏", "产品发布"],
+    sources: [
+      {
+        id: "wikipedia-xbox",
+        url: "https://en.wikipedia.org/wiki/Xbox_(console)",
+        kind: "article",
+        title: "Xbox (console) (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2005-02 TED talk on malaria ============
+  {
+    id: "gates-2005-02-ted-malaria",
+    person_id: "gates",
+    date: "2005-02-01",
+    date_precision: "month",
+    type: "speech",
+    title: "首次 TED 演讲：关于教育与疟疾",
+    title_en: "First TED talk: on education and malaria",
+    summary:
+      "盖茨在 TED 大会上发表演讲，呼吁关注全球教育不平等和疟疾问题。他指出每年有超过 100 万人死于疟疾，但由于受害者主要是贫穷国家的儿童，富裕世界对此漠不关心。这是盖茨作为慈善家在全球舞台上的重要亮相，标志着他公众身份从科技巨头向全球健康倡导者的转变。",
+    summary_en:
+      "Gates delivered a TED talk calling attention to global educational inequality and malaria. He pointed out that over one million people died of malaria annually, but because the victims were primarily children in poor countries, the wealthy world was largely indifferent. This was a significant appearance for Gates as a philanthropist on the global stage, marking his public identity shift from tech mogul to global health advocate.",
+    location: "Monterey, CA",
+    key: false,
+    tags: ["TED", "演讲", "疟疾", "慈善"],
+    sources: [
+      {
+        id: "ted-gates-2005",
+        url: "https://www.ted.com/talks/bill_gates_mosquitos_malaria_and_education",
+        kind: "video",
+        title: "Bill Gates: Mosquitos, malaria and education",
+        publisher: "TED",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2007-05-30 D5 with Steve Jobs ============
+  {
+    id: "gates-2007-05-30-d5-jobs",
+    person_id: "gates",
+    date: "2007-05-30",
+    date_precision: "day",
+    type: "interview",
+    title: "D5 大会与 Steve Jobs 历史性同台",
+    title_en: "Historic joint interview with Steve Jobs at D5 (All Things Digital)",
+    summary:
+      "Walt Mossberg 和 Kara Swisher 在 All Things Digital 第五届大会上把盖茨和乔布斯请上同一个舞台——两位老对手 30 多年来唯一一次的同台对谈，全长约 90 分钟。两人罕见地相互致敬：乔布斯肯定盖茨在软件和商业模式上的功劳；盖茨称赞乔布斯的产品直觉和设计。乔布斯引用了冰球运动员 Wayne Gretzky 的名言：\"滑向冰球将要到达的地方\"。两人最后谈到死亡和遗产。四年后乔布斯去世——这场对话成了绝唱。",
+    summary_en:
+      "Walt Mossberg and Kara Swisher brought Gates and Jobs together on stage at the fifth All Things Digital conference — the only joint appearance by the two rivals in over thirty years of competing, lasting roughly 90 minutes. The two showed rare mutual respect: Jobs credited Gates for software and business-model innovation; Gates praised Jobs's product instincts and design sense. Jobs quoted Wayne Gretzky: 'Skate to where the puck is going.' They ended by reflecting on mortality and legacy. Jobs died four years later — making this conversation their farewell.",
+    location: "Carlsbad, CA",
+    key: true,
+    tags: ["采访", "Steve Jobs", "经典", "D5"],
+    sources: [
+      {
+        id: "allthingsd-d5-interview-gates",
+        url: "https://allthingsd.com/20070530/d5-gates-jobs-interview/",
+        kind: "article",
+        title: "Bill Gates and Steve Jobs at D5",
+        publisher: "AllThingsD (Wall Street Journal)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "AllThingsD 当晚发表的现场报道，含视频片段和精彩瞬间整理。",
+        embed_url: "https://www.youtube.com/watch?v=Uau0aIbrzkQ",
+      },
+      {
+        id: "allthingsd-d5-transcript-gates",
+        url: "https://allthingsd.com/20070531/d5-gates-jobs-transcript",
+        kind: "transcript",
+        title: "TRANSCRIPT — Bill Gates and Steve Jobs at D5",
+        publisher: "AllThingsD (Wall Street Journal)",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+        summary: "全场 90 分钟对话的完整文字稿，由 Ubiqus Reporting 整理。",
+      },
+    ],
+    source_hints: "See also: jobs-2007-05-30-d5-gates in data/events/jobs.json",
+  },
+
+  // ============ 2008-06-27 Retires from daily Microsoft role ============
+  {
+    id: "gates-2008-06-27-retires-microsoft",
+    person_id: "gates",
+    date: "2008-06-27",
+    date_precision: "day",
+    type: "career",
+    title: "从微软日常工作退休，全职投入慈善",
+    title_en: "Retires from day-to-day Microsoft role to focus on philanthropy",
+    summary:
+      "盖茨正式从微软的全职工作退休，仅保留非执行董事长和顾问角色，将工作重心全面转向盖茨基金会。他在微软总部的告别仪式上说：\"对于下面要做的事情，和这里做过的事情相比也同样让人兴奋。\"在他的最后一天，微软为他制作了一段搞笑告别视频，其中有 Bono、Jay-Z 和 Steven Spielberg 等名人客串。",
+    summary_en:
+      "Gates officially retired from his full-time role at Microsoft, retaining only his position as non-executive chairman and advisor, and shifted his primary focus to the Gates Foundation. At his farewell ceremony at Microsoft headquarters, he said the work ahead was 'every bit as exciting as what we've done so far.' On his last day, Microsoft produced a humorous farewell video featuring cameos from Bono, Jay-Z, Steven Spielberg, and others.",
+    location: "Redmond, WA",
+    key: true,
+    tags: ["Microsoft", "退休", "慈善"],
+    sources: [
+      {
+        id: "wikipedia-gates-retirement-2008",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Post-Microsoft",
+        kind: "article",
+        title: "Bill Gates — Post-Microsoft (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2009-02 TED mosquitoes ============
+  {
+    id: "gates-2009-02-ted-mosquitoes",
+    person_id: "gates",
+    date: "2009-02-01",
+    date_precision: "month",
+    type: "speech",
+    title: "TED 演讲现场放出蚊子",
+    title_en: "Releases mosquitoes at TED talk on malaria",
+    summary:
+      "在 TED 大会关于疟疾的演讲中，盖茨突然打开一个玻璃罐，把蚊子放进会场，说：\"不只有穷人才应该体验这个。\"观众先是惊慌，然后意识到这些蚊子没有携带疟疾病毒，全场笑了起来。这一病毒式传播的时刻让疟疾话题登上了全球头条——这恰恰是盖茨的目的。",
+    summary_en:
+      "During a TED talk about malaria, Gates opened a jar of mosquitoes into the audience, saying: 'There's no reason only poor people should have the experience.' The audience initially panicked, then laughed upon learning the mosquitoes were not carrying malaria. The viral moment made global headlines for the malaria cause — exactly as Gates intended.",
+    location: "Long Beach, CA",
+    key: true,
+    tags: ["TED", "演讲", "疟疾", "经典"],
+    sources: [
+      {
+        id: "ted-gates-2009-mosquitoes",
+        url: "https://www.ted.com/talks/bill_gates_mosquitos_malaria_and_education",
+        kind: "video",
+        title: "Bill Gates: Mosquitos, malaria and education",
+        publisher: "TED",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2010-06 The Giving Pledge ============
+  {
+    id: "gates-2010-06-giving-pledge",
+    person_id: "gates",
+    date: "2010-06-16",
+    date_precision: "day",
+    type: "life",
+    title: "与 Warren Buffett 发起\"捐赠誓言\"",
+    title_en: "Launches The Giving Pledge with Warren Buffett",
+    summary:
+      "盖茨和好友沃伦·巴菲特联合发起\"捐赠誓言\"（The Giving Pledge），邀请全球亿万富翁承诺在有生之年或去世时将过半财富捐给慈善事业。首批签署者包括 Larry Ellison、Michael Bloomberg 等 40 位亿万富翁。截至 2023 年，已有来自 28 个国家的超过 230 位富翁签署。这一倡议彻底改变了超级富豪的慈善文化，被称为\"慈善界的社会契约\"。",
+    summary_en:
+      "Gates and his friend Warren Buffett launched The Giving Pledge, inviting the world's billionaires to commit to donating more than half their wealth to charitable causes during their lifetime or upon death. The first cohort of 40 signatories included Larry Ellison and Michael Bloomberg. By 2023, more than 230 billionaires from 28 countries had signed on. The initiative fundamentally shifted the philanthropic culture of the ultra-wealthy and has been called 'a social contract for philanthropy.'",
+    location: "New York, NY",
+    key: true,
+    tags: ["慈善", "Warren Buffett", "Giving Pledge"],
+    sources: [
+      {
+        id: "wikipedia-giving-pledge",
+        url: "https://en.wikipedia.org/wiki/The_Giving_Pledge",
+        kind: "article",
+        title: "The Giving Pledge (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2014-02-04 Steps down as chairman ============
+  {
+    id: "gates-2014-02-04-steps-down-chairman",
+    person_id: "gates",
+    date: "2014-02-04",
+    date_precision: "day",
+    type: "career",
+    title: "卸任微软董事长，Satya Nadella 成为新 CEO",
+    title_en: "Steps down as Microsoft chairman; Satya Nadella becomes CEO",
+    summary:
+      "盖茨辞去微软董事长一职，改任\"技术顾问\"，帮助新 CEO Satya Nadella（接替 Steve Ballmer）制定技术愿景。John Thompson 接任董事长。盖茨此后将大约 70% 的时间投入基金会工作。Nadella 的上任标志着微软开始了\"云优先、移动优先\"的战略转型，后来在 Nadella 领导下微软市值从 3,000 亿美元增长到超过 3 万亿美元。",
+    summary_en:
+      "Gates stepped down as Microsoft chairman, becoming a 'technology advisor' to help newly appointed CEO Satya Nadella (replacing Steve Ballmer) shape the company's technology vision. John Thompson became chairman. Gates thereafter devoted roughly 70% of his time to foundation work. Nadella's appointment marked the start of Microsoft's 'cloud-first, mobile-first' strategic transformation — under his leadership, Microsoft's market cap grew from $300 billion to over $3 trillion.",
+    location: "Redmond, WA",
+    key: true,
+    tags: ["Microsoft", "领导层变动", "Satya Nadella"],
+    sources: [
+      {
+        id: "wikipedia-gates-chairman",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Post-Microsoft",
+        kind: "article",
+        title: "Bill Gates — Post-Microsoft (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2015-03 TED talk on pandemics ============
+  {
+    id: "gates-2015-03-ted-pandemics",
+    person_id: "gates",
+    date: "2015-03-01",
+    date_precision: "month",
+    type: "speech",
+    title: "TED 演讲预警全球大流行",
+    title_en: "TED talk warns the world is not ready for the next pandemic",
+    summary:
+      "盖茨在 TED 大会上发表题为\"下一次疫情？我们还没准备好\"的演讲，警告说全球面临的最大威胁不是核战争，而是一种高传染性的流感病毒。他呼吁各国投资于疫病监测系统、快速疫苗研发平台和医疗储备。这场演讲在当时并未引起太大关注，但五年后 COVID-19 大流行爆发时，它被数千万人重新观看，成为 TED 历史上观看次数最多的演讲之一。",
+    summary_en:
+      "Gates delivered a TED talk titled 'The next outbreak? We're not ready,' warning that the greatest threat to humanity was not nuclear war but a highly infectious virus. He called for investment in disease surveillance systems, rapid vaccine-development platforms, and medical reserves. The talk received modest attention at the time, but when the COVID-19 pandemic erupted five years later, it was viewed tens of millions of times and became one of the most-watched TED talks in history.",
+    location: "Vancouver, BC",
+    key: true,
+    tags: ["TED", "演讲", "大流行", "COVID-19", "预警"],
+    sources: [
+      {
+        id: "ted-gates-2015-pandemic",
+        url: "https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready",
+        kind: "video",
+        title: "Bill Gates: The next outbreak? We're not ready",
+        publisher: "TED",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2015-11 Breakthrough Energy ============
+  {
+    id: "gates-2015-11-breakthrough-energy",
+    person_id: "gates",
+    date: "2015-11-30",
+    date_precision: "day",
+    type: "founding",
+    title: "创立突破能源联盟",
+    title_en: "Launches Breakthrough Energy coalition",
+    summary:
+      "在巴黎气候大会（COP21）期间，盖茨宣布创立突破能源联盟（Breakthrough Energy），包括突破能源风投基金（BEV）。该联盟汇集了 Jeff Bezos、Jack Ma、Richard Branson 等 28 位亿万富翁投资者，承诺投资超过 10 亿美元于清洁能源创新技术。盖茨认为解决气候变化需要在能源领域实现\"从零到一\"的技术突破，而不仅仅是扩大现有技术的规模。",
+    summary_en:
+      "At the Paris Climate Conference (COP21), Gates announced the Breakthrough Energy coalition, including the Breakthrough Energy Ventures (BEV) fund. The coalition brought together 28 billionaire investors — including Jeff Bezos, Jack Ma, and Richard Branson — committing over $1 billion to clean-energy innovation. Gates argued that solving climate change required 'zero-to-one' technological breakthroughs in energy, not merely scaling existing technologies.",
+    location: "Paris, France",
+    key: true,
+    tags: ["气候", "能源", "Breakthrough Energy", "投资"],
+    sources: [
+      {
+        id: "wikipedia-breakthrough-energy",
+        url: "https://en.wikipedia.org/wiki/Breakthrough_Energy",
+        kind: "article",
+        title: "Breakthrough Energy (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2019-09 Netflix documentary ============
+  {
+    id: "gates-2019-09-netflix-inside-bills-brain",
+    person_id: "gates",
+    date: "2019-09-20",
+    date_precision: "day",
+    type: "interview",
+    title: "Netflix 纪录片《走进比尔》上线",
+    title_en: "Netflix documentary 'Inside Bill's Brain: Decoding Bill Gates' premieres",
+    summary:
+      "Netflix 推出三集纪录片《Inside Bill's Brain: Decoding Bill Gates》（走进比尔：解码比尔·盖茨），由导演 Davis Guggenheim（《难以忽视的真相》导演）执导。纪录片深入探索盖茨的思维方式、阅读习惯、基金会工作（尤其是厕所革命和核能项目），以及他与 Melinda 的关系。影片展现了一个极度理性、信息饥渴、每年读 50 本书的知识分子形象。",
+    summary_en:
+      "Netflix released the three-part documentary 'Inside Bill's Brain: Decoding Bill Gates,' directed by Davis Guggenheim (director of 'An Inconvenient Truth'). The film explored Gates's thinking process, reading habits, foundation work (especially the reinvented toilet and nuclear energy projects), and his relationship with Melinda. It portrayed an intensely rational, information-hungry intellectual who reads about 50 books a year.",
+    location: "Los Angeles, CA",
+    key: false,
+    tags: ["纪录片", "Netflix", "阅读"],
+    sources: [
+      {
+        id: "wikipedia-inside-bills-brain",
+        url: "https://en.wikipedia.org/wiki/Inside_Bill%27s_Brain:_Decoding_Bill_Gates",
+        kind: "article",
+        title: "Inside Bill's Brain: Decoding Bill Gates (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2020-03 Microsoft board resignation ============
+  {
+    id: "gates-2020-03-13-leaves-microsoft-board",
+    person_id: "gates",
+    date: "2020-03-13",
+    date_precision: "day",
+    type: "career",
+    title: "辞去微软董事会职务",
+    title_en: "Resigns from Microsoft board of directors",
+    summary:
+      "盖茨宣布辞去微软和伯克希尔·哈撒韦的董事会职务，以\"将更多时间用于慈善优先事项，包括全球健康与发展、教育和应对气候变化\"。这标志着盖茨与他 45 年前联合创立的公司彻底脱离了正式治理关系。此时他仍持有微软约 1.3% 的股份。",
+    summary_en:
+      "Gates announced his resignation from the boards of Microsoft and Berkshire Hathaway to 'dedicate more time to philanthropic priorities including global health and development, education, and climate change.' This marked Gates's complete formal separation from the governance of the company he had co-founded 45 years earlier. He still held about 1.3% of Microsoft shares at the time.",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["Microsoft", "董事会", "退出"],
+    sources: [
+      {
+        id: "wikipedia-gates-board-exit",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Post-Microsoft",
+        kind: "article",
+        title: "Bill Gates — Post-Microsoft (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2020 COVID vaccine funding ============
+  {
+    id: "gates-2020-04-covid-vaccine-funding",
+    person_id: "gates",
+    date: "2020-04-01",
+    date_precision: "month",
+    type: "life",
+    title: "大规模资助 COVID-19 疫苗研发",
+    title_en: "Massively funds COVID-19 vaccine development",
+    summary:
+      "COVID-19 大流行爆发后，盖茨基金会成为全球疫苗研发的最大私人资助者之一。基金会承诺超过 17.5 亿美元用于疫苗研发、生产和分配，资助了包括 CEPI、Gavi 和 WHO 在内的多个组织。盖茨本人接受了大量媒体采访，成为疫情期间最具影响力的公共卫生倡导者之一——但也因此成为阴谋论的目标。他 2015 年 TED 演讲中的预警被数千万人重新观看。",
+    summary_en:
+      "After the COVID-19 pandemic erupted, the Gates Foundation became one of the largest private funders of global vaccine development, pledging over $1.75 billion for vaccine R&D, manufacturing, and distribution through organizations including CEPI, Gavi, and WHO. Gates became one of the most influential public health advocates during the pandemic through extensive media appearances — but also became a target of conspiracy theories. His 2015 TED warning was viewed tens of millions of times.",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["COVID-19", "疫苗", "慈善", "Gates Foundation"],
+    sources: [
+      {
+        id: "wikipedia-gates-covid",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#COVID-19",
+        kind: "article",
+        title: "Bill Gates — COVID-19 (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2021-02 How to Avoid a Climate Disaster ============
+  {
+    id: "gates-2021-02-climate-disaster-book",
+    person_id: "gates",
+    date: "2021-02-16",
+    date_precision: "day",
+    type: "writing",
+    title: "出版《如何避免气候灾难》",
+    title_en: "Publishes 'How to Avoid a Climate Disaster'",
+    summary:
+      "盖茨出版第三本书《How to Avoid a Climate Disaster》（如何避免气候灾难），系统阐述了将全球温室气体排放降至零所需的技术和政策。书中提出\"绿色溢价\"（Green Premium）的概念框架——即清洁替代方案与化石燃料方案之间的成本差距。盖茨认为创新和投资可以缩小这个差距，使绿色转型变得经济上可行。该书成为《纽约时报》畅销书，也是盖茨在气候领域影响力的集中体现。",
+    summary_en:
+      "Gates published his third book, 'How to Avoid a Climate Disaster,' systematically outlining the technologies and policies needed to bring global greenhouse gas emissions to zero. The book introduced the 'Green Premium' conceptual framework — the cost gap between clean alternatives and fossil-fuel solutions. Gates argued that innovation and investment could close this gap, making the green transition economically viable. The book became a New York Times bestseller and represented the culmination of Gates's influence in the climate space.",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["著作", "气候", "能源", "Green Premium"],
+    sources: [
+      {
+        id: "wikipedia-climate-disaster-book",
+        url: "https://en.wikipedia.org/wiki/How_to_Avoid_a_Climate_Disaster",
+        kind: "article",
+        title: "How to Avoid a Climate Disaster (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2021-05-03 Divorce ============
+  {
+    id: "gates-2021-05-03-divorce",
+    person_id: "gates",
+    date: "2021-05-03",
+    date_precision: "day",
+    type: "life",
+    title: "与 Melinda 宣布离婚",
+    title_en: "Announces divorce from Melinda",
+    summary:
+      "盖茨和 Melinda 联合发表声明，宣布结束 27 年的婚姻。声明称\"我们不再相信作为夫妻可以在人生的下一个阶段共同成长\"。离婚引发了对盖茨基金会未来的广泛关注。后续报道揭示盖茨与 Jeffrey Epstein 的会面以及婚内不当行为。离婚于 2021 年 8 月正式完成。基金会随后经历了重组——Melinda 最终于 2024 年辞去联合主席职务。",
+    summary_en:
+      "Gates and Melinda issued a joint statement announcing the end of their 27-year marriage, saying 'we no longer believe we can grow together as a couple in this next phase of our lives.' The divorce raised widespread concerns about the future of the Gates Foundation. Subsequent reporting revealed Gates's meetings with Jeffrey Epstein and workplace misconduct. The divorce was finalized in August 2021. The foundation later underwent restructuring — Melinda ultimately resigned as co-chair in 2024.",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["离婚", "Melinda Gates", "家庭"],
+    sources: [
+      {
+        id: "wikipedia-gates-divorce",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Personal_life",
+        kind: "article",
+        title: "Bill Gates — Personal life (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2022-10 GatesNotes blog on AI ============
+  {
+    id: "gates-2023-03-age-of-ai",
+    person_id: "gates",
+    date: "2023-03-21",
+    date_precision: "day",
+    type: "writing",
+    title: "发表文章《人工智能时代已经开始》",
+    title_en: "Publishes 'The Age of AI has begun' on GatesNotes",
+    summary:
+      "盖茨在个人博客 GatesNotes 上发表长文《The Age of AI has begun》，称 ChatGPT/GPT-4 的出现是他一生中见过的两次革命性技术演示之一（另一次是 1980 年的图形用户界面）。他描述了让 OpenAI 团队用 GPT-4 做 AP 生物学考试的经过——AI 拿了 59/60 分。他将 AI 比作微处理器、PC、互联网和手机的发明，认为它将改变人们工作、学习、旅行、获取医疗和沟通的方式。",
+    summary_en:
+      "Gates published a long essay titled 'The Age of AI has begun' on his blog GatesNotes, calling the emergence of ChatGPT/GPT-4 one of only two revolutionary technology demonstrations he had witnessed in his lifetime (the other being the graphical user interface in 1980). He described challenging the OpenAI team to have GPT-4 take an AP Biology exam — it scored 59 out of 60. He compared AI to the invention of the microprocessor, PC, Internet, and mobile phone, predicting it would transform how people work, learn, travel, get healthcare, and communicate.",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["AI", "OpenAI", "GatesNotes", "ChatGPT"],
+    sources: [
+      {
+        id: "gatesnotes-age-of-ai",
+        url: "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun",
+        kind: "article",
+        title: "The Age of AI has begun",
+        publisher: "GatesNotes",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 2023-09 Source Code book ============
+  {
+    id: "gates-2025-02-source-code",
+    person_id: "gates",
+    date: "2025-02-04",
+    date_precision: "day",
+    type: "writing",
+    title: "出版回忆录《源代码》",
+    title_en: "Publishes memoir 'Source Code: My Beginnings'",
+    summary:
+      "盖茨出版个人回忆录《Source Code: My Beginnings》（源代码），记述了他从出生到创立微软之间的成长经历。书中坦诚地回顾了他的家庭背景、在湖滨中学的编程启蒙、与 Paul Allen 的友谊、在哈佛的经历，以及创业初期的种种细节。这是盖茨首次以第一人称系统性地讲述自己的早年故事。",
+    summary_en:
+      "Gates published his personal memoir 'Source Code: My Beginnings,' covering his life from birth through the founding of Microsoft. The book offered a candid look at his family background, his programming awakening at Lakeside School, his friendship with Paul Allen, his Harvard years, and the details of starting Microsoft. It was the first time Gates had systematically told his early life story in his own voice.",
+    location: "Seattle, WA",
+    key: true,
+    tags: ["著作", "回忆录", "自传"],
+    sources: [
+      {
+        id: "wikipedia-source-code-book",
+        url: "https://en.wikipedia.org/wiki/Source_Code:_My_Beginnings",
+        kind: "article",
+        title: "Source Code: My Beginnings (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ Charlie Rose interview 2008 ============
+  {
+    id: "gates-2008-01-charlie-rose",
+    person_id: "gates",
+    date: "2008-01-29",
+    date_precision: "day",
+    type: "interview",
+    title: "Charlie Rose 深度访谈：退休前夜",
+    title_en: "Charlie Rose interview on eve of Microsoft retirement",
+    summary:
+      "盖茨在即将从微软全职工作退休之际，接受了 Charlie Rose 的长篇深度访谈。他回顾了微软 33 年的历程、与 Paul Allen 和 Steve Ballmer 的合作、对科技未来的看法，以及转向全职慈善工作的动机。盖茨坦言反垄断案改变了他看待权力和公众形象的方式。",
+    summary_en:
+      "On the eve of his retirement from full-time work at Microsoft, Gates sat for an extensive interview with Charlie Rose. He reflected on Microsoft's 33-year journey, his partnerships with Paul Allen and Steve Ballmer, his views on the future of technology, and his motivation for transitioning to full-time philanthropy. Gates candidly acknowledged that the antitrust case changed how he viewed power and public perception.",
+    location: "New York, NY",
+    key: false,
+    tags: ["采访", "Charlie Rose", "退休"],
+    sources: [
+      {
+        id: "charlierose-gates-2008",
+        url: "https://charlierose.com/episodes/12801",
+        kind: "video",
+        title: "Bill Gates (January 29, 2008)",
+        publisher: "Charlie Rose",
+        lang: "en",
+        primary: true,
+        ...HUMAN,
+      },
+    ],
+    source_hints: null,
+  },
+
+  // ============ 1987 Forbes youngest billionaire ============
+  {
+    id: "gates-1987-forbes-youngest-billionaire",
+    person_id: "gates",
+    date: "1987-01-01",
+    date_precision: "year",
+    type: "award",
+    title: "31 岁登上《福布斯》亿万富翁榜",
+    title_en: "Becomes youngest self-made billionaire on Forbes list at 31",
+    summary:
+      "31 岁的盖茨首次登上《福布斯》全球亿万富翁榜单，成为当时美国历史上最年轻的白手起家亿万富翁。此后他连续多年蝉联世界首富。从 1995 年到 2017 年的 23 年中，他有 18 年占据《福布斯》全球首富的位置。",
+    summary_en:
+      "At 31, Gates appeared on the Forbes World's Billionaires list for the first time, becoming the youngest self-made billionaire in American history. He would remain at or near the top for decades. Over the 23 years from 1995 to 2017, he held the Forbes number-one spot 18 times.",
+    location: "Redmond, WA",
+    key: false,
+    tags: ["福布斯", "亿万富翁", "里程碑"],
+    sources: [
+      {
+        id: "wikipedia-gates-wealth",
+        url: "https://en.wikipedia.org/wiki/Bill_Gates#Wealth",
+        kind: "article",
+        title: "Bill Gates — Wealth (Wikipedia)",
+        publisher: "Wikipedia",
+        lang: "en",
+        primary: false,
+        ...CCBYSA,
+      },
+    ],
+    source_hints: null,
+  },
+];
+
+const toAdd = newEvents.filter((e) => !existingIds.has(e.id));
+const skipped = newEvents.length - toAdd.length;
+
+if (toAdd.length === 0) {
+  console.log("nothing to add");
+  process.exit(0);
+}
+
+const merged = [...events, ...toAdd].sort((a, b) =>
+  a.date.localeCompare(b.date)
+);
+
+fs.writeFileSync(filePath, JSON.stringify(merged, null, 2) + "\n");
+console.log(
+  `added ${toAdd.length} gates events (skipped ${skipped}); total now ${merged.length}`
+);

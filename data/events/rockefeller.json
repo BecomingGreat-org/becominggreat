@@ -40,6 +40,18 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-rockefeller-original-billionaire",
+        "url": "https://www.youtube.com/watch?v=iN8prtqM35s",
+        "kind": "video",
+        "title": "Rockefeller - The Original Billionaire Documentary",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -537,6 +549,18 @@
         "license": "public-domain",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-men-who-built-america-s1e1",
+        "url": "https://www.youtube.com/watch?v=DydmaedDIhE",
+        "kind": "video",
+        "title": "The Men Who Built America: A New War Changes the Country Forever (S1, E1) | Full Episode | History",
+        "publisher": "History Channel",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -581,6 +605,18 @@
         "lang": "en",
         "primary": false,
         "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-standard-oil-monopoly",
+        "url": "https://www.youtube.com/watch?v=4xmsmb4hTeE",
+        "kind": "video",
+        "title": "Story of Standard Oil: Monopoly that Changed America",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }
@@ -674,6 +710,18 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-rockefeller-oil-empire",
+        "url": "https://www.youtube.com/watch?v=9saLsvWcppw",
+        "kind": "video",
+        "title": "How Rockefeller Built His Trillion Dollar Oil Empire",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -760,6 +808,18 @@
         "kind": "article",
         "title": "John D. Rockefeller | Biography, Industry, Philanthropy & Facts",
         "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-men-who-built-america-gilded-age",
+        "url": "https://www.youtube.com/watch?v=WwyQTaab8J4",
+        "kind": "video",
+        "title": "Business Titans Rise in the Gilded Age | The Men Who Built America (S1, E1) | Full Episode | History",
+        "publisher": "History Channel",
         "lang": "en",
         "primary": false,
         "license": "all-rights-reserved",
@@ -1478,6 +1538,18 @@
         "lang": "en",
         "primary": false,
         "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-rockefeller-first-billionaire",
+        "url": "https://www.youtube.com/watch?v=fNh_GyRbJDA",
+        "kind": "video",
+        "title": "Rockefeller: The World's First Billionaire",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }

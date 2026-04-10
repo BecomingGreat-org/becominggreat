@@ -505,7 +505,8 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=VtvjbmoDx-I"
       }
     ],
     "source_hints": null,
@@ -1021,7 +1022,8 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=TRZAJY23xio"
       },
       {
         "id": "cringely-lost-interview-story",
@@ -1631,7 +1633,8 @@
             "speaker": "Steve Jobs",
             "context": "发布会上的核心宣言"
           }
-        ]
+        ],
+        "embed_url": "https://www.youtube.com/watch?v=kN0SVBCJqLs"
       }
     ],
     "source_hints": null,
@@ -2060,7 +2063,8 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=MnrJzXM7a6o"
       }
     ],
     "source_hints": null,

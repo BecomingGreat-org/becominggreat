@@ -584,6 +584,19 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-munger-worldly-wisdom-usc",
+        "url": "https://www.youtube.com/watch?v=vP2QPLGnjGo",
+        "kind": "video",
+        "title": "Charlie Munger Lecture: Elementary Worldly Wisdom as it Relates to Investing & Business",
+        "publisher": "IDP (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "芒格 1994 年 USC 商学院经典演讲《论基本的、普世的智慧》录音/视频，首次系统阐述心智模型格栅理论。"
       }
     ],
     "source_hints": "Full text published in Outstanding Investor Digest (1994) and Poor Charlie's Almanack"
@@ -1067,7 +1080,34 @@
       "金融危机",
       "资本主义"
     ],
-    "sources": [],
+    "sources": [
+      {
+        "id": "youtube-munger-bbc-interview",
+        "url": "https://www.youtube.com/watch?v=cVTX1BkJGn0",
+        "kind": "video",
+        "title": "Charlie Munger: Sitting With The BBC",
+        "publisher": "Charles T. Munger (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "芒格接受 BBC 专访，讨论资本主义、金融危机后的经济前景及投资哲学。"
+      },
+      {
+        "id": "youtube-munger-bbc-boom-bust",
+        "url": "https://www.youtube.com/watch?v=3XlBrohrIUc",
+        "kind": "video",
+        "title": "BBC NEWS Business Charlie Munger Boom and Bust Is Normal",
+        "publisher": "valueinvestingpro (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "BBC 新闻报道芒格关于经济繁荣与萧条周期的观点。"
+      }
+    ],
     "source_hints": null
   },
   {
@@ -1177,6 +1217,58 @@
         "authored_by": "human",
         "mentions": [],
         "summary": "2017 年 Daily Journal 年会全程录像——典型的芒格式多小时问答。"
+      },
+      {
+        "id": "youtube-munger-daily-journal-2018",
+        "url": "https://www.youtube.com/watch?v=cMLzrSEBqfY",
+        "kind": "video",
+        "title": "2018 Daily Journal Annual Meeting with Charlie Munger",
+        "publisher": "Buffett Online (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2018 年 Daily Journal 年度股东大会全程（2 月 14 日）。芒格讨论投资哲学、中国和多学科思维。"
+      },
+      {
+        "id": "youtube-munger-daily-journal-2019",
+        "url": "https://www.youtube.com/watch?v=T6kEVtlc0vQ",
+        "kind": "video",
+        "title": "2019 Daily Journal Annual Meeting with Charlie Munger",
+        "publisher": "Buffett Online (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2019 年 Daily Journal 年度股东大会全程。芒格谈及心智模型、能力圈与护城河。"
+      },
+      {
+        "id": "youtube-munger-daily-journal-2021",
+        "url": "https://www.youtube.com/watch?v=cMKrFPde_W8",
+        "kind": "video",
+        "title": "2021 Daily Journal Annual Meeting with Charlie Munger",
+        "publisher": "Buffett Online (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2021 年 Daily Journal 年度股东大会全程。芒格讨论 Robinhood、SPAC 泡沫、比特币和市场投机。"
+      },
+      {
+        "id": "youtube-munger-daily-journal-2022",
+        "url": "https://www.youtube.com/watch?v=22faKkazye4",
+        "kind": "video",
+        "title": "2022 Daily Journal Annual Meeting",
+        "publisher": "Buffett Online (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "2022 年 Daily Journal 年度股东大会全程（2 月 16 日）。98 岁的芒格讨论通胀、利率和中国投资。"
       }
     ],
     "source_hints": null
@@ -1517,7 +1609,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "embed_url": "https://www.youtube.com/watch?v=CRTxSAO7gg8"
+        "embed_url": "https://www.youtube.com/watch?v=e2YgnLewpN4"
       }
     ],
     "source_hints": "Stripe Press edition; Patrick Collison announced via Twitter/X"
