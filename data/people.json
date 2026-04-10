@@ -34,5 +34,77 @@
     "died": "2023-11-28",
     "tagline": "伯克希尔·哈撒韦副主席，巴菲特长期搭档",
     "tagline_en": "Vice Chairman of Berkshire Hathaway, Buffett's longtime partner"
+  },
+  {
+    "id": "yang",
+    "name_zh": "杨振宁",
+    "name_en": "Chen-Ning Yang",
+    "born": "1922-10-01",
+    "died": null,
+    "tagline": "诺贝尔物理学奖得主，杨-米尔斯理论创立者",
+    "tagline_en": "Nobel Laureate in Physics, co-creator of Yang\u2013Mills theory"
+  },
+  {
+    "id": "huang",
+    "name_zh": "黄仁勋",
+    "name_en": "Jensen Huang",
+    "born": "1963-02-17",
+    "died": null,
+    "tagline": "NVIDIA 联合创始人兼 CEO，GPU 计算与 AI 革命推动者",
+    "tagline_en": "Co-founder & CEO of NVIDIA, architect of the GPU computing and AI revolution"
+  },
+  {
+    "id": "gates",
+    "name_zh": "比尔·盖茨",
+    "name_en": "Bill Gates",
+    "born": "1955-10-28",
+    "died": null,
+    "tagline": "微软联合创始人，盖茨基金会联合主席",
+    "tagline_en": "Co-founder of Microsoft, Co-chair of the Gates Foundation"
+  },
+  {
+    "id": "buffett",
+    "name_zh": "沃伦·巴菲特",
+    "name_en": "Warren Buffett",
+    "born": "1930-08-30",
+    "died": null,
+    "tagline": "伯克希尔·哈撒韦董事长，\"奥马哈的先知\"",
+    "tagline_en": "Chairman of Berkshire Hathaway, the \"Oracle of Omaha\""
+  },
+  {
+    "id": "bezos",
+    "name_zh": "杰夫·贝佐斯",
+    "name_en": "Jeff Bezos",
+    "born": "1964-01-12",
+    "died": null,
+    "tagline": "亚马逊创始人，Blue Origin 创始人",
+    "tagline_en": "Founder of Amazon and Blue Origin"
+  },
+  {
+    "id": "franklin",
+    "name_zh": "本杰明·富兰克林",
+    "name_en": "Benjamin Franklin",
+    "born": "1706-01-17",
+    "died": "1790-04-17",
+    "tagline": "美国国父，发明家、科学家、外交家、出版商",
+    "tagline_en": "Founding Father, inventor, scientist, diplomat, publisher"
+  },
+  {
+    "id": "disney",
+    "name_zh": "华特·迪士尼",
+    "name_en": "Walt Disney",
+    "born": "1901-12-05",
+    "died": "1966-12-15",
+    "tagline": "迪士尼帝国创始人，现代动画与主题乐园先驱",
+    "tagline_en": "Creator of the Disney empire, pioneer of modern animation and theme parks"
+  },
+  {
+    "id": "carnegie",
+    "name_zh": "安德鲁·卡内基",
+    "name_en": "Andrew Carnegie",
+    "born": "1835-11-25",
+    "died": "1919-08-11",
+    "tagline": "卡内基钢铁创始人，《财富的福音》作者，现代慈善先驱",
+    "tagline_en": "Founder of Carnegie Steel, author of 'The Gospel of Wealth', pioneer of modern philanthropy"
   }
 ]
