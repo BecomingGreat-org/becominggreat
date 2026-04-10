@@ -787,20 +787,7 @@
       "AI",
       "SpaceX"
     ],
-    "sources": [
-      {
-        "id": "youtube-musk-mit-2014",
-        "url": "https://www.youtube.com/watch?v=h97fXhDN5qE",
-        "kind": "video",
-        "title": "Elon Musk | MIT AeroAstro Centennial Symposium (2014)",
-        "publisher": "MIT AeroAstro (YouTube)",
-        "lang": "en",
-        "primary": true,
-        "license": "all-rights-reserved",
-        "authored_by": "human",
-        "mentions": []
-      }
-    ],
+    "sources": [],
     "source_hints": null
   },
   {
