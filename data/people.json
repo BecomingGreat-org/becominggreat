@@ -40,7 +40,7 @@
     "name_zh": "杨振宁",
     "name_en": "Chen-Ning Yang",
     "born": "1922-10-01",
-    "died": null,
+    "died": "2025-10-18",
     "tagline": "诺贝尔物理学奖得主，杨-米尔斯理论创立者",
     "tagline_en": "Nobel Laureate in Physics, co-creator of Yang\u2013Mills theory"
   },
@@ -68,8 +68,8 @@
     "name_en": "Warren Buffett",
     "born": "1930-08-30",
     "died": null,
-    "tagline": "伯克希尔·哈撒韦董事长，\"奥马哈的先知\"",
-    "tagline_en": "Chairman of Berkshire Hathaway, the \"Oracle of Omaha\""
+    "tagline": "伯克希尔·哈撒韦前 CEO 及董事长，\"奥马哈的先知\"",
+    "tagline_en": "Former CEO & Chairman of Berkshire Hathaway, the \"Oracle of Omaha\""
   },
   {
     "id": "bezos",

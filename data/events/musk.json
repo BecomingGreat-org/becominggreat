@@ -623,7 +623,12 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "NASA Johnson 中心官方频道。ISS 宇航员打开 Dragon 货舱门、欢迎史上第一艘商业航天器抵达空间站的现场录像。"
+        "summary": "NASA Johnson 中心官方频道。ISS 宇航员打开 Dragon 货舱门、欢迎史上第一艘商业航天器抵达空间站的现场录像。",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250105083738if_/https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbGoJ66WNapE",
+          "timestamp": "20250105083738",
+          "archived_at": "2025-01-05"
+        }
       }
     ],
     "source_hints": null,
@@ -656,6 +661,23 @@
         "lang": "en",
         "primary": false,
         "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241228041039if_/https://en.wikipedia.org/wiki/Tesla_Model_S",
+          "timestamp": "20241228041039",
+          "archived_at": "2024-12-28"
+        }
+      },
+      {
+        "id": "youtube-model-s-first-delivery-2012",
+        "url": "https://www.youtube.com/watch?v=SH1LPS4iKzU",
+        "kind": "video",
+        "title": "Delivery of the first Tesla Model S Sedan",
+        "publisher": "jurvetson (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }
@@ -692,7 +714,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250102084943if_/https://www.youtube.com/watch?v=IgKWPdJWuBQ",
+          "timestamp": "20250102084943",
+          "archived_at": "2025-01-02"
+        }
       }
     ],
     "source_hints": null
@@ -895,6 +922,18 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-neuralink-demo-2020-cnet",
+        "url": "https://www.youtube.com/watch?v=iOWFXqT5MZ4",
+        "kind": "video",
+        "title": "Watch Elon Musk's ENTIRE live Neuralink demonstration",
+        "publisher": "CNET (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -997,6 +1036,18 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-model-3-first-handovers-2017",
+        "url": "https://www.youtube.com/watch?v=vzT0uNT0ds8",
+        "kind": "video",
+        "title": "First Model 3 Handovers",
+        "publisher": "Tesla (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1078,6 +1129,18 @@
         "lang": "en",
         "primary": false,
         "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-falcon-heavy-test-flight",
+        "url": "https://www.youtube.com/watch?v=wbSwFU6tY1c",
+        "kind": "video",
+        "title": "Falcon Heavy Test Flight",
+        "publisher": "SpaceX (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }
@@ -1270,6 +1333,18 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-cybertruck-event-verge-2019",
+        "url": "https://www.youtube.com/watch?v=m7atGkba-Z8",
+        "kind": "video",
+        "title": "Tesla Cybertruck event in 5 minutes",
+        "publisher": "The Verge (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1397,6 +1472,18 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-tesla-battery-day-2020",
+        "url": "https://www.youtube.com/watch?v=l6T9xIeZTds",
+        "kind": "video",
+        "title": "Tesla Battery Day",
+        "publisher": "Tesla (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1507,6 +1594,18 @@
         "lang": "en",
         "primary": false,
         "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-musk-snl-monologue-2021",
+        "url": "https://www.youtube.com/watch?v=fCF8I_X1qKI",
+        "kind": "video",
+        "title": "Elon Musk Monologue - SNL",
+        "publisher": "Saturday Night Live (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }
@@ -1709,6 +1808,18 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-starship-ift1-spacex",
+        "url": "https://www.youtube.com/watch?v=_krgcofiM6M",
+        "kind": "video",
+        "title": "Starship | First Integrated Flight Test",
+        "publisher": "SpaceX (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1845,6 +1956,18 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-starship-flight4-everyday-astronaut",
+        "url": "https://www.youtube.com/watch?v=8VESowgMbjA",
+        "kind": "video",
+        "title": "[4K] Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE!",
+        "publisher": "Everyday Astronaut (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1879,6 +2002,18 @@
         "lang": "en",
         "primary": false,
         "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-starship-flight5-nasaspaceflight",
+        "url": "https://www.youtube.com/watch?v=YC87WmFN_As",
+        "kind": "video",
+        "title": "FULL REPLAY: SpaceX Launches Starship Flight 5 (and Catches A Booster)",
+        "publisher": "NASASpaceflight (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }

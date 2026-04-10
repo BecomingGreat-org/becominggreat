@@ -1199,7 +1199,20 @@
       "中国",
       "加密货币"
     ],
-    "sources": [],
+    "sources": [
+      {
+        "id": "youtube-munger-cnbc-2019",
+        "url": "https://www.youtube.com/watch?v=peUrLZ24GfM",
+        "kind": "video",
+        "title": "Berkshire Hathaway VP Charlie Munger on investing",
+        "publisher": "CNBC Television (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
     "source_hints": null
   },
   {
@@ -1219,7 +1232,20 @@
       "年会",
       "COVID"
     ],
-    "sources": [],
+    "sources": [
+      {
+        "id": "youtube-munger-daily-journal-2020",
+        "url": "https://www.youtube.com/watch?v=HS8neXkNnhw",
+        "kind": "video",
+        "title": "Legendary investor Charlie Munger speaks at Daily Journal annual meeting – 2/12/2020",
+        "publisher": "CNBC Television (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
     "source_hints": null
   },
   {
