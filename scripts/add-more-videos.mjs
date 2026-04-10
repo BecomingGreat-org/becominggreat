@@ -117,6 +117,36 @@ const MUSK_VIDEOS = {
     primary: true,
     ...HUMAN,
   },
+  "musk-2019-05-24-starlink-launch": {
+    id: "youtube-spacex-starlink-first-launch",
+    url: "https://www.youtube.com/watch?v=riBaVeDTEWI",
+    kind: "video",
+    title: "Starlink Mission",
+    publisher: "SpaceX (YouTube)",
+    lang: "en",
+    primary: true,
+    ...HUMAN,
+  },
+  "musk-2010-06-04-falcon-9-first-flight": {
+    id: "youtube-falcon-9-first-flight-2010",
+    url: "https://www.youtube.com/watch?v=nxSxgBKlYws",
+    kind: "video",
+    title: "The first SpaceX Falcon 9 Rocket Flight",
+    publisher: "Spacevidcast (YouTube)",
+    lang: "en",
+    primary: true,
+    ...HUMAN,
+  },
+  "musk-2016-12-boring-company": {
+    id: "youtube-musk-ted-2017-boring",
+    url: "https://www.youtube.com/watch?v=zIwLWfaAg-8",
+    kind: "video",
+    title: "Elon Musk: The future we're building -- and boring | TED",
+    publisher: "TED (YouTube)",
+    lang: "en",
+    primary: true,
+    ...HUMAN,
+  },
 };
 
 // ─── Munger videos ──────────────────────────────────────────────────────────

@@ -534,6 +534,18 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-falcon-9-first-flight-2010",
+        "url": "https://www.youtube.com/watch?v=nxSxgBKlYws",
+        "kind": "video",
+        "title": "The first SpaceX Falcon 9 Rocket Flight",
+        "publisher": "Spacevidcast (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1002,6 +1014,18 @@
         "license": "cc-by-sa",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-musk-ted-2017-boring",
+        "url": "https://www.youtube.com/watch?v=zIwLWfaAg-8",
+        "kind": "video",
+        "title": "Elon Musk: The future we're building -- and boring | TED",
+        "publisher": "TED (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1297,6 +1321,18 @@
         "lang": "en",
         "primary": false,
         "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-spacex-starlink-first-launch",
+        "url": "https://www.youtube.com/watch?v=riBaVeDTEWI",
+        "kind": "video",
+        "title": "Starlink Mission",
+        "publisher": "SpaceX (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
       }
