@@ -5,7 +5,8 @@
     "name_en": "Steve Jobs",
     "born": "1955-02-24",
     "died": "2011-10-05",
-    "tagline": "Apple、NeXT、Pixar 联合创始人"
+    "tagline": "Apple、NeXT、Pixar 联合创始人",
+    "tagline_en": "Co-founder of Apple, NeXT, and Pixar"
   },
   {
     "id": "musk",
@@ -13,7 +14,8 @@
     "name_en": "Elon Musk",
     "born": "1971-06-28",
     "died": null,
-    "tagline": "Tesla、SpaceX、xAI 创始人"
+    "tagline": "Tesla、SpaceX、xAI 创始人",
+    "tagline_en": "Founder of Tesla, SpaceX, and xAI"
   },
   {
     "id": "rockefeller",
@@ -21,7 +23,8 @@
     "name_en": "John D. Rockefeller",
     "born": "1839-07-08",
     "died": "1937-05-23",
-    "tagline": "标准石油创始人，美国首位亿万富翁"
+    "tagline": "标准石油创始人，美国首位亿万富翁",
+    "tagline_en": "Founder of Standard Oil, America's first billionaire"
   },
   {
     "id": "munger",
@@ -29,6 +32,7 @@
     "name_en": "Charles T. Munger",
     "born": "1924-01-01",
     "died": "2023-11-28",
-    "tagline": "伯克希尔·哈撒韦副主席，巴菲特长期搭档"
+    "tagline": "伯克希尔·哈撒韦副主席，巴菲特长期搭档",
+    "tagline_en": "Vice Chairman of Berkshire Hathaway, Buffett's longtime partner"
   }
 ]

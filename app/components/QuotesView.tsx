@@ -36,7 +36,7 @@ export function QuotesView({ quotes }: { quotes: QuoteRow[] }) {
 
   const allPeople = useMemo(() => {
     const map = new Map<string, string>();
-    for (const q of quotes) map.set(q.personId, q.personName);
+    for (const q of quotes) map.set(q.personId, locale === "en" ? q.personNameEn : q.personName);
     return Array.from(map.entries()).map(([id, name]) => ({ id, name }));
   }, [quotes]);
 
@@ -78,19 +78,19 @@ export function QuotesView({ quotes }: { quotes: QuoteRow[] }) {
           type="text"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          placeholder="搜索引用、说话人、事件…"
+          placeholder={locale === "en" ? "Search quotes, speakers, events…" : "搜索引用、说话人、事件…"}
           className="w-full bg-zinc-900/40 border border-zinc-800 rounded-lg px-4 py-2.5 text-sm text-zinc-200 placeholder:text-zinc-600 focus:outline-none focus:border-zinc-600 transition"
         />
 
         <div className="flex flex-wrap gap-3 items-center text-xs">
           <div className="flex items-center gap-2">
-            <span className="text-zinc-500">人物</span>
+            <span className="text-zinc-500">{locale === "en" ? "Person" : "人物"}</span>
             <select
               value={personFilter}
               onChange={(e) => setPersonFilter(e.target.value)}
               className="bg-zinc-900/40 border border-zinc-800 rounded px-2 py-1 text-zinc-200 focus:outline-none focus:border-zinc-600"
             >
-              <option value="">全部</option>
+              <option value="">{locale === "en" ? "All" : "全部"}</option>
               {allPeople.map((p) => (
                 <option key={p.id} value={p.id}>
                   {p.name}
@@ -100,13 +100,13 @@ export function QuotesView({ quotes }: { quotes: QuoteRow[] }) {
           </div>
 
           <div className="flex items-center gap-2">
-            <span className="text-zinc-500">说话人</span>
+            <span className="text-zinc-500">{locale === "en" ? "Speaker" : "说话人"}</span>
             <select
               value={speakerFilter}
               onChange={(e) => setSpeakerFilter(e.target.value)}
               className="bg-zinc-900/40 border border-zinc-800 rounded px-2 py-1 text-zinc-200 focus:outline-none focus:border-zinc-600"
             >
-              <option value="">全部</option>
+              <option value="">{locale === "en" ? "All" : "全部"}</option>
               {allSpeakers.map((s) => (
                 <option key={s} value={s}>
                   {s}
@@ -124,7 +124,7 @@ export function QuotesView({ quotes }: { quotes: QuoteRow[] }) {
               }}
               className="text-zinc-500 hover:text-zinc-300 transition underline"
             >
-              清空
+              {locale === "en" ? "Clear" : "清空"}
             </button>
           )}
 
@@ -136,7 +136,9 @@ export function QuotesView({ quotes }: { quotes: QuoteRow[] }) {
 
       {/* Quotes list */}
       {filtered.length === 0 ? (
-        <div className="text-zinc-600 italic text-sm">没有匹配的引用</div>
+        <div className="text-zinc-600 italic text-sm">
+          {locale === "en" ? "No matching quotes" : "没有匹配的引用"}
+        </div>
       ) : (
         <ol className="space-y-12">
           {filtered.map((q, i) => (
@@ -182,7 +184,7 @@ function QuoteCard({ q, locale }: { q: QuoteRow; locale: string }) {
             href={`/${locale}/people/${q.personId}`}
             className="hover:text-zinc-300 transition"
           >
-            {q.personName}
+            {locale === "en" ? q.personNameEn : q.personName}
           </Link>
           <span className="text-zinc-700">·</span>
           <span className="font-mono text-xs">

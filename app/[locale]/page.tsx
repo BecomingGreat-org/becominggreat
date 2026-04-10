@@ -81,10 +81,10 @@ export default async function HomePage({
           text: q.quote.text,
           text_zh: q.quote.text_zh,
           speaker: q.quote.speaker,
-          context: q.quote.context,
+          context: en && q.quote.context_en ? q.quote.context_en : q.quote.context,
           personId: q.person.id,
           personName: en ? q.person.name_en : q.person.name_zh,
-          eventTitle: q.event.title,
+          eventTitle: en && q.event.title_en ? q.event.title_en : q.event.title,
           eventDate: q.event.date,
           sourceId: q.source.id,
         }))}
