@@ -26,7 +26,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -59,7 +63,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Early_life",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": "Stephen Manes & Paul Andrews《Gates》第 2-4 章"
@@ -92,7 +100,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Traf-O-Data",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -125,7 +137,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Harvard",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -159,7 +175,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Microsoft#1972%E2%80%931985:_Founding_and_early_years",
+          "timestamp": "2024"
+        }
       },
       {
         "id": "wikipedia-altair-basic",
@@ -171,7 +191,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Altair_BASIC",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -205,7 +229,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/IBM_PC_DOS",
+          "timestamp": "2024"
+        }
       },
       {
         "id": "wikipedia-ms-dos",
@@ -217,7 +245,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/MS-DOS",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -250,7 +282,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Windows_1.0x",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -283,7 +319,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Microsoft#1985%E2%80%931994:_Windows_and_Office",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -316,7 +356,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Wealth",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -348,7 +392,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Windows_3.0",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -381,7 +429,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Personal_life",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -415,7 +467,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/The_Internet_Tidal_Wave",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -448,7 +504,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Windows_95",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -481,7 +541,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/The_Road_Ahead_(Gates_book)",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -515,7 +579,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -548,7 +616,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Business_@_the_Speed_of_Thought",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -581,7 +653,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -614,7 +690,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Microsoft",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -647,7 +727,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Xbox_(console)",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -681,7 +765,11 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.ted.com/talks/bill_gates_mosquitos_malaria_and_education",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -730,7 +818,11 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "全场 90 分钟对话的完整文字稿，由 Ubiqus Reporting 整理。"
+        "summary": "全场 90 分钟对话的完整文字稿，由 Ubiqus Reporting 整理。",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://allthingsd.com/20070531/d5-gates-jobs-transcript",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": "See also: jobs-2007-05-30-d5-gates in data/events/jobs.json"
@@ -763,7 +855,11 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://charlierose.com/episodes/12801",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -796,7 +892,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Post-Microsoft",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -830,7 +930,11 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.ted.com/talks/bill_gates_mosquitos_malaria_and_education",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -863,7 +967,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/The_Giving_Pledge",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -896,7 +1004,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Post-Microsoft",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -931,7 +1043,11 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -965,7 +1081,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Breakthrough_Energy",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -998,7 +1118,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Inside_Bill%27s_Brain:_Decoding_Bill_Gates",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -1031,7 +1155,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Post-Microsoft",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -1065,7 +1193,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#COVID-19",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -1099,7 +1231,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/How_to_Avoid_a_Climate_Disaster",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -1132,7 +1268,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Bill_Gates#Personal_life",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -1166,7 +1306,11 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.gatesnotes.com/The-Age-of-AI-Has-Begun",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
@@ -1199,7 +1343,11 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Source_Code:_My_Beginnings",
+          "timestamp": "2024"
+        }
       }
     ],
     "source_hints": null
