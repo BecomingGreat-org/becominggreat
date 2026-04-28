@@ -106,5 +106,14 @@
     "died": "1919-08-11",
     "tagline": "卡内基钢铁创始人，《财富的福音》作者，现代慈善先驱",
     "tagline_en": "Founder of Carnegie Steel, author of 'The Gospel of Wealth', pioneer of modern philanthropy"
+  },
+  {
+    "id": "nadella",
+    "name_zh": "萨提亚·纳德拉",
+    "name_en": "Satya Nadella",
+    "born": "1967-08-19",
+    "died": null,
+    "tagline": "微软第三任 CEO，推动云计算与 AI 转型，文化变革领导者",
+    "tagline_en": "Microsoft's third CEO, architect of cloud and AI transformation, culture change leader"
   }
 ]

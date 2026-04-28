@@ -1,0 +1,523 @@
+[
+  {
+    "id": "nadella-1967-08-19-birth",
+    "person_id": "nadella",
+    "date": "1967-08-19",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于印度海德拉巴",
+    "title_en": "Born in Hyderabad, India",
+    "summary": "萨提亚·纳德拉出生于印度海德拉巴的一个中产家庭。父亲是印度行政服务官员（IAS），母亲是梵文学者。父亲希望他追求智识，母亲希望他过平衡的生活。",
+    "summary_en": "Satya Nadella was born in Hyderabad, India, to a middle-class family. His father was an Indian Administrative Service (IAS) officer, and his mother was a Sanskrit scholar. His father wanted intellectual ambition for him, while his mother wanted him to be happy and balanced.",
+    "location": "Hyderabad, India",
+    "key": true,
+    "tags": [
+      "出生",
+      "家庭"
+    ],
+    "sources": [
+      {
+        "id": "hit-refresh-ch1",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 1",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "My father wanted intellectual ambition for me, while my mother wanted me to be happy versus being captive to any dogma.",
+            "text_zh": "我父亲希望我有智识追求，而我母亲希望我快乐，而不是被任何教条束缚。",
+            "text_en": "My father wanted intellectual ambition for me, while my mother wanted me to be happy versus being captive to any dogma.",
+            "speaker": "Satya Nadella",
+            "context": "回忆父母对他的不同期望，这两种影响塑造了他的人生观。"
+          },
+          {
+            "text": "She always believed in doing your thing, and at your pace. Pace comes when you do your thing. So long as you enjoy it, do it mindfully and well, and have an honest purpose behind it, life won't fail you.",
+            "text_zh": "她总是相信做你自己的事，按你自己的节奏。当你做自己的事时，节奏自然会来。只要你享受它，用心做好，有诚实的目的，生活不会辜负你。",
+            "text_en": "She always believed in doing your thing, and at your pace. Pace comes when you do your thing. So long as you enjoy it, do it mindfully and well, and have an honest purpose behind it, life won't fail you.",
+            "speaker": "Satya Nadella (about his mother)",
+            "context": "母亲的人生哲学，深刻影响了纳德拉对职业发展的态度。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-1992-join-microsoft",
+    "person_id": "nadella",
+    "date": "1992-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入微软",
+    "title_en": "Joins Microsoft",
+    "summary": "纳德拉从 Sun Microsystems 跳槽到微软，负责 Windows NT 的推广。面试时，Richard Tait 问了一个不寻常的问题：'看到婴儿在街上哭，你怎么办？'这个问题考察的是同理心。他同时秘密攻读芝加哥大学 MBA，周末飞去上课。",
+    "summary_en": "Nadella joined Microsoft from Sun Microsystems to work on Windows NT. During the interview, Richard Tait asked an unusual question: 'Imagine you see a baby laying in the street, and the baby is crying. What do you do?' This tested empathy. He secretly pursued an MBA at University of Chicago, flying there on weekends.",
+    "location": "Redmond, WA",
+    "key": true,
+    "tags": [
+      "微软",
+      "职业",
+      "MBA"
+    ],
+    "sources": [
+      {
+        "id": "hit-refresh-ch1-interview",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 1",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "Imagine you see a baby laying in the street, and the baby is crying. What do you do?",
+            "text_zh": "想象你看到一个婴儿躺在街上哭。你会怎么做？",
+            "text_en": "Imagine you see a baby laying in the street, and the baby is crying. What do you do?",
+            "speaker": "Richard Tait",
+            "context": "微软面试时的问题，考察同理心而非技术能力。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-1996-08-son-born",
+    "person_id": "nadella",
+    "date": "1996-08-01",
+    "date_precision": "month",
+    "type": "life",
+    "title": "儿子 Zain 出生",
+    "title_en": "Son Zain is born",
+    "summary": "纳德拉的儿子 Zain 出生时患有严重的脑瘫，需要终身医疗照顾。这个经历彻底改变了纳德拉，让他深刻理解了同理心的意义。他后来在 ICU 看到儿子周围的医疗设备都运行着 Windows，意识到微软的工作超越了商业，关乎生命本身。",
+    "summary_en": "Nadella's son Zain was born with severe cerebral palsy, requiring lifelong medical care. This experience profoundly transformed Nadella, teaching him the true meaning of empathy. He later noticed in the ICU that many devices around Zain ran on Windows, realizing Microsoft's work transcended business—it made life itself possible.",
+    "location": "Seattle, WA",
+    "key": true,
+    "tags": [
+      "家庭",
+      "同理心",
+      "转折点"
+    ],
+    "sources": [
+      {
+        "id": "hit-refresh-ch2-zain",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 2",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "Being an empathetic father, and bringing that desire to discover what is at the core, the soul, makes me a better leader.",
+            "text_zh": "作为一个有同理心的父亲，带着这种探索核心、探索灵魂的渴望，让我成为更好的领导者。",
+            "text_en": "Being an empathetic father, and bringing that desire to discover what is at the core, the soul, makes me a better leader.",
+            "speaker": "Satya Nadella",
+            "context": "儿子的残疾如何塑造了他的领导风格。"
+          },
+          {
+            "text": "I have empathy for people with disabilities. I have empathy for people trying to make a living from the inner cities and the Rust Belt to the developing countries of Asia, Africa, and Latin America. My passion is to put empathy at the center of everything I pursue.",
+            "text_zh": "我对残疾人有同理心。我对从内城、铁锈带到亚非拉发展中国家努力谋生的人有同理心。我的热情是将同理心置于我所追求的一切的中心。",
+            "text_en": "I have empathy for people with disabilities. I have empathy for people trying to make a living from the inner cities and the Rust Belt to the developing countries of Asia, Africa, and Latin America. My passion is to put empathy at the center of everything I pursue.",
+            "speaker": "Satya Nadella",
+            "context": "反思儿子残疾和自己作为移民的经历后的感悟。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-2011-azure-transformation",
+    "person_id": "nadella",
+    "date": "2011-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "领导 Azure 云业务转型",
+    "title_en": "Leads Azure cloud transformation",
+    "summary": "Steve Ballmer 任命纳德拉领导 Server & Tools Business（STB），推动微软向云优先战略转型。当时 Amazon 已经在云计算领域遥遥领先，微软的 Azure 收入只有数百万美元。纳德拉决定支持 Linux，这个决定'在停车场就做了'。他推动'live site first'文化，将团队从服务器业务转向云服务。",
+    "summary_en": "Steve Ballmer appointed Nadella to lead Server & Tools Business (STB), driving Microsoft's cloud-first transformation. Amazon was already far ahead in cloud computing, while Azure revenues were only in the millions. Nadella decided to support Linux—a decision made 'by the time we got to the parking lot.' He drove a 'live site first' culture, shifting the team from server business to cloud services.",
+    "location": "Redmond, WA",
+    "key": true,
+    "tags": [
+      "Azure",
+      "云计算",
+      "战略转型"
+    ],
+    "sources": [
+      {
+        "id": "hit-refresh-ch2-azure",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 2",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "This might be your last job at Microsoft, because if you fail there is no parachute. You may just crash with it.",
+            "text_zh": "这可能是你在微软的最后一份工作，因为如果你失败了，就没有降落伞。你可能会和它一起坠毁。",
+            "text_en": "This might be your last job at Microsoft, because if you fail there is no parachute. You may just crash with it.",
+            "speaker": "Steve Ballmer",
+            "context": "Ballmer 邀请纳德拉领导搜索和云业务时的警告。"
+          },
+          {
+            "text": "Leadership means making choices and then rallying the team around those choices.",
+            "text_zh": "领导力意味着做出选择，然后团结团队围绕这些选择。",
+            "text_en": "Leadership means making choices and then rallying the team around those choices.",
+            "speaker": "Satya Nadella",
+            "context": "领导 STB 团队转向云优先战略时的反思。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-2014-02-04-ceo",
+    "person_id": "nadella",
+    "date": "2014-02-04",
+    "date_precision": "day",
+    "type": "career",
+    "title": "成为微软第三任 CEO",
+    "title_en": "Becomes Microsoft's third CEO",
+    "summary": "纳德拉接替 Steve Ballmer 成为微软第三任 CEO，也是首位非创始人 CEO。他在面试时被要求展示'对这份工作的渴望'，但他保持了自己的风格。宣布任命时，他说'我感到荣幸、谦卑和兴奋'——这些话完美捕捉了他的感受。",
+    "summary_en": "Nadella succeeded Steve Ballmer as Microsoft's third CEO, the first non-founder CEO. During interviews, he was told to show 'hunger for the job,' but he stayed true to himself. When the appointment was announced, he said he was 'honored, humbled, and excited'—words that perfectly captured his feelings.",
+    "location": "Redmond, WA",
+    "key": true,
+    "tags": [
+      "CEO",
+      "领导力",
+      "微软"
+    ],
+    "sources": [
+      {
+        "id": "microsoft-ceo-announcement",
+        "url": "https://news.microsoft.com/2014/02/04/satya-nadella-named-microsoft-ceo/",
+        "kind": "article",
+        "title": "Satya Nadella Named Microsoft CEO",
+        "publisher": "Microsoft News",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      },
+      {
+        "id": "hit-refresh-ch1-ceo",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 1",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "I was honored, humbled, and excited.",
+            "text_zh": "我感到荣幸、谦卑和兴奋。",
+            "text_en": "I was honored, humbled, and excited.",
+            "speaker": "Satya Nadella",
+            "context": "宣布成为 CEO 时的感受。"
+          },
+          {
+            "text": "Every person, organization, and even society reaches a point at which they owe it to themselves to hit refresh—to reenergize, renew, reframe, and rethink their purpose.",
+            "text_zh": "每个人、组织，甚至社会都会到达一个点，他们应该为自己按下刷新键——重新注入活力、更新、重新定义和重新思考他们的目标。",
+            "text_en": "Every person, organization, and even society reaches a point at which they owe it to themselves to hit refresh—to reenergize, renew, reframe, and rethink their purpose.",
+            "speaker": "Satya Nadella",
+            "context": "解释'Hit Refresh'的含义。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-2014-07-10-manifesto",
+    "person_id": "nadella",
+    "date": "2014-07-10",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "发送全员邮件重新定义微软使命",
+    "title_en": "Sends company-wide email redefining Microsoft's mission",
+    "summary": "上任仅几个月后，纳德拉在早上 6:02 发送了一封全员邮件，重新定义微软的使命：'赋能地球上的每个人和每个组织，成就不凡'。这封邮件成为微软文化转型的宣言，强调从'know-it-alls'转向'learn-it-alls'的成长型思维。",
+    "summary_en": "Just months into his tenure, Nadella sent a company-wide email at 6:02 AM redefining Microsoft's mission: 'Empower every person and organization on the planet to achieve more.' This email became the manifesto for Microsoft's cultural transformation, emphasizing a shift from 'know-it-alls' to 'learn-it-alls' with a growth mindset.",
+    "location": "Redmond, WA",
+    "key": true,
+    "tags": [
+      "使命",
+      "文化",
+      "Growth Mindset"
+    ],
+    "sources": [
+      {
+        "id": "hit-refresh-ch3-manifesto",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 3",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "Our mission is to empower every person and organization on the planet to achieve more.",
+            "text_zh": "我们的使命是赋能地球上的每个人和每个组织，成就不凡。",
+            "text_en": "Our mission is to empower every person and organization on the planet to achieve more.",
+            "speaker": "Satya Nadella",
+            "context": "2014 年重新定义的微软使命宣言。"
+          },
+          {
+            "text": "We needed to shift from 'know-it-alls' to 'learn-it-alls'.",
+            "text_zh": "我们需要从'无所不知者'转变为'不断学习者'。",
+            "text_en": "We needed to shift from 'know-it-alls' to 'learn-it-alls'.",
+            "speaker": "Satya Nadella",
+            "context": "推动微软文化转型的核心理念。"
+          },
+          {
+            "text": "The soul of our company is to make powerful technology accessible to everyone and every organization—democratizing technology.",
+            "text_zh": "我们公司的灵魂是让强大的技术为每个人和每个组织所用——技术民主化。",
+            "text_en": "The soul of our company is to make powerful technology accessible to everyone and every organization—democratizing technology.",
+            "speaker": "Satya Nadella",
+            "context": "重新定义微软的灵魂。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-2014-09-slt-retreat",
+    "person_id": "nadella",
+    "date": "2014-09-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "首次高管团队静修引入 Growth Mindset",
+    "title_en": "First SLT retreat introduces Growth Mindset",
+    "summary": "纳德拉组织了首次高管领导团队（SLT）静修，邀请心理学家 Michael Gervais 引导团队反思'我们是谁'。他的妻子 Anu 给了他 Carol Dweck 的《Mindset》一书，启发他将'成长型思维'作为文化变革的核心。这次静修标志着微软从内部竞争文化向协作文化的转变。",
+    "summary_en": "Nadella organized the first Senior Leadership Team (SLT) retreat, inviting psychologist Michael Gervais to guide the team in reflecting on 'who we are.' His wife Anu had given him Carol Dweck's book 'Mindset,' inspiring him to make 'growth mindset' the core of cultural change. This retreat marked Microsoft's shift from internal competition to collaboration.",
+    "location": "Redmond, WA",
+    "key": true,
+    "tags": [
+      "文化",
+      "Growth Mindset",
+      "领导力"
+    ],
+    "sources": [
+      {
+        "id": "hit-refresh-ch4-mindset",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 4",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "Culture eats strategy for breakfast.",
+            "text_zh": "文化在早餐时就吃掉了战略。",
+            "text_en": "Culture eats strategy for breakfast.",
+            "speaker": "Peter Drucker (quoted by Nadella)",
+            "context": "纳德拉引用管理大师 Peter Drucker 的话，强调文化变革比战略更重要。"
+          },
+          {
+            "text": "The view you adopt for yourself profoundly affects the way you lead your life.",
+            "text_zh": "你为自己采用的观点深刻影响你的生活方式。",
+            "text_en": "The view you adopt for yourself profoundly affects the way you lead your life.",
+            "speaker": "Carol Dweck (quoted by Nadella)",
+            "context": "引用 Carol Dweck 的《Mindset》，解释为什么选择 growth mindset。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-2016-karma-incident",
+    "person_id": "nadella",
+    "date": "2016-10-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "Karma 事件：公开承认错误",
+    "title_en": "Karma incident: Publicly admits mistake",
+    "summary": "在一次关于女性科技工作者的会议上，纳德拉被问到女性如何争取加薪。他回答说'不要求加薪，相信好的 karma 会带来回报'。这个回答引发了批评。几小时后，他发送全员邮件承认'我的回答完全错误'，并鼓励员工观看视频。这次事件展示了他如何在压力下践行 growth mindset。",
+    "summary_en": "At a conference about women in tech, Nadella was asked how women should ask for raises. He answered 'don't ask for a raise, trust that good karma will bring rewards.' This drew criticism. Hours later, he sent a company-wide email admitting 'I answered the question completely wrong' and encouraged employees to watch the video. This incident demonstrated how he practices growth mindset under pressure.",
+    "location": "Phoenix, AZ",
+    "key": true,
+    "tags": [
+      "Growth Mindset",
+      "领导力",
+      "多元化"
+    ],
+    "sources": [
+      {
+        "id": "hit-refresh-ch4-karma",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 4",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "I answered the question completely wrong. If you think you deserve a raise, you should just ask.",
+            "text_zh": "我的回答完全错误。如果你认为你应该加薪，你就应该直接要求。",
+            "text_en": "I answered the question completely wrong. If you think you deserve a raise, you should just ask.",
+            "speaker": "Satya Nadella",
+            "context": "karma 事件后的公开道歉邮件，展示如何在压力下践行 growth mindset。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-2016-linkedin",
+    "person_id": "nadella",
+    "date": "2016-06-13",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "以 262 亿美元收购 LinkedIn",
+    "title_en": "Acquires LinkedIn for $26.2 billion",
+    "summary": "微软宣布以 262 亿美元收购职业社交网络 LinkedIn，这是微软历史上最大的收购。纳德拉看重 LinkedIn 的愿景：让全球 30 亿劳动力的劳动力市场更高效、更开放。LinkedIn CEO Jeff Weiner 告诉他：'一致性随时间推移就是信任'。",
+    "summary_en": "Microsoft announced the acquisition of professional networking site LinkedIn for $26.2 billion, the largest acquisition in Microsoft's history. Nadella valued LinkedIn's vision: making labor markets work better for all 3 billion members of the global workforce. LinkedIn CEO Jeff Weiner told him: 'Consistency over time is trust.'",
+    "location": "Redmond, WA",
+    "key": true,
+    "tags": [
+      "收购",
+      "LinkedIn",
+      "战略"
+    ],
+    "sources": [
+      {
+        "id": "microsoft-linkedin-announcement",
+        "url": "https://news.microsoft.com/2016/06/13/microsoft-to-acquire-linkedin/",
+        "kind": "article",
+        "title": "Microsoft to acquire LinkedIn",
+        "publisher": "Microsoft News",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      },
+      {
+        "id": "hit-refresh-ch7-trust",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 7",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "Consistency over time is trust.",
+            "text_zh": "一致性随时间推移就是信任。",
+            "text_en": "Consistency over time is trust.",
+            "speaker": "Jeff Weiner",
+            "context": "LinkedIn CEO 对信任的定义，纳德拉认为这比任何公式都好。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-2018-github",
+    "person_id": "nadella",
+    "date": "2018-06-04",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "以 75 亿美元收购 GitHub",
+    "title_en": "Acquires GitHub for $7.5 billion",
+    "summary": "微软宣布以 75 亿美元收购全球最大的开源代码托管平台 GitHub。这标志着微软从'Linux 是癌症'（Steve Ballmer 语）到完全拥抱开源的彻底转变。纳德拉的策略是：在某些领域竞争成为最佳，在其他领域建立合作伙伴关系。",
+    "summary_en": "Microsoft announced the acquisition of GitHub, the world's largest open-source code hosting platform, for $7.5 billion. This marked Microsoft's complete transformation from 'Linux is a cancer' (Steve Ballmer's words) to fully embracing open source. Nadella's strategy: compete to be best-in-class in some areas, build partnerships in others.",
+    "location": "Redmond, WA",
+    "key": true,
+    "tags": [
+      "收购",
+      "GitHub",
+      "开源"
+    ],
+    "sources": [
+      {
+        "id": "microsoft-github-announcement",
+        "url": "https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/",
+        "kind": "article",
+        "title": "Microsoft to acquire GitHub for $7.5 billion",
+        "publisher": "Microsoft News",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      },
+      {
+        "id": "hit-refresh-ch5-partnerships",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Chapter 5",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "Openness is the best way to get things done and to ensure all parties feel terrific about the outcome.",
+            "text_zh": "开放是完成工作并确保各方对结果感到满意的最佳方式。",
+            "text_en": "Openness is the best way to get things done and to ensure all parties feel terrific about the outcome.",
+            "speaker": "Satya Nadella",
+            "context": "解释为什么要与竞争对手建立合作关系。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadella-2024-transformation",
+    "person_id": "nadella",
+    "date": "2024-01-01",
+    "date_precision": "year",
+    "type": "other",
+    "title": "微软成为全球最高市值公司",
+    "title_en": "Microsoft becomes world's most valuable company",
+    "summary": "在纳德拉领导下的十年里，微软市值从 3000 亿美元增长到 3 万亿美元，成为全球最高市值公司。这一转型基于三大支柱：云优先战略（Azure）、AI 革命（OpenAI 合作）、文化变革（Growth Mindset）。纳德拉证明了同理心和技术创新可以共存。",
+    "summary_en": "Under Nadella's decade of leadership, Microsoft's market value grew from $300 billion to $3 trillion, becoming the world's most valuable company. This transformation was built on three pillars: cloud-first strategy (Azure), AI revolution (OpenAI partnership), and cultural change (Growth Mindset). Nadella proved that empathy and technological innovation can coexist.",
+    "location": "Redmond, WA",
+    "key": true,
+    "tags": [
+      "转型",
+      "AI",
+      "市值"
+    ],
+    "sources": [
+      {
+        "id": "hit-refresh-philosophy",
+        "url": "https://www.harpercollins.com/products/hit-refresh-satya-nadella",
+        "kind": "book",
+        "title": "Hit Refresh - Various Chapters",
+        "publisher": "HarperCollins",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "quotes": [
+          {
+            "text": "It is impossible to be an empathetic leader sitting in an office behind a computer screen all day. An empathetic leader needs to be out in the world, meeting people where they live.",
+            "text_zh": "整天坐在办公室电脑屏幕后面是不可能成为有同理心的领导者的。有同理心的领导者需要走出去，在人们生活的地方与他们见面。",
+            "text_en": "It is impossible to be an empathetic leader sitting in an office behind a computer screen all day. An empathetic leader needs to be out in the world, meeting people where they live.",
+            "speaker": "Satya Nadella",
+            "context": "解释为什么他作为 CEO 要频繁走访全球各地。"
+          },
+          {
+            "text": "We are one company, one Microsoft—not a confederation of fiefdoms. Innovation and competition don't respect our silos, our org boundaries.",
+            "text_zh": "我们是一家公司，一个微软——不是诸侯国的联盟。创新和竞争不尊重我们的孤岛和组织边界。",
+            "text_en": "We are one company, one Microsoft—not a confederation of fiefdoms. Innovation and competition don't respect our silos, our org boundaries.",
+            "speaker": "Satya Nadella",
+            "context": "打破微软内部山头主义的宣言。"
+          },
+          {
+            "text": "To be a leader in this company, your job is to find the rose petals in a field of shit. Constraints are real and will always be with us, but leaders are the champions of overcoming constraints.",
+            "text_zh": "要成为这家公司的领导者，你的工作是在一堆垃圾中找到玫瑰花瓣。限制是真实存在的，永远与我们同在，但领导者是克服限制的冠军。",
+            "text_en": "To be a leader in this company, your job is to find the rose petals in a field of shit. Constraints are real and will always be with us, but leaders are the champions of overcoming constraints.",
+            "speaker": "Satya Nadella",
+            "context": "对微软领导者的期望——在限制中找到机会。"
+          },
+          {
+            "text": "AI must be transparent. AI must maximize efficiencies without destroying the dignity of people. AI must be designed for intelligent privacy.",
+            "text_zh": "AI 必须透明。AI 必须在不破坏人的尊严的情况下最大化效率。AI 必须为智能隐私而设计。",
+            "text_en": "AI must be transparent. AI must maximize efficiencies without destroying the dignity of people. AI must be designed for intelligent privacy.",
+            "speaker": "Satya Nadella",
+            "context": "提出 AI 设计的三大原则。"
+          },
+          {
+            "text": "When history was made at Kitty Hawk, it was man with machine—not man against machine.",
+            "text_zh": "当历史在基蒂霍克创造时，是人与机器——而不是人对抗机器。",
+            "text_en": "When history was made at Kitty Hawk, it was man with machine—not man against machine.",
+            "speaker": "Satya Nadella",
+            "context": "引用 Wilbur Wright 的故事，说明 AI 应该是人机协作而非对抗。"
+          }
+        ]
+      }
+    ]
+  }
+]
