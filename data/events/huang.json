@@ -309,6 +309,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Nvidia",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-chm-oral-history",
+        "url": "https://www.youtube.com/watch?v=0c8i4T9BSqY",
+        "kind": "video",
+        "title": "Oral History of Jensen Huang",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "Computer History Museum 对黄仁勋的口述历史完整录像。详细讲述 1993 年 Denny's 创办 NVIDIA 的故事，及 GeForce 256、CUDA 等关键节点。",
+        "summary_en": "Computer History Museum's full oral history with Huang. Includes the 1993 Denny's NVIDIA founding story, and pivotal moments like GeForce 256 and CUDA.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -548,9 +563,58 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/AlexNet",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-sutskever-fireside",
+        "url": "https://www.youtube.com/watch?v=GI4Tpi48DlA",
+        "kind": "video",
+        "title": "Highlights of the Fireside Chat with Ilya Sutskever & Jensen Huang: AI Today & Vision of the Future",
+        "publisher": "Xiao Yang",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "Ilya Sutskever 和黄仁勋在 GTC 2023 上的炉边谈话。两人回顾 2012 年 AlexNet 用 NVIDIA GPU 在 ImageNet 上的胜利如何改变了一切。",
+        "summary_en": "Ilya Sutskever and Huang's GTC 2023 fireside chat. Both reflect on how AlexNet's 2012 ImageNet win on NVIDIA GPUs changed everything.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "huang-2014-03-25-gtc-keynote",
+    "person_id": "huang",
+    "date": "2014-03-25",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "GTC 2014 主题演讲：Pascal 与 Titan Z",
+    "title_en": "GTC 2014 Keynote: Pascal & Titan Z",
+    "summary": "GTC 2014 主题演讲。黄仁勋首次公开提及 Pascal 架构（两年后才正式发布），并发布消费级 Titan Z 显卡。这是 NVIDIA 还以游戏 GPU 为主的时期，距离 AI 革命引爆还有 8 年。",
+    "summary_en": "The 2014 GTC keynote. Huang first publicly mentions the Pascal architecture (released 2 years later) and launches the Titan Z consumer GPU. NVIDIA is still primarily a gaming-GPU company, 8 years before the AI revolution.",
+    "location": "San Jose, CA",
+    "tags": [
+      "GTC",
+      "Pascal",
+      "GPU"
+    ],
+    "sources": [
+      {
+        "id": "youtube-gtc-2014",
+        "url": "https://www.youtube.com/watch?v=4b-VCQHTRi0",
+        "kind": "video",
+        "title": "NVIDIA GTC 2014 Jen-Hsun Huang Keynote",
+        "publisher": "HotHardware",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "GTC 2014 主题演讲完整录像。",
+        "summary_en": "Full GTC 2014 keynote.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "huang-2016-08-dgx1-openai",
@@ -590,6 +654,76 @@
     "source_hints": "Date given as August 2016 in NVIDIA press materials"
   },
   {
+    "id": "huang-2017-01-04-ces-keynote",
+    "person_id": "huang",
+    "date": "2017-01-04",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "CES 2017 主题演讲：Drive PX 2 与自动驾驶",
+    "title_en": "CES 2017 Keynote: Drive PX 2 and Autonomous Driving",
+    "summary": "CES 2017 主题演讲。黄仁勋发布 Xavier 自动驾驶 SoC 和 Drive PX 2 平台——NVIDIA 第一次明确把汽车列为公司核心战略支柱。",
+    "summary_en": "CES 2017 keynote. Huang launches the Xavier autonomous driving SoC and Drive PX 2 platform — the first time NVIDIA explicitly named automotive as a core strategic pillar.",
+    "location": "Las Vegas, NV",
+    "tags": [
+      "CES",
+      "Drive PX",
+      "自动驾驶"
+    ],
+    "sources": [
+      {
+        "id": "youtube-ces-2017",
+        "url": "https://www.youtube.com/watch?v=3B-REw7gbGc",
+        "kind": "video",
+        "title": "Nvidia CEO Jensen Huang gives keynote address at CES, unveils automated vehicle AI",
+        "publisher": "CNBC Television",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "CES 2017 主题演讲完整录像（CNBC 转播版）。",
+        "summary_en": "Full CES 2017 keynote (CNBC broadcast).",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
+    "id": "huang-2017-05-10-gtc-keynote",
+    "person_id": "huang",
+    "date": "2017-05-10",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "GTC 2017 主题演讲：Volta 与 V100",
+    "title_en": "GTC 2017 Keynote: Volta & V100",
+    "summary": "GTC 2017 主题演讲。发布 Volta 架构和 V100——NVIDIA 第一款专门为深度学习训练设计的旗舰 GPU。这是 AI 计算成为 NVIDIA 主要叙事的转折点。",
+    "summary_en": "GTC 2017 keynote. Launches the Volta architecture and V100 — NVIDIA's first flagship GPU specifically designed for deep-learning training. The turning point where AI compute became NVIDIA's main narrative.",
+    "location": "San Jose, CA",
+    "key": true,
+    "tags": [
+      "GTC",
+      "Volta",
+      "V100",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-gtc-2017",
+        "url": "https://www.youtube.com/watch?v=WLq9zv3k5n0",
+        "kind": "video",
+        "title": "GTC 2017: Powering the AI Revolution (NVIDIA keynote part 1)",
+        "publisher": "NVIDIA",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "GTC 2017 主题演讲完整录像。",
+        "summary_en": "Full GTC 2017 keynote.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "huang-2018-08-20-rtx-ray-tracing",
     "person_id": "huang",
     "date": "2018-08-20",
@@ -623,6 +757,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/GeForce_RTX_20_series",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-siggraph-2018",
+        "url": "https://www.youtube.com/watch?v=jY28N0kv7Pk",
+        "kind": "video",
+        "title": "SIGGRAPH 2018 - NVIDIA CEO Jensen Huang - Reinventing Computer Graphics",
+        "publisher": "NVIDIA",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "SIGGRAPH 2018 上首次公开演示 Turing 架构与实时光线追踪。",
+        "summary_en": "First public reveal of the Turing architecture and real-time ray tracing at SIGGRAPH 2018.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -703,6 +852,42 @@
     "source_hints": null
   },
   {
+    "id": "huang-2022-03-22-gtc-spring-hopper",
+    "person_id": "huang",
+    "date": "2022-03-22",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "GTC 2022 春季：Hopper 架构与 H100",
+    "title_en": "GTC 2022 Spring: Hopper Architecture & H100",
+    "summary": "GTC 2022 春季主题演讲。发布 Hopper 架构和 H100——后来支撑 ChatGPT 和整个生成式 AI 浪潮的旗舰 GPU。距 ChatGPT 发布仅 8 个月。",
+    "summary_en": "GTC 2022 Spring keynote. Launches the Hopper architecture and H100 — the flagship GPU that would later power ChatGPT and the entire generative AI wave. Just 8 months before ChatGPT's release.",
+    "location": "San Jose, CA",
+    "key": true,
+    "tags": [
+      "GTC",
+      "Hopper",
+      "H100",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-gtc-2022",
+        "url": "https://www.youtube.com/watch?v=39ubNuxnrK8",
+        "kind": "video",
+        "title": "GTC 2022 Spring Keynote with NVIDIA CEO Jensen Huang",
+        "publisher": "NVIDIA",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "GTC 2022 春季主题演讲完整录像。",
+        "summary_en": "Full GTC 2022 Spring keynote.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "huang-2022-11-30-chatgpt-nvidia-demand",
     "person_id": "huang",
     "date": "2022-11-30",
@@ -741,6 +926,39 @@
     "source_hints": null
   },
   {
+    "id": "huang-2023-01-31-berkeley-haas",
+    "person_id": "huang",
+    "date": "2023-01-31",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "UC Berkeley Haas：院长讲座系列",
+    "title_en": "UC Berkeley Haas: Dean's Speaker Series",
+    "summary": "UC Berkeley Haas 商学院 Dean's Speaker Series 对黄仁勋的访谈。距 ChatGPT 上线 2 个月——讨论 NVIDIA 30 年战略、为什么不投失败的项目（包括 NVIDIA 早期）、以及 AI 即将全面爆发。",
+    "summary_en": "UC Berkeley Haas Dean's Speaker Series interview with Huang. Two months after ChatGPT launched — covering NVIDIA's 30-year strategy, why he didn't quit failing projects (including early NVIDIA), and the impending full AI explosion.",
+    "location": "UC Berkeley Haas, Berkeley, CA",
+    "tags": [
+      "Berkeley Haas",
+      "采访"
+    ],
+    "sources": [
+      {
+        "id": "youtube-berkeley-haas",
+        "url": "https://www.youtube.com/watch?v=9hzVdV63scU",
+        "kind": "video",
+        "title": "Dean's Speaker Series | Jensen Huang Founder, President & CEO, NVIDIA",
+        "publisher": "UC Berkeley Haas",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Berkeley Haas Dean's Speaker Series 完整录像。",
+        "summary_en": "Full Berkeley Haas Dean's Speaker Series.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "huang-2023-03-21-gtc-2023-keynote",
     "person_id": "huang",
     "date": "2023-03-21",
@@ -773,6 +991,42 @@
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "huang-2023-03-22-sutskever-fireside",
+    "person_id": "huang",
+    "date": "2023-03-22",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "GTC 2023：与 Ilya Sutskever 炉边谈话（AlexNet 十年回顾）",
+    "title_en": "GTC 2023: Fireside Chat with Ilya Sutskever (AlexNet 10-Year Retrospective)",
+    "summary": "GTC 2023 上黄仁勋与 OpenAI 联合创始人 Ilya Sutskever 的炉边谈话，发生在 GPT-4 发布几天后。两人回顾 2012 AlexNet 在 NVIDIA GPU 上获胜如何引发深度学习革命。",
+    "summary_en": "GTC 2023 fireside chat between Huang and OpenAI co-founder Ilya Sutskever, days after GPT-4's release. The two reflect on how AlexNet's 2012 win on NVIDIA GPUs sparked the deep-learning revolution.",
+    "location": "San Jose, CA",
+    "key": true,
+    "tags": [
+      "GTC",
+      "Ilya Sutskever",
+      "AlexNet",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-sutskever",
+        "url": "https://www.youtube.com/watch?v=GI4Tpi48DlA",
+        "kind": "video",
+        "title": "Highlights of the Fireside Chat with Ilya Sutskever & Jensen Huang",
+        "publisher": "Xiao Yang",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "GTC 2023 Sutskever 炉边谈话精华版。",
+        "summary_en": "GTC 2023 Sutskever fireside highlights.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "huang-2023-05-27-ntu-commencement",
@@ -824,9 +1078,65 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://blogs.nvidia.com/blog/2023/05/26/huang-ntu-commencement/",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-ntu-2023",
+        "url": "https://www.youtube.com/watch?v=__Ewkal7s3g",
+        "kind": "video",
+        "title": "Jensen Huang NVidia CEO NTU Commencement Speech",
+        "publisher": "Alive Industries",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "黄仁勋 2023 年台大毕业演讲完整录像。\"奔跑，不要走（Run, don't walk）。\"",
+        "summary_en": "Full 2023 NTU commencement speech. \"Run, don't walk.\"",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "Run, don't walk. Either you're running for food, or you're running from being food.",
+            "text_zh": "奔跑，不要走。你要么是在追逐食物，要么是在被当作食物追逐。",
+            "speaker": "Jensen Huang",
+            "context": "2023 台大毕业演讲核心金句"
+          }
+        ]
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "huang-2023-05-29-computex-keynote",
+    "person_id": "huang",
+    "date": "2023-05-29",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "Computex 2023：生成式 AI 元年",
+    "title_en": "Computex 2023 Keynote: The Generative AI Era",
+    "summary": "Computex 2023 主题演讲。黄仁勋宣布 NVIDIA 进入万亿美元市值俱乐部前两天——\"我们处于一个新的计算时代的起点\"。",
+    "summary_en": "Computex 2023 keynote, two days before NVIDIA crossed $1 trillion market cap — \"We are at the starting line of a new computing era.\"",
+    "location": "Taipei, Taiwan",
+    "tags": [
+      "Computex",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-computex-2023",
+        "url": "https://www.youtube.com/watch?v=fHwmLOYJU_w",
+        "kind": "video",
+        "title": "COMPUTEX 2023 Keynote NVIDIA Keynote",
+        "publisher": "COMPUTEX TAIPEI",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Computex 2023 主题演讲完整录像。",
+        "summary_en": "Full Computex 2023 keynote.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "huang-2023-05-30-nvidia-1t",
@@ -864,6 +1174,40 @@
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "huang-2023-11-29-dealbook",
+    "person_id": "huang",
+    "date": "2023-11-29",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "纽约时报 DealBook 大会 2023",
+    "title_en": "NYT DealBook Summit 2023",
+    "summary": "Andrew Ross Sorkin 在 NYT DealBook Summit 上对黄仁勋的访谈。讨论 AI 的未来、监管担忧、与 Sam Altman 的关系（Altman 当周刚被 OpenAI 解雇又复职）。",
+    "summary_en": "Andrew Ross Sorkin's NYT DealBook Summit interview with Huang. Topics: the future of AI, regulatory concerns, his relationship with Sam Altman (who'd been fired and reinstated at OpenAI that week).",
+    "location": "New York, NY",
+    "tags": [
+      "DealBook",
+      "Andrew Ross Sorkin",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-dealbook-2023",
+        "url": "https://www.youtube.com/watch?v=Pkj-BLHs6dE",
+        "kind": "video",
+        "title": "Jensen Huang of Nvidia on the Future of A.I. | DealBook Summit 2023",
+        "publisher": "New York Times Events",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "DealBook Summit 2023 黄仁勋访谈完整录像。",
+        "summary_en": "Full DealBook Summit 2023 Huang interview.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "huang-2024-time-100",
@@ -1092,6 +1436,40 @@
     "source_hints": null
   },
   {
+    "id": "huang-2024-04-stripe-sessions",
+    "person_id": "huang",
+    "date": "2024-04-23",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Stripe Sessions 2024：与 Patrick Collison 对谈",
+    "title_en": "Stripe Sessions 2024: With Patrick Collison",
+    "summary": "Stripe Sessions 2024 上黄仁勋与 Stripe CEO Patrick Collison 的炉边谈话。讨论制造业回流、CUDA 30 年、为什么 NVIDIA 是\"AI 工厂\"基础设施供应商。",
+    "summary_en": "Stripe Sessions 2024 fireside chat between Huang and Stripe CEO Patrick Collison. Topics: reshoring manufacturing, 30 years of CUDA, why NVIDIA is the \"AI factory\" infrastructure supplier.",
+    "location": "San Francisco, CA",
+    "tags": [
+      "Stripe",
+      "Patrick Collison",
+      "CUDA"
+    ],
+    "sources": [
+      {
+        "id": "youtube-stripe-sessions",
+        "url": "https://www.youtube.com/watch?v=8Pfa8kPjUio",
+        "kind": "video",
+        "title": "A conversation with NVIDIA's Jensen Huang",
+        "publisher": "Stripe",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Stripe Sessions 2024 黄仁勋访谈完整录像。",
+        "summary_en": "Full Stripe Sessions 2024 Huang interview.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "huang-2024-04-28-60-minutes",
     "person_id": "huang",
     "date": "2024-04-28",
@@ -1125,9 +1503,58 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cbsnews.com/news/meet-nvida-ceo-jensen-huang-company-powering-ai-today-60-minutes-transcript/",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-60min-2024",
+        "url": "https://www.youtube.com/watch?v=DpQQi2scsHo",
+        "kind": "video",
+        "title": "Nvidia CEO Jensen Huang and the $2 trillion company powering today's AI | 60 Minutes",
+        "publisher": "60 Minutes",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "60 Minutes 2024 年对黄仁勋的人物特写——\"驱动今天 AI 的 2 万亿美元公司\"。",
+        "summary_en": "60 Minutes 2024 profile — \"the $2 trillion company powering today's AI.\"",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "huang-2024-06-02-computex-keynote",
+    "person_id": "huang",
+    "date": "2024-06-02",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "Computex 2024：揭幕 Rubin 架构",
+    "title_en": "Computex 2024 Keynote: Rubin Architecture Reveal",
+    "summary": "Computex 2024 主题演讲。黄仁勋首次公开 Rubin 架构（命名向天文学家 Vera Rubin 致敬），明确 NVIDIA \"年更架构\" 节奏——这是与 PC 时代摩尔定律不同的 AI 时代节奏。",
+    "summary_en": "Computex 2024 keynote. First public reveal of the Rubin architecture (named after astronomer Vera Rubin), confirming NVIDIA's \"yearly cadence\" — a new AI-era rhythm distinct from PC-era Moore's Law.",
+    "location": "Taipei, Taiwan",
+    "tags": [
+      "Computex",
+      "Rubin",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-computex-2024",
+        "url": "https://www.youtube.com/watch?v=pKXDVsWZmUU",
+        "kind": "video",
+        "title": "NVIDIA CEO Jensen Huang Keynote at COMPUTEX 2024",
+        "publisher": "NVIDIA",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Computex 2024 主题演讲完整录像。",
+        "summary_en": "Full Computex 2024 keynote.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "huang-2024-06-14-caltech-commencement",
@@ -1178,6 +1605,29 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://blogs.nvidia.com/blog/jensen-huang-caltech-commencement-address/",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-caltech-2024",
+        "url": "https://www.youtube.com/watch?v=-qXDdToZHzE",
+        "kind": "video",
+        "title": "Caltech's 130th Commencement Ceremony",
+        "publisher": "Caltech",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Caltech 2024 年第 130 届毕业典礼完整直播，黄仁勋为主礼演讲嘉宾。著名金句\"追求 0 美金市场\"（pursue zero-billion-dollar markets）就出自这里。",
+        "summary_en": "Full Caltech 130th commencement ceremony livestream, with Huang as keynote speaker. Source of the famous \"pursue zero-billion-dollar markets\" line.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "Pursue zero-billion-dollar markets. The greatest opportunities are not in the trillion-dollar markets but in markets that don't yet exist.",
+            "text_zh": "去追求零亿美元市场。最大的机会不在万亿美元市场里，而在那些还不存在的市场里。",
+            "speaker": "Jensen Huang",
+            "context": "Caltech 2024 毕业演讲核心金句"
+          }
+        ]
       }
     ],
     "source_hints": null
@@ -1220,6 +1670,40 @@
     "source_hints": null
   },
   {
+    "id": "huang-2024-07-29-siggraph-wired",
+    "person_id": "huang",
+    "date": "2024-07-29",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "SIGGRAPH 2024 / WIRED：与 Lauren Goode 对谈",
+    "title_en": "SIGGRAPH 2024 / WIRED: With Lauren Goode",
+    "summary": "SIGGRAPH 2024 上 WIRED 记者 Lauren Goode 主持的黄仁勋专访。讨论生成式视频、AI 内容创作工具、对计算机图形学未来的看法。",
+    "summary_en": "WIRED's Lauren Goode hosts a Huang interview at SIGGRAPH 2024. Topics: generative video, AI content creation tools, the future of computer graphics.",
+    "location": "Denver, CO",
+    "tags": [
+      "SIGGRAPH",
+      "WIRED",
+      "Lauren Goode"
+    ],
+    "sources": [
+      {
+        "id": "youtube-wired-siggraph",
+        "url": "https://www.youtube.com/watch?v=H0WxJ7caZQU",
+        "kind": "video",
+        "title": "What's Next in AI: NVIDIA's Jensen Huang Talks With WIRED's Lauren Goode",
+        "publisher": "NVIDIA",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "SIGGRAPH 2024 WIRED Lauren Goode 与黄仁勋专访完整录像。",
+        "summary_en": "Full SIGGRAPH 2024 WIRED Huang interview.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "huang-2024-10-acquired-podcast",
     "person_id": "huang",
     "date": "2024-10-01",
@@ -1252,9 +1736,127 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://www.acquired.fm/episodes/jensen-huang",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-acquired-live",
+        "url": "https://www.youtube.com/watch?v=KVc7EVfWq3M",
+        "kind": "video",
+        "title": "Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg)",
+        "publisher": "Acquired",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Acquired 播客 LIVE 版本，旧金山 Chase Center 现场，黄仁勋与 Daniel Ek、Mark Zuckerberg 等同台。",
+        "summary_en": "Acquired podcast LIVE from Chase Center, with Huang alongside Daniel Ek and Mark Zuckerberg.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "huang-2024-11-bg2-podcast",
+    "person_id": "huang",
+    "date": "2024-11-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "BG2 Pod 第 17 集：与 Bill Gurley、Brad Gerstner 对谈",
+    "title_en": "BG2 Pod Ep 17: With Bill Gurley & Brad Gerstner",
+    "summary": "Bill Gurley（Benchmark）和 Brad Gerstner（Altimeter）联合主持的 BG2 Pod 邀请黄仁勋长访谈。两位顶级硅谷投资人和 NVIDIA CEO 同台，讨论 AI 投资周期、CapEx 是否过高。",
+    "summary_en": "BG2 Pod, co-hosted by Bill Gurley (Benchmark) and Brad Gerstner (Altimeter), with Huang as long-form guest. Two top Silicon Valley investors and the NVIDIA CEO on AI investment cycles and whether CapEx is overheated.",
+    "location": "Recorded virtually",
+    "tags": [
+      "BG2 Pod",
+      "Bill Gurley",
+      "Brad Gerstner",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-bg2",
+        "url": "https://www.youtube.com/watch?v=bUrCR4jQQg8",
+        "kind": "video",
+        "title": "Ep17. Welcome Jensen Huang | BG2 w/ Bill Gurley & Brad Gerstner",
+        "publisher": "Bg2 Pod",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "BG2 Pod 第 17 集黄仁勋专访完整录像。",
+        "summary_en": "Full BG2 Pod Ep 17 Huang interview.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
+    "id": "huang-2024-11-no-priors",
+    "person_id": "huang",
+    "date": "2024-11-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "No Priors 第 89 集：与 Sarah Guo、Elad Gil 对谈",
+    "title_en": "No Priors Ep 89: With Sarah Guo & Elad Gil",
+    "summary": "Sarah Guo（Conviction）和 Elad Gil 共同主持的 No Priors 播客邀请黄仁勋长访谈。讨论物理 AI、机器人、CUDA 的复利效应。",
+    "summary_en": "No Priors podcast (co-hosted by Sarah Guo of Conviction and Elad Gil) with Huang as long-form guest. Topics: physical AI, robotics, the compounding effects of CUDA.",
+    "location": "Recorded virtually",
+    "tags": [
+      "No Priors",
+      "Sarah Guo",
+      "Elad Gil",
+      "AI"
+    ],
+    "sources": [
+      {
+        "id": "youtube-no-priors",
+        "url": "https://www.youtube.com/watch?v=hw7EnjC68Fw",
+        "kind": "video",
+        "title": "No Priors Ep. 89 | With NVIDIA CEO Jensen Huang",
+        "publisher": "No Priors",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "No Priors 第 89 集黄仁勋专访完整录像。",
+        "summary_en": "Full No Priors Ep 89 Huang interview.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
+    "id": "huang-2024-12-wired-big-interview",
+    "person_id": "huang",
+    "date": "2024-12-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "WIRED Big Interview Live 2024",
+    "title_en": "WIRED Big Interview Live 2024",
+    "summary": "WIRED 年度 Big Interview Live 大会上黄仁勋的舞台访谈。同场嘉宾还有 Zach Snyder、Mira Murati 等。",
+    "summary_en": "Huang on stage at WIRED's annual Big Interview Live event. Other featured guests include Zach Snyder and Mira Murati.",
+    "location": "San Francisco, CA",
+    "tags": [
+      "WIRED",
+      "Big Interview"
+    ],
+    "sources": [
+      {
+        "id": "youtube-wired-big",
+        "url": "https://www.youtube.com/watch?v=CC6H2dBt5WE",
+        "kind": "video",
+        "title": "Jensen Huang, Zach Snyder, Mira Murati & More - The Big Interview Live 2024 | WIRED",
+        "publisher": "WIRED",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "WIRED Big Interview Live 2024 完整录像。",
+        "summary_en": "Full WIRED Big Interview Live 2024.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "huang-2025-01-06-ces-2025-keynote",
@@ -1359,8 +1961,56 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Nvidia",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-gtc-2025",
+        "url": "https://www.youtube.com/watch?v=_waPvOwL9Z8",
+        "kind": "video",
+        "title": "GTC March 2025 Keynote with NVIDIA CEO Jensen Huang",
+        "publisher": "NVIDIA",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "GTC 2025 主题演讲完整录像——\"通用机器人时代来了\"。",
+        "summary_en": "Full GTC 2025 keynote — \"the age of generalist robotics is here.\"",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "huang-2025-05-19-computex-keynote",
+    "person_id": "huang",
+    "date": "2025-05-19",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "Computex 2025 主题演讲",
+    "title_en": "Computex 2025 Keynote",
+    "summary": "Computex 2025 主题演讲。NVIDIA 市值已成全球第一，AI infrastructure 成为黄仁勋最常用的核心叙事。",
+    "summary_en": "Computex 2025 keynote. With NVIDIA already the world's most valuable company, \"AI infrastructure\" has become Huang's core narrative.",
+    "location": "Taipei, Taiwan",
+    "tags": [
+      "Computex",
+      "AI infrastructure"
+    ],
+    "sources": [
+      {
+        "id": "youtube-computex-2025",
+        "url": "https://www.youtube.com/watch?v=TLzna9__DnI",
+        "kind": "video",
+        "title": "NVIDIA CEO Jensen Huang Keynote at COMPUTEX 2025",
+        "publisher": "NVIDIA",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Computex 2025 主题演讲完整录像。",
+        "summary_en": "Full Computex 2025 keynote.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   }
 ]

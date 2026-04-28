@@ -968,6 +968,144 @@
     "source_hints": null
   },
   {
+    "id": "buffett-1998-uw-with-gates",
+    "person_id": "buffett",
+    "date": "1998-07-01",
+    "date_precision": "month",
+    "type": "speech",
+    "title": "华盛顿大学讲座（与盖茨同台）",
+    "title_en": "University of Washington Lecture (with Bill Gates)",
+    "summary": "1998 年华盛顿大学，巴菲特和当时仍是微软 CEO 的盖茨同台与学生对话。两人都还相对年轻——这是他们最早一批公开同框的视频之一。",
+    "summary_en": "1998 University of Washington joint conversation with students. Buffett and a then-still-CEO Bill Gates on stage together — one of the earliest public joint appearances of the two on video.",
+    "location": "Seattle, WA",
+    "tags": [
+      "University of Washington",
+      "Bill Gates",
+      "讲座"
+    ],
+    "sources": [
+      {
+        "id": "youtube-uw-1998",
+        "url": "https://www.youtube.com/watch?v=R8VBTd2R9nE",
+        "kind": "video",
+        "title": "Warren Buffett | Bill Gates | Lecture | University Of Washington | 1998",
+        "publisher": "Investor Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1998 年华盛顿大学巴菲特与盖茨同台讲座完整录像。",
+        "summary_en": "Full 1998 UW joint lecture recording.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
+    "id": "buffett-1998-10-15-uf-mba",
+    "person_id": "buffett",
+    "date": "1998-10-15",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "佛罗里达大学 MBA 演讲",
+    "title_en": "University of Florida MBA Talk",
+    "summary": "巴菲特在佛罗里达大学商学院对 MBA 学生的著名讲座（约 90 分钟），是研究他价值投资思维方式的经典材料。讨论 Long-Term Capital Management 倒下、为什么不投科技股、以及他对\"能力圈\"的定义。",
+    "summary_en": "Buffett's famous ~90-minute lecture to MBA students at the University of Florida Business School — a classic resource for studying his value-investing mindset. Topics: the LTCM collapse, why he avoids tech stocks, and his definition of the \"circle of competence.\"",
+    "location": "Gainesville, FL",
+    "key": true,
+    "tags": [
+      "University of Florida",
+      "MBA",
+      "讲座",
+      "价值投资"
+    ],
+    "sources": [
+      {
+        "id": "youtube-uf-1998",
+        "url": "https://www.youtube.com/watch?v=7Z6x-Ov1smU",
+        "kind": "video",
+        "title": "Warren Buffett | Lecture | University Of Florida | 1998",
+        "publisher": "Investor Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "佛罗里达大学 MBA 讲座完整录像。",
+        "summary_en": "Full UF MBA lecture recording.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
+    "id": "buffett-1999-nebraska-edu-forum",
+    "person_id": "buffett",
+    "date": "1999-01-01",
+    "date_precision": "year",
+    "type": "speech",
+    "title": "内布拉斯加教育论坛",
+    "title_en": "Nebraska Educational Forum",
+    "summary": "1999 年内布拉斯加教育论坛对巴菲特的访谈。互联网泡沫高峰期间，巴菲特依然坚持自己\"不懂的不投\"的纪律——这场对话之后两年，他被验证是对的。",
+    "summary_en": "1999 Nebraska Educational Forum interview with Buffett. At the height of the dot-com bubble, Buffett held firm on his \"don't invest in what you don't understand\" discipline — vindicated two years later.",
+    "location": "Nebraska, USA",
+    "tags": [
+      "Nebraska",
+      "讲座",
+      "互联网泡沫"
+    ],
+    "sources": [
+      {
+        "id": "youtube-nebraska-1999",
+        "url": "https://www.youtube.com/watch?v=HM9h9t1vpIE",
+        "kind": "video",
+        "title": "Warren Buffett | Lecture | Nebraska Educational Forum | 1999",
+        "publisher": "Investor Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1999 内布拉斯加教育论坛巴菲特讲座完整录像。",
+        "summary_en": "Full 1999 Nebraska Educational Forum Buffett lecture.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
+    "id": "buffett-2001-uga-terry",
+    "person_id": "buffett",
+    "date": "2001-07-18",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "乔治亚大学 Terry 商学院讲座",
+    "title_en": "University of Georgia Terry College Lecture",
+    "summary": "2001 年 7 月乔治亚大学 Terry 商学院讲座，互联网泡沫已破灭。巴菲特和学生讨论判断管理层的方法、保险业的根本逻辑、以及为什么\"投资就是延迟消费\"。",
+    "summary_en": "July 2001 lecture at the Terry College of Business, after the dot-com crash. Buffett discusses how to judge management, the fundamentals of the insurance business, and why \"investing is just deferred consumption.\"",
+    "location": "Athens, GA",
+    "tags": [
+      "University of Georgia",
+      "Terry College",
+      "讲座"
+    ],
+    "sources": [
+      {
+        "id": "youtube-uga-2001",
+        "url": "https://www.youtube.com/watch?v=yM_XK72lnaM",
+        "kind": "video",
+        "title": "Buffett 2001 Speech at University of Georgia",
+        "publisher": "Sharing Investing Wisdom",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "乔治亚大学 2001 巴菲特讲座完整录像。",
+        "summary_en": "Full 2001 UGA Buffett lecture recording.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "buffett-2003-annual-meeting-classic",
     "person_id": "buffett",
     "date": "2003-05-03",
@@ -1018,9 +1156,73 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://buffett.cnbc.com/video/2003/05/03/morning-session---2003-berkshire-hathaway-annual-meeting.html",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-berk-2003-pt1",
+        "url": "https://www.youtube.com/watch?v=-_VaKBEPLlY",
+        "kind": "video",
+        "title": "Warren Buffett: 2003 Berkshire Hathaway Annual Meeting Part 1",
+        "publisher": "Hioim",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2003 年伯克希尔股东大会经典 Q&A 完整录像第一部分。",
+        "summary_en": "Full first half of the 2003 Berkshire annual meeting Q&A.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-berk-2003-pt2",
+        "url": "https://www.youtube.com/watch?v=jcW_WzYBtHs",
+        "kind": "video",
+        "title": "Warren Buffett: 2003 Berkshire Hathaway Annual Meeting Part 2",
+        "publisher": "Hioim",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "2003 年伯克希尔股东大会第二部分。",
+        "summary_en": "Second half of the 2003 Berkshire annual meeting.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "buffett-2005-unl-with-gates",
+    "person_id": "buffett",
+    "date": "2005-09-30",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "内布拉斯加大学 Lincoln 校区讲座（与盖茨同台）",
+    "title_en": "UNL Lecture (with Bill Gates)",
+    "summary": "2005 年 9 月 30 日，巴菲特和盖茨共同回到内布拉斯加大学 Lincoln 校区与学生对话。两个人都已经是慈善家身份的强信号——五年后他们一起发起 Giving Pledge。",
+    "summary_en": "September 30, 2005: Buffett and Gates jointly returned to UNL to converse with students. Both already showing strong signals of their philanthropist phase — five years before launching the Giving Pledge together.",
+    "location": "Lincoln, NE",
+    "tags": [
+      "UNL",
+      "Bill Gates",
+      "讲座"
+    ],
+    "sources": [
+      {
+        "id": "youtube-unl-2005",
+        "url": "https://www.youtube.com/watch?v=1AlPTiJrJnE",
+        "kind": "video",
+        "title": "Warren Buffett | Bill Gates | Lecture | University Of Nebraska | 2005",
+        "publisher": "Investor Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2005 UNL 巴菲特+盖茨讲座完整录像。",
+        "summary_en": "Full 2005 UNL Buffett+Gates lecture.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "buffett-2006-philanthropy-pledge",
@@ -1074,6 +1276,40 @@
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "buffett-2006-07-10-charlie-rose",
+    "person_id": "buffett",
+    "date": "2006-07-10",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Charlie Rose 专访（捐赠盖茨基金会两周后）",
+    "title_en": "Charlie Rose Interview (two weeks after pledging to Gates Foundation)",
+    "summary": "2006 年 7 月 10 日 Charlie Rose 节目专访。距离巴菲特宣布把绝大部分财富捐给盖茨基金会刚两周——他在节目里第一次完整解释这个决定的逻辑。",
+    "summary_en": "July 10, 2006 Charlie Rose interview, just two weeks after Buffett pledged the majority of his wealth to the Gates Foundation. The first full public explanation of the decision's logic.",
+    "location": "PBS Studio, New York, NY",
+    "tags": [
+      "Charlie Rose",
+      "慈善",
+      "盖茨基金会"
+    ],
+    "sources": [
+      {
+        "id": "youtube-charlie-rose-2006",
+        "url": "https://www.youtube.com/watch?v=Gm1FqNO4taM",
+        "kind": "video",
+        "title": "Warren Buffett | Charlie Rose | Pt. 1 | July 10, 2006",
+        "publisher": "Investor Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Charlie Rose 2006-07-10 节目第一部分。",
+        "summary_en": "Charlie Rose July 10, 2006 Part 1.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "buffett-2006-marriage-astrid",
@@ -1218,6 +1454,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://www.nytimes.com/2008/10/17/opinion/17buffett.html",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-2008-crisis",
+        "url": "https://www.youtube.com/watch?v=pWv8am4kSQQ",
+        "kind": "video",
+        "title": "Warren Buffett Talks Effects Of 2008 Financial Crisis | CNBC",
+        "publisher": "CNBC",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2008 金融危机期间巴菲特对市场和\"Buy American. I Am.\"那篇社论的电视访谈。",
+        "summary_en": "CNBC interview with Buffett during the 2008 crisis on the market and his \"Buy American. I Am.\" op-ed.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": "The quote itself predates 2008 — Buffett used it in his 1986 shareholder letter"
@@ -1275,6 +1526,39 @@
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "buffett-charlie-rose-global",
+    "person_id": "buffett",
+    "date": "2009-11-12",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Charlie Rose Global Conversation：关于美国、生活与金钱",
+    "title_en": "Charlie Rose Global Conversation: On America, Life and Money",
+    "summary": "Charlie Rose 制作的 Global Conversation 系列对巴菲特的深度访谈。比标准 Charlie Rose 节目更长、更哲学，关注的是巴菲特对国家、社会、生活的整体观点。",
+    "summary_en": "A Charlie Rose Global Conversation deep-dive Buffett interview — longer and more philosophical than the standard Charlie Rose show, focused on his comprehensive views on country, society, and life.",
+    "location": "PBS Studio, New York, NY",
+    "tags": [
+      "Charlie Rose",
+      "Global Conversation"
+    ],
+    "sources": [
+      {
+        "id": "youtube-rose-global",
+        "url": "https://www.youtube.com/watch?v=qlBAs-45cFg",
+        "kind": "video",
+        "title": "Warren Buffett on America, Life and Money. A Charlie Rose Global Conversation",
+        "publisher": "Charlie Rose",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Charlie Rose Global Conversation 系列巴菲特专辑完整录像。",
+        "summary_en": "Full Charlie Rose Global Conversation Buffett episode.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "buffett-2009-charlie-rose-interview",
@@ -1375,6 +1659,36 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/The_Giving_Pledge",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-giving-pledge-joint",
+        "url": "https://www.youtube.com/watch?v=SwdpmnPLgp4",
+        "kind": "video",
+        "title": "Warren Buffett, Bill Gates - Giving Pledge",
+        "publisher": "Value Investors Portal",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "巴菲特和盖茨共同宣布 Giving Pledge 时的发布会片段。两人承诺把绝大部分财富捐给慈善。",
+        "summary_en": "Joint Buffett-Gates Giving Pledge announcement clip — both pledging the vast majority of their wealth to philanthropy.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-giving-pledge-buffett-solo",
+        "url": "https://www.youtube.com/watch?v=xMJKGGENMUA",
+        "kind": "video",
+        "title": "The Giving Pledge: Warren Buffett",
+        "publisher": "ABC News",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "ABC News 关于 Giving Pledge 的巴菲特独立访谈。",
+        "summary_en": "ABC News standalone Buffett interview about the Giving Pledge.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1433,6 +1747,40 @@
     "source_hints": "Discussed extensively in Buffett's 2017 CNBC interview and annual letters"
   },
   {
+    "id": "buffett-2012-12-03-daily-show",
+    "person_id": "buffett",
+    "date": "2012-12-03",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "The Daily Show with Jon Stewart：与 Carol Loomis 同场",
+    "title_en": "The Daily Show with Jon Stewart (with Carol Loomis)",
+    "summary": "Jon Stewart 主持的 Daily Show 上巴菲特与 Fortune 资深记者、《Tap Dancing to Work》编辑 Carol Loomis 同场访谈。讨论 Buffett 与 Loomis 几十年的友谊、Loomis 编辑的巴菲特致股东信精华本。",
+    "summary_en": "Jon Stewart's Daily Show with Buffett alongside Fortune senior writer and *Tap Dancing to Work* editor Carol Loomis. Discusses the decades-long Buffett-Loomis friendship and Loomis's edited collection of Buffett's shareholder letters.",
+    "location": "Comedy Central Studios, New York, NY",
+    "tags": [
+      "Daily Show",
+      "Jon Stewart",
+      "Carol Loomis"
+    ],
+    "sources": [
+      {
+        "id": "archive-daily-show-2012",
+        "url": "https://archive.org/details/COM_20121204_033000_The_Daily_Show_With_Jon_Stewart",
+        "kind": "video",
+        "title": "The Daily Show With Jon Stewart — Dec 3, 2012",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "巴菲特和 Carol Loomis 在 Jon Stewart 节目上的完整片段。",
+        "summary_en": "Full Daily Show segment with Buffett and Carol Loomis.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "buffett-2016-apple-investment",
     "person_id": "buffett",
     "date": "2016-05-16",
@@ -1486,6 +1834,41 @@
     "source_hints": "First disclosed in Berkshire's Q1 2016 13F filing dated May 16, 2016"
   },
   {
+    "id": "buffett-2017-01-27-columbia-with-gates",
+    "person_id": "buffett",
+    "date": "2017-01-27",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "哥伦比亚大学：与盖茨、Charlie Rose 同台",
+    "title_en": "Columbia University: Joint Talk with Gates and Charlie Rose",
+    "summary": "在哥伦比亚商学院由 Charlie Rose 主持，巴菲特与盖茨同台。两人长期友谊、Giving Pledge 进展、与下一代的对话——是两位老朋友少见的公开同框访谈。",
+    "summary_en": "At Columbia Business School, Charlie Rose hosts a joint conversation between Buffett and Gates. Topics: their long friendship, Giving Pledge progress, and a dialogue with the next generation. A rare on-camera joint appearance.",
+    "location": "Columbia Business School, New York, NY",
+    "tags": [
+      "Columbia",
+      "Bill Gates",
+      "Charlie Rose",
+      "Giving Pledge"
+    ],
+    "sources": [
+      {
+        "id": "youtube-columbia-2017",
+        "url": "https://www.youtube.com/watch?v=uR5tFkncS0g",
+        "kind": "video",
+        "title": "Warren Buffett | Bill Gates | Lecture | Columbia University | January 27, 2017",
+        "publisher": "Investor Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2017 年哥伦比亚商学院巴菲特+盖茨+Charlie Rose 同台访谈完整录像。",
+        "summary_en": "Full Jan 27, 2017 Columbia Business School Buffett+Gates+Charlie Rose conversation.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "buffett-2017-hbo-becoming",
     "person_id": "buffett",
     "date": "2017-01-30",
@@ -1531,6 +1914,21 @@
         "authored_by": "human",
         "mentions": [],
         "summary": "HBO 官方预告片：纪录片《成为沃伦·巴菲特》。"
+      },
+      {
+        "id": "archive-hbo-becoming-clip",
+        "url": "https://archive.org/details/youtube-pKWN0YFf_14",
+        "kind": "video",
+        "title": "Investing Style and Strategy: From HBO's \"Becoming Warren Buffett\"",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "巴菲特 HBO 纪录片中关于投资风格的精选片段。",
+        "summary_en": "Investing-style segment from the HBO Buffett doc.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1586,6 +1984,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://buffett.cnbc.com/video/2018/05/05/morning-session--2018-berkshire-hathaway-annual-meeting.html",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-berk-2018",
+        "url": "https://www.youtube.com/watch?v=Ih399RCTV2k",
+        "kind": "video",
+        "title": "Warren Buffett: 2018 Berkshire Hathaway Annual Meeting",
+        "publisher": "Hioim",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2018 年伯克希尔股东大会完整录像（约 6 小时 Q&A）。",
+        "summary_en": "Full 2018 Berkshire annual meeting (about 6-hour Q&A).",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -1625,9 +2038,92 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/video/2019/02/25/warren-buffett-cnbc-full-interview-berkshire-hathaway.html",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-cnbc-becky-2019",
+        "url": "https://www.youtube.com/watch?v=Pqc56crs56s",
+        "kind": "video",
+        "title": "CNBC's Becky Quick interviews Warren Buffett (2/25/19)",
+        "publisher": "CNBC Television",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2019 年 2 月 25 日 Becky Quick 在 Squawk Box 节目上对巴菲特的年度专访。讨论 Kraft Heinz 减记的教训、长期价值投资、伯克希尔 50 年回顾。",
+        "summary_en": "Becky Quick's annual Squawk Box interview with Buffett, Feb 25, 2019. Topics: lessons from the Kraft Heinz writedown, long-term value investing, Berkshire's 50-year retrospective.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "buffett-2019-03-28-cnbc-quick",
+    "person_id": "buffett",
+    "date": "2019-03-28",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "CNBC Becky Quick 春季访谈",
+    "title_en": "CNBC Becky Quick Spring Interview",
+    "summary": "2019 年 3 月 28 日 Becky Quick 在 Gatehouse 午餐会期间对巴菲特的访谈，是同年 5 月 Berkshire 三人组（巴菲特+芒格+盖茨）访谈的预演。",
+    "summary_en": "March 28, 2019 Becky Quick lunch interview with Buffett — preceded the May trio interview with Buffett, Munger, and Gates.",
+    "location": "Omaha, NE",
+    "tags": [
+      "CNBC",
+      "Becky Quick"
+    ],
+    "sources": [
+      {
+        "id": "youtube-cnbc-2019-march",
+        "url": "https://www.youtube.com/watch?v=Q5UAyHhlFCs",
+        "kind": "video",
+        "title": "Warren Buffett Speaks With CNBC's Becky Quick — Thursday, March 28",
+        "publisher": "CNBC Television",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Becky Quick 2019 年 3 月 28 日访谈完整录像。",
+        "summary_en": "Full March 28, 2019 Becky Quick interview.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
+    "id": "buffett-2019-05-trio",
+    "person_id": "buffett",
+    "date": "2019-05-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "CNBC 三人组访谈（巴菲特、芒格、盖茨）",
+    "title_en": "CNBC Trio Interview (Buffett, Munger, Gates)",
+    "summary": "2019 年伯克希尔股东大会期间，CNBC 的 Becky Quick 罕见地把巴菲特、芒格、盖茨三个人放在同一张桌子上。三人讨论 Apple、能源、AI 早期、政治。",
+    "summary_en": "During the 2019 Berkshire weekend, CNBC's Becky Quick rarely put Buffett, Munger, and Gates around one table. The three discussed Apple, energy, early AI, and politics.",
+    "location": "Omaha, NE",
+    "key": true,
+    "tags": [
+      "CNBC",
+      "Munger",
+      "Bill Gates"
+    ],
+    "sources": [
+      {
+        "id": "youtube-cnbc-trio-2019",
+        "url": "https://www.youtube.com/watch?v=y-zxUrZJ7-o",
+        "kind": "video",
+        "title": "2019 interview with Warren Buffett, Charlie Munger, & Bill Gates by Becky Quick from CNBC",
+        "publisher": "BelfortPitches",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2019 年 CNBC 巴菲特+芒格+盖茨三人组访谈完整录像。",
+        "summary_en": "Full 2019 CNBC trio interview.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "buffett-2020-pandemic-meeting",

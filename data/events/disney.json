@@ -184,6 +184,36 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walt_Disney",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "archive-steamboat-willie-4k",
+        "url": "https://archive.org/details/steamboat-willie-1928-4k-remastered",
+        "kind": "video",
+        "title": "Steamboat Willie (1928) 4K Remastered",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1928 年 11 月 18 日首映的《Steamboat Willie》——米奇老鼠首次正式登场，也是首部声画同步的卡通片。2024 年 1 月 1 日进入公共领域。",
+        "summary_en": "*Steamboat Willie* — premiered November 18, 1928, the first official appearance of Mickey Mouse and the first synchronized-sound cartoon. Entered the public domain on January 1, 2024.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-plane-crazy",
+        "url": "https://archive.org/details/plane-crazy_1928",
+        "kind": "video",
+        "title": "Plane Crazy (1928)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1928 年早期的《Plane Crazy》——米奇老鼠首次出现的卡通片，但因没有同步声音直到 1929 年才公开发行。这是 Disney/Iwerks 在 Steamboat Willie 之前完成的作品。",
+        "summary_en": "*Plane Crazy* (1928) — the cartoon in which Mickey Mouse first appeared, but it lacked synchronized sound and wasn't publicly released until 1929. The Disney/Iwerks work completed *before* Steamboat Willie.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -222,6 +252,36 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walt_Disney",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "archive-flowers-trees",
+        "url": "https://archive.org/details/flowers-and-trees-1932-restored",
+        "kind": "video",
+        "title": "Flowers and Trees (1932, Restored)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1932 年的《Flowers and Trees》——首部全彩三色 Technicolor 动画短片，以及首部获得奥斯卡最佳动画短片奖的影片。",
+        "summary_en": "*Flowers and Trees* (1932) — the first full-color three-strip Technicolor animated short and the first to win the Academy Award for Animated Short Film.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-silly-symphonies",
+        "url": "https://archive.org/details/walt-disneys-silly-symphonies-the-complete-collection-1929-39",
+        "kind": "video",
+        "title": "Walt Disney's Silly Symphonies — Complete Collection 1929-39",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "包含 75 部 Silly Symphonies 短片完整合集（1929-1939），其中包括 Flowers and Trees。",
+        "summary_en": "Complete collection of all 75 Silly Symphonies shorts (1929-1939), including Flowers and Trees.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -417,6 +477,41 @@
     "source_hints": null
   },
   {
+    "id": "disney-1954-10-27-disneyland-tv-show",
+    "person_id": "disney",
+    "date": "1954-10-27",
+    "date_precision": "day",
+    "type": "product",
+    "title": "ABC《Disneyland》电视节目首播",
+    "title_en": "Premiere of ABC's \"Disneyland\" TV series",
+    "summary": "1954 年 10 月 27 日 ABC 首播《Disneyland》电视节目（首集名为\"The Disneyland Story\"），由 Walt 亲自主持。这个节目改变了好莱坞与电视的关系，并为同时建造的 Disneyland 主题公园做大规模营销。本节目后改名为《Wonderful World of Disney》并连续播出 47 季。",
+    "summary_en": "On October 27, 1954, ABC premiered the *Disneyland* TV anthology series (first episode titled \"The Disneyland Story\"), hosted by Walt himself. The show transformed the relationship between Hollywood and television and provided massive marketing for the simultaneously-being-built Disneyland park. Later renamed *Wonderful World of Disney*, it ran 47 seasons.",
+    "location": "ABC TV",
+    "key": true,
+    "tags": [
+      "电视节目",
+      "Disneyland",
+      "Wonderful World of Disney"
+    ],
+    "sources": [
+      {
+        "id": "archive-disney-anthology",
+        "url": "https://archive.org/details/disney-anthology-television-series",
+        "kind": "video",
+        "title": "Disney Anthology Television Series Collection",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Internet Archive 收藏的 Disney 电视节目大集（含 1954 年首集 \"The Disneyland Story\" 和后续多个 Walt 主持的著名集）。",
+        "summary_en": "Internet Archive's Disney Anthology TV Series collection (includes the 1954 premiere \"The Disneyland Story\" and many other Walt-hosted episodes).",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "disney-1955-07-17-disneyland-opens",
     "person_id": "disney",
     "date": "1955-07-17",
@@ -450,9 +545,106 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walt_Disney",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "archive-disneyland-opening-1955",
+        "url": "https://archive.org/details/1955DisneylandOpeningDaycompleteAbcBroadcast",
+        "kind": "video",
+        "title": "1955 Disneyland Opening Day — Complete ABC Broadcast",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1955 年 7 月 17 日 Disneyland 开幕日 ABC 完整直播录像。Bob Cummings、Art Linkletter、Ronald Reagan 三人主持现场直播——将来的总统当时还是好莱坞演员。Walt 当天亲自向全美国观众介绍他的乐园愿景。",
+        "summary_en": "Full ABC broadcast of Disneyland's opening day, July 17, 1955. Hosted live on TV by Bob Cummings, Art Linkletter, and Ronald Reagan — the future president was still a Hollywood actor at the time. Walt personally introduced his park vision to all of America.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-dateline-disneyland",
+        "url": "https://archive.org/details/dateline-disneyland",
+        "kind": "video",
+        "title": "Dateline Disneyland — Opening Day Broadcast (1080p)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1955 年 Disneyland 开幕日直播的 1080p 高清版本。",
+        "summary_en": "1080p version of the 1955 Disneyland opening day broadcast.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "disney-1962-04-15-disneyland-after-dark",
+    "person_id": "disney",
+    "date": "1962-04-15",
+    "date_precision": "day",
+    "type": "product",
+    "title": "《Disneyland After Dark》（Wonderful World of Color）",
+    "title_en": "\"Disneyland After Dark\" (Wonderful World of Color)",
+    "summary": "1962 年 4 月 15 日的 Wonderful World of Color 第 8 季第 26 集。Walt 亲自带观众游览夜晚的 Disneyland 乐园——爵士音乐、烟花、Mark Twain 蒸汽船。是 Walt 1955-1966 间作为电视节目主持人的代表作之一。",
+    "summary_en": "Wonderful World of Color, Season 8 Episode 26, April 15, 1962. Walt personally takes viewers on a tour of Disneyland after dark — jazz music, fireworks, the Mark Twain riverboat. A signature episode from Walt's 1955-1966 TV-host era.",
+    "location": "Disneyland, Anaheim, CA",
+    "tags": [
+      "Wonderful World of Color",
+      "Disneyland"
+    ],
+    "sources": [
+      {
+        "id": "archive-disneyland-after-dark",
+        "url": "https://archive.org/details/walt-disneys-wonderful-world-of-color-s-08-e-26-disneyland-after-dark-april-15-1962",
+        "kind": "video",
+        "title": "Disneyland After Dark — Wonderful World of Color S08E26",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Wonderful World of Color 第 8 季第 26 集完整录像。",
+        "summary_en": "Full Wonderful World of Color S08E26 recording.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
+    "id": "disney-1962-12-23-holiday-time",
+    "person_id": "disney",
+    "date": "1962-12-23",
+    "date_precision": "day",
+    "type": "product",
+    "title": "《Holiday Time at Disneyland》",
+    "title_en": "\"Holiday Time at Disneyland\"",
+    "summary": "1962 年 12 月 23 日播出的 Wonderful World of Color，由 Hamilton S. Luske 执导。Walt 介绍 Disneyland 圣诞主题装饰——展示这位主题乐园发明者如何把节日变成可重复体验的产品。",
+    "summary_en": "Wonderful World of Color episode aired December 23, 1962, directed by Hamilton S. Luske. Walt introduces Disneyland's Christmas theme decorations — showing how the inventor of theme parks turned holidays into reproducible experience products.",
+    "location": "Disneyland, Anaheim, CA",
+    "tags": [
+      "Wonderful World of Color",
+      "圣诞",
+      "Disneyland"
+    ],
+    "sources": [
+      {
+        "id": "archive-holiday-time",
+        "url": "https://archive.org/details/holiday-time-at-disneyland",
+        "kind": "video",
+        "title": "Holiday Time at Disneyland (Wonderful World of Color)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1962 年 12 月 23 日 Wonderful World of Color 圣诞节特辑完整录像。",
+        "summary_en": "Full December 23, 1962 Wonderful World of Color Christmas special.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "disney-1964-08-27-mary-poppins",
@@ -526,6 +718,36 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walt_Disney",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "archive-disneyland-worlds-fair",
+        "url": "https://archive.org/details/disneyland-goes-to-the-worlds-fair",
+        "kind": "video",
+        "title": "Disneyland Goes to the World's Fair",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1965 年播出的 Wonderful World of Color 节目——Walt 介绍他在 1964 年纽约世博会上的四大 Disney 展项（小小世界、Mr. Lincoln、Carousel of Progress、Magic Skyway），同时为 Disney World 的奥兰多扩张埋下伏笔。",
+        "summary_en": "1965 Wonderful World of Color episode — Walt introduces his four Disney attractions at the 1964 New York World's Fair (it's a small world, Mr. Lincoln, Carousel of Progress, Magic Skyway), foreshadowing the Disney World Orlando expansion.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-epcot-florida-project",
+        "url": "https://www.youtube.com/watch?v=UEm-09B0px8",
+        "kind": "video",
+        "title": "1966 EPCOT Film - The Florida Project - Restored",
+        "publisher": "RetroWDW",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "Walt Disney 1966 年录制的\"佛罗里达项目\"宣传片——他完整阐述 EPCOT 未来城市愿景。录制完成两个月后他就因癌症去世。这是他生前最后一次完整公开演讲。",
+        "summary_en": "Walt's 1966 \"Florida Project\" promotional film — his complete vision for the EPCOT future city. He died of cancer two months after recording. His final full public address.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
