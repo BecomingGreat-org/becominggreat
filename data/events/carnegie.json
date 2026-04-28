@@ -33,6 +33,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Andrew_Carnegie",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-carnegie-prince-steel",
+        "url": "https://www.youtube.com/watch?v=kZRND9IqPkA",
+        "kind": "video",
+        "title": "Andrew Carnegie: Prince Of Steel | Full Documentary | Biography",
+        "publisher": "Biography",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "完整的安德鲁·卡内基传记纪录片——从苏格兰移民到\"钢铁王子\"再到现代慈善先驱的全景叙述。",
+        "summary_en": "Full Andrew Carnegie biographical documentary — Scottish immigrant to \"Prince of Steel\" to pioneer of modern philanthropy.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -185,6 +200,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Andrew_Carnegie",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-mwba-carnegie-s1e3",
+        "url": "https://www.youtube.com/watch?v=g180A6k7814",
+        "kind": "video",
+        "title": "How Carnegie Built an Empire of Steel | The Men Who Built America (S1, E3) | Full Episode | History",
+        "publisher": "HISTORY",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "History Channel《The Men Who Built America》第 1 季第 3 集完整版——卡内基如何用 Bessemer 法、铁路客户、垂直整合一步步构建钢铁帝国。",
+        "summary_en": "Full Men Who Built America S1E3 — how Carnegie built his steel empire through the Bessemer process, railroad customers, and vertical integration.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -328,6 +358,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/The_Gospel_of_Wealth",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-gospel-of-wealth-audiobook",
+        "url": "https://www.youtube.com/watch?v=cNEcBFCQAEQ",
+        "kind": "video",
+        "title": "The Gospel of Wealth by Andrew Carnegie — Full Audio Book",
+        "publisher": "LibriVox Audiobooks",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Carnegie 1889 年发表的《财富的福音》全文有声书——其中\"死时富有等于死时蒙羞\"是现代慈善理念的奠基语。",
+        "summary_en": "Full audiobook of Carnegie's 1889 *The Gospel of Wealth* — including the foundational line of modern philanthropy: \"The man who dies rich, dies disgraced.\"",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -383,6 +428,36 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Homestead_strike",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-carnegie-frick-mwba",
+        "url": "https://www.youtube.com/watch?v=Q33oreSmwa0",
+        "kind": "video",
+        "title": "Carnegie & Frick: The Ruthless Deal That Led to Disaster (S1) | The Men Who Built America",
+        "publisher": "HISTORY",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Men Who Built America 关于 Homestead Strike 的完整剧集——卡内基把工厂留给 Frick 处理罢工，自己去苏格兰度假。结果是历史上最血腥的劳资冲突之一。",
+        "summary_en": "The Men Who Built America full episode on the Homestead Strike — Carnegie left the plant in Frick's hands and vacationed in Scotland. The result was one of the bloodiest labor conflicts in history.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-river-ran-red",
+        "url": "https://www.youtube.com/watch?v=y6KVqIFTKh8",
+        "kind": "video",
+        "title": "The River Ran Red: The 1892 Homestead Steel Strike",
+        "publisher": "Steelworkers",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "工人视角的纪录片，记录 1892 Homestead 罢工——这是从 PA 钢铁工人传承下来的版本。",
+        "summary_en": "A workers'-perspective documentary on the 1892 Homestead Strike — the version preserved by PA steelworkers' descendants.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null

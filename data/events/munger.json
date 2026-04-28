@@ -1008,6 +1008,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-munger-1995-harvard",
+        "url": "https://www.youtube.com/watch?v=FlWL1Qz23co",
+        "kind": "video",
+        "title": "Charlie Munger's Full 1995 Speech at Harvard on the Psychology of Human Misjudgment",
+        "publisher": "State of MedTech",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1995 年原版完整演讲——这个版本被广泛认为是\"心理误判 25 个原因\"思维框架的起点。后来 Munger 在 2003、2005 年扩展并写进 Poor Charlie's Almanack。",
+        "summary_en": "The full original 1995 speech — widely considered the starting point of his \"25 causes of human misjudgment\" framework. Later expanded in 2003 and 2005 versions, and included in Poor Charlie's Almanack.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": "The 25-tendency version is the canonical one in Poor Charlie's Almanack (2005/2006 editions)"

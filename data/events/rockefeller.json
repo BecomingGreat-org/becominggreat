@@ -1598,6 +1598,42 @@
     "source_hints": null
   },
   {
+    "id": "rockefeller-1902-tarbell-mcclures",
+    "person_id": "rockefeller",
+    "date": "1902-11-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "Ida Tarbell 在 McClure's 杂志连载《Standard Oil 史》",
+    "title_en": "Ida Tarbell publishes \"History of the Standard Oil Company\" in McClure's",
+    "summary": "1902-1904 年间，调查记者 Ida Tarbell 在 McClure's 杂志连载 19 篇《Standard Oil 公司史》（后于 1904 年结集出版）。她系统揭露 Standard Oil 通过铁路退款、价格倾轧、间谍网络等手段消灭对手的全过程——是美国新闻史上最具影响力的调查报道之一，直接促成了 1911 年最高法院反垄断判决。",
+    "summary_en": "From 1902-1904, investigative journalist Ida Tarbell published a 19-part series \"History of the Standard Oil Company\" in McClure's magazine (collected as a book in 1904). She systematically exposed how Standard Oil eliminated competitors through railroad rebates, predatory pricing, and a spy network — one of the most influential investigative reports in American journalism, directly leading to the 1911 Supreme Court antitrust ruling.",
+    "location": "McClure's Magazine, New York, NY",
+    "key": true,
+    "tags": [
+      "调查新闻",
+      "Ida Tarbell",
+      "McClure's",
+      "反垄断"
+    ],
+    "sources": [
+      {
+        "id": "archive-tarbell-standard-oil-vol1",
+        "url": "https://archive.org/details/standardoil_volume1_tw_librivox",
+        "kind": "audio",
+        "title": "The History of the Standard Oil Company: Volume 1 (LibriVox)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "LibriVox 朗读 Tarbell 《Standard Oil 史》第一卷完整版。",
+        "summary_en": "Full LibriVox audiobook of Tarbell's *History of the Standard Oil Company*, Volume 1.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
+  },
+  {
     "id": "rockefeller-1904-tarbell-book-published",
     "person_id": "rockefeller",
     "date": "1904-11-01",

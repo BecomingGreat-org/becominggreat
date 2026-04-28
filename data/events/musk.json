@@ -454,6 +454,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Tesla_Roadster_(first_generation)",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-roadster-jay-leno",
+        "url": "https://www.youtube.com/watch?v=jjZf9sgdDKc",
+        "kind": "video",
+        "title": "Throwback: Elon Musk With First 2008 Tesla Roadster - Jay Leno's Garage",
+        "publisher": "Jay Leno's Garage",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Jay Leno 与 Musk 一起回顾 2008 年第一台量产 Tesla Roadster——锂电池电动车量产历史的开端。",
+        "summary_en": "Jay Leno and Musk revisit the first production 2008 Tesla Roadster — the start of the lithium-ion EV production era.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null

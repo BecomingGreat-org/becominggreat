@@ -293,6 +293,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Benjamin_Franklin",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-franklin-kite",
+        "url": "https://www.youtube.com/watch?v=f0oc4gUCOQI",
+        "kind": "video",
+        "title": "The TRUE Story of Ben Franklin & His Kite",
+        "publisher": "Be Smart",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "PBS \"Be Smart\" 频道关于风筝实验真实情况的解读——纠正常见的错误叙述（\"被电劈\"等），还原 Franklin 1752 年实际做了什么。",
+        "summary_en": "PBS \"Be Smart\" explainer on the actual kite experiment — correcting common myths (the \"struck by lightning\" version) and recovering what Franklin really did in 1752.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -333,6 +348,41 @@
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "franklin-1771-autobiography-begun",
+    "person_id": "franklin",
+    "date": "1771-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "开始撰写《本杰明·富兰克林自传》",
+    "title_en": "Begins writing *The Autobiography of Benjamin Franklin*",
+    "summary": "1771 年 Franklin 在英国 Twyford 开始为儿子 William 撰写自传——之后 19 年间断断续续写作，最终未完成（写到 1757 年的事情）。1791 年他去世后第一卷在巴黎以法文出版，完整英文版直到 1868 年才出版。这本书后来被认为是美式自我塑造叙事的奠基之作。",
+    "summary_en": "Franklin began writing his autobiography in 1771 at Twyford, England, originally as letters to his son William. Worked on it intermittently for 19 years, never finishing (events run only to 1757). After his death in 1791, the first volume appeared in Paris in French; the complete English edition only appeared in 1868. The book is considered the foundational text of the American self-made narrative.",
+    "location": "Twyford, England (initially)",
+    "key": true,
+    "tags": [
+      "自传",
+      "写作",
+      "美国精神"
+    ],
+    "sources": [
+      {
+        "id": "archive-franklin-autobio-librivox",
+        "url": "https://archive.org/details/franklin_autobio_gg_librivox",
+        "kind": "audio",
+        "title": "The Autobiography of Benjamin Franklin (LibriVox audiobook)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "LibriVox 公共领域有声书完整版（Frank Woodworth Pine 编辑版本，由 Gary Gilberd 朗读）。",
+        "summary_en": "Complete LibriVox public-domain audiobook (Frank Woodworth Pine edition, read by Gary Gilberd).",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ]
   },
   {
     "id": "franklin-1775-returns-to-america",
