@@ -857,6 +857,51 @@
     "source_hints": null
   },
   {
+    "id": "yang-2021-09-22-tsinghua-centennial",
+    "person_id": "yang",
+    "date": "2021-09-22",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "清华大学百岁庆生：\"但愿人长久，千里共同途\"",
+    "title_en": "Tsinghua 100th Birthday Speech: \"May we share the same road for a thousand miles\"",
+    "summary": "2021 年 9 月 22 日，清华大学为杨振宁举办百岁生日庆典。杨振宁在演讲中回顾与同窗、与好友邓稼先、与已故妻子杜致礼的相处，并引用 1971 年回国时邓稼先信中的一句话\"但愿人长久，千里共同途\"作为对中国与世界的祝福。这是他生前最重要的一次公开演讲。",
+    "summary_en": "On September 22, 2021, Tsinghua University held a 100th-birthday celebration for Yang Chen-Ning. In his speech, Yang reflected on his peers, his late friend Deng Jiaxian, and his late wife Du Zhili, and quoted Deng's 1971 farewell letter — \"May we share the same road for a thousand miles\" — as a blessing for China and the world. This was his most important public address before his death.",
+    "location": "Tsinghua University, Beijing, China",
+    "key": true,
+    "tags": [
+      "清华",
+      "百岁演讲",
+      "邓稼先",
+      "经典"
+    ],
+    "sources": [
+      {
+        "id": "bilibili-yang-centennial",
+        "url": "https://www.bilibili.com/video/BV1LR4y1p757",
+        "kind": "video",
+        "title": "杨振宁百岁演讲：但愿人长久，千里共同途",
+        "publisher": "Bilibili",
+        "lang": "zh",
+        "duration_sec": 347,
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "杨振宁百岁演讲完整录像（约 6 分钟），Bilibili 上传。",
+        "summary_en": "Full ~6-minute video of Yang's 100th-birthday speech, uploaded on Bilibili.",
+        "quotes": [
+          {
+            "text": "稼先，1971 年那封信里你写：\"但愿人长久，千里共同途\"。50 年了——50 年后我可以跟你说，我懂你的意思了，\"共同途\"。",
+            "text_en": "Jiaxian, in your 1971 letter you wrote, 'May we share the same road for a thousand miles.' Fifty years — fifty years later I can tell you: I understand what you meant. 'The same road.'",
+            "speaker": "Chen-Ning Yang",
+            "context": "百岁演讲核心一句：对邓稼先 1971 年告别信的迟到 50 年的回应",
+            "context_en": "The core line of his 100th-birthday address — a 50-year-late reply to Deng Jiaxian's 1971 farewell letter."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "yang-china-physics-reflection",
     "person_id": "yang",
     "date": "2023-01-01",

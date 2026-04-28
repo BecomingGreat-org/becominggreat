@@ -80,6 +80,7 @@ export default async function HomePage({
         quotes={featured.map((q) => ({
           text: q.quote.text,
           text_zh: q.quote.text_zh,
+          text_en: q.quote.text_en,
           speaker: q.quote.speaker,
           context: en && q.quote.context_en ? q.quote.context_en : q.quote.context,
           personId: q.person.id,

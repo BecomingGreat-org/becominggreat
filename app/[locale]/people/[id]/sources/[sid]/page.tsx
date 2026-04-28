@@ -304,7 +304,7 @@ function QuoteBlock({ quote }: { quote: Quote }) {
       >
         “{quote.text}”
       </p>
-      {quote.text_zh && (
+      {quote.text_zh && quote.text_zh !== quote.text && (
         <p
           className="text-zinc-400 text-base leading-relaxed mt-3"
           style={{
@@ -313,6 +313,11 @@ function QuoteBlock({ quote }: { quote: Quote }) {
           }}
         >
           {quote.text_zh}
+        </p>
+      )}
+      {quote.text_en && quote.text_en !== quote.text && (
+        <p className="text-zinc-400 text-base leading-relaxed mt-3 italic">
+          {quote.text_en}
         </p>
       )}
       <div className="mt-4 flex items-baseline gap-3 text-sm text-zinc-500">

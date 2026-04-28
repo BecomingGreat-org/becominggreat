@@ -607,5 +607,77 @@
       }
     ],
     "source_hints": null
+  },
+  {
+    "id": "franklin-2022-04-04-ken-burns-pbs",
+    "person_id": "franklin",
+    "date": "2022-04-04",
+    "date_precision": "day",
+    "type": "other",
+    "title": "Ken Burns 4 集 PBS 纪录片《本杰明·富兰克林》首播",
+    "title_en": "Ken Burns 4-Part PBS Documentary \"Benjamin Franklin\" Premieres",
+    "summary": "2022 年 4 月 4 日，Ken Burns 制作的 4 小时 PBS 纪录片《Benjamin Franklin》首播。Ken Burns 用经典的纪录片手法（信件原文朗读、专家访谈、历史绘画扫描）系统重述富兰克林一生。这是过去 50 年最权威的富兰克林视觉传记。",
+    "summary_en": "On April 4, 2022, Ken Burns's 4-hour PBS documentary *Benjamin Franklin* premiered. Burns uses his classic documentary form — letter readings, expert interviews, historical-painting scans — to systematically re-tell Franklin's life. The most authoritative Franklin visual biography of the past 50 years.",
+    "location": "PBS",
+    "key": true,
+    "tags": [
+      "Ken Burns",
+      "PBS",
+      "纪录片",
+      "传记"
+    ],
+    "sources": [
+      {
+        "id": "youtube-ken-burns-trailer",
+        "url": "https://www.youtube.com/watch?v=v7wowg6Fy4I",
+        "kind": "video",
+        "title": "Benjamin Franklin | Official Trailer | PBS | A Film by Ken Burns",
+        "publisher": "PBS",
+        "lang": "en",
+        "duration_sec": 150,
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "PBS 官方频道发布的 Ken Burns 富兰克林纪录片预告片。",
+        "summary_en": "PBS's official trailer for the Ken Burns Benjamin Franklin documentary."
+      },
+      {
+        "id": "pbs-franklin-episode-1",
+        "url": "https://www.pbs.org/video/episode-1-join-or-die-1706-1774-8ssna3/",
+        "kind": "video",
+        "title": "Benjamin Franklin | \"Join or Die\" (1706-1774) | Episode 1 | PBS",
+        "publisher": "PBS",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "纪录片第一集 \"Join or Die\"（1706-1774）官方完整版。在 PBS 站内可看（不嵌入第三方）。",
+        "summary_en": "Official full Episode 1 \"Join or Die\" (1706-1774). Available to watch on the PBS site (not third-party embedded).",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.pbs.org/video/episode-1-join-or-die-1706-1774-8ssna3/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "pbs-franklin-series-page",
+        "url": "https://www.pbs.org/kenburns/benjamin-franklin/",
+        "kind": "article",
+        "title": "Benjamin Franklin — A Film by Ken Burns | PBS",
+        "publisher": "PBS",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Ken Burns 富兰克林纪录片官方主页（含演员表、采访名单、历史顾问等元数据）。",
+        "summary_en": "Official Ken Burns Benjamin Franklin documentary main page (cast, interview list, historical advisors metadata).",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.pbs.org/kenburns/benjamin-franklin/",
+          "timestamp": "2024"
+        }
+      }
+    ]
   }
 ]

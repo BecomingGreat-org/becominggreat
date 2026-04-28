@@ -43,8 +43,10 @@ function serialize(quotes: QuoteWithContext[]) {
   return quotes.map((q) => ({
     text: q.quote.text,
     text_zh: q.quote.text_zh,
+    text_en: q.quote.text_en,
     speaker: q.quote.speaker,
     context: q.quote.context,
+    context_en: q.quote.context_en,
     personId: q.person.id,
     personName: q.person.name_zh,
     personNameEn: q.person.name_en,

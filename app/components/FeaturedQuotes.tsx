@@ -6,6 +6,7 @@ import { useLocale } from "./LocaleProvider";
 export type FeaturedQuote = {
   text: string;
   text_zh?: string;
+  text_en?: string;
   speaker?: string;
   context?: string;
   personId: string;
@@ -55,7 +56,7 @@ function FeaturedQuoteCard({ q, locale }: { q: FeaturedQuote; locale: string }) 
         }}
       >
         <p className="text-zinc-100 text-xl leading-relaxed">“{q.text}”</p>
-        {q.text_zh && (
+        {q.text_zh && q.text_zh !== q.text && (
           <p
             className="text-zinc-500 text-base leading-relaxed mt-3"
             style={{
@@ -63,6 +64,11 @@ function FeaturedQuoteCard({ q, locale }: { q: FeaturedQuote; locale: string }) 
             }}
           >
             {q.text_zh}
+          </p>
+        )}
+        {q.text_en && q.text_en !== q.text && (
+          <p className="text-zinc-500 text-base leading-relaxed mt-3 italic">
+            {q.text_en}
           </p>
         )}
       </blockquote>

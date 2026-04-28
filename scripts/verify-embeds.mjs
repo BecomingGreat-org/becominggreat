@@ -50,6 +50,8 @@ function resolveEmbed(source) {
       /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([A-Za-z0-9_-]{11})/
     );
     if (m) return { kind: "yt", value: m[1] };
+    m = u.match(/^https?:\/\/(?:www\.)?bilibili\.com\/video\/(BV[A-Za-z0-9]+)/);
+    if (m) return { kind: "bilibili", value: m[1] };
   }
   return null;
 }
@@ -91,6 +93,24 @@ async function verifyArchive(id) {
   }
 }
 
+async function verifyBilibili(bvid) {
+  // Use Bilibili's public web-interface API; returns JSON with .data.title
+  const url = `https://api.bilibili.com/x/web-interface/view?bvid=${bvid}`;
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), 15000);
+  try {
+    const res = await fetch(url, { headers: { "User-Agent": UA }, signal: ctrl.signal });
+    if (!res.ok) return { ok: false, status: res.status };
+    const j = await res.json();
+    if (j.code !== 0) return { ok: false, status: 0, error: j.message || `code=${j.code}` };
+    return { ok: true, status: 200, title: j.data.title, author: j.data.owner?.name };
+  } catch (e) {
+    return { ok: false, status: 0, error: e.message };
+  } finally {
+    clearTimeout(t);
+  }
+}
+
 async function verifyDirectFile(url, expectedKind) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), 20000);
@@ -119,7 +139,7 @@ const summary = {
   noEmbed: 0,
   ok: 0,
   broken: 0,
-  byKind: { yt: 0, archive: 0, audio: 0, "video-file": 0, pdf: 0 },
+  byKind: { yt: 0, archive: 0, bilibili: 0, audio: 0, "video-file": 0, pdf: 0 },
 };
 const broken = [];
 
@@ -141,6 +161,8 @@ for (const file of eventFiles) {
         result = await verifyYouTube(e.value);
       } else if (e.kind === "archive") {
         result = await verifyArchive(e.value);
+      } else if (e.kind === "bilibili") {
+        result = await verifyBilibili(e.value);
       } else {
         result = await verifyDirectFile(e.value, e.kind);
       }
@@ -176,6 +198,7 @@ console.log(`no embed:         ${summary.noEmbed}`);
 console.log(`embeds checked:   ${summary.total - summary.noEmbed}`);
 console.log(`  yt:             ${summary.byKind.yt}`);
 console.log(`  archive.org:    ${summary.byKind.archive}`);
+console.log(`  bilibili:       ${summary.byKind.bilibili}`);
 console.log(`  audio file:     ${summary.byKind.audio}`);
 console.log(`  video file:     ${summary.byKind["video-file"]}`);
 console.log(`  pdf:            ${summary.byKind.pdf}`);

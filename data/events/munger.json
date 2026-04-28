@@ -908,6 +908,52 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Charlie_Munger",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "wayback-munger-ucsb-2003-pdf",
+        "url": "https://web.archive.org/web/2024/https://www.tilsonfunds.com/MungerUCSBspeech.pdf",
+        "kind": "document",
+        "title": "\"Academic Economics: Strengths and Faults After Considering Interdisciplinary Needs\" — Munger UCSB Oct 3, 2003 (PDF, Wayback)",
+        "publisher": "Tilson Funds (via Wayback Machine)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Munger 2003 年 10 月 3 日加州大学圣芭芭拉分校经济学讲座完整 PDF 文字稿——批判主流经济学的 9 大缺陷，包括对心理学的忽视、过度数学化、对\"有效市场假说\"的盲信。Tilson Funds 服务器目前 301 循环，但 Wayback 上 200 可读。",
+        "summary_en": "Full PDF text of Munger's October 3, 2003 lecture at UC Santa Barbara — a critique of mainstream economics's nine biggest faults, including the neglect of psychology, over-mathematization, and blind faith in the efficient-markets hypothesis. The Tilson Funds server currently 301-loops; the Wayback copy returns 200."
+      },
+      {
+        "id": "fsblog-munger-academic-economics",
+        "url": "https://fs.blog/great-talks/academic-economics/",
+        "kind": "transcript",
+        "title": "Academic Economics: Strengths and Faults | Charlie Munger | Farnam Street",
+        "publisher": "Farnam Street (fs.blog)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "summary": "Farnam Street 整理的 Munger UCSB 演讲文字稿——分章节标题，便于阅读。",
+        "summary_en": "Farnam Street's reformatted transcript of the Munger UCSB lecture, with section headings for easier reading.",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://fs.blog/great-talks/academic-economics/",
+          "timestamp": "2024"
+        },
+        "quotes": [
+          {
+            "text": "I have heard Warren say a half a dozen times, 'It's not greed that drives the world, but envy.'",
+            "text_zh": "我听 Warren 说过六七次：\"驱动这个世界的不是贪婪，是嫉妒。\"",
+            "speaker": "Charlie Munger",
+            "context": "UCSB 2003 演讲中关于经济学忽视嫉妒这一基本人性的著名论断"
+          },
+          {
+            "text": "What good is economic theory that won't predict, like medicine that won't cure, like rockets that won't fly?",
+            "text_zh": "一个不能做出预测的经济学理论，有什么用？就像不能治病的医学、飞不起来的火箭。",
+            "speaker": "Charlie Munger",
+            "context": "对经济学过度数学化但无法预测的批判"
+          }
+        ]
       }
     ],
     "source_hints": "Herb Simon Memorial Lecture at UCSB Economics Dept; full text in Poor Charlie's Almanack"

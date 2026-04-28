@@ -180,6 +180,13 @@ function detectEmbed(url: string): Embed {
       kind: "video",
     };
   }
+  m = url.match(/^https?:\/\/(?:www\.)?bilibili\.com\/video\/(BV[A-Za-z0-9]+)/);
+  if (m) {
+    return {
+      url: `https://player.bilibili.com/player.html?bvid=${m[1]}&autoplay=0`,
+      kind: "video",
+    };
+  }
   return null;
 }
 
