@@ -56,7 +56,7 @@ if (!arg) {
 const lines = fs.readFileSync(arg, "utf8").split("\n").map((l) => l.trim()).filter((l) => l && !l.startsWith("#"));
 
 for (const line of lines) {
-  const m = line.match(/^(yt|archive):([A-Za-z0-9_\-]+)\s*(?:\|(.*))?$/);
+  const m = line.match(/^(yt|archive):([A-Za-z0-9_.\-]+)\s*(?:\|(.*))?$/);
   if (!m) {
     console.log(`SKIP malformed: ${line}`);
     continue;
