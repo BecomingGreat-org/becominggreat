@@ -852,6 +852,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%8C%AF%E5%AE%81",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-cgtn-2017",
+        "url": "https://www.youtube.com/watch?v=h7e0WElDhHE",
+        "kind": "video",
+        "title": "Top scientists become Chinese citizens, join Chinese Academy of Sciences",
+        "publisher": "CGTN",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "CGTN 英文报道杨振宁与姚期智等顶尖科学家放弃美国国籍、成为中国公民并加入中科院的事件。",
+        "summary_en": "CGTN English report on Yang Chen-Ning and Andrew Yao renouncing US citizenship to become Chinese citizens and join the Chinese Academy of Sciences.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -898,6 +913,36 @@
             "context_en": "The core line of his 100th-birthday address — a 50-year-late reply to Deng Jiaxian's 1971 farewell letter."
           }
         ]
+      },
+      {
+        "id": "youtube-cctv-jiaguo",
+        "url": "https://www.youtube.com/watch?v=BzXe_dIbA8w",
+        "kind": "video",
+        "title": "《国家记忆》20210923 大先生杨振宁 家国情怀",
+        "publisher": "CCTV中文",
+        "lang": "zh",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "CCTV《国家记忆》栏目 2021 年 9 月 23 日播出的杨振宁百岁纪录片第一集 \"家国情怀\"，是中央电视台对其生平最完整的官方梳理。",
+        "summary_en": "CCTV's *Memory of the Nation* documentary on Yang's 100th birthday, Episode 1 \"Ties to homeland\" (Sep 23, 2021) — the most comprehensive official CCTV biographical retrospective.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-cctv-donglie",
+        "url": "https://www.youtube.com/watch?v=KdWreJvYsgA",
+        "kind": "video",
+        "title": "《国家记忆》20210924 大先生杨振宁 东篱归根",
+        "publisher": "CCTV中文",
+        "lang": "zh",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "CCTV《国家记忆》栏目 2021 年 9 月 24 日播出的杨振宁百岁纪录片第二集 \"东篱归根\"，讲述他晚年回中国定居与教学。",
+        "summary_en": "CCTV *Memory of the Nation* Yang Chen-Ning centennial documentary Episode 2 \"Returning to home soil\" (Sep 24, 2021) — covers his return to China for permanent residence and teaching.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ]
   },

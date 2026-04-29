@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "honda-1906-11-17-birth",
+    "person_id": "honda",
+    "date": "1906-11-17",
+    "date_precision": "day",
+    "type": "life",
+    "title": "本田宗一郎出生于静冈县光明村",
+    "title_en": "Soichiro Honda born in Komyo village, Shizuoka Prefecture",
+    "summary": "1906 年 11 月 17 日，本田宗一郎出生于日本静冈县磐田郡光明村（今滨松市天龙区），在六个孩子中排行老大。父亲本田仪平是村里的铁匠兼自行车修理师，母亲美香靠织布补贴家用。年幼的他常在父亲的工坊里帮忙，对机械产生了痴迷——据他后来回忆，村里第一次出现汽车时，那股机油味让他觉得「像香水一样」，这一刻彻底点燃了他对发动机的终生热情。",
+    "summary_en": "Soichiro Honda was born on November 17, 1906 in Komyo village, Iwata District, Shizuoka Prefecture (near present-day Hamamatsu), the eldest of six children. His father Gihei was the village blacksmith and a part-time bicycle repairman, his mother Mika a weaver. Honda was obsessed with machinery from earliest childhood — he later said the first car he ever saw in the village left an oil smell that he remembered \"like perfume,\" and that moment lit a lifelong fascination with engines.",
+    "location": "Komyo village, Iwata District, Shizuoka, Japan",
+    "key": true,
+    "tags": [
+      "出生",
+      "静冈",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-heritage-1936",
+        "url": "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "kind": "article",
+        "title": "The 'Joy of Manufacturing' / 1936 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1922-04-art-shokai-apprenticeship",
+    "person_id": "honda",
+    "date": "1922-04-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "15 岁离家进入东京 Art Shokai 当学徒",
+    "title_en": "At 15, leaves home to apprentice at Art Shokai garage in Tokyo",
+    "summary": "1922 年 4 月，年仅 15 岁、刚刚读完高小的本田宗一郎独自从静冈乡下来到东京本乡汤岛，进入榊原郁三经营的汽车修理厂 Art Shokai 做学徒。最初的一年他几乎只是在帮老板看孩子和打杂，但他坚持留了下来，逐渐学会焊接、锻造和发动机维修等真功夫。1924 年 11 月 23 日，他作为陪同技师协助榊原兄弟用一辆 Curtiss 飞机发动机改装的赛车赢得了第五届日本汽车锦标赛——这是他第一次品尝到造机器、造速度的胜利。",
+    "summary_en": "In April 1922, at fifteen and barely out of elementary school, Honda left his Shizuoka village for Tokyo and joined Art Shokai, an auto-repair shop in the Yushima district of Hongo run by Yuzo Sakakibara. For most of the first year he was essentially babysitting and running errands, but he stuck it out and learned welding, forging and engine work. On November 23, 1924, he served as accompanying mechanic when the Sakakibara brothers won the 5th Japan Motor Car Championship in a racer built around a Curtiss aircraft engine — Honda's first taste of victory through machinery.",
+    "location": "Yushima, Hongo, Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "学徒",
+      "Art Shokai",
+      "东京"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-heritage-1936",
+        "url": "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "kind": "article",
+        "title": "The 'Joy of Manufacturing' / 1936 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1928-04-hamamatsu-branch",
+    "person_id": "honda",
+    "date": "1928-04-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "在滨松开设 Art Shokai 分店",
+    "title_en": "Opens Art Shokai branch in Hamamatsu at age 21",
+    "summary": "1928 年 4 月，21 岁的本田完成了在 Art Shokai 六年的学徒生涯。榊原郁三破例允许他以「分店」的形式带着 Art Shokai 的招牌回故乡滨松独立创业——他是榊原所有学徒中唯一获此待遇的人。本田把汽车修理铺一步步扩展成有 30 多名员工的工厂，发明了汽车维修升降台，并为客户特制消防车和翻斗卡车。这八年是他从「被动维修」走向「主动制造」的关键转折。",
+    "summary_en": "In April 1928, at 21, Honda completed his six-year apprenticeship at Art Shokai. Yuzo Sakakibara — whom Honda would for the rest of his life cite as the man he most respected — broke with custom and granted him a branch of the shop in Hamamatsu, the only apprentice ever to receive this independence. Honda grew the operation from a single mechanic to over thirty employees, invented an automotive repair lift, and built custom fire engines and dump trucks. These eight years marked his shift from \"fixing other people's machines\" toward \"making my own.\"",
+    "location": "Hamamatsu, Shizuoka, Japan",
+    "key": false,
+    "tags": [
+      "Art Shokai",
+      "滨松",
+      "汽车修理"
+    ],
+    "sources": [
+      {
+        "id": "honda-heritage-1936",
+        "url": "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "kind": "article",
+        "title": "The 'Joy of Manufacturing' / 1936 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1936-06-07-tamagawa-crash",
+    "person_id": "honda",
+    "date": "1936-06-07",
+    "date_precision": "day",
+    "type": "life",
+    "title": "多摩川赛车场翻车事故，告别赛车手生涯",
+    "title_en": "Crashes at Tamagawa Speedway, ending his racing career",
+    "summary": "1936 年 6 月 7 日，本田驾驶一辆装有福特 V8 增压发动机的自制赛车参加东京新建的多摩川赛车场首场比赛。在临近终点的弯道上，他的车连续翻滚三次，自己被甩出车外重伤左眼，作为陪同技师的弟弟弁次郎脊椎骨折。这场事故让他放弃了赛车手梦想，但他后来说：「不能开赛车了，那就造能赢比赛的发动机。」赛车手生涯的终结，反而让他下定决心从修理走向制造。",
+    "summary_en": "On June 7, 1936, Honda raced a self-built car with a supercharged Ford V8 in the inaugural meet at Tokyo's new Tamagawa Speedway. Near the finish his car flipped three times; he was thrown clear with serious injuries to his left eye, while his younger brother Benjiro, riding as mechanic, fractured his spine. Honda raced only once more before retiring from driving. He later reframed the crash as the moment he resolved to stop racing other people's cars and start building his own engines — the pivot from repair to manufacturing.",
+    "location": "Tamagawa Speedway, Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "事故",
+      "赛车",
+      "多摩川"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-heritage-1936",
+        "url": "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "kind": "article",
+        "title": "The 'Joy of Manufacturing' / 1936 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1937-tokai-seiki-founded",
+    "person_id": "honda",
+    "date": "1937-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "创立东海精机重工业，开始生产活塞环",
+    "title_en": "Founds Tokai Seiki Heavy Industry to make piston rings",
+    "summary": "事故康复后，本田对单纯的修理生意失去了兴趣。1937 年，他在滨松山下创立东海精机重工业（Tokai Seiki），加藤七郎担任社长，本田专注技术。公司主营产品是供丰田汽车使用的活塞环。然而初期的活塞环合格率几乎为零——本田这才意识到自己缺乏冶金理论知识，于是 31 岁那年以「旁听生」身份重新进入滨松工业高等学校（今静冈大学工学部）系统学习金属学，1939 年才量产成功。",
+    "summary_en": "After recovering from the Tamagawa crash, Honda lost interest in pure repair work. In 1937 he founded Tokai Seiki Heavy Industry in Yamashita, Hamamatsu, with Shichiro Kato as president and himself as the technical lead, to manufacture piston rings — primarily for Toyota. The first batches almost entirely failed Toyota's specifications. Honda concluded he lacked formal metallurgy and, at 31, enrolled as a part-time auditing student at Hamamatsu Higher School of Industry (today's Faculty of Engineering, Shizuoka University). He achieved volume production only in 1939.",
+    "location": "Hamamatsu, Shizuoka, Japan",
+    "key": true,
+    "tags": [
+      "东海精机",
+      "活塞环",
+      "丰田"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-heritage-1936",
+        "url": "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "kind": "article",
+        "title": "The 'Joy of Manufacturing' / 1936 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1944-tokai-seiki-destroyed",
+    "person_id": "honda",
+    "date": "1944-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "东海精机工厂在战火与地震中先后被毁",
+    "title_en": "Tokai Seiki plants destroyed by US bombing and Mikawa earthquake",
+    "summary": "二战末期，东海精机的命运急转直下。1944 年，山下工厂在美军 B-29 的轰炸中被摧毁；1945 年 1 月 13 日的三河大地震又把磐田工厂彻底夷为平地。战后，本田把废墟以 45 万日元卖给丰田，自己用这笔钱过了一年多「无所事事」的日子——读书、和朋友喝酒，思考未来该做什么。这段「中场休息」让他在重新创业时彻底跳出了为他人代工的思路。",
+    "summary_en": "Tokai Seiki's fortunes collapsed at the end of WWII. In 1944 the Yamashita plant was destroyed in a US B-29 bombing raid; in January 1945 the Iwata plant was leveled by the Mikawa earthquake. After the war Honda sold what remained to Toyota for ¥450,000 and spent more than a year deliberately doing \"nothing\" — reading, drinking with friends, and rethinking what he wanted to build. That sabbatical hardened his resolve that the next company would not be a contract supplier to others.",
+    "location": "Hamamatsu, Shizuoka, Japan",
+    "key": false,
+    "tags": [
+      "二战",
+      "地震",
+      "东海精机"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-honda-corporate",
+        "url": "https://en.wikipedia.org/wiki/Honda",
+        "kind": "article",
+        "title": "Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1946-10-honda-technical-research-institute",
+    "person_id": "honda",
+    "date": "1946-10-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "创立本田技术研究所，把军用通讯发动机装上自行车",
+    "title_en": "Founds Honda Technical Research Institute, motorizing bicycles with surplus military engines",
+    "summary": "1946 年 10 月，本田用从丰田得到的 45 万日元在滨松一间 16 平方米的木板棚屋里创立了「本田技术研究所」，员工 12 人。当时日本物资极度匮乏、汽油受管制，老百姓出行靠双脚。本田在熟人犬养处看到一台帝国陆军遗留的「6 号无线电」用三国商工 50cc 二冲程发电机，他立刻判断「这玩意儿能拉动自行车」。研究所收购了 500 台这种军用剩余发电机，把它们改装成自行车辅助发动机——这就是后来风靡日本的 A 型自行车助力机的雏形。",
+    "summary_en": "In October 1946, with the ¥450,000 from Toyota, Honda founded the Honda Technical Research Institute in a 16-square-meter wooden shack in Hamamatsu, with twelve employees. Postwar Japan was bone-dry on petrol and rationed; ordinary people walked. At an acquaintance's place Honda spotted a 50cc two-stroke Mikuni Shoko generator engine left over from the Imperial Army's No. 6 wireless radio set and immediately thought, \"That'll pull a bicycle.\" The institute bought up 500 of the surplus generators and clipped them to bicycle frames — the seed of the A-Type motorized bicycle that would put postwar Japan back on wheels.",
+    "location": "Hamamatsu, Shizuoka, Japan",
+    "key": true,
+    "tags": [
+      "本田技术研究所",
+      "自行车助力机",
+      "战后"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-heritage-1946-encounter",
+        "url": "https://global.honda/en/heritage/episodes/1946encounter.html",
+        "kind": "article",
+        "title": "Encounter with a Cast-off Military Surplus Engine / 1946 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1948-09-24-honda-motor-incorporated",
+    "person_id": "honda",
+    "date": "1948-09-24",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在滨松成立本田技研工业株式会社",
+    "title_en": "Incorporates Honda Motor Co., Ltd. in Hamamatsu",
+    "summary": "1948 年 9 月 24 日，本田技术研究所改组为「本田技研工业株式会社」（Honda Motor Co., Ltd.），地址在滨松市板屋町，注册资本 100 万日元，员工 34 人，本田宗一郎出任社长。当天没有任何庆典，员工们照常上班，连招牌都没换——一位员工后来回忆：「就觉得是个普通的工作日。」本田夫人 Sachi 记下丈夫那天说的一句话：「军部再也不能为所欲为了，这真是太好了。」从此，这家不起眼的小公司开始踏上征服世界摩托车与汽车产业的征途。",
+    "summary_en": "On September 24, 1948, the Honda Technical Research Institute was formally incorporated as Honda Motor Co., Ltd. in Itaya-cho, Hamamatsu, with paid-in capital of ¥1 million, 34 employees, and Soichiro Honda as president. There was no ceremony — employees came to work as usual and the signboard wasn't even replaced. Honda's wife Sachi later recalled the only thing he said about the day: \"It's really wonderful that the time is over when the military can swagger over everything.\" Out of that anonymous Tuesday came the company that would conquer the global motorcycle and automotive industries.",
+    "location": "Itaya-cho, Hamamatsu, Shizuoka, Japan",
+    "key": true,
+    "tags": [
+      "本田技研工业",
+      "创立",
+      "滨松"
+    ],
+    "sources": [
+      {
+        "id": "honda-heritage-1948-doyouremember",
+        "url": "https://global.honda/en/heritage/episodes/1948doyouremember.html",
+        "kind": "article",
+        "title": "Do You Remember September 24, 1948? / 1948 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "It's really wonderful that the time is over when the military can swagger all over everything.",
+            "text_zh": "军部再也不能横行霸道了，这真是太好了。",
+            "speaker": "Soichiro Honda",
+            "context": "Recalled by Honda's wife Sachi as her husband's only remark on the day Honda Motor Co. was incorporated, September 24, 1948."
+          }
+        ]
+      },
+      {
+        "id": "history-com-honda-incorporated",
+        "url": "https://www.history.com/this-day-in-history/september-24/honda-motor-company-is-incorporated",
+        "kind": "article",
+        "title": "Honda Motor Company is incorporated",
+        "publisher": "History.com",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-honda-corporate",
+        "url": "https://en.wikipedia.org/wiki/Honda",
+        "kind": "article",
+        "title": "Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1949-08-dream-d-type",
+    "person_id": "honda",
+    "date": "1949-08-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "推出 Dream D 型——本田第一台完全自制摩托车",
+    "title_en": "Launches Dream Type-D — Honda's first fully in-house motorcycle",
+    "summary": "1949 年 8 月，本田发布了 Dream D 型摩托车，这是公司第一台「车架和发动机都是自家造的」的完整摩托车。98cc 二冲程单缸发动机输出 3 马力，最高时速约 60 公里，并首次采用脚踏式自动半离合器、伸缩式前叉、链条传动等多项当时罕见的技术。本田给它涂上深红色漆——他不接受市场上「摩托车必须是黑色」的常规。「Dream」（梦）这个名字也成为本田旗舰车系延续半个世纪的招牌。",
+    "summary_en": "In August 1949, Honda introduced the Dream Type-D — the first motorcycle in which both the engine and the frame were of Honda's own design. The 98cc two-stroke single produced 3 hp at 5,000 rpm and topped out around 60 km/h, but the real innovations were a foot-actuated semi-automatic clutch, telescopic front forks, kick-starter, and chain final drive — none yet standard in the Japanese market. Honda also broke the unwritten rule that motorcycles had to be black, painting the D maroon. The 'Dream' name endured for half a century as Honda's flagship motorcycle line.",
+    "location": "Hamamatsu, Japan",
+    "key": true,
+    "tags": [
+      "Dream",
+      "摩托车",
+      "D型"
+    ],
+    "sources": [
+      {
+        "id": "honda-heritage-dtype",
+        "url": "https://global.honda/en/heritage/episodes/1949dtype.html",
+        "kind": "article",
+        "title": "The Appearance of a Full-fledged Motorcycle, the Dream D-Type / 1949",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-dtype",
+        "url": "https://en.wikipedia.org/wiki/Honda_D-Type",
+        "kind": "article",
+        "title": "Honda D-Type (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda_D-Type",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1949-10-fujisawa-joins",
+    "person_id": "honda",
+    "date": "1949-10-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "藤泽武夫加盟本田，缔结改变公司命运的搭档关系",
+    "title_en": "Takeo Fujisawa joins Honda Motor as managing director",
+    "summary": "1949 年 8 月，本田经熟人介绍认识了 38 岁的藤泽武夫；两人一见如故。藤泽看清了一件事：本田是天才工程师，但完全不懂销售和财务。10 月，藤泽以专务取缔役（Managing Director）身份加盟本田技研，从此「本田造、藤泽卖」——本田专注产品和技术，藤泽包办销售、营销和资金。两人各管一边，从不互相干涉技术决策或经营决策，这段持续 25 年的搭档被誉为日本商业史上最经典的「双人核反应堆」。",
+    "summary_en": "In August 1949 Honda met Takeo Fujisawa, then 38, through a mutual acquaintance — and the two men recognized each other instantly. Fujisawa saw clearly that Honda was a brilliant engineer who could not run a sales operation or a balance sheet. In October he joined Honda Motor as managing director. From that day forward the rule was: Honda makes, Fujisawa sells. Each ran his own domain without interference; the partnership endured 25 years and is widely cited as the most successful two-person leadership pairing in Japanese business history.",
+    "location": "Hamamatsu, Japan",
+    "key": true,
+    "tags": [
+      "藤泽武夫",
+      "搭档",
+      "管理"
+    ],
+    "sources": [
+      {
+        "id": "honda-heritage-fujisawa",
+        "url": "https://global.honda/en/heritage/episodes/1949entrepreneur.html",
+        "kind": "article",
+        "title": "Takeo Fujisawa Joins Honda / 1949 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-fujisawa",
+        "url": "https://en.wikipedia.org/wiki/Takeo_Fujisawa",
+        "kind": "article",
+        "title": "Takeo Fujisawa (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Takeo_Fujisawa",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1958-08-super-cub",
+    "person_id": "honda",
+    "date": "1958-08-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "Super Cub C100 上市，开启历史上最畅销的机动车",
+    "title_en": "Super Cub C100 launches — start of history's best-selling motor vehicle",
+    "summary": "1958 年 8 月，Super Cub C100 正式上市。它的灵感来自 1956 年本田与藤泽访问德国时看到的轻便摩托车——他们想造一台「家庭主妇也愿意骑、单手能开」的车。C100 把欧洲式塑料挡风板、自动离心离合器、骨架式低踏板、四冲程 OHV 发动机这些当时彼此孤立的技术第一次集合在一起。上市当天卖出 1000 多台，第一年 2.4 万、第二年 16.7 万，几年后月产能爬到 6 万台。截至 2017 年，Super Cub 累计产量突破 1 亿台，是人类历史上累计产量最大的机动车。",
+    "summary_en": "In August 1958 the Super Cub C100 went on sale. The idea had come to Honda and Fujisawa during a 1956 trip to Germany, where they watched mopeds dominate everyday transport — they wanted a bike that even a housewife in a kimono could ride one-handed. The C100 fused, for the first time, a European-style plastic leg shield, an automatic centrifugal clutch, a step-through backbone frame, and an air-cooled four-stroke OHV engine. It sold over 1,000 units on launch day, 24,000 in five months, 167,000 the following year, eventually 60,000 a month. By 2017, cumulative Super Cub production exceeded 100 million — making it the most produced motor vehicle in human history.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Super Cub",
+      "摩托车",
+      "C100"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-super-cub",
+        "url": "https://en.wikipedia.org/wiki/Honda_Super_Cub",
+        "kind": "article",
+        "title": "Honda Super Cub (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda_Super_Cub",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-cub-1958",
+        "url": "https://global.honda/en/Cub/models/1958_super-cub-c100/",
+        "kind": "article",
+        "title": "1958 Super Cub C100 — Honda Global",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1959-06-11-american-honda",
+    "person_id": "honda",
+    "date": "1959-06-11",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在洛杉矶成立美国本田，叩开北美市场",
+    "title_en": "Establishes American Honda Motor Co. in Los Angeles",
+    "summary": "1959 年 6 月 11 日，本田技研在洛杉矶西皮科大道 4077 号成立了第一家海外子公司「美国本田汽车公司」（American Honda Motor Co.），注册资本 25 万美元，员工仅 3 人，社长川岛喜八郎。当年 9 月 11 日开始正式销售 Dream、Benly 和 Super Cub（在美国称为 Honda 50）。早期销售并不理想，直到 1963 年灰色广告公司启用了那句日后家喻户晓的「You meet the nicest people on a Honda」（在本田车上你遇到的都是好人），北美摩托车市场才被彻底引爆。",
+    "summary_en": "On June 11, 1959, Honda opened its first overseas subsidiary, American Honda Motor Co., at 4077 West Pico Boulevard in Los Angeles, with $250,000 of capital and just three employees, led by Kihachiro Kawashima. Sales formally began on September 11, 1959 with the Dream, Benly, and Super Cub (sold as the Honda 50). Sales lagged at first, but in 1963 Grey Advertising launched the now-iconic \"You meet the nicest people on a Honda\" campaign, and the US motorcycle market exploded — by year-end 1963 total US motorcycle sales hit ~148,000 units.",
+    "location": "Los Angeles, California, USA",
+    "key": true,
+    "tags": [
+      "美国本田",
+      "全球化",
+      "洛杉矶"
+    ],
+    "sources": [
+      {
+        "id": "honda-heritage-1959-american",
+        "url": "https://global.honda/en/heritage/episodes/1959establishingamericanhonda.html",
+        "kind": "article",
+        "title": "Establishing American Honda Motor Co. / 1959 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-american-honda",
+        "url": "https://en.wikipedia.org/wiki/American_Honda_Motor_Company",
+        "kind": "article",
+        "title": "American Honda Motor Company (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/American_Honda_Motor_Company",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1961-isle-of-man-tt",
+    "person_id": "honda",
+    "date": "1961-06-01",
+    "date_precision": "month",
+    "type": "award",
+    "title": "曼岛 TT 大赛包揽 125cc 与 250cc 前五名，日本厂商首夺世锦赛冠军",
+    "title_en": "Sweeps top 5 at Isle of Man TT in both 125cc and 250cc — first Japanese maker to win",
+    "summary": "1961 年 6 月，本田车队在世界顶级摩托车赛事曼岛 TT 上一举包揽 125cc 和 250cc 两个级别的前五名——这在赛事历史上前所未有，也是日本厂商首次在欧美主导的世锦赛上夺冠。同年本田连续拿下 125cc 和 250cc 两个级别的车队和制造商世界冠军。从滨松小作坊到曼岛领奖台用了 13 年。本田后来说：「在曼岛获胜，比在国会上挂奖章还光荣。」",
+    "summary_en": "In June 1961 the Honda factory team locked out the top five places in both the 125cc and 250cc classes at the Isle of Man TT — an unprecedented sweep, and the first World Championship victories by any Japanese manufacturer. That same season Honda took the riders' and constructors' world titles in both 125cc and 250cc. The path from a Hamamatsu shed to the Isle of Man podium had taken 13 years. Honda later said winning on the Isle of Man meant more to him than any government decoration.",
+    "location": "Isle of Man, United Kingdom",
+    "key": true,
+    "tags": [
+      "曼岛TT",
+      "摩托车",
+      "世界冠军"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-1961-tt",
+        "url": "https://en.wikipedia.org/wiki/1961_Isle_of_Man_TT",
+        "kind": "article",
+        "title": "1961 Isle of Man TT (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/1961_Isle_of_Man_TT",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-motogp-history",
+        "url": "https://motogp.hondaracingcorporation.com/history/",
+        "kind": "article",
+        "title": "History of Honda in Motorcycle Racing",
+        "publisher": "Honda Racing Corporation",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1963-06-t360-truck",
+    "person_id": "honda",
+    "date": "1963-06-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "T360 微型卡车上市，本田首款量产汽车",
+    "title_en": "Releases the T360 — Honda's first production automobile",
+    "summary": "1963 年 6 月，本田发布 T360 轻型卡车——这是本田第一款量产四轮汽车，比同年晚些时候发布的 S500 跑车早了四个月。T360 搭载 354cc DOHC 直列四缸发动机，最高转速 8500 rpm——给一辆「kei」级别小卡车装跑车级双顶置凸轮发动机，这种「过度工程」的做派从此成为本田汽车业务的标志。所有 T360 都涂着同一种「五月蓝」（May Blue），到 1967 年共生产 108,920 台。",
+    "summary_en": "In June 1963 Honda introduced the T360 mini truck — the company's first production automobile, beating the S500 sports car to market by four months. The T360 was powered by a 354cc DOHC inline-four that revved to 8,500 rpm — putting a sports-car twin-cam in a kei-class pickup. That \"overengineered\" instinct became Honda's signature in cars. All 108,920 T360s built through 1967 were painted in the same color, May Blue.",
+    "location": "Japan",
+    "key": false,
+    "tags": [
+      "T360",
+      "汽车",
+      "kei"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-t360",
+        "url": "https://en.wikipedia.org/wiki/Honda_T360",
+        "kind": "article",
+        "title": "Honda T360 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda_T360",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-heritage-1962-auto",
+        "url": "https://global.honda/en/heritage/episodes/1962autoproduction.html",
+        "kind": "article",
+        "title": "Launching the S360 and T360 / 1962 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1963-10-s500-sports-car",
+    "person_id": "honda",
+    "date": "1963-10-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "S500 跑车发布，本田第一款乘用车",
+    "title_en": "Launches the S500 — Honda's first passenger car",
+    "summary": "1963 年 10 月，本田推出 S500 双门跑车——公司第一款乘用车，售价 459,000 日元（约合当时的 1300 美元）。S500 搭载 531cc 双顶置凸轮、四缸的高转速发动机，约 44 马力，整车不到 700 公斤。它最特别的设计是用「链条传动」把动力从变速箱送到后轮——这一布置直接源自本田对摩托车工程的执念。S500 累计仅生产约 504 台，但它确立了「S 系列」跑车谱系，给本田后来的 S600/S2000 奠定了基因。",
+    "summary_en": "In October 1963 Honda introduced the S500 two-seat roadster — the company's first passenger car — at ¥459,000 (around US$1,300 at the time). It used a 531cc DOHC inline-four delivering about 44 hp at high rpm, in a car weighing well under 700 kg. The signature oddity was the chain drive from the gearbox to each rear wheel, integrated into the suspension — pure motorcycle thinking applied to a car. Only about 504 S500s were produced before customers switched to the S600, but the model founded the \"S\" sports-car lineage that later included the S600, S800 and S2000.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "S500",
+      "跑车",
+      "首款乘用车"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-s500",
+        "url": "https://en.wikipedia.org/wiki/Honda_S500",
+        "kind": "article",
+        "title": "Honda S500 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda_S500",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1964-08-f1-debut",
+    "person_id": "honda",
+    "date": "1964-08-02",
+    "date_precision": "day",
+    "type": "career",
+    "title": "RA271 在德国大奖赛首次出战 F1，日本制造首入一级方程式",
+    "title_en": "RA271 makes Honda's F1 debut at the German GP — first Japanese F1 entry ever",
+    "summary": "1964 年 8 月 2 日，纽伯格林北环上，本田 RA271 在德国大奖赛首次出战一级方程式——这是日本制造商第一次参加 F1 世锦赛分站赛。当时的 F1 主流是 1.5 升 V8，本田却开发出一台横置 1.5 升 V12，转速能上 12,000——典型的「不按常理出牌」。车手是 27 岁的美国人罗尼·巴克纳姆。第一场比赛因转向问题中途退赛，但日本汽车工业从此进入了世界顶级赛事舞台。",
+    "summary_en": "On August 2, 1964, at the Nürburgring Nordschleife, the Honda RA271 made the company's Formula 1 debut at the German Grand Prix — the first time any Japanese-built car had ever entered a round of the FIA F1 World Championship. While F1 was dominated by 1.5-litre V8s, Honda built a transverse 1.5-litre V12 that revved to 12,000 rpm — classic Honda counter-orthodoxy. The driver was 27-year-old American Ronnie Bucknum. The car retired with a steering problem, but Japanese motor industry had stepped onto the world's top racing stage.",
+    "location": "Nürburgring, West Germany",
+    "key": true,
+    "tags": [
+      "F1",
+      "RA271",
+      "德国GP"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-ra271",
+        "url": "https://en.wikipedia.org/wiki/Honda_RA271",
+        "kind": "article",
+        "title": "Honda RA271 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda_RA271",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-heritage-1964-f1",
+        "url": "https://global.honda/en/heritage/episodes/1964formulaoneentry.html",
+        "kind": "article",
+        "title": "Formula One Entry: The Initial Phase / 1964 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1965-10-24-mexico-gp-first-f1-win",
+    "person_id": "honda",
+    "date": "1965-10-24",
+    "date_precision": "day",
+    "type": "award",
+    "title": "墨西哥大奖赛夺冠，日本厂商首次赢得一级方程式比赛",
+    "title_en": "Wins Mexican Grand Prix — first Japanese F1 victory",
+    "summary": "1965 年 10 月 24 日，墨西哥城高海拔的赛道上，本田 RA272 由美国车手里奇·金瑟（Richie Ginther）从头到尾一路领先全部 65 圈，赢得墨西哥大奖赛——这是日本汽车、日本发动机、日本车队历史上第一次拿到 F1 比赛胜利。RA272 那台 1.5 升横置 V12 输出约 230 马力，是当时 F1 赛场上最强的发动机。本田进入 F1 不到 15 个月就拿下首胜，成为全球汽车工程界的一记惊雷。",
+    "summary_en": "On October 24, 1965, at the high-altitude circuit in Mexico City, American driver Richie Ginther led every one of the 65 laps in the Honda RA272 to win the Mexican Grand Prix — the first Formula 1 victory ever for a Japanese car, a Japanese engine, and a Japanese team. The RA272's 1.5-litre transverse V12 produced around 230 hp, then the most powerful engine in the sport. Honda had taken its first F1 win less than 15 months after its first F1 race — a thunderclap in the global automotive establishment.",
+    "location": "Mexico City, Mexico",
+    "key": true,
+    "tags": [
+      "F1",
+      "RA272",
+      "墨西哥GP",
+      "首胜"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-ra272",
+        "url": "https://en.wikipedia.org/wiki/Honda_RA272",
+        "kind": "article",
+        "title": "Honda RA272 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda_RA272",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "revs-institute-ra272",
+        "url": "https://museum.revsinstitute.org/news/a-half-century-ago-richie-ginther-and-the-honda-ra272/",
+        "kind": "article",
+        "title": "A half-century ago — Richie Ginther and the Honda RA272",
+        "publisher": "Revs Institute",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1972-07-21-civic-launch",
+    "person_id": "honda",
+    "date": "1972-07-21",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Civic 上市，开启本田进军全球大众车市场的序幕",
+    "title_en": "Civic launches — Honda enters the global mass-market car business",
+    "summary": "1972 年 7 月 21 日，第一代 Civic 在日本上市。它是一台前置前驱、横置发动机的小型车，专门设计成可以装上 CVCC（复合涡流控制燃烧）发动机——本田对 1970 年美国《清洁空气法》最严格排放标准的回应。1972 年 12 月，搭载 CVCC 的 Civic 在密歇根州 Ann Arbor 美国 EPA 实验室通过测试，成为全球第一款无需触媒、不靠铅汽油就能满足 1975 年美国排放标准的汽车。Civic 让本田从「摩托车厂」一夜间变成全球小型车的标杆品牌。",
+    "summary_en": "On July 21, 1972, the first-generation Honda Civic went on sale in Japan. It was a transverse-engine, front-wheel-drive subcompact designed from the start to accept the CVCC (Compound Vortex Controlled Combustion) engine — Honda's answer to the most stringent emissions targets of the 1970 US Clean Air Act. In December 1972 a CVCC-equipped Civic passed testing at the EPA lab in Ann Arbor, Michigan — the first car in the world to meet the 1975 US emissions standard without a catalytic converter or unleaded fuel. Almost overnight, the Civic transformed Honda from \"a motorcycle company\" into the global benchmark for small cars.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Civic",
+      "CVCC",
+      "排放"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-civic-1g",
+        "url": "https://en.wikipedia.org/wiki/Honda_Civic_(first_generation)",
+        "kind": "article",
+        "title": "Honda Civic (first generation) — Wikipedia",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Honda_Civic_(first_generation)",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "honda-heritage-cvcc",
+        "url": "https://global.honda/en/heritage/episodes/1972introducingthecvcc.html",
+        "kind": "article",
+        "title": "Introducing the CVCC / 1972 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1973-10-retires-as-president",
+    "person_id": "honda",
+    "date": "1973-10-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "与藤泽武夫一同退休，让位给职业经理人",
+    "title_en": "Retires as president alongside Fujisawa, hands company to professional management",
+    "summary": "1973 年 10 月——本田技研创立 25 周年的股东大会上——本田宗一郎（66 岁）与藤泽武夫一起宣布退休。两人此前早已约定「不让创始人血脉控制公司」，把社长之位交给了 1947 年作为工程师入职的河岛喜好。本田保留「最高顾问」头衔，自此基本不干预日常经营。这种主动让位、不传子女、由职业管理者接班的安排，在战后日本同代企业家中极为罕见，也成为本田公司治理文化的核心。",
+    "summary_en": "In October 1973 — at the shareholders' meeting marking Honda Motor's 25th anniversary — Soichiro Honda (then 66) and Takeo Fujisawa stepped down together as president and executive vice president. The two had long agreed not to let founders' bloodlines control the company; the presidency went instead to Kiyoshi Kawashima, who had joined Honda as a young engineer in 1947. Honda kept the title of \"supreme advisor\" and from then on largely stayed out of daily operations. This deliberate handover to professional management — and refusal to install his own children — was rare among Japanese founders of his generation and became a defining feature of Honda's governance culture.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "退休",
+      "藤泽武夫",
+      "河岛喜好"
+    ],
+    "sources": [
+      {
+        "id": "honda-heritage-1973-retirement",
+        "url": "https://global.honda/en/heritage/episodes/1973companyleaders.html",
+        "kind": "article",
+        "title": "Honda and Fujisawa Retire; Kawashima Assumes Presidency / 1973",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1980-asme-medal",
+    "person_id": "honda",
+    "date": "1980-01-01",
+    "date_precision": "year",
+    "type": "award",
+    "title": "获得美国机械工程师学会（ASME）奖章",
+    "title_en": "Awarded the ASME Medal by the American Society of Mechanical Engineers",
+    "summary": "1980 年，美国机械工程师学会（ASME）将其最高奖项之一「ASME Medal」授予本田宗一郎，表彰他在内燃机小型化、低排放发动机研发以及工程教育方面的终身贡献。这是该奖项首次授予日本工程师，也是国际工程界对他「自学成才的工匠」身份的正式背书。",
+    "summary_en": "In 1980 the American Society of Mechanical Engineers awarded Soichiro Honda the ASME Medal — one of the society's highest honors — for lifetime contributions to internal-combustion engine miniaturization, low-emission engine research, and engineering education. It was the first time the medal had gone to a Japanese engineer, and an explicit international endorsement of his \"self-taught artisan\" identity.",
+    "location": "United States",
+    "key": false,
+    "tags": [
+      "ASME",
+      "工程奖章",
+      "荣誉"
+    ],
+    "sources": [
+      {
+        "id": "asme-honda",
+        "url": "https://www.asme.org/topics-resources/content/soichiro-honda",
+        "kind": "article",
+        "title": "Soichiro Honda — ASME",
+        "publisher": "American Society of Mechanical Engineers",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1989-automotive-hall-of-fame",
+    "person_id": "honda",
+    "date": "1989-10-10",
+    "date_precision": "day",
+    "type": "award",
+    "title": "入选美国汽车名人堂，成为首位获此殊荣的亚洲人",
+    "title_en": "Inducted into Automotive Hall of Fame — first person from Asia to receive the honor",
+    "summary": "1989 年 10 月 10 日，82 岁的本田宗一郎在密歇根州迪尔伯恩入选美国汽车名人堂——他是亚洲第一位、也是日本第一位获得这项荣誉的汽车产业领袖。汽车名人堂的获奖者过去几乎全部是亨利·福特、沃尔特·克莱斯勒这样的美国巨头，本田的入选标志着美日汽车产业关系上的历史性时刻。他在颁奖典礼的演讲中谈到自己一生关注的不是「胜过别人」，而是「梦想能不能实现」。",
+    "summary_en": "On October 10, 1989, in Dearborn, Michigan, the 82-year-old Soichiro Honda was inducted into the Automotive Hall of Fame — the first person from Asia, and the first from Japan, ever inducted. Past honorees had been almost exclusively American giants like Henry Ford and Walter Chrysler, so Honda's induction marked a historic shift in the US–Japan automotive relationship. In his acceptance speech he said his life had been organized not around beating others but around whether his dreams could be made real.",
+    "location": "Dearborn, Michigan, USA",
+    "key": true,
+    "tags": [
+      "汽车名人堂",
+      "荣誉",
+      "首位亚洲人"
+    ],
+    "sources": [
+      {
+        "id": "ahf-honda",
+        "url": "https://automotivehalloffame.org/honoree/soichiro-honda/",
+        "kind": "article",
+        "title": "Soichiro Honda — Automotive Hall of Fame",
+        "publisher": "Automotive Hall of Fame",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "ahf-honda-induction-speech",
+        "url": "https://www.youtube.com/watch?v=LyqyoHmo0Cg",
+        "embed_url": "https://www.youtube-nocookie.com/embed/LyqyoHmo0Cg",
+        "kind": "video",
+        "title": "Soichiro Honda — Automotive Hall of Fame Induction Speech",
+        "publisher": "Automotive Hall of Fame (YouTube)",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-1991-08-05-death",
+    "person_id": "honda",
+    "date": "1991-08-05",
+    "date_precision": "day",
+    "type": "life",
+    "title": "本田宗一郎在东京去世，享年 84 岁",
+    "title_en": "Soichiro Honda dies in Tokyo at age 84",
+    "summary": "1991 年 8 月 5 日，本田宗一郎因肝功能衰竭在东京一家医院去世，享年 84 岁。按照他生前遗愿，本田家族禁止公司举办公祭——他常说：「我一辈子做汽车制造商，怎么能在自己葬礼那天给道路添堵？」公司随后举办了一场前所未有的「答谢会」（Orei-no-kai），在会场陈列了 S500、本田亲手设计的发动机和员工们一起开发的产品；他留给世界的最后一句话是：「谢谢你们让我度过了这么幸福的一生，非常感谢。」",
+    "summary_en": "On August 5, 1991, Soichiro Honda died of liver failure at a Tokyo hospital, aged 84. By his own instruction his family forbade Honda Motor from holding a corporate funeral. Honda often said: \"I've spent my life as an automobile manufacturer — how could I cause a traffic jam on the day of my own funeral?\" In place of a funeral, the company held an unprecedented \"Orei-no-kai\" (gathering of thanks): the S500, engines Honda himself had designed, and products co-built with employees were placed on display. His final message to the world: \"Thank you for giving me such a happy life. Thank you very much.\"",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "去世",
+      "葬礼",
+      "答谢会"
+    ],
+    "sources": [
+      {
+        "id": "honda-heritage-orei",
+        "url": "https://global.honda/en/heritage/episodes/1991oreinokai.html",
+        "kind": "article",
+        "title": "Hosting 'Orei-no-kai' / 1991 — Honda Heritage",
+        "publisher": "Honda Motor Co.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "Thank you for giving me such a happy life. Thank you very much.",
+            "text_zh": "谢谢你们让我度过了这么幸福的一生，非常感谢。",
+            "speaker": "Soichiro Honda",
+            "context": "Final message to customers, employees and partners, displayed at the Orei-no-kai gathering held in lieu of a funeral after his death on August 5, 1991."
+          }
+        ]
+      },
+      {
+        "id": "wikipedia-honda-bio",
+        "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+        "kind": "article",
+        "title": "Soichiro Honda (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Soichiro_Honda",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cycleworld-honda-obit",
+        "url": "https://magazine.cycleworld.com/article/1991/11/1/soichiro-honda-1906-1991",
+        "kind": "article",
+        "title": "Soichiro Honda, 1906-1991",
+        "publisher": "Cycle World",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "honda-philosophy-99-percent-failure",
+    "person_id": "honda",
+    "date": "1985-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "「成功只是 1%，剩下的 99% 是失败」——本田标志性的失败哲学",
+    "title_en": "\"Success is 99 percent failure\" — Honda's signature philosophy on failure",
+    "summary": "本田一生反复在演讲、采访和文章中表达同一个观点：他真正引以为傲的不是产品的成功，而是无数次的失败。他最广为流传的版本是：「成功只能通过反复的失败和反省来实现。事实上，成功只代表你工作的 1%，而它必须由那 99% 称之为失败的部分支撑起来。」这句话和「The Power of Dreams」一起成为本田公司至今的精神底色——一种把工程师文化置于职业经理人思维之上、宁要试错不要保守的姿态。",
+    "summary_en": "Throughout his life Honda returned in speeches, interviews and writings to the same idea: that what he was proudest of was not the products that worked but the countless ones that didn't. The most-quoted version: \"Success can be achieved only through repeated failure and introspection. In fact, success represents the 1 percent of your work which results only from the 99 percent that is called failure.\" Together with \"The Power of Dreams,\" the line became the spine of Honda's culture — a deliberate elevation of the engineer's instinct over the manager's caution.",
+    "location": "Japan",
+    "key": false,
+    "tags": [
+      "失败哲学",
+      "名言",
+      "Power of Dreams"
+    ],
+    "sources": [
+      {
+        "id": "brainyquote-honda-99",
+        "url": "https://www.brainyquote.com/quotes/soichiro_honda_350000",
+        "kind": "article",
+        "title": "Soichiro Honda — 'Success represents the 1% of your work which results from the 99% that is called failure.'",
+        "publisher": "BrainyQuote",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "Success can be achieved only through repeated failure and introspection. In fact, success represents the 1 percent of your work which results only from the 99 percent that is called failure.",
+            "text_zh": "成功只能通过反复的失败和反省来实现。事实上，成功只代表你工作的 1%，剩下的 99% 是失败。",
+            "speaker": "Soichiro Honda"
+          }
+        ]
+      },
+      {
+        "id": "asme-honda",
+        "url": "https://www.asme.org/topics-resources/content/soichiro-honda",
+        "kind": "article",
+        "title": "Soichiro Honda — ASME",
+        "publisher": "American Society of Mechanical Engineers",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "honda-personal-history-doc",
+        "url": "https://www.youtube.com/watch?v=oXlG-LKv-Dc",
+        "embed_url": "https://www.youtube-nocookie.com/embed/oXlG-LKv-Dc",
+        "kind": "video",
+        "title": "SOICHIRO HONDA: King of the Motorcycles (Full Documentary)",
+        "publisher": "YouTube",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  }
+]

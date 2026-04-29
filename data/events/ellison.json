@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "ellison-1944-08-17-birth",
+    "person_id": "ellison",
+    "date": "1944-08-17",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于纽约市，由芝加哥南岸的姨妈和姨父收养",
+    "title_en": "Born in New York City; adopted by aunt and uncle in Chicago's South Shore",
+    "summary": "1944 年 8 月 17 日，劳伦斯·约瑟夫·埃里森出生于纽约市曼哈顿。母亲弗洛伦斯·斯佩尔曼当年只有 19 岁，未婚，生父是一名意大利裔美军飞行员。九个月大时，埃里森因肺炎被生母送到芝加哥南岸——交由姨妈莉莲·斯佩尔曼·埃里森和姨父路易斯·埃里森抚养。这对中产犹太人夫妇正式收养了他，从此他随姓 Ellison 长大。生母 Florence 直到他 48 岁时才重新出现在他的生活中。",
+    "summary_en": "Lawrence Joseph Ellison was born in Manhattan on August 17, 1944, to Florence Spellman, a 19-year-old single mother. His biological father, an Italian-American pilot in the U.S. Army Air Corps, played no role in his upbringing. At nine months old Ellison contracted pneumonia, and Florence arranged for him to be adopted by her aunt and uncle, Lillian and Louis Ellison — a middle-class Jewish couple living in Chicago's South Shore. Ellison would not see his biological mother again until he was 48.",
+    "location": "纽约市 → 芝加哥南岸",
+    "key": true,
+    "tags": [
+      "出生",
+      "童年",
+      "收养",
+      "芝加哥"
+    ],
+    "sources": [
+      {
+        "id": "wiki-ellison-bio",
+        "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+        "kind": "article",
+        "title": "Larry Ellison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Larry_Ellison",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "britannica-ellison",
+        "url": "https://www.britannica.com/money/Larry-Ellison",
+        "kind": "article",
+        "title": "Larry Ellison | Britannica Money",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1962-illinois-enroll",
+    "person_id": "ellison",
+    "date": "1962-09-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "进入伊利诺伊大学厄巴纳-香槟分校（医学预科）",
+    "title_en": "Enrolls at the University of Illinois at Urbana–Champaign as a pre-med student",
+    "summary": "1962 年，18 岁的埃里森离开芝加哥，进入伊利诺伊大学厄巴纳-香槟分校就读医学预科。在校期间他成绩优异，曾被评为校年度理科生（science student of the year）。然而他对课堂教学并无兴趣——这段大学经历将因家庭悲剧而戛然中断。",
+    "summary_en": "In 1962, an 18-year-old Ellison left Chicago to enroll as a pre-med student at the University of Illinois at Urbana–Champaign. He excelled academically and was named the university's science student of the year, but found classroom instruction unengaging. His college career would be cut short two years later by a family tragedy.",
+    "location": "厄巴纳-香槟, 伊利诺伊州",
+    "key": false,
+    "tags": [
+      "教育",
+      "伊利诺伊大学",
+      "医学预科"
+    ],
+    "sources": [
+      {
+        "id": "wiki-ellison-bio",
+        "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+        "kind": "article",
+        "title": "Larry Ellison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Larry_Ellison",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "biography-ellison",
+        "url": "https://www.biography.com/business-figure/larry-ellison",
+        "kind": "article",
+        "title": "Larry Ellison: From College Dropout to Billionaire Oracle Founder",
+        "publisher": "Biography.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1964-illinois-dropout",
+    "person_id": "ellison",
+    "date": "1964-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "养母莉莲去世后从伊利诺伊大学退学",
+    "title_en": "Drops out of University of Illinois after adoptive mother Lillian's death",
+    "summary": "大二期末考试前，埃里森的养母莉莲因癌症去世。莉莲是这个家中给予他爱与温暖的一方——养父路易斯则严苛冷漠，从小就告诉他「永远不会有出息」。失去母亲的悲痛让埃里森无法继续考试，他选择退学。这是他人生中第一次「中途退场」。",
+    "summary_en": "Just before sophomore-year final exams, Ellison's adoptive mother Lillian died of cancer. Lillian had been the warm and supportive figure in his life — adoptive father Louis was harsh and reportedly told the young Ellison he would never amount to anything. Devastated by her death, Ellison left the University of Illinois without taking finals — the first of two college dropouts.",
+    "location": "厄巴纳-香槟, 伊利诺伊州",
+    "key": true,
+    "tags": [
+      "退学",
+      "家庭",
+      "转折点"
+    ],
+    "sources": [
+      {
+        "id": "wiki-ellison-bio",
+        "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+        "kind": "article",
+        "title": "Larry Ellison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Larry_Ellison",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "biography-ellison",
+        "url": "https://www.biography.com/business-figure/larry-ellison",
+        "kind": "article",
+        "title": "Larry Ellison: From College Dropout to Billionaire Oracle Founder",
+        "publisher": "Biography.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1966-uchicago-california",
+    "person_id": "ellison",
+    "date": "1966-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "短暂就读芝加哥大学一学期，随后驱车前往加州",
+    "title_en": "Brief stint at University of Chicago; then drives to California",
+    "summary": "1966 年，埃里森在芝加哥大学短暂学习了一学期物理与数学。正是在这里，他第一次接触到了计算机设计——这次偶然的接触将彻底改变他的人生方向。一学期后，他再度退学，开车从芝加哥驶往伯克利，开始了在加州的「编程零工」生涯。",
+    "summary_en": "In 1966 Ellison spent one term at the University of Chicago studying physics and mathematics, where he first encountered computer design — an exposure that would redirect his entire career. After leaving Chicago he drove west to Berkeley, California, where he began a series of programming gigs that lasted roughly a decade.",
+    "location": "芝加哥 → 伯克利, 加利福尼亚州",
+    "key": false,
+    "tags": [
+      "教育",
+      "芝加哥大学",
+      "迁居加州",
+      "首次接触编程"
+    ],
+    "sources": [
+      {
+        "id": "wiki-ellison-bio",
+        "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+        "kind": "article",
+        "title": "Larry Ellison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Larry_Ellison",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1973-ampex-meets-miner-oates",
+    "person_id": "ellison",
+    "date": "1973-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入安培（Ampex），结识鲍勃·迈纳与艾德·奥茨",
+    "title_en": "Joins Ampex Corporation; meets Bob Miner and Ed Oates",
+    "summary": "在 Amdahl 等公司短暂任职后，埃里森加入了硅谷磁带录像机厂商安培（Ampex）。在 Ampex，他的上司是 Bob Miner，同事还有 Ed Oates——三人将共同开启 Oracle 的故事。当时 Ampex 的一个项目是为美国中央情报局（CIA）开发数据库，代号正是「Oracle」。这个项目源自 Ampex 自身，但埃里森在其中看到了关系数据库的商业化机会。",
+    "summary_en": "After short stints at firms including Amdahl, Ellison joined Ampex Corporation, a Silicon Valley video-tape manufacturer. There he met his future co-founders: his supervisor Bob Miner and colleague Ed Oates. One of Ampex's contracts was a database project for the CIA codenamed \"Oracle\" — a name Ellison would later carry into his own company. The project itself never went anywhere, but the relationships did.",
+    "location": "雷德伍德城, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "Ampex",
+      "Bob Miner",
+      "Ed Oates",
+      "CIA",
+      "Oracle 缘起"
+    ],
+    "sources": [
+      {
+        "id": "wiki-ellison-bio",
+        "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+        "kind": "article",
+        "title": "Larry Ellison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Larry_Ellison",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wiki-oracle-corp",
+        "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+        "kind": "article",
+        "title": "Oracle Corporation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1977-06-sdl-founded",
+    "person_id": "ellison",
+    "date": "1977-06-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "与 Bob Miner、Ed Oates 共同创立 Software Development Laboratories（Oracle 前身）",
+    "title_en": "Co-founds Software Development Laboratories (SDL) with Bob Miner and Ed Oates",
+    "summary": "1977 年 6 月，埃里森与原 Ampex 同事 Bob Miner、Ed Oates 共同创立 Software Development Laboratories（SDL），最初投入的资本仅 2,000 美元，其中埃里森出资 1,200 美元（按 2025 年币值约合 6,400 美元）。Bruce Scott 不久后加入。公司创立的灵感来自 IBM 研究员 Edgar F. Codd 1970 年发表的关系模型论文——这一理论当时尚未被任何商业产品采用。",
+    "summary_en": "In June 1977, Ellison co-founded Software Development Laboratories (SDL) in Santa Clara, California with former Ampex colleagues Bob Miner and Ed Oates (Bruce Scott joined shortly after). The initial capital was just $2,000 — $1,200 of it Ellison's. The company's founding thesis was inspired by Edgar F. Codd's 1970 IBM paper \"A Relational Model of Data for Large Shared Data Banks\" — a theoretical breakthrough that no commercial product had yet implemented.",
+    "location": "圣克拉拉, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "创业",
+      "SDL",
+      "Oracle 创立",
+      "关系数据库"
+    ],
+    "sources": [
+      {
+        "id": "wiki-oracle-corp",
+        "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+        "kind": "article",
+        "title": "Oracle Corporation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wiki-ellison-bio",
+        "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+        "kind": "article",
+        "title": "Larry Ellison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Larry_Ellison",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1979-oracle-v2-released",
+    "person_id": "ellison",
+    "date": "1979-01-01",
+    "date_precision": "year",
+    "type": "product",
+    "title": "Oracle V2 发布——史上首个商用 SQL 关系数据库",
+    "title_en": "Oracle V2 released — the first commercially available SQL relational database",
+    "summary": "1979 年，公司更名为 Relational Software, Inc.（RSI），并向市场推出了 Oracle V2——业界首个公开发售的 SQL 关系数据库管理系统。埃里森故意跳过了 V1（V1 仅作内部演示），因为他认为客户对「1.0 版本」会本能地不信任。Oracle V2 比 IBM 自家的关系数据库产品（System R / DB2）抢先上市数年。第一批客户中就有 CIA。",
+    "summary_en": "In 1979 the company was renamed Relational Software, Inc. (RSI) and shipped Oracle V2 — the first commercially available SQL relational database management system. Ellison deliberately skipped \"V1\" (which existed only as an internal demo) because he believed customers would never buy a 1.0 release. Oracle V2 beat IBM's own relational products (System R / DB2) to market by several years. The CIA was among the first customers.",
+    "location": "圣克拉拉, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "Oracle V2",
+      "关系数据库",
+      "SQL",
+      "产品"
+    ],
+    "sources": [
+      {
+        "id": "wiki-oracle-corp",
+        "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+        "kind": "article",
+        "title": "Oracle Corporation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "informit-oracle-history",
+        "url": "https://www.informit.com/articles/article.aspx?p=27317&seqNum=3",
+        "kind": "article",
+        "title": "Oracle: A Company (and a Relational Database) in the Making",
+        "publisher": "InformIT",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1983-renamed-oracle",
+    "person_id": "ellison",
+    "date": "1983-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "公司正式更名为 Oracle Systems Corporation",
+    "title_en": "Company officially renamed Oracle Systems Corporation",
+    "summary": "1983 年，公司从 Relational Software, Inc. 正式更名为 Oracle Systems Corporation——以与其旗舰产品同名。同年 3 月，Oracle 数据库被用 C 语言重写以提高可移植性，并发布了 Oracle V3，这一版本是首个能在大型机、小型机、个人计算机上同时运行的关系数据库——这一可移植性是它在 80 年代赢得企业市场的关键。",
+    "summary_en": "In 1983, the company was officially renamed Oracle Systems Corporation, aligning the corporate identity with its flagship product. That same year Oracle was rewritten in C for portability and released as Oracle V3 — the first relational database that could run on mainframes, minicomputers, and PCs alike. This portability was the decisive advantage that let Oracle dominate the enterprise database market through the 1980s.",
+    "location": "贝尔蒙特, 加利福尼亚州",
+    "key": false,
+    "tags": [
+      "更名",
+      "Oracle V3",
+      "可移植性"
+    ],
+    "sources": [
+      {
+        "id": "wiki-oracle-corp",
+        "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+        "kind": "article",
+        "title": "Oracle Corporation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1986-03-12-oracle-ipo",
+    "person_id": "ellison",
+    "date": "1986-03-12",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Oracle 上市，IPO 募资 3,150 万美元；比微软早一天",
+    "title_en": "Oracle IPO raises $31.5 million — one day before Microsoft's IPO",
+    "summary": "1986 年 3 月 12 日，Oracle 以每股 15 美元的价格在纳斯达克上市，募资约 3,150 万美元，首日收盘价 20 美元。这场 IPO 在科技史上占据特殊位置——它比微软 IPO 早了一天（微软于 3 月 13 日上市）。当年 Oracle 的年收入约为 5,500 万美元，已是关系数据库市场的领导者。",
+    "summary_en": "On March 12, 1986, Oracle went public on NASDAQ at $15 per share, raising about $31.5 million; the stock closed its first day at $20. The IPO holds a small piece of tech history: it occurred exactly one day before Microsoft's IPO on March 13. Oracle's annual revenue at the time was roughly $55 million, and it was already the market leader in relational databases.",
+    "location": "纳斯达克, 美国",
+    "key": true,
+    "tags": [
+      "IPO",
+      "上市",
+      "纳斯达克",
+      "1986"
+    ],
+    "sources": [
+      {
+        "id": "wiki-oracle-corp",
+        "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+        "kind": "article",
+        "title": "Oracle Corporation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "begintoinvest-oracle-ipo",
+        "url": "https://www.begintoinvest.com/march-12/",
+        "kind": "article",
+        "title": "March 12 — Oracle IPOs",
+        "publisher": "Begin To Invest",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1990-near-bankruptcy",
+    "person_id": "ellison",
+    "date": "1990-03-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "Oracle 因激进收入确认濒临破产；股价单日暴跌 31%",
+    "title_en": "Oracle nears bankruptcy after aggressive revenue recognition scandal; stock drops 31% in a day",
+    "summary": "1990 年 3 月，Oracle 公布的季度盈利远低于预期，股价单日暴跌 31%。问题源自其「预付式」销售文化——销售员把未来年度的许可证收入提前计入当季业绩以拿奖金。诉讼接踵而至，Oracle 股价在接下来的一年里下跌约 80%，公司被迫裁掉近一半员工，几乎破产。埃里森的应对成为他职业生涯的转折点：他保留了几乎所有早期工程师，但更换了管理团队——引入财务总监 Jeff Henley、销售总裁 Ray Lane——并坚守了 Oracle V7 的研发。1992 年，公司重新盈利。",
+    "summary_en": "In March 1990 Oracle reported earnings far below expectations and the stock fell 31% in a single day. The cause was an aggressive \"up-front\" sales culture — salespeople booked years of future license revenue in the current quarter to maximize commissions. Class-action lawsuits followed, the stock lost roughly 80% over the following year, the company had to restate prior financials, and nearly half of the workforce was laid off. Ellison's response defined his career: he kept the engineering core but replaced the management bench — bringing in CFO Jeff Henley and President Ray Lane — while committing to Oracle V7. By 1992, Oracle was profitable again.",
+    "location": "雷德伍德海岸, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "财务危机",
+      "重组",
+      "Ray Lane",
+      "Jeff Henley",
+      "转折点"
+    ],
+    "sources": [
+      {
+        "id": "wiki-oracle-corp",
+        "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+        "kind": "article",
+        "title": "Oracle Corporation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "in-re-oracle-securities",
+        "url": "https://law.justia.com/cases/federal/district-courts/FSupp/829/1176/1877068/",
+        "kind": "document",
+        "title": "In Re Oracle Securities Litigation, 829 F. Supp. 1176 (N.D. Cal. 1993)",
+        "publisher": "Justia",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1995-09-04-network-computer",
+    "person_id": "ellison",
+    "date": "1995-09-04",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "提出「网络计算机（NC）」愿景，公开向微软宣战",
+    "title_en": "Unveils the Network Computer (NC) vision — opening salvo against Microsoft",
+    "summary": "1995 年 9 月 4 日，埃里森在巴黎的 Telecom Geneva 大会上首次推出「网络计算机（Network Computer, NC）」愿景：一种售价约 500 美元、不需要硬盘、所有应用与数据都存放在网络服务器上的瘦客户机。这是当时对 Wintel（Windows + Intel）垄断最响亮的一次正面挑战。1996 年，Oracle 联合 Sun、Netscape、IBM、Apple 共同制定 NC 参考规范。NC 商业上失败了——PC 价格很快跌破 1000 美元——但它的架构（应用与数据放在云端）正是 30 年后云计算和 Chromebook 的雏形。",
+    "summary_en": "On September 4, 1995, at the Telecom Geneva conference in Paris, Ellison unveiled the Network Computer (NC) — a roughly $500 thin client with no hard drive that would offload all applications and data to network servers. It was the loudest public challenge yet to the Wintel (Windows + Intel) monopoly. In 1996 Oracle, Sun, Netscape, IBM, and Apple jointly issued the NC Reference Profile. The NC failed commercially — PC prices fell below $1,000 within two years — but its architecture (apps and data living on the network) was effectively cloud computing and Chromebooks, three decades early.",
+    "location": "巴黎, 法国",
+    "key": true,
+    "tags": [
+      "Network Computer",
+      "对抗微软",
+      "云计算雏形",
+      "1995"
+    ],
+    "sources": [
+      {
+        "id": "wiki-network-computer",
+        "url": "https://en.wikipedia.org/wiki/Network_Computer",
+        "kind": "article",
+        "title": "Network Computer (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Network_Computer",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "tedium-nc",
+        "url": "https://tedium.co/2018/04/12/larry-ellison-network-computer-history/",
+        "kind": "article",
+        "title": "Oracle's Network Computer: Larry Ellison's Too-Early Idea",
+        "publisher": "Tedium",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "embed_url": "https://www.youtube.com/watch?v=_d6b8uMRex0"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1997-apple-board",
+    "person_id": "ellison",
+    "date": "1997-08-06",
+    "date_precision": "day",
+    "type": "career",
+    "title": "应史蒂夫·乔布斯之邀加入 Apple 董事会",
+    "title_en": "Joins Apple's Board of Directors at Steve Jobs's invitation",
+    "summary": "1997 年 8 月，刚刚回归 Apple 的乔布斯邀请挚友拉里·埃里森加入 Apple 董事会，与 Bill Campbell（Intuit CEO）、Jerry York（前 IBM、克莱斯勒 CFO）一同进入新董事会。在此之前，埃里森一度公开考虑过对 Apple 发起约 50 亿美元的敌意收购，目的是让乔布斯重回 CEO 位置；当乔布斯本人选择回 Apple 后，埃里森撤回了收购计划。他在 Apple 董事会一直任职到 2002 年 9 月辞任，亲眼见证了 iMac、iPod 的诞生。",
+    "summary_en": "In August 1997, the recently returned Steve Jobs invited his close friend Larry Ellison to join Apple's reconstituted Board of Directors, alongside Intuit CEO Bill Campbell and former IBM/Chrysler CFO Jerry York. Earlier that year Ellison had publicly floated a roughly $5 billion hostile takeover of Apple — purely so that he could install Jobs as CEO. Once Jobs returned on his own, Ellison withdrew the bid. He stayed on Apple's board until resigning in September 2002, witnessing the launches of the iMac and iPod from the inside.",
+    "location": "库比蒂诺, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "Apple",
+      "乔布斯",
+      "董事会",
+      "1997"
+    ],
+    "sources": [
+      {
+        "id": "apple-ellison-resigns",
+        "url": "https://www.apple.com/newsroom/2002/09/20Larry-Ellison-Resigns-as-Apple-Director/",
+        "kind": "article",
+        "title": "Larry Ellison Resigns as Apple Director (Apple press release, 2002)",
+        "publisher": "Apple Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wiki-ellison-bio",
+        "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+        "kind": "article",
+        "title": "Larry Ellison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Larry_Ellison",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "ellison-jobs-rose",
+        "url": "https://www.youtube.com/watch?v=WA07y0CLwlc",
+        "embed_url": "https://www.youtube-nocookie.com/embed/WA07y0CLwlc",
+        "kind": "video",
+        "title": "Larry Ellison on Sailing, Steve Jobs, and the Spirit of Competition (Charlie Rose Rewind)",
+        "publisher": "Charlie Rose / YouTube",
+        "lang": "en",
+        "primary": false,
+        "license": "fair-use-only",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-1997-charlie-rose-interview",
+    "person_id": "ellison",
+    "date": "1997-01-01",
+    "date_precision": "year",
+    "type": "interview",
+    "title": "1997 年长篇电视访谈：互联网时代的数据库、对微软的态度",
+    "title_en": "Hour-long 1997 television interview on databases, the internet, and Microsoft",
+    "summary": "1997 年的一档电视访谈中，埃里森系统阐述了三件事：（1）关系数据库为何会在互联网时代变得更重要，而不是更不重要；（2）他对比尔·盖茨与微软的看法——既钦佩其执行，也认为其商业模式必然被网络计算颠覆；（3）他理想中的「员工应被视为长期投资而非成本」的雇用观。这段访谈是 90 年代埃里森公众形象的代表性记录。",
+    "summary_en": "In a long-form 1997 television interview Ellison laid out three things he is most known for in that era: (1) why relational databases would become more, not less, important in the internet age; (2) his complicated assessment of Bill Gates and Microsoft — admiring of execution but convinced their model would be overturned by network computing; and (3) his preferred view of employees as long-term investments rather than costs. The interview is one of the cleanest archival records of his late-1990s public persona.",
+    "location": "美国",
+    "key": false,
+    "tags": [
+      "访谈",
+      "1997",
+      "互联网",
+      "微软"
+    ],
+    "sources": [
+      {
+        "id": "ellison-1997-interview",
+        "url": "https://www.youtube.com/watch?v=Bk1_btV3oIk",
+        "embed_url": "https://www.youtube-nocookie.com/embed/Bk1_btV3oIk",
+        "kind": "video",
+        "title": "Larry Ellison interview (1997)",
+        "publisher": "Manufacturing Intellect / YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "fair-use-only",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2005-01-07-peoplesoft",
+    "person_id": "ellison",
+    "date": "2005-01-07",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "完成对 PeopleSoft 的敌意收购，作价 103 亿美元（耗时 18 个月）",
+    "title_en": "Closes hostile takeover of PeopleSoft for $10.3 billion after 18-month battle",
+    "summary": "2003 年 6 月，PeopleSoft 宣布与 J.D. Edwards 合并仅几天后，Oracle 突然宣布以每股 16 美元发起敌意收购要约——这是埃里森向「Oracle 必须靠并购扩张」战略迈出的标志性一步。PeopleSoft 用「毒丸」「客户退款承诺」等手段顽强抵抗，美国和欧洲反垄断机构进行了为期一年多的审查。最终经过 5 次提价，2004 年 12 月 PeopleSoft 接受了 26.50 美元/股、总价 103 亿美元的报价，交易于 2005 年 1 月 7 日完成。这一胜利开启了 Oracle 长达十年的并购浪潮（Siebel、BEA、Hyperion、Sun、NetSuite……），把它从一家数据库公司变成全栈企业软件巨头。",
+    "summary_en": "In June 2003, days after PeopleSoft announced a friendly merger with J.D. Edwards, Oracle stunned the industry with a hostile cash tender offer at $16 a share — the moment Ellison committed publicly to growth-by-acquisition. PeopleSoft fought back with poison pills and customer refund guarantees while U.S. and EU antitrust regulators reviewed the deal for over a year. After five price increases, PeopleSoft accepted Oracle's $26.50-per-share, $10.3 billion offer in December 2004, and the deal closed on January 7, 2005. This win launched a decade of Oracle acquisitions (Siebel, BEA, Hyperion, Sun, NetSuite…) that transformed it from a database vendor into a full-stack enterprise software empire.",
+    "location": "雷德伍德海岸, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "PeopleSoft",
+      "敌意收购",
+      "并购",
+      "战略转型"
+    ],
+    "sources": [
+      {
+        "id": "stanford-peoplesoft-case",
+        "url": "https://www.gsb.stanford.edu/faculty-research/case-studies/oracles-hostile-takeover-peoplesoft",
+        "kind": "article",
+        "title": "Oracle's Hostile Takeover of PeopleSoft (A) — Stanford GSB Case Study",
+        "publisher": "Stanford Graduate School of Business",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "register-peoplesoft-20yr",
+        "url": "https://www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/",
+        "kind": "article",
+        "title": "20 years since Oracle bought two software rivals in one",
+        "publisher": "The Register",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2010-01-27-sun-acquisition",
+    "person_id": "ellison",
+    "date": "2010-01-27",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "完成对 Sun Microsystems 的收购，作价 74 亿美元",
+    "title_en": "Completes acquisition of Sun Microsystems for $7.4 billion",
+    "summary": "2009 年 4 月 20 日，Oracle 宣布以每股 9.50 美元、总价约 74 亿美元收购 Sun Microsystems。这是 Oracle 史上最大的一次战略转型——它一夜之间从纯软件公司，变成同时拥有 SPARC 服务器、Solaris 操作系统、Java 语言（这些资产源自 Sun）的硬件+软件全栈厂商。美国司法部于 2010 年 1 月 21 日无条件批准，欧盟也已点头，交易于 2010 年 1 月 27 日完成。Java 的归属也由此从中性的 Sun 变成 Oracle，并直接引发了后来著名的 Oracle v. Google 知识产权诉讼。",
+    "summary_en": "On April 20, 2009 Oracle announced it would buy Sun Microsystems for $9.50 per share — about $7.4 billion in total. The deal was Oracle's largest-ever strategic pivot: overnight it became a hardware-plus-software full-stack vendor, owning SPARC servers, the Solaris operating system, and the Java language (all formerly Sun's). The U.S. Department of Justice cleared the deal unconditionally on January 21, 2010, the European Commission also approved, and the acquisition closed on January 27, 2010. Java's stewardship passed from neutral Sun to Oracle — directly setting up the famous Oracle v. Google IP lawsuit that followed.",
+    "location": "雷德伍德海岸, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "Sun Microsystems",
+      "Java",
+      "并购",
+      "硬件转型"
+    ],
+    "sources": [
+      {
+        "id": "wiki-sun-acquisition",
+        "url": "https://en.wikipedia.org/wiki/Acquisition_of_Sun_Microsystems_by_Oracle_Corporation",
+        "kind": "article",
+        "title": "Acquisition of Sun Microsystems by Oracle Corporation (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Acquisition_of_Sun_Microsystems_by_Oracle_Corporation",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "oracle-buys-sun-press",
+        "url": "https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html",
+        "kind": "article",
+        "title": "Oracle Buys Sun (Oracle press release, April 2009)",
+        "publisher": "Oracle Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2010-02-14-americas-cup",
+    "person_id": "ellison",
+    "date": "2010-02-14",
+    "date_precision": "day",
+    "type": "award",
+    "title": "BMW Oracle Racing 在西班牙巴伦西亚赢得第 33 届美洲杯",
+    "title_en": "BMW Oracle Racing wins 33rd America's Cup off Valencia, Spain",
+    "summary": "2010 年 2 月 14 日，由埃里森出资的 BMW Oracle Racing 队以「USA 17」三体硬翼帆船在巴伦西亚 2 比 0 击败瑞士 Alinghi 队，赢得第 33 届美洲杯——这是自 1992 年以来美国第一支夺冠的辛迪加。这场胜利源自 5 年的法律和工程战争：埃里森在与 Alinghi 的法庭诉讼后赢得参赛权，又决定动用刚性硬翼帆这一颠覆性设计。2013 年，Oracle Team USA 在旧金山卫冕——在 1 比 8 落后的情况下连胜 8 场翻盘，被广泛视为美洲杯历史上最伟大的逆转。",
+    "summary_en": "On February 14, 2010, off Valencia, Spain, Larry Ellison's BMW Oracle Racing — sailing the wing-sailed trimaran USA 17 — beat Switzerland's Alinghi 2–0 to win the 33rd America's Cup, the first U.S. syndicate to claim the trophy since 1992. The win was the culmination of a five-year legal and engineering campaign: Ellison won the right to compete only after litigating against Alinghi, then bet on a rigid-wing sail that crushed the conventional rig. In 2013, Oracle Team USA defended the Cup in San Francisco — coming back from 8–1 down to win eight straight races in what is widely called the greatest comeback in America's Cup history.",
+    "location": "巴伦西亚, 西班牙",
+    "key": false,
+    "tags": [
+      "美洲杯",
+      "帆船",
+      "Oracle Team USA"
+    ],
+    "sources": [
+      {
+        "id": "wiki-oracle-team-usa",
+        "url": "https://en.wikipedia.org/wiki/Oracle_Team_USA",
+        "kind": "article",
+        "title": "Oracle Team USA (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Oracle_Team_USA",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2012-06-lanai-purchase",
+    "person_id": "ellison",
+    "date": "2012-06-21",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "以约 3 亿美元从 Castle & Cooke 收购夏威夷拉奈岛 98%",
+    "title_en": "Buys 98% of the Hawaiian island of Lānaʻi from Castle & Cooke for ~$300 million",
+    "summary": "2012 年 6 月，埃里森从 David Murdock 旗下的 Castle & Cooke 手中以约 3 亿美元买下夏威夷拉奈岛 98% 的股权——约 87,000 英亩，整座岛屿除港口和原住民居住区以外的全部土地。他承诺最终向岛上投资约 5 亿美元，把它打造成一个「可持续发展的实验场」：沙漠淡化、有机农业、太阳能电网、奢华生态酒店。这是历史上由个人完成的最大规模岛屿收购之一，岛上 3,000 多名居民几乎全部是 Pulama Lana'i（埃里森的资产管理公司）的雇员或租户。",
+    "summary_en": "In June 2012, Ellison bought 98% of the Hawaiian island of Lānaʻi from David Murdock's Castle & Cooke for roughly $300 million — about 87,000 of the island's 90,000 acres, essentially everything except the harbor and the residential village. He pledged to invest up to $500 million more in turning Lānaʻi into a sustainability laboratory: desalination, organic agriculture, solar microgrids, and luxury eco-resorts. It is one of the largest private island purchases in modern history; nearly all 3,000 residents are employees or tenants of Pulama Lanaʻi, Ellison's holding company.",
+    "location": "拉奈岛, 夏威夷",
+    "key": true,
+    "tags": [
+      "拉奈岛",
+      "夏威夷",
+      "私人岛屿",
+      "可持续发展"
+    ],
+    "sources": [
+      {
+        "id": "wiki-lanai",
+        "url": "https://en.wikipedia.org/wiki/L%C4%81na%CA%BBi",
+        "kind": "article",
+        "title": "Lānaʻi (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/L%C4%81na%CA%BBi",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2014-09-18-steps-down-ceo",
+    "person_id": "ellison",
+    "date": "2014-09-18",
+    "date_precision": "day",
+    "type": "career",
+    "title": "卸任 Oracle CEO；Mark Hurd 与 Safra Catz 接任联合 CEO",
+    "title_en": "Steps down as Oracle CEO; Mark Hurd and Safra Catz become co-CEOs",
+    "summary": "2014 年 9 月 18 日，担任 Oracle CEO 长达 37 年（自公司创立起）的埃里森宣布卸任。前 HP CEO Mark Hurd 与 Oracle 长期 CFO Safra Catz 同时被任命为联合 CEO——Hurd 主管销售与垂直行业，Catz 主管财务、法务与制造。埃里森本人转任执行董事长兼首席技术官（CTO），保留对软硬件工程的直接领导权。这一转型让 Oracle 在云转型期保留了埃里森的产品视野，同时引入 Hurd 在企业销售方面的执行力——Hurd 于 2019 年去世后，Catz 成为单一 CEO。",
+    "summary_en": "On September 18, 2014, after 37 years as CEO (since the company's founding), Ellison stepped down. Former HP CEO Mark Hurd and longtime Oracle CFO Safra Catz were both named CEO — Hurd over sales and vertical industries, Catz over finance, legal, and manufacturing. Ellison became Executive Chairman and Chief Technology Officer, retaining direct authority over software and hardware engineering. The transition let Oracle keep Ellison's product vision through its cloud transition while gaining Hurd's enterprise-sales execution. After Hurd's death in 2019, Catz became sole CEO.",
+    "location": "雷德伍德海岸, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "卸任 CEO",
+      "Mark Hurd",
+      "Safra Catz",
+      "继任"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-ellison-steps-down",
+        "url": "https://www.cnbc.com/2014/09/18/oracle-ceo-larry-ellison-steps-down-will-be-replaced-by-mark-hurd-and-safra-catz.html",
+        "kind": "article",
+        "title": "Oracle CEO Larry Ellison steps down, will be replaced by Mark Hurd and Safra Catz",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "npr-ellison-steps-down",
+        "url": "https://www.npr.org/sections/thetwo-way/2014/09/18/349637734/larry-ellison-steps-down-as-oracles-ceo",
+        "kind": "article",
+        "title": "Larry Ellison Steps Down As Oracle's CEO",
+        "publisher": "NPR",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2016-05-13-usc-commencement",
+    "person_id": "ellison",
+    "date": "2016-05-13",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "在南加州大学（USC）第 133 届毕业典礼发表演讲：「追随自己的梦想」",
+    "title_en": "Delivers USC's 133rd commencement address: 'Live your dreams, not the dreams of others'",
+    "summary": "2016 年 5 月 13 日，埃里森在南加州大学（USC）公园校区面对 6 万多人发表毕业典礼演讲。他回忆 60 年代在芝加哥的青年时代——那时他梦想的是去 USC 念医学院、在洛杉矶安家行医。然而 21 岁那年他开车从芝加哥到伯克利，人生轨迹彻底改变。演讲的核心论点是：要追随自己内心的梦想，而不是亲友期望的版本。他还分享了与挚友史蒂夫·乔布斯的故事——乔布斯教会他「钱并非人生的目的」。这是他公开演讲中最个人化的一次。",
+    "summary_en": "On May 13, 2016, Ellison delivered the keynote at USC's 133rd commencement on the University Park Campus before more than 60,000 people. He recalled his 1960s Chicago youth — when his dream was to attend USC's medical school and practice medicine in Los Angeles — and how at 21 he drove instead from Chicago to Berkeley, changing everything. The core thesis: live the dreams that come from inside you, not the ones your well-meaning family and friends want for you. He also shared stories about his closest friend, Steve Jobs, who, he said, taught him there is more to life than money. It is the most personal of his public addresses.",
+    "location": "洛杉矶, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "演讲",
+      "USC",
+      "毕业典礼",
+      "梦想",
+      "乔布斯"
+    ],
+    "sources": [
+      {
+        "id": "usc-commencement-2016",
+        "url": "https://commencement.usc.edu/2016-commencement-address/",
+        "kind": "article",
+        "title": "2016 Commencement Address — USC",
+        "publisher": "University of Southern California",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "usc-ellison-video",
+        "url": "https://www.youtube.com/watch?v=5DJaWWwITRM",
+        "embed_url": "https://www.youtube-nocookie.com/embed/5DJaWWwITRM",
+        "kind": "video",
+        "title": "Larry Ellison USC Commencement Speech | USC Commencement 2016",
+        "publisher": "USC / YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "fair-use-only",
+        "authored_by": "human"
+      },
+      {
+        "id": "usc-singjupost-transcript",
+        "url": "https://singjupost.com/full-transcript-larry-ellisons-speech-at-usc-commencement-2016/",
+        "kind": "transcript",
+        "title": "Full Transcript: Larry Ellison's Speech at USC Commencement 2016",
+        "publisher": "Singju Post",
+        "lang": "en",
+        "primary": false,
+        "license": "fair-use-only",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2018-12-27-tesla-board",
+    "person_id": "ellison",
+    "date": "2018-12-27",
+    "date_precision": "day",
+    "type": "career",
+    "title": "加入 Tesla 董事会，与马斯克结盟",
+    "title_en": "Joins Tesla's Board of Directors, formally allying with Elon Musk",
+    "summary": "2018 年 12 月 27 日，特斯拉宣布拉里·埃里森与 Walgreens 高管 Kathleen Wilson-Thompson 加入董事会，担任独立董事。这是特斯拉为履行其与 SEC 的和解条款（要求增加两名独立董事）而做的安排。埃里森此前已购入 300 万股 Tesla 股票，在 2018 年 10 月的 Oracle 大会上他公开表示：「Elon Musk 是我非常亲密的朋友之一，我也是 Tesla 的大股东。」他在董事会任职至 2022 年 8 月卸任，期间 Tesla 股价上涨数倍。",
+    "summary_en": "On December 27, 2018, Tesla announced that Larry Ellison and Walgreens executive Kathleen Wilson-Thompson would join the board as independent directors — fulfilling Tesla's SEC settlement requirement to add two independents. Ellison had previously bought 3 million Tesla shares; at an Oracle conference in October 2018 he publicly said, \"I am very close friends with Elon Musk, and I am a very big investor in Tesla.\" He served on the board until August 2022, during which Tesla's share price multiplied several times over.",
+    "location": "帕洛阿尔托, 加利福尼亚州",
+    "key": true,
+    "tags": [
+      "Tesla",
+      "马斯克",
+      "董事会",
+      "投资"
+    ],
+    "sources": [
+      {
+        "id": "tesla-ellison-board-electrek",
+        "url": "https://electrek.co/2018/12/28/tesla-board-members-larry-ellison-kathleen-wilson/",
+        "kind": "article",
+        "title": "Tesla announces two new board members: Larry Ellison and Kathleen Wilson-Thompson",
+        "publisher": "Electrek",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "embed_url": "https://www.youtube.com/watch?v=T9SYuv1n5Vo"
+      },
+      {
+        "id": "fortune-tesla-board",
+        "url": "https://fortune.com/2018/12/28/larry-ellison-tesla-board/",
+        "kind": "article",
+        "title": "Oracle, Walgreens Executives Join Tesla Board After SEC Settlement",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2024-09-10-cloudworld-ai",
+    "person_id": "ellison",
+    "date": "2024-09-10",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "Oracle CloudWorld 2024 演讲：AI、多云战略与小型核反应堆",
+    "title_en": "Oracle CloudWorld 2024 keynote: AI, multicloud strategy, and small modular nuclear reactors",
+    "summary": "2024 年 9 月 10 日，80 岁的埃里森在拉斯维加斯的 Oracle CloudWorld 2024 大会上发表主题演讲，宣布 Oracle 已与 Microsoft Azure、Google Cloud（Oracle Database@Azure / @Google Cloud）建立深度互联，正式启动「多云时代」。他还展示了 Oracle 用 AI 重写企业安全的愿景：「绝大多数网络攻击源于人为错误——所以没有人，就没有错误。」他甚至宣布 Oracle 已签订采购 3 个小型模块化核反应堆（SMR）的合同，用于支持超过 1 GW 的 AI 数据中心算力——这是他个人重新成为科技话语中心的关键时刻，也直接导致 Oracle 股价在接下来一年内翻倍。",
+    "summary_en": "On September 10, 2024, an 80-year-old Ellison delivered the Oracle CloudWorld 2024 keynote in Las Vegas, declaring the multicloud era — announcing deep interconnects with Microsoft Azure and Google Cloud via Oracle Database@Azure and Oracle Database@Google Cloud. He laid out a vision of AI-rewritten enterprise security: \"Most cyberattacks begin with human errors — so no human labor means no human error.\" He went further by revealing Oracle had contracted for three small modular nuclear reactors (SMRs) to power a single data-center site with over 1 GW of AI capacity. The keynote marked Ellison's return to the center of tech discourse and helped roughly double Oracle's stock over the following year.",
+    "location": "拉斯维加斯, 内华达州",
+    "key": true,
+    "tags": [
+      "AI",
+      "多云",
+      "核能",
+      "CloudWorld"
+    ],
+    "sources": [
+      {
+        "id": "oracle-multicloud-ellison",
+        "url": "https://www.oracle.com/cloud/multicloud/larry-ellison-cloudworld-multicloud-strategy/",
+        "kind": "article",
+        "title": "Oracle's Larry Ellison makes case for open, multicloud era",
+        "publisher": "Oracle",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "thenational-ellison-ai",
+        "url": "https://www.thenationalnews.com/future/technology/2024/09/10/oracle-founder-larry-ellison-says-ai-powered-cloud-systems-will-thwart-cyber-attacks/",
+        "kind": "article",
+        "title": "Oracle founder Larry Ellison says AI-powered cloud systems will thwart cyber attacks",
+        "publisher": "The National (UAE)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "diginomica-cloudworld24",
+        "url": "https://diginomica.com/cloudworld-24-larry-ellison-wants-get-rid-passwords-and-pitches-oracle-ai-enabled-systems-superior",
+        "kind": "article",
+        "title": "CloudWorld 24 — Larry Ellison wants to get rid of passwords and pitches Oracle AI-enabled systems",
+        "publisher": "diginomica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ellison-2025-01-21-stargate-announcement",
+    "person_id": "ellison",
+    "date": "2025-01-21",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "在白宫与 Sam Altman、孙正义共同宣布 Stargate AI 基础设施项目（5,000 亿美元）",
+    "title_en": "Announces Stargate AI infrastructure project at the White House with Sam Altman and Masayoshi Son ($500B commitment)",
+    "summary": "2025 年 1 月 21 日，特朗普就任总统第二天，在白宫与 OpenAI 的 Sam Altman、SoftBank 的孙正义并肩宣布「Stargate Project」——一个由 OpenAI 负责运营、SoftBank 负责融资、Oracle 提供基础设施的 AI 数据中心合资公司，初期投资 1,000 亿美元，4 年内累计承诺 5,000 亿美元。埃里森在记者会上表示：Oracle 当时已经在德州 Abilene 建设 10 个 AI 数据中心，未来将扩展至英国、挪威、日本、阿联酋。他还描绘了一个争议性的远景：「AI 可在 48 小时内机器人化设计癌症 mRNA 疫苗。」",
+    "summary_en": "On January 21, 2025 — the day after President Trump's second inauguration — Larry Ellison stood with OpenAI's Sam Altman and SoftBank's Masayoshi Son at the White House to announce the Stargate Project: a joint venture in which OpenAI operates, SoftBank funds, and Oracle builds AI data centers, with $100 billion of immediate investment and up to $500 billion pledged over four years. Ellison disclosed that Oracle was already constructing 10 AI data centers in Abilene, Texas, with plans to expand into the UK, Norway, Japan, and the UAE. He also offered a controversial vision: that AI could let teams design cancer mRNA vaccines \"robotically, in about 48 hours.\"",
+    "location": "白宫, 华盛顿特区",
+    "key": true,
+    "tags": [
+      "Stargate",
+      "OpenAI",
+      "SoftBank",
+      "AI 基础设施",
+      "白宫"
+    ],
+    "sources": [
+      {
+        "id": "wiki-stargate",
+        "url": "https://en.wikipedia.org/wiki/Stargate_LLC",
+        "kind": "article",
+        "title": "Stargate LLC (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/Stargate_LLC",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "cnn-stargate",
+        "url": "https://www.cnn.com/2025/01/21/tech/openai-oracle-softbank-trump-ai-investment/index.html",
+        "kind": "article",
+        "title": "Stargate: Trump announces a $500 billion AI infrastructure investment in the US",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "fortune-stargate",
+        "url": "https://fortune.com/2025/01/21/stargate-ai-openai-oracle-nvidia-mgx-softbank-trump-sam-altman-larry-ellison-masayoshi-son/",
+        "kind": "article",
+        "title": "Sam Altman, Larry Ellison, and Masayoshi Son join Trump to announce massive $500 billion Stargate project",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  }
+]

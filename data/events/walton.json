@@ -45,6 +45,21 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
+      },
+      {
+        "id": "youtube-sam-bud-reflections",
+        "url": "https://www.youtube.com/watch?v=gc5oVVF7Vu0",
+        "kind": "video",
+        "title": "Sam & Bud Walton: Reflections",
+        "publisher": "Walmart",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "Walmart 官方频道发布的 Sam Walton 与弟弟 Bud Walton 回顾片，包含珍贵历史影像。",
+        "summary_en": "Walmart's official corporate retrospective on Sam and Bud Walton, with archival footage of both brothers.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -427,6 +442,21 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walmart",
           "timestamp": "2024"
         }
+      },
+      {
+        "id": "youtube-walmart-cheer",
+        "url": "https://www.youtube.com/watch?v=7g-2SeCDiD0",
+        "kind": "video",
+        "title": "Sam Walton Leads the Walmart Cheer | Walmart Museum Bentonville",
+        "publisher": "Northwest Arkansas Travel Guide",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "Bentonville Walmart 博物馆全息回放——内含 Sam Walton 本人带领员工高呼 \"Walmart Cheer\" 的真实历史音频。",
+        "summary_en": "Walmart Museum Bentonville hologram replay containing genuine archival audio of Sam Walton leading the Walmart Cheer with employees.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -994,6 +1024,56 @@
     "source_hints": null
   },
   {
+    "id": "walton-1992-04-05-death",
+    "person_id": "walton",
+    "date": "1992-04-05",
+    "date_precision": "day",
+    "type": "life",
+    "title": "在阿肯色州小石城去世，享年 74 岁",
+    "title_en": "Dies in Little Rock, Arkansas at age 74",
+    "summary": "1992 年 4 月 5 日，沃尔顿因多发性骨髓瘤（一种血癌）在阿肯色州小石城去世，享年 74 岁，距获颁总统自由勋章仅 19 天。他葬于本顿维尔公墓。去世时沃尔玛拥有 1,928 家门店、销售额 440 亿美元、员工 38 万人，是美国最大的零售商；沃尔顿家族（妻子海伦和四个子女 Rob、Jim、John、Alice）合计净资产约 250 亿美元，是美国最富有的家族。沃尔顿留下的「日复一日低价 + 物流密度 + 把员工当合伙人」三件套，至今是全球零售业最难复制的模板。",
+    "summary_en": "On April 5, 1992, Walton died of multiple myeloma in Little Rock, Arkansas at the age of 74 — just 19 days after receiving the Medal of Freedom. He was buried in Bentonville Cemetery. At his death Walmart had 1,928 stores, $44 billion in sales, and 380,000 employees — the largest retailer in America; the Walton family (wife Helen and children Rob, Jim, John, and Alice) had a combined net worth of around $25 billion, making it America's wealthiest family. The trio of \"Everyday Low Prices + logistics density + treating employees as partners\" remained the most-imitated, hardest-to-replicate template in global retail.",
+    "location": "Little Rock, Arkansas",
+    "key": true,
+    "tags": [
+      "death",
+      "1992",
+      "legacy",
+      "multiple-myeloma"
+    ],
+    "sources": [
+      {
+        "id": "upi-walton-dies",
+        "url": "https://www.upi.com/Archives/1992/04/05/Billionaire-retailer-Sam-Moore-Walton-dies/9579702450000/",
+        "kind": "article",
+        "title": "Billionaire retailer Sam Moore Walton dies",
+        "publisher": "UPI Archives",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-sam-walton",
+        "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+        "kind": "article",
+        "title": "Sam Walton (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam_Walton",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
     "id": "walton-1992-made-in-america-book",
     "person_id": "walton",
     "date": "1992-06-01",
@@ -1066,56 +1146,6 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": []
-      }
-    ],
-    "source_hints": null
-  },
-  {
-    "id": "walton-1992-04-05-death",
-    "person_id": "walton",
-    "date": "1992-04-05",
-    "date_precision": "day",
-    "type": "life",
-    "title": "在阿肯色州小石城去世，享年 74 岁",
-    "title_en": "Dies in Little Rock, Arkansas at age 74",
-    "summary": "1992 年 4 月 5 日，沃尔顿因多发性骨髓瘤（一种血癌）在阿肯色州小石城去世，享年 74 岁，距获颁总统自由勋章仅 19 天。他葬于本顿维尔公墓。去世时沃尔玛拥有 1,928 家门店、销售额 440 亿美元、员工 38 万人，是美国最大的零售商；沃尔顿家族（妻子海伦和四个子女 Rob、Jim、John、Alice）合计净资产约 250 亿美元，是美国最富有的家族。沃尔顿留下的「日复一日低价 + 物流密度 + 把员工当合伙人」三件套，至今是全球零售业最难复制的模板。",
-    "summary_en": "On April 5, 1992, Walton died of multiple myeloma in Little Rock, Arkansas at the age of 74 — just 19 days after receiving the Medal of Freedom. He was buried in Bentonville Cemetery. At his death Walmart had 1,928 stores, $44 billion in sales, and 380,000 employees — the largest retailer in America; the Walton family (wife Helen and children Rob, Jim, John, and Alice) had a combined net worth of around $25 billion, making it America's wealthiest family. The trio of \"Everyday Low Prices + logistics density + treating employees as partners\" remained the most-imitated, hardest-to-replicate template in global retail.",
-    "location": "Little Rock, Arkansas",
-    "key": true,
-    "tags": [
-      "death",
-      "1992",
-      "legacy",
-      "multiple-myeloma"
-    ],
-    "sources": [
-      {
-        "id": "upi-walton-dies",
-        "url": "https://www.upi.com/Archives/1992/04/05/Billionaire-retailer-Sam-Moore-Walton-dies/9579702450000/",
-        "kind": "article",
-        "title": "Billionaire retailer Sam Moore Walton dies",
-        "publisher": "UPI Archives",
-        "lang": "en",
-        "primary": true,
-        "license": "all-rights-reserved",
-        "authored_by": "human",
-        "mentions": []
-      },
-      {
-        "id": "wikipedia-sam-walton",
-        "url": "https://en.wikipedia.org/wiki/Sam_Walton",
-        "kind": "article",
-        "title": "Sam Walton (Wikipedia)",
-        "publisher": "Wikipedia",
-        "lang": "en",
-        "primary": false,
-        "license": "cc-by-sa",
-        "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam_Walton",
-          "timestamp": "2024"
-        }
       }
     ],
     "source_hints": null

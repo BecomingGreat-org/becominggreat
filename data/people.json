@@ -178,5 +178,77 @@
     "died": null,
     "tagline": "阿里巴巴集团创始人，把中国带入电商时代",
     "tagline_en": "Founder of Alibaba Group, brought China into the e-commerce era"
+  },
+  {
+    "id": "honda",
+    "name_zh": "本田宗一郎",
+    "name_en": "Soichiro Honda",
+    "born": "1906-11-17",
+    "died": "1991-08-05",
+    "tagline": "本田技研创始人，战后日本机械工程师精神的象征",
+    "tagline_en": "Founder of Honda Motor, icon of postwar Japanese engineering"
+  },
+  {
+    "id": "matsushita",
+    "name_zh": "松下幸之助",
+    "name_en": "Konosuke Matsushita",
+    "born": "1894-11-27",
+    "died": "1989-04-27",
+    "tagline": "Panasonic 创始人，被誉为\"日本经营之神\"",
+    "tagline_en": "Founder of Panasonic, revered as Japan's \"god of management\""
+  },
+  {
+    "id": "zuckerberg",
+    "name_zh": "马克·扎克伯格",
+    "name_en": "Mark Zuckerberg",
+    "born": "1984-05-14",
+    "died": null,
+    "tagline": "Meta（Facebook）创始人兼 CEO，社交网络时代的代表",
+    "tagline_en": "Founder & CEO of Meta (Facebook), defining figure of the social network era"
+  },
+  {
+    "id": "ellison",
+    "name_zh": "拉里·埃里森",
+    "name_en": "Larry Ellison",
+    "born": "1944-08-17",
+    "died": null,
+    "tagline": "Oracle 联合创始人，企业数据库时代奠基者",
+    "tagline_en": "Co-founder of Oracle, pioneer of the enterprise database era"
+  },
+  {
+    "id": "hastings",
+    "name_zh": "里德·哈斯廷斯",
+    "name_en": "Reed Hastings",
+    "born": "1960-10-08",
+    "died": null,
+    "tagline": "Netflix 联合创始人，流媒体行业开创者",
+    "tagline_en": "Co-founder of Netflix, pioneer of the streaming industry"
+  },
+  {
+    "id": "wang",
+    "name_zh": "王传福",
+    "name_en": "Wang Chuanfu",
+    "born": "1966-02-15",
+    "died": null,
+    "tagline": "比亚迪（BYD）创始人，从电池到电动车的中国制造典范",
+    "tagline_en": "Founder of BYD, exemplar of \"from battery to EV\" Chinese manufacturing"
+  },
+  {
+    "id": "leijun",
+    "name_zh": "雷军",
+    "name_en": "Lei Jun",
+    "born": "1969-12-16",
+    "died": null,
+    "tagline": "小米创始人，金山软件前 CEO，高性价比互联网硬件代表",
+    "tagline_en": "Founder of Xiaomi, former Kingsoft CEO, icon of value-driven internet hardware"
+  },
+  {
+    "id": "yamauchi",
+    "name_zh": "山内溥",
+    "name_en": "Hiroshi Yamauchi",
+    "born": "1927-11-07",
+    "died": "2013-09-19",
+    "tagline": "任天堂第三代社长，把扑克牌厂改造成全球游戏巨头",
+    "tagline_en": "Third-generation president of Nintendo, transformed a card-game maker into a global gaming giant"
   }
 ]

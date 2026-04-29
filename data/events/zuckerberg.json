@@ -1,0 +1,1517 @@
+[
+  {
+    "id": "zuckerberg-1984-05-14-birth",
+    "person_id": "zuckerberg",
+    "date": "1984-05-14",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于纽约州 White Plains",
+    "title_en": "Born in White Plains, New York",
+    "summary": "Mark Elliot Zuckerberg 生于纽约州 White Plains，在距曼哈顿约 35 公里的 Dobbs Ferry 长大。父亲 Edward Zuckerberg 是牙医，母亲 Karen Kempner 是精神科医师，家中有三姐妹。父亲从小教他在家里诊所的电脑上写程序，并请软件工程师 David Newman 给他做家教。十二岁时他用 Atari BASIC 写了一个名为「Zucknet」的家庭即时通讯软件，让父亲诊所的助理可以「ping」家里通知病人到了，被父亲称为「这是 AOL Instant Messenger 出来之前的版本」。",
+    "summary_en": "Mark Elliot Zuckerberg was born in White Plains, New York, and raised in nearby Dobbs Ferry, about 35 km north of Manhattan. His father, Edward Zuckerberg, was a dentist who ran his practice from the family home; his mother, Karen Kempner, was a psychiatrist; and he grew up with three sisters. Edward taught him to program on the office computer and hired software engineer David Newman to tutor him. At age 12 Zuckerberg wrote 'ZuckNet,' a household instant-messenger that let the dental-office staff 'ping' the house to announce arriving patients — what his father later called 'a primitive version of AOL Instant Messenger before AOL had it.'",
+    "location": "White Plains, NY",
+    "key": true,
+    "tags": [
+      "出生",
+      "家庭"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-mark-zuckerberg",
+        "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+        "kind": "article",
+        "title": "Mark Zuckerberg (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "britannica-zuckerberg",
+        "url": "https://www.britannica.com/money/Mark-Zuckerberg",
+        "kind": "article",
+        "title": "Mark Zuckerberg | Biography & Facts",
+        "publisher": "Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2000-phillips-exeter",
+    "person_id": "zuckerberg",
+    "date": "2000-09-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "转学至 Phillips Exeter Academy 寄宿高中",
+    "title_en": "Transfers to Phillips Exeter Academy boarding school",
+    "summary": "Zuckerberg 在 Ardsley High School 读完两年后，转入新罕布什尔州的精英寄宿学校 Phillips Exeter Academy，在那里他在数学、天文、物理和古典学方向都拿过奖。中学期间，他和同学 Adam D'Angelo（后来 Quora 创始人）一起开发了名为 Synapse Media Player 的音乐播放器，能用机器学习来「学习」用户的听歌习惯。微软和 AOL 都曾出价收购 Synapse 并希望聘他入职，但他选择了大学。",
+    "summary_en": "After two years at Ardsley High School, Zuckerberg transferred to Phillips Exeter Academy, an elite boarding school in New Hampshire, where he won prizes in mathematics, astronomy, physics, and classical studies. Together with classmate Adam D'Angelo (later Quora's founder), he built 'Synapse Media Player,' a music player that used machine learning to anticipate the user's listening habits. Both Microsoft and AOL reportedly tried to buy Synapse and hire the duo; Zuckerberg chose college instead.",
+    "location": "Exeter, NH",
+    "key": false,
+    "tags": [
+      "求学",
+      "Phillips Exeter",
+      "Synapse"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-mark-zuckerberg-education",
+        "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg#Early_life_and_education",
+        "kind": "article",
+        "title": "Mark Zuckerberg — Early life and education (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2002-09-harvard",
+    "person_id": "zuckerberg",
+    "date": "2002-09-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "进入哈佛大学",
+    "title_en": "Enters Harvard University",
+    "summary": "Zuckerberg 进入哈佛大学，主修心理学和计算机科学，住在 Kirkland House 第 H33 号宿舍。他很快就成了校园里以「夜里写出小工具」闻名的极客——他在大二第一学期上线的 CourseMatch（让同学根据他人的选课来选课）和 Facemash（投票评比同学外貌）都瞬间在校内疯传。他的室友包括后来成为 Facebook 联合创始人的 Dustin Moskovitz、Chris Hughes 和 Andrew McCollum，以及他后来娶的 Priscilla Chan（在大二时一次派对的洗手间排队中相识）。",
+    "summary_en": "Zuckerberg enrolled at Harvard, declaring a double major in psychology and computer science and living in Kirkland House, suite H33. He quickly built a campus reputation for hacking together small tools overnight: in the fall of his sophomore year both CourseMatch (which let students pick classes based on what others were taking) and Facemash (a hot-or-not face vote) spread instantly through Harvard. His roommates included future Facebook co-founders Dustin Moskovitz, Chris Hughes, and Andrew McCollum; he met his future wife Priscilla Chan that year while waiting in line for a bathroom at a party.",
+    "location": "Harvard University, Cambridge, MA",
+    "key": true,
+    "tags": [
+      "求学",
+      "Harvard",
+      "Priscilla Chan"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-mark-zuckerberg-harvard",
+        "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg#Harvard_years",
+        "kind": "article",
+        "title": "Mark Zuckerberg — Harvard years (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2003-10-28-facemash",
+    "person_id": "zuckerberg",
+    "date": "2003-10-28",
+    "date_precision": "day",
+    "type": "product",
+    "title": "在哈佛宿舍上线 Facemash",
+    "title_en": "Launches Facemash from his Harvard dorm",
+    "summary": "10 月 28 日深夜，大二的 Zuckerberg 黑进哈佛各 House 的内部网站抓取学生头像，把它们两两并列让人投票评比谁更「hot」。他在博客中实时记录开发过程（「我有点醉了，但代码居然真能跑」）。Facemash 上线 4 小时内吸引了 450 名访客和 22,000 次照片浏览，但很快被学校强制下线。他面临可能开除的「侵犯安全、版权与隐私」指控，最终被警告留校察看。但 Facemash 让他在哈佛一夜成名，《Crimson》上的一篇社论建议哈佛应该自己做一个集中的学生名册——这直接催生了 TheFacebook。Zuckerberg 后来说 Facemash 是他在哈佛最重要的成就，因为「没有 Facemash 就没有 Priscilla」。",
+    "summary_en": "Late on October 28, sophomore Zuckerberg hacked Harvard's House intranets to scrape student photos and put them side-by-side in a hot-or-not vote. He live-blogged the build ('I'm a little intoxicated, not gonna lie. So what if it's not even 10 pm and it's a Tuesday'). Facemash drew 450 visitors and 22,000 photo-views in its first four hours before Harvard shut it down and charged him with violating security, copyrights, and privacy — charges later reduced to probation. The episode made him famous on campus, and a Crimson editorial suggesting Harvard build a central student directory directly seeded TheFacebook. Zuckerberg later called Facemash his most significant Harvard achievement: 'Without Facemash, I wouldn't have met Priscilla.'",
+    "location": "Kirkland House, Harvard University",
+    "key": true,
+    "tags": [
+      "Facemash",
+      "Harvard",
+      "争议"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-history-of-facebook",
+        "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+        "kind": "article",
+        "title": "History of Facebook (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "fortune-facemash-2025",
+        "url": "https://fortune.com/2025/12/06/mark-zuckerberg-facemash-most-important-thing-built-harvard-priscilla-chan/",
+        "kind": "article",
+        "title": "Mark Zuckerberg says Facemash was the 'most important thing' he built at Harvard",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2004-02-04-thefacebook",
+    "person_id": "zuckerberg",
+    "date": "2004-02-04",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在哈佛宿舍上线 TheFacebook",
+    "title_en": "Launches TheFacebook from his Harvard dorm",
+    "summary": "2 月 4 日，Zuckerberg 在 thefacebook.com 上线了一个面向哈佛学生的社交网站，注册需要 harvard.edu 邮箱。第一天他和室友们盯着屏幕看了 1,200–1,500 名同学注册。一个月内站点扩展到 Stanford、Columbia、Yale，年底用户达到一百万。联合创始人包括同学 Eduardo Saverin（出资约 1,000 美元做种子启动并任 CFO）、Andrew McCollum（设计图标）、Dustin Moskovitz（核心工程师）和 Chris Hughes（产品/PR）。这天后来被 Facebook 视为公司的成立日，并演变成持续 20 多年、改变互联网形态的「Family of Apps」。",
+    "summary_en": "On February 4, sophomore Zuckerberg flipped on thefacebook.com, an exclusive directory for Harvard students requiring a harvard.edu email. He and his roommates watched 1,200–1,500 fellow students sign up within 24 hours. Within a month the site expanded to Stanford, Columbia, and Yale; by year-end it had a million users. His co-founders were Eduardo Saverin (CFO, who provided ~$1,000 in seed money), Andrew McCollum (graphic designer), Dustin Moskovitz (lead engineer), and Chris Hughes (product/PR). The date is recognized as Facebook's founding and the start of a 20-plus-year arc that re-shaped the internet.",
+    "location": "Kirkland House, Harvard University",
+    "key": true,
+    "tags": [
+      "Facebook",
+      "创业",
+      "Harvard"
+    ],
+    "sources": [
+      {
+        "id": "history-com-facebook-launch",
+        "url": "https://www.history.com/this-day-in-history/february-4/facebook-launches-mark-zuckerberg",
+        "kind": "article",
+        "title": "Facebook launches | February 4, 2004",
+        "publisher": "HISTORY",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-facebook",
+        "url": "https://en.wikipedia.org/wiki/Facebook",
+        "kind": "article",
+        "title": "Facebook (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2004-06-palo-alto",
+    "person_id": "zuckerberg",
+    "date": "2004-06-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "搬到 Palo Alto，从哈佛休学",
+    "title_en": "Moves to Palo Alto, takes leave from Harvard",
+    "summary": "大二结束后，Zuckerberg、Moskovitz、Hughes 和其他 TheFacebook 成员搬到加州 Palo Alto 一栋租来的房子（La Jennifer Way 819 号），打算只待一个暑假后返回哈佛——但站点增长太快了，他再也没回去。Sean Parker（Napster 与 Plaxo 的联合创始人）此时已成为 Zuckerberg 的非正式导师，搬来后正式出任公司总裁，劝他保留对公司的控制权（这后来成为他控制双层股权架构的执念基础）。Moskovitz 和 Hughes 后来回哈佛完成学位，Zuckerberg 则一直没毕业（直到 2017 年才以荣誉学位从哈佛「补」拿到文凭）。",
+    "summary_en": "After his sophomore year, Zuckerberg, Moskovitz, Hughes, and other TheFacebook teammates moved into a rented house at 819 La Jennifer Way in Palo Alto, planning to spend just the summer before returning to Harvard — but the site was growing too fast and Zuckerberg never went back. Sean Parker, co-founder of Napster and Plaxo, had become an informal mentor and formally joined as company president, drilling into Zuckerberg the importance of retaining control of the company (a lesson that informed Facebook's later dual-class structure). Moskovitz and Hughes eventually returned to Harvard; Zuckerberg never finished his degree, receiving an honorary doctorate only in 2017.",
+    "location": "Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "辍学",
+      "Sean Parker",
+      "搬家"
+    ],
+    "sources": [
+      {
+        "id": "harvard-crimson-zuckerberg-leave",
+        "url": "https://www.thecrimson.com/article/2005/11/1/zuckerberg-to-leave-harvard-indefinitely-mark/",
+        "kind": "article",
+        "title": "Zuckerberg To Leave Harvard Indefinitely",
+        "publisher": "The Harvard Crimson",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2004-08-thiel-investment",
+    "person_id": "zuckerberg",
+    "date": "2004-08-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "Peter Thiel 投资 50 万美元",
+    "title_en": "Peter Thiel invests $500,000",
+    "summary": "Sean Parker 安排 Zuckerberg 与 PayPal 联合创始人 Peter Thiel 在 Thiel 旧金山的办公室见面。会面结束时，Thiel 同意以 50 万美元的可转换贷款投资 Facebook，换取约 10.2% 股份，公司估值 490 万美元。这是 Facebook 的第一笔外部融资，也是 Thiel 一生最成功的投资之一——这 50 万美元在 Facebook 上市后增值数千倍。Thiel 也加入了董事会。",
+    "summary_en": "Sean Parker arranged for Zuckerberg to meet PayPal co-founder Peter Thiel at Thiel's San Francisco office. By the end of the meeting Thiel had agreed to provide $500,000 as a convertible loan in exchange for roughly 10.2% of the company, valuing Facebook at $4.9 million. This was Facebook's first outside investment and one of the most successful angel checks in Silicon Valley history; the $500K was worth thousands of times more by IPO. Thiel also joined Facebook's board.",
+    "location": "San Francisco, CA",
+    "key": true,
+    "tags": [
+      "融资",
+      "Peter Thiel",
+      "Sean Parker"
+    ],
+    "sources": [
+      {
+        "id": "startup-archive-thiel-fb",
+        "url": "https://www.startuparchive.org/p/peter-thiel-explains-how-he-became-the-first-investor-in-facebook",
+        "kind": "article",
+        "title": "Peter Thiel explains how he became the first investor in Facebook",
+        "publisher": "Startup Archive",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-peter-thiel",
+        "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
+        "kind": "article",
+        "title": "Peter Thiel (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2005-08-23-facebook-com",
+    "person_id": "zuckerberg",
+    "date": "2005-08-23",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "公司更名 Facebook，购入 facebook.com 域名",
+    "title_en": "Company renamed Facebook; acquires facebook.com domain",
+    "summary": "公司从 AboutFace Corporation 手中以 20 万美元买下了 facebook.com 域名，并正式将公司名从 TheFacebook 改为 Facebook。Sean Parker 主导了这次更名——他认为「The」让品牌显得不够干脆。这个域名买卖后来被反复引用为「值得花钱抢一个干净域名」的经典案例。",
+    "summary_en": "The company bought facebook.com from AboutFace Corporation for $200,000 and formally dropped 'The' from its name, becoming simply 'Facebook'. Sean Parker drove the rebrand, arguing that 'The' made the name feel cluttered. The domain purchase has since become a frequently cited case study in branding — that paying real money for a clean domain is worth it.",
+    "location": "Palo Alto, CA",
+    "key": false,
+    "tags": [
+      "品牌",
+      "域名"
+    ],
+    "sources": [
+      {
+        "id": "smartbranding-facebook-domain",
+        "url": "https://smartbranding.com/thefacebook-com-facebook-com-fb-com/",
+        "kind": "article",
+        "title": "From TheFacebook.com to Facebook.com to FB.com",
+        "publisher": "Smart Branding",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-history-facebook-naming",
+        "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+        "kind": "article",
+        "title": "History of Facebook (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2006-09-05-news-feed",
+    "person_id": "zuckerberg",
+    "date": "2006-09-05",
+    "date_precision": "day",
+    "type": "product",
+    "title": "推出 News Feed，引发用户大反弹",
+    "title_en": "Launches News Feed, triggering massive user backlash",
+    "summary": "Facebook 推出 News Feed 与 Mini-Feed，把用户的好友动态自动汇总到首页——这是社交网络史上最深远的产品变革之一，但发布当天就引爆了用户怒火。一个名为「Students Against Facebook News Feed」的群组一天内就聚集了近 10 万人，最终人数超过 28 万。Zuckerberg 当晚发了一篇博客「Calm down. Breathe. We hear you.」，三天后又写了一篇正式道歉并增加了隐私控制。News Feed 后来成为 Facebook 商业模式的核心——所有的广告和算法分发都是建立在这个基础架构之上。",
+    "summary_en": "Facebook launched News Feed and Mini-Feed, auto-aggregating friends' activity into a single timeline — one of the most consequential product changes in social-network history, but one that ignited an immediate user revolt. A group called 'Students Against Facebook News Feed' gathered nearly 100,000 members within 24 hours and eventually crossed 280,000. Zuckerberg posted that night under the title 'Calm down. Breathe. We hear you,' followed three days later by a formal apology and new privacy controls. News Feed went on to become the foundation of Facebook's entire business model — all ad targeting and algorithmic distribution is built on top of it.",
+    "location": "Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "News Feed",
+      "产品",
+      "争议"
+    ],
+    "sources": [
+      {
+        "id": "techcrunch-news-feed-revolt",
+        "url": "https://techcrunch.com/2006/09/06/facebook-users-revolt-facebook-replies/",
+        "kind": "article",
+        "title": "Facebook Users Revolt, Facebook Replies",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2006-09-26-open-registration",
+    "person_id": "zuckerberg",
+    "date": "2006-09-26",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Facebook 开放注册",
+    "title_en": "Facebook opens to anyone over 13",
+    "summary": "Facebook 取消了对学校域名邮箱的限制，向任何 13 岁以上、有有效邮箱的人开放注册。这是 Facebook 走向「连接全世界」的关键一步——把它从「大学社交网络」转变为面向所有人的平台。开放注册的同时，公司也升级了隐私控制让用户决定谁能找到自己。这一举措在接下来 4 年里把 Facebook 推到 5 亿用户。",
+    "summary_en": "Facebook removed its school-email-only requirement and opened registration to anyone aged 13 or older with a valid email address. This was the pivotal step in Facebook's transition from 'campus directory' to a platform for everyone — the move that ultimately let Zuckerberg pursue his stated goal of connecting the world. New privacy controls were rolled out simultaneously to give users more say over who could find them. Open registration would push Facebook to 500 million users within four years.",
+    "location": "Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "扩张",
+      "产品",
+      "注册"
+    ],
+    "sources": [
+      {
+        "id": "fb-newsroom-open-registration",
+        "url": "https://about.fb.com/news/2006/09/facebook-expansion-enables-more-people-to-connect-with-friends-in-a-trusted-environment/",
+        "kind": "article",
+        "title": "Facebook Expansion Enables More People to Connect with Friends in a Trusted Environment",
+        "publisher": "Meta Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "techcrunch-open-registration",
+        "url": "https://techcrunch.com/2006/09/26/facebook-just-launched-open-registrations/",
+        "kind": "article",
+        "title": "Facebook Just Launched Open Registrations",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2007-10-24-microsoft-investment",
+    "person_id": "zuckerberg",
+    "date": "2007-10-24",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "微软以 2.4 亿美元投资 Facebook，估值 150 亿",
+    "title_en": "Microsoft invests $240M, valuing Facebook at $15B",
+    "summary": "微软在与 Google 的竞标中胜出，以 2.4 亿美元买下 Facebook 1.6% 股份，将 Facebook 的隐含估值定在惊人的 150 亿美元——当时 Facebook 仍是亏损公司、用户约 5,000 万。除了股份，微软还成为 Facebook 国际广告的独家第三方合作伙伴。这笔交易被很多人嘲讽为「估值疯了」，但从战略上看 Zuckerberg 拿到了关键的现金、对 Google 的对抗筹码，以及一个公开的高估值，使他在接下来几年里能更从容地拒绝 10 亿美元的雅虎并购等收购报价。",
+    "summary_en": "Microsoft beat Google in a bidding war to take a 1.6% stake in Facebook for $240 million, implying a stunning $15 billion valuation — astronomical at the time given Facebook was still unprofitable with about 50 million users. The deal also made Microsoft the exclusive third-party platform partner for Facebook's international ads. Many at the time called the valuation 'crazy,' but strategically Zuckerberg got cash, leverage against Google, and a public high-water-mark valuation that armoured him to reject acquisition offers like Yahoo's $1 billion bid in subsequent years.",
+    "location": "Palo Alto / Redmond",
+    "key": true,
+    "tags": [
+      "Microsoft",
+      "融资",
+      "估值"
+    ],
+    "sources": [
+      {
+        "id": "microsoft-fb-press-release-2007",
+        "url": "https://news.microsoft.com/source/2007/10/24/facebook-and-microsoft-expand-strategic-alliance/",
+        "kind": "article",
+        "title": "Facebook and Microsoft Expand Strategic Alliance",
+        "publisher": "Microsoft News",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "fb-newsroom-microsoft",
+        "url": "https://about.fb.com/news/2007/10/facebook-and-microsoft-expand-strategic-alliance/",
+        "kind": "article",
+        "title": "Facebook and Microsoft Expand Strategic Alliance (Meta Newsroom)",
+        "publisher": "Meta Newsroom",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2010-09-24-social-network-film",
+    "person_id": "zuckerberg",
+    "date": "2010-09-24",
+    "date_precision": "day",
+    "type": "other",
+    "title": "电影《社交网络》在纽约电影节首映",
+    "title_en": "'The Social Network' film premieres at New York Film Festival",
+    "summary": "由 David Fincher 执导、Aaron Sorkin 编剧、Jesse Eisenberg 主演 Zuckerberg 的电影《The Social Network》在第 48 届纽约电影节作为开幕影片首映，10 月 1 日全美上映。电影改编自 Ben Mezrich 的《The Accidental Billionaires》，主线围绕 Facebook 的创立、与 Winklevoss 兄弟以及 Eduardo Saverin 的法律纠纷展开。Zuckerberg 公开批评片中对自己的描绘失真，但承认电影把他拍得「很会写代码」。电影获 8 项奥斯卡提名、3 项获奖（最佳改编剧本、原创配乐、剪辑），让 Zuckerberg 从硅谷极客一夜变成全球流行文化人物。",
+    "summary_en": "'The Social Network', directed by David Fincher, written by Aaron Sorkin, and starring Jesse Eisenberg as Zuckerberg, premiered as the opening film of the 48th New York Film Festival; it opened nationally on October 1. Adapted from Ben Mezrich's 'The Accidental Billionaires', the film centred on Facebook's founding and the legal disputes with the Winklevoss twins and Eduardo Saverin. Zuckerberg publicly criticised the portrayal as inaccurate but joked that the film at least 'showed me coding' correctly. It received 8 Academy Award nominations and won 3 (Best Adapted Screenplay, Score, Editing), turning Zuckerberg overnight from Silicon Valley nerd into a global pop-culture figure.",
+    "location": "Lincoln Center, New York City",
+    "key": true,
+    "tags": [
+      "电影",
+      "流行文化",
+      "Aaron Sorkin"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-the-social-network",
+        "url": "https://en.wikipedia.org/wiki/The_Social_Network",
+        "kind": "article",
+        "title": "The Social Network (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2012-04-09-instagram",
+    "person_id": "zuckerberg",
+    "date": "2012-04-09",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Facebook 以 10 亿美元收购 Instagram",
+    "title_en": "Facebook acquires Instagram for $1 billion",
+    "summary": "Twitter 在 4 月 6 日开出 5 亿美元收购 Instagram 后，Kevin Systrom 通知 Zuckerberg。Zuckerberg 在自家厨房和 Systrom 谈了三天，4 月 9 日就敲定了 10 亿美元的收购（约 3 亿现金 + 2,300 万股 Facebook 股票）——比 Twitter 翻了一倍。当时 Instagram 只有约 2,700 万用户、13 名员工、零收入。Zuckerberg 承诺保留 Instagram 独立品牌和团队。这笔收购在当时被普遍认为「贵得离谱」，但成为 Facebook 历史上最关键的防御性收购——十年后 Instagram 成了公司最盈利、最受年轻人喜爱的资产。",
+    "summary_en": "After Twitter offered $500 million for Instagram on April 6, founder Kevin Systrom called Zuckerberg. Over three days at Zuckerberg's house, the two negotiated a $1 billion deal — double Twitter's offer — closed on April 9 with roughly $300M cash plus 23 million Facebook shares. At the time Instagram had about 27 million users, 13 employees, and zero revenue. Zuckerberg promised to keep the brand and team independent. The deal was widely panned as outrageously expensive but proved to be the most important defensive acquisition in Facebook's history; a decade later Instagram was Meta's most profitable property and the company's bridge to younger users.",
+    "location": "Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "Instagram",
+      "收购",
+      "经典交易"
+    ],
+    "sources": [
+      {
+        "id": "fb-newsroom-instagram",
+        "url": "https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/",
+        "kind": "article",
+        "title": "Facebook to Acquire Instagram",
+        "publisher": "Meta Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "techcrunch-instagram-acquisition",
+        "url": "https://techcrunch.com/2012/04/09/facebook-to-acquire-instagram-for-1-billion/",
+        "kind": "article",
+        "title": "Facebook Buys Instagram For $1 Billion",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2012-05-18-ipo",
+    "person_id": "zuckerberg",
+    "date": "2012-05-18",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Facebook 在纳斯达克 IPO，定价 38 美元",
+    "title_en": "Facebook IPO on NASDAQ at $38 per share",
+    "summary": "Zuckerberg 一身灰色连帽衫从 Menlo Park 总部远程敲响了纳斯达克开盘钟。Facebook 以每股 38 美元的发行价上市（代码 FB），融资 160 亿美元，市值峰值超过 1,040 亿美元——当时美国科技公司史上最大的 IPO。但这天因纳斯达克交易系统故障，开盘推迟 30 分钟，加上承销商对发行价的过度自信，股价当日仅上涨 0.6% 收盘 38.23 美元，之后一路下跌到 17 美元才反弹。Zuckerberg 通过双层股权架构（B 类股 10:1 投票权）牢牢掌控公司，这是他「不让 Facebook 重蹈雅虎覆辙」的核心设计。",
+    "summary_en": "Wearing his trademark grey hoodie, Zuckerberg rang NASDAQ's opening bell remotely from Menlo Park headquarters. Facebook priced its IPO at $38 per share (ticker FB), raising $16 billion at a peak market cap of $104 billion — the largest U.S. tech IPO ever at the time. But the day was marred by NASDAQ technical failures (a 30-minute delay), and over-confident pricing meant shares barely moved, closing at $38.23 before sliding to as low as $17 over subsequent months. Crucially, Zuckerberg locked in control via a dual-class structure (10:1 voting power for B-shares), a deliberate hedge against the corporate fate of Yahoo and others.",
+    "location": "Menlo Park, CA / NASDAQ",
+    "key": true,
+    "tags": [
+      "IPO",
+      "NASDAQ",
+      "上市"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-facebook-ipo",
+        "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook",
+        "kind": "article",
+        "title": "Initial public offering of Facebook (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "money-cnn-facebook-ipo",
+        "url": "https://money.cnn.com/2012/05/18/technology/facebook-ipo-trading/index.htm",
+        "kind": "article",
+        "title": "Facebook's IPO: Trading opens at $42 per share",
+        "publisher": "CNNMoney",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2012-05-19-priscilla-marriage",
+    "person_id": "zuckerberg",
+    "date": "2012-05-19",
+    "date_precision": "day",
+    "type": "life",
+    "title": "与 Priscilla Chan 在自家后院结婚",
+    "title_en": "Marries Priscilla Chan in his Palo Alto backyard",
+    "summary": "在 Facebook IPO 后第二天，Zuckerberg 在 Palo Alto 自家后院与交往九年的 Priscilla Chan 结婚。婚礼仅有不到 100 名嘉宾，几乎所有人原本都以为是 Chan 从加州大学旧金山分校（UCSF）医学院毕业的庆祝派对。Chan 穿着洛杉矶设计师 Claire Pettibone 的婚纱，Green Day 主唱 Billie Joe Armstrong 出现作为嘉宾的「礼物」。婚礼之低调与 IPO 之高调形成鲜明对比——Zuckerberg 在 Facebook 上更新「已婚」状态，配上一张情侣朴素照片。",
+    "summary_en": "One day after Facebook's IPO, Zuckerberg married Priscilla Chan in his Palo Alto backyard after a nine-year relationship. Fewer than 100 guests attended, most of whom thought they were coming to a party celebrating Chan's graduation from UCSF medical school. Chan wore a Claire Pettibone gown; Green Day's Billie Joe Armstrong reportedly performed as a gift. The understated wedding was a deliberate contrast to the IPO spectacle. Zuckerberg announced the news by simply switching his Facebook relationship status to 'married' alongside a casual snapshot.",
+    "location": "Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "Priscilla Chan",
+      "婚礼"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-priscilla-chan",
+        "url": "https://en.wikipedia.org/wiki/Priscilla_Chan",
+        "kind": "article",
+        "title": "Priscilla Chan (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "abc-zuck-marriage",
+        "url": "https://abcnews.go.com/Technology/mark-zuckerberg-marries-priscilla-chan/story?id=16389194",
+        "kind": "article",
+        "title": "Mark Zuckerberg Marries Priscilla Chan in Surprise Ceremony",
+        "publisher": "ABC News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2014-02-19-whatsapp",
+    "person_id": "zuckerberg",
+    "date": "2014-02-19",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Facebook 以 190 亿美元收购 WhatsApp",
+    "title_en": "Facebook acquires WhatsApp for $19 billion",
+    "summary": "Facebook 以约 190 亿美元（40 亿现金 + 120 亿 Facebook 股票 + 30 亿员工受限股）收购 WhatsApp——Facebook 史上、也是当时全球最大的科技并购之一。Zuckerberg 与 WhatsApp 联合创始人 Jan Koum 是多年好友，在 Zuckerberg 家厨房谈成了交易。WhatsApp 当时月活跃用户 4.5 亿、每天还在增长 100 万、年收入仅 1,000 万美元。Zuckerberg 承诺保留 WhatsApp 团队、广告免费政策和端到端加密的承诺，但这些承诺在后续几年里都因商业模式压力而被部分推翻。",
+    "summary_en": "Facebook acquired WhatsApp for roughly $19 billion ($4B cash + $12B Facebook shares + $3B in restricted employee stock) — the largest deal in Facebook's history and one of the largest tech acquisitions ever at the time. Zuckerberg and WhatsApp co-founder Jan Koum, longtime friends, negotiated the deal at Zuckerberg's kitchen table. WhatsApp had 450 million monthly active users and was adding 1 million daily, but only $10M in annual revenue. Zuckerberg promised to keep the WhatsApp team independent, ads-free, and end-to-end encrypted; over the following years all three commitments would be partially walked back under monetisation pressure.",
+    "location": "Menlo Park, CA",
+    "key": true,
+    "tags": [
+      "WhatsApp",
+      "收购",
+      "Jan Koum"
+    ],
+    "sources": [
+      {
+        "id": "fb-newsroom-whatsapp",
+        "url": "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/",
+        "kind": "article",
+        "title": "Facebook to Acquire WhatsApp",
+        "publisher": "Meta Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "sec-whatsapp-press-release",
+        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680114000010/exhibit991_pressrelease219.htm",
+        "kind": "document",
+        "title": "Facebook to Acquire WhatsApp (SEC 8-K Exhibit 99.1)",
+        "publisher": "U.S. SEC",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2014-03-25-oculus",
+    "person_id": "zuckerberg",
+    "date": "2014-03-25",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Facebook 以 20 亿美元收购 Oculus VR",
+    "title_en": "Facebook acquires Oculus VR for $2 billion",
+    "summary": "WhatsApp 收购宣布后仅 5 周，Zuckerberg 又宣布以约 20 亿美元（4 亿现金 + 2,310 万股 Facebook 股票 + 3 亿对赌）收购虚拟现实头戴设备初创公司 Oculus VR。Oculus 是 19 岁的 Palmer Luckey 在 2012 年通过 Kickstarter 众筹启动的——这是 Kickstarter 史上最成功的众筹项目之一，但很多支持者对 Facebook 收购感到震惊与背叛（许多人觉得自己「资助了一家被卖给 Facebook 的公司」）。Zuckerberg 公开表示他相信 VR 是「下一代计算平台」，将取代手机——这一信念后来直接演变为 2021 年的 Meta 改名和数百亿美元的元宇宙投入。",
+    "summary_en": "Just five weeks after announcing the WhatsApp deal, Zuckerberg announced Facebook would acquire VR headset start-up Oculus VR for roughly $2 billion ($400M cash + 23.1M Facebook shares + $300M earn-out). Oculus had been started in 2012 by 19-year-old Palmer Luckey via Kickstarter — one of the most successful crowdfunds ever — and many Kickstarter backers felt betrayed by the sale. Zuckerberg publicly framed VR as the 'next major computing platform' that would eventually replace mobile, an article of faith that would seven years later morph into the Meta rebrand and tens of billions of dollars of metaverse investment.",
+    "location": "Menlo Park, CA",
+    "key": true,
+    "tags": [
+      "Oculus",
+      "VR",
+      "收购",
+      "元宇宙"
+    ],
+    "sources": [
+      {
+        "id": "fb-newsroom-oculus",
+        "url": "https://about.fb.com/news/2014/03/facebook-to-acquire-oculus/",
+        "kind": "article",
+        "title": "Facebook to Acquire Oculus",
+        "publisher": "Meta Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2014-10-22-tsinghua-mandarin",
+    "person_id": "zuckerberg",
+    "date": "2014-10-22",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "在清华大学全程用中文做 30 分钟问答",
+    "title_en": "Conducts 30-minute Q&A at Tsinghua University entirely in Mandarin",
+    "summary": "作为新加入的清华大学经管学院顾问委员会成员，Zuckerberg 在北京清华大学全程用中文进行了 30 分钟问答。他谈到为什么学中文（妻子 Priscilla 的祖母只讲中文）、为什么 Facebook 的使命是连接世界，以及他对中国市场的期望。虽然他的发音和声调被中文母语者评价为「很糟糕」，但学生反应热烈。这次活动也成为他试图让 Facebook 重返中国大陆的多年外交努力中最受关注的一次。",
+    "summary_en": "Newly appointed to the advisory board of Tsinghua University's School of Economics and Management, Zuckerberg conducted a 30-minute Q&A at Tsinghua in Beijing entirely in Mandarin. He spoke about why he was learning Chinese (his wife Priscilla's grandmother only spoke Mandarin), Facebook's mission to connect the world, and his hopes for the Chinese market. Native speakers judged his pronunciation and tones 'pretty bad' but students were enthusiastic. The event was the most public moment in Zuckerberg's multi-year diplomatic effort to bring Facebook back into mainland China.",
+    "location": "Tsinghua University, Beijing",
+    "key": false,
+    "tags": [
+      "中国",
+      "清华大学",
+      "中文"
+    ],
+    "sources": [
+      {
+        "id": "youtube-zuckerberg-tsinghua",
+        "url": "https://www.youtube.com/watch?v=F5Hs2pZXbcw",
+        "embed_url": "https://www.youtube-nocookie.com/embed/F5Hs2pZXbcw",
+        "kind": "video",
+        "title": "Mark Zuckerberg Spoke in Mandarin at Tsinghua University, Beijing",
+        "publisher": "YouTube",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "qz-zuckerberg-mandarin",
+        "url": "https://qz.com/532834/mark-zuckerbergs-20-minute-speech-in-clumsy-mandarin-is-his-latest-attempt-to-woo-china",
+        "kind": "article",
+        "title": "Mark Zuckerberg's clumsy Mandarin speech is his latest attempt to woo China",
+        "publisher": "Quartz",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2015-12-01-czi",
+    "person_id": "zuckerberg",
+    "date": "2015-12-01",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "女儿 Max 出生，宣布成立 Chan Zuckerberg Initiative",
+    "title_en": "Daughter Max born; announces Chan Zuckerberg Initiative",
+    "summary": "Maxima Chan Zuckerberg（Max）出生。同日，Zuckerberg 与 Chan 通过一封写给女儿的公开信宣布成立 Chan Zuckerberg Initiative（CZI），承诺有生之年捐出夫妇所持 Facebook 股份的 99%（当时价值约 450 亿美元）。CZI 不是慈善基金会，而是有限责任公司（LLC），让他们可以同时投资营利性公司、做政治倡导和慈善赠与。重点领域包括教育、科学研究、健康和能源——尤其是他们设立的 Chan Zuckerberg Biohub，目标是「在我们孩子的有生之年治愈、预防或管理所有疾病」。",
+    "summary_en": "Maxima Chan Zuckerberg ('Max') was born. On the same day, Zuckerberg and Chan announced the Chan Zuckerberg Initiative (CZI) via an open letter to their newborn daughter, pledging to give 99% of their Facebook shares (then worth about $45 billion) over their lifetimes. CZI was structured as an LLC rather than a charitable foundation, giving them flexibility to invest in for-profit companies, lobby, and donate. Focus areas included education, scientific research, health, and energy — most notably the Chan Zuckerberg Biohub, whose stated mission is to 'cure, prevent, or manage all diseases in our children's lifetime.'",
+    "location": "Palo Alto, CA",
+    "key": true,
+    "tags": [
+      "CZI",
+      "慈善",
+      "家庭",
+      "Max"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-czi",
+        "url": "https://en.wikipedia.org/wiki/Chan_Zuckerberg_Initiative",
+        "kind": "article",
+        "title": "Chan Zuckerberg Initiative (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2017-05-25-harvard-commencement",
+    "person_id": "zuckerberg",
+    "date": "2017-05-25",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "回哈佛做毕业典礼演讲并接受荣誉学位",
+    "title_en": "Returns to Harvard for commencement address and honorary degree",
+    "summary": "13 年前从哈佛休学的 Zuckerberg 回到母校，作为哈佛 366 届毕业典礼的演讲嘉宾——这是哈佛史上最年轻的毕业典礼演讲人——并最终拿到他从未完成的本科学位（荣誉博士）。雨中的 Tercentenary Theatre 上，他围绕「目的」（purpose）展开演讲，呼吁建立给所有人意义的世界，包括普及性基本收入（universal basic income）、终身学习和现代化的社会安全网。这次演讲也被广泛解读为他短暂的「探索 2020 总统候选可能性」的政治信号。",
+    "summary_en": "Thirteen years after taking leave, Zuckerberg returned to Harvard as the speaker at the university's 366th Commencement — the youngest commencement speaker in Harvard's history — and finally collected the degree he never finished, in the form of an honorary doctorate. Speaking from the rain-soaked Tercentenary Theatre, he built his address around 'purpose,' calling for a world that gives everyone meaning, including universal basic income, lifelong learning, and a modernised safety net. The speech was widely read at the time as a political signal during his brief flirtation with a 2020 presidential run.",
+    "location": "Harvard University, Cambridge, MA",
+    "key": true,
+    "tags": [
+      "Harvard",
+      "演讲",
+      "目的"
+    ],
+    "sources": [
+      {
+        "id": "youtube-harvard-commencement-2017",
+        "url": "https://www.youtube.com/watch?v=BmYv8XGl-YU",
+        "embed_url": "https://www.youtube-nocookie.com/embed/BmYv8XGl-YU",
+        "kind": "video",
+        "title": "Mark Zuckerberg Commencement Address — Harvard Commencement 2017",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "Today I want to talk about purpose. But I'm not here to give you the standard commencement about finding your purpose. We're millennials. We'll try to do that instinctively. Instead, I'm here to tell you finding your purpose isn't enough. The challenge for our generation is creating a world where everyone has a sense of purpose.",
+            "speaker": "Mark Zuckerberg",
+            "context": "Harvard Commencement Address, May 25 2017"
+          }
+        ]
+      },
+      {
+        "id": "nbc-zuckerberg-harvard",
+        "url": "https://www.nbcnews.com/feature/college-game-plan/facebook-ceo-mark-zuckerberg-gives-harvard-commencement-speech-n764766",
+        "kind": "article",
+        "title": "Harvard dropout Mark Zuckerberg returns to give commencement speech",
+        "publisher": "NBC News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2018-03-17-cambridge-analytica",
+    "person_id": "zuckerberg",
+    "date": "2018-03-17",
+    "date_precision": "day",
+    "type": "other",
+    "title": "Cambridge Analytica 数据丑闻爆发",
+    "title_en": "Cambridge Analytica data scandal breaks",
+    "summary": "《卫报》和《纽约时报》同步发表前 Cambridge Analytica 员工 Christopher Wylie 的爆料：英国政治咨询公司 Cambridge Analytica 通过研究员 Aleksandr Kogan 在 Facebook 上发布的「This Is Your Digital Life」性格测试 App，未经同意收集了多达 8,700 万 Facebook 用户的数据，并用于 2016 年特朗普竞选的精准定位。Facebook 股价数日内蒸发逾 1,000 亿美元，#DeleteFacebook 标签全球蔓延。Zuckerberg 沉默 5 天后于 3 月 21 日发声，承认这是「信任的违背」，承诺审查所有第三方 App。这场危机直接催生了之后两次国会作证、欧盟与 FTC 重罚（FTC 罚 50 亿美元）和全球数据隐私监管浪潮。",
+    "summary_en": "The Guardian and The New York Times jointly published the revelations of former Cambridge Analytica employee Christopher Wylie: the British political consultancy had harvested data from up to 87 million Facebook users without consent via researcher Aleksandr Kogan's 'This Is Your Digital Life' personality quiz, then used it to micro-target voters in the 2016 Trump campaign. Over $100 billion was wiped off Facebook's market cap in days as the #DeleteFacebook hashtag went viral. After five days of silence, Zuckerberg posted on March 21 acknowledging a 'breach of trust' and pledging to audit all third-party apps. The crisis triggered two rounds of Congressional testimony, a $5 billion FTC fine, and a global wave of data-privacy regulation.",
+    "location": "London / New York / Menlo Park",
+    "key": true,
+    "tags": [
+      "Cambridge Analytica",
+      "丑闻",
+      "隐私"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-cambridge-analytica-scandal",
+        "url": "https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal",
+        "kind": "article",
+        "title": "Facebook–Cambridge Analytica data scandal (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "cnbc-zuck-statement-march-21",
+        "url": "https://www.cnbc.com/2018/03/21/zuckerberg-statement-on-cambridge-analytica.html",
+        "kind": "article",
+        "title": "Facebook's Mark Zuckerberg statement on Cambridge Analytica",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2018-04-10-senate-testimony",
+    "person_id": "zuckerberg",
+    "date": "2018-04-10",
+    "date_precision": "day",
+    "type": "other",
+    "title": "首次在国会作证：参议院联席听证会",
+    "title_en": "First Congressional testimony: joint Senate hearing",
+    "summary": "Zuckerberg 第一次到国会作证，面对参议院司法委员会与商业、科学和交通委员会的联席听证会。在长达近 5 小时的听证中，他独自坐在证人席（坐垫被加高，让他在镜头中显得更高），回答 44 名参议员的提问。最具传播效应的瞬间包括：Hatch 参议员问「你们怎么维持运营？」 Zuckerberg 微笑回答「Senator, we run ads.」；Durbin 参议员问「你愿意公开你昨晚住在哪家酒店吗？」 让他承认隐私与同意之间的张力。这次听证 C-SPAN 全程直播、社交媒体疯传，让 Zuckerberg 从硅谷传奇变成了一个被全球公众审视的政治人物。",
+    "summary_en": "Zuckerberg testified before Congress for the first time, in a joint hearing of the Senate Judiciary and Commerce, Science, and Transportation Committees. Over nearly five hours he sat alone at the witness table (with a booster cushion to lift him into camera frame) and faced 44 senators. The most-viral exchanges: Senator Hatch asking 'How do you sustain a business model in which users don't pay for your service?' — Zuckerberg, smiling: 'Senator, we run ads.' Senator Durbin asking 'Would you be comfortable sharing with us the name of the hotel you stayed in last night?' — laying bare the tension between privacy and consent. The hearing was broadcast live on C-SPAN and the clips dominated social media, transforming Zuckerberg from Silicon Valley figurehead into a globally scrutinised political figure.",
+    "location": "U.S. Capitol, Washington, D.C.",
+    "key": true,
+    "tags": [
+      "国会作证",
+      "Cambridge Analytica",
+      "Senate"
+    ],
+    "sources": [
+      {
+        "id": "youtube-zuck-senate-2018",
+        "url": "https://www.youtube.com/watch?v=6ValJMOpt7s",
+        "embed_url": "https://www.youtube-nocookie.com/embed/6ValJMOpt7s",
+        "kind": "video",
+        "title": "Mark Zuckerberg testifies on Capitol Hill (full Senate hearing)",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "Senator, we run ads.",
+            "speaker": "Mark Zuckerberg",
+            "context": "Response to Senator Orrin Hatch asking how Facebook makes money"
+          }
+        ]
+      },
+      {
+        "id": "cspan-zuck-senate",
+        "url": "https://www.c-span.org/program/senate-committee/facebook-ceo-mark-zuckerberg-hearing-on-data-privacy-and-protection/500690",
+        "kind": "video",
+        "title": "Facebook CEO Mark Zuckerberg Senate Hearing on Data Protection",
+        "publisher": "C-SPAN",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human"
+      },
+      {
+        "id": "judiciary-zuck-statement",
+        "url": "https://www.judiciary.senate.gov/imo/media/doc/04-10-18%20Zuckerberg%20Testimony.pdf",
+        "kind": "document",
+        "title": "04-10-18 Zuckerberg Testimony (written statement)",
+        "publisher": "U.S. Senate Judiciary Committee",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2018-04-11-house-testimony",
+    "person_id": "zuckerberg",
+    "date": "2018-04-11",
+    "date_precision": "day",
+    "type": "other",
+    "title": "众议院能源与商业委员会作证",
+    "title_en": "Testifies before House Energy and Commerce Committee",
+    "summary": "听证第二天，Zuckerberg 来到众议院能源与商业委员会，面对节奏更快、问题更尖锐的 5 小时质询。议员关注俄罗斯虚假信息运动、第三方 App 数据访问、平台内容偏见以及 Facebook 商业模式本身。在质询中他首次承认自己的个人数据也被 Cambridge Analytica 不当获取。两天的听证后，Facebook 股价反而上涨——市场判断 Zuckerberg「撑住了」。但这次也催生了 GDPR 之外的全球监管讨论，并迫使他在内部承诺投入数十亿美元构建审核与隐私基础设施。",
+    "summary_en": "On day two, Zuckerberg appeared before the House Energy and Commerce Committee for a faster-paced, sharper five-hour grilling. Members focused on Russian disinformation campaigns, third-party app data access, alleged platform bias, and the Facebook business model itself. Notably, Zuckerberg admitted for the first time that his own personal data had been improperly obtained by Cambridge Analytica. After two days of hearings Facebook's stock actually rose — markets concluded he had 'survived.' But the testimony triggered global regulatory debates beyond GDPR and committed Facebook internally to spending billions on moderation and privacy infrastructure.",
+    "location": "U.S. Capitol, Washington, D.C.",
+    "key": true,
+    "tags": [
+      "国会作证",
+      "House",
+      "Cambridge Analytica"
+    ],
+    "sources": [
+      {
+        "id": "house-zuckerberg-transcript",
+        "url": "https://docs.house.gov/meetings/IF/IF00/20180411/108090/HHRG-115-IF00-Transcript-20180411.pdf",
+        "kind": "document",
+        "title": "Hearing Transcript — House Energy & Commerce, Apr. 11 2018",
+        "publisher": "U.S. House of Representatives",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human"
+      },
+      {
+        "id": "npr-house-zuck-testimony",
+        "url": "https://www.npr.org/sections/thetwo-way/2018/04/11/599590470/mark-zuckerberg-is-back-before-congress-for-a-second-day-of-testimony",
+        "kind": "article",
+        "title": "Zuckerberg Testifies Before House Energy And Commerce Committee",
+        "publisher": "NPR",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2019-10-23-libra-testimony",
+    "person_id": "zuckerberg",
+    "date": "2019-10-23",
+    "date_precision": "day",
+    "type": "other",
+    "title": "在众议院金融服务委员会就 Libra 加密货币作证",
+    "title_en": "Testifies before House Financial Services on Libra cryptocurrency",
+    "summary": "Zuckerberg 在众议院金融服务委员会就 Facebook 拟推出的加密货币 Libra（后改名 Diem）作证 6 小时。Libra 由 Facebook 联合 Visa、Mastercard、PayPal 等组成「Libra 协会」推动，旨在做一个全球低成本支付网络。但项目受到强烈监管反弹——委员会主席 Maxine Waters 直接说 Facebook 应该被拆分。Zuckerberg 承诺没有美国所有金融监管机构的明确批准 Facebook 不会推进 Libra。听证后 Visa、Mastercard、PayPal 等关键合作伙伴相继退出，Libra/Diem 项目最终在 2022 年被出售关停——成为 Zuckerberg 仅有的几次重大产品败局之一。",
+    "summary_en": "Zuckerberg testified for six hours before the House Financial Services Committee about Facebook's proposed Libra (later Diem) cryptocurrency. Backed by a 'Libra Association' that included Visa, Mastercard, and PayPal, the project aimed to be a global low-cost payments network. It met furious bipartisan resistance — chair Maxine Waters declared that Facebook should be broken up. Zuckerberg pledged that Facebook would not move forward with Libra without explicit approval from all U.S. financial regulators. After the hearing, key partners including Visa, Mastercard, and PayPal exited the association; Libra/Diem was ultimately sold off and shut down in 2022 — one of Zuckerberg's few major product failures.",
+    "location": "U.S. Capitol, Washington, D.C.",
+    "key": false,
+    "tags": [
+      "Libra",
+      "Diem",
+      "国会作证",
+      "加密货币"
+    ],
+    "sources": [
+      {
+        "id": "house-zuck-libra-testimony",
+        "url": "https://docs.house.gov/meetings/ba/ba00/20191023/110136/hhrg-116-ba00-wstate-zuckerbergm-20191023-u1.pdf",
+        "kind": "document",
+        "title": "Testimony of Mark Zuckerberg, House Financial Services, Oct. 23 2019",
+        "publisher": "U.S. House of Representatives",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human"
+      },
+      {
+        "id": "techcrunch-zuck-libra",
+        "url": "https://techcrunch.com/2019/10/23/zuckerberg-testimony/",
+        "kind": "article",
+        "title": "Lowlights from Zuckerberg's Libra testimony in Congress",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2020-07-29-antitrust-hearing",
+    "person_id": "zuckerberg",
+    "date": "2020-07-29",
+    "date_precision": "day",
+    "type": "other",
+    "title": "众议院反垄断听证：与 Bezos、Cook、Pichai 同时作证",
+    "title_en": "House antitrust hearing alongside Bezos, Cook, and Pichai",
+    "summary": "在历时 13 个月的反垄断调查的高潮，Zuckerberg 与 Jeff Bezos、Tim Cook、Sundar Pichai 一同通过视频远程出席众议院反垄断小组委员会的标志性听证会。这是史上首次四大科技 CEO 同时被国会传讯。听证中议员们公开了大量内部邮件，包括 Zuckerberg 2012 年关于 Instagram 的邮件「在它们足够危险之前买下来」「我们要么买、要么 disrupt」——这些邮件成为后来 FTC 和 47 州反垄断诉讼的核心证据。委员会主席 David Cicilline 在结束时宣称「这四家公司今天都拥有垄断力量」，部分应该被拆分。",
+    "summary_en": "At the climax of a 13-month antitrust investigation, Zuckerberg appeared remotely via video alongside Jeff Bezos, Tim Cook, and Sundar Pichai before the House Antitrust Subcommittee — the first time the four most powerful tech CEOs were summoned together. Members released internal emails including Zuckerberg's 2012 messages about Instagram ('It is better to buy than compete') and his explicit framing of acquisitions as 'land grabs' to neutralise potential rivals. Those emails became central evidence in the FTC's later antitrust case and a 47-state attorneys-general suit. Subcommittee Chair David Cicilline concluded that all four firms 'have monopoly power' and that some 'need to be broken up.'",
+    "location": "Washington, D.C. (remote)",
+    "key": true,
+    "tags": [
+      "国会作证",
+      "反垄断",
+      "Big Tech"
+    ],
+    "sources": [
+      {
+        "id": "youtube-antitrust-hearing-2020",
+        "url": "https://www.youtube.com/watch?v=1s1uWo1_bzg",
+        "embed_url": "https://www.youtube-nocookie.com/embed/1s1uWo1_bzg",
+        "kind": "video",
+        "title": "CEOs Mark Zuckerberg, Tim Cook, Jeff Bezos & Sundar Pichai testify before House Judiciary Cmte",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "rev-antitrust-transcript",
+        "url": "https://www.rev.com/transcripts/big-tech-antitrust-hearing-full-transcript-july-29",
+        "kind": "transcript",
+        "title": "Big Tech Antitrust Hearing Full Transcript",
+        "publisher": "Rev",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2021-10-28-meta-rebrand",
+    "person_id": "zuckerberg",
+    "date": "2021-10-28",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "Facebook 改名为 Meta，押注元宇宙",
+    "title_en": "Facebook rebrands to Meta, betting on the metaverse",
+    "summary": "在 Connect 2021 主旨演讲中，Zuckerberg 宣布母公司从 Facebook 更名为 Meta，象征公司战略重心从社交网络转向他描述的「下一代计算平台」——元宇宙。Facebook、Instagram、WhatsApp 应用名保持不变；Reality Labs（包括 Oculus，现 Meta Quest）成为独立报告业务。Zuckerberg 在演讲中亲自演示了卡通虚拟形象、虚拟办公、虚拟健身等场景。这一变化被广泛解读为既是产品愿景押注，也是为了让公司在 Frances Haugen 吹哨人爆料和持续监管压力之外重塑形象。Meta 在元宇宙板块（Reality Labs）累计亏损在之后 4 年内超过 700 亿美元。",
+    "summary_en": "In his Connect 2021 keynote, Zuckerberg announced that the parent company would rebrand from Facebook to Meta, symbolising a strategic pivot from social networking to what he called the 'next computing platform' — the metaverse. The Facebook, Instagram, and WhatsApp apps would keep their names; Reality Labs (which now included Oculus, soon rebranded Meta Quest) became a separately reported segment. Zuckerberg personally demonstrated cartoon avatars, virtual offices, virtual fitness, and more. The move was widely read as both a genuine product bet and an attempt to reframe the company in the wake of Frances Haugen's whistleblower disclosures. Reality Labs would accumulate over $70 billion in operating losses over the next four years.",
+    "location": "Menlo Park, CA",
+    "key": true,
+    "tags": [
+      "Meta",
+      "元宇宙",
+      "Connect",
+      "改名"
+    ],
+    "sources": [
+      {
+        "id": "fb-newsroom-meta",
+        "url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/",
+        "kind": "article",
+        "title": "The Facebook Company Is Now Meta",
+        "publisher": "Meta Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "youtube-connect-2021-metaverse",
+        "url": "https://www.youtube.com/watch?v=5TJ5ENxCUQs",
+        "embed_url": "https://www.youtube-nocookie.com/embed/5TJ5ENxCUQs",
+        "kind": "video",
+        "title": "Mark Zuckerberg explains the Metaverse at Facebook Connect 2021",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "Right now, our brand is so tightly linked to one product that it can't possibly represent everything that we're doing today, let alone in the future... From now on, we're going to be metaverse-first, not Facebook-first.",
+            "speaker": "Mark Zuckerberg",
+            "context": "Connect 2021 keynote, Oct 28 2021"
+          }
+        ]
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2022-07-27-revenue-decline",
+    "person_id": "zuckerberg",
+    "date": "2022-07-27",
+    "date_precision": "day",
+    "type": "career",
+    "title": "Meta 公布上市以来首次季度营收下降",
+    "title_en": "Meta posts first-ever quarterly revenue decline as a public company",
+    "summary": "Meta 公布 2022 年第二季度业绩：营收 288.2 亿美元，同比下降 1%——这是公司自 2012 年上市以来首次年度同比营收下降。净利润同比下滑 36% 至 67 亿美元。多重因素叠加：Apple iOS 14.5 的 ATT 隐私变化打击了广告精准度（Meta 估计每年损失 100 亿美元）、TikTok 对年轻用户的侵蚀、欧元贬值、宏观经济压力、以及元宇宙投入的持续巨亏。同日 Zuckerberg 宣布将「稳步降低招聘增速」，为 2022 年 11 月裁员 11,000 人和 2023 年「效率年」再裁 10,000 人埋下伏笔。",
+    "summary_en": "Meta reported Q2 2022 results: revenue of $28.82 billion, down 1% year-over-year — its first-ever annual quarterly revenue decline since going public in 2012. Net income dropped 36% to $6.69 billion. Multiple headwinds converged: Apple's iOS 14.5 App Tracking Transparency, which Meta estimated would cost $10B/year in ad targeting; competition from TikTok for young users; the strong dollar hammering euro revenue; and continuing huge metaverse investment losses. On the same call Zuckerberg announced plans to 'steadily reduce headcount growth,' foreshadowing the 11,000-person layoff in November 2022 and another 10,000 in the 2023 'year of efficiency.'",
+    "location": "Menlo Park, CA",
+    "key": false,
+    "tags": [
+      "财报",
+      "营收下降",
+      "Apple ATT"
+    ],
+    "sources": [
+      {
+        "id": "techcrunch-meta-q2-2022",
+        "url": "https://techcrunch.com/2022/07/27/meta-posts-its-first-ever-quarterly-revenue-decline/",
+        "kind": "article",
+        "title": "Meta posts its first-ever quarterly revenue decline",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2022-08-25-joe-rogan-1863",
+    "person_id": "zuckerberg",
+    "date": "2022-08-25",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "首次上 Joe Rogan Experience（#1863）",
+    "title_en": "First appearance on Joe Rogan Experience (#1863)",
+    "summary": "Zuckerberg 第一次出现在 Joe Rogan 的播客上，3 小时长谈中谈到内容审核（包括 Hunter Biden 笔记本电脑事件中 FBI 对 Facebook 的「警告」）、AI、巴西柔术训练、元宇宙、被《社交网络》电影黑出阴影等话题。他在镜头中相对僵硬的表情和肢体语言成为网络热门表情包，被网友戏称「机器人」「外星人」。Zuckerberg 此后开始了一系列重塑公众形象的行动——MMA 训练、铁人三项、参加 Joe Rogan，再到 2025 年第二次上 Rogan 节目时已变成截然不同的「公关 3.0」版本。",
+    "summary_en": "Zuckerberg made his first appearance on The Joe Rogan Experience (episode #1863) — a nearly three-hour conversation covering content moderation (including the FBI's pre-election 'warnings' to Facebook about the Hunter Biden laptop story), AI, his Brazilian jiu-jitsu training, the metaverse, and his dislike of how 'The Social Network' had portrayed him. His stiff on-camera demeanour spawned a wave of memes calling him 'a robot' or 'an alien.' The appearance kicked off a multi-year image overhaul that included MMA, triathlon, and a much more relaxed return to Rogan's show in January 2025.",
+    "location": "Joe Rogan studio, Austin, TX",
+    "key": false,
+    "tags": [
+      "Joe Rogan",
+      "播客",
+      "公关"
+    ],
+    "sources": [
+      {
+        "id": "youtube-jre-1863",
+        "url": "https://www.youtube.com/watch?v=0XR4x1ssblQ",
+        "embed_url": "https://www.youtube-nocookie.com/embed/0XR4x1ssblQ",
+        "kind": "video",
+        "title": "Joe Rogan Experience #1863 - Mark Zuckerberg",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "spotify-jre-1863",
+        "url": "https://open.spotify.com/episode/51gxrAActH18RGhKNza598",
+        "kind": "audio",
+        "title": "#1863 - Mark Zuckerberg - The Joe Rogan Experience",
+        "publisher": "Spotify",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2022-11-09-layoffs",
+    "person_id": "zuckerberg",
+    "date": "2022-11-09",
+    "date_precision": "day",
+    "type": "career",
+    "title": "Meta 史上首次大规模裁员：11,000 人（13%）",
+    "title_en": "Meta's first major layoffs: 11,000 jobs (13% of staff)",
+    "summary": "Zuckerberg 给员工的公开信中宣布裁员约 11,000 人——占员工总数 13%——是 Facebook/Meta 18 年历史上的首次大规模裁员。他在信中亲自承担责任：「我搞错了。我估计错了。」他承认在疫情期间「以为长期增长趋势会持续」，因此过度招聘。这次裁员加上 2023 年 3 月的另外 10,000 人裁员（被 Zuckerberg 命名为「效率年」），让 Meta 股价从 2022 年 11 月的 88 美元低点反弹到 2024 年的 600 美元以上，成为他职业生涯中又一次成功的转身。",
+    "summary_en": "In an open letter to employees, Zuckerberg announced the elimination of roughly 11,000 jobs — 13% of total headcount — Meta's first mass layoff in its 18-year history. He took personal responsibility: 'I got this wrong, and I take responsibility for that.' He admitted that during the pandemic 'I made the decision to significantly increase our investments,' assuming the e-commerce surge would persist. This layoff plus another 10,000-person cut in March 2023 (which Zuckerberg branded the 'year of efficiency') lifted Meta's stock from a $88 low in November 2022 to over $600 by 2024, marking another successful pivot in his career.",
+    "location": "Menlo Park, CA",
+    "key": true,
+    "tags": [
+      "裁员",
+      "效率年"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-meta-layoffs-letter",
+        "url": "https://www.cnbc.com/2022/11/09/meta-to-lay-off-more-than-11000-thousand-employees.html",
+        "kind": "article",
+        "title": "Meta laying off more than 11,000 employees: Read Zuckerberg's letter",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2023-07-05-threads",
+    "person_id": "zuckerberg",
+    "date": "2023-07-05",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Threads 上线，Twitter 替代品狂揽用户",
+    "title_en": "Threads launches, vacuums up users from Twitter/X",
+    "summary": "Meta 旗下 Instagram 团队上线 Threads——一款基于 Instagram 账号体系的文字社交 App，明确瞄准混乱中的 Elon Musk 旗下 Twitter（已改名 X）。Threads 在 4 小时内拿下 500 万注册、24 小时破 3,000 万、48 小时破 7,000 万、5 天后破 1 亿——成为有史以来增长最快的消费应用，超越 ChatGPT 此前保持的纪录。Zuckerberg 在 Threads 上自己发的第一条帖子获得超过 50 万点赞。这是 Zuckerberg 与 Musk 私人嫌隙的高峰——双方甚至公开同意进行八角笼 MMA 比赛（最终未上演），但 Zuckerberg 已证明他能在 7 周内做出 Twitter 用 17 年才达成的用户规模。",
+    "summary_en": "Meta's Instagram team launched Threads — a text-based social app built on top of Instagram's account graph and openly targeted at Elon Musk's chaotic Twitter (now X). Threads hit 5 million sign-ups in 4 hours, 30 million in 24, 70 million in 48, and 100 million in 5 days — the fastest-growing consumer app in history, beating ChatGPT's previous record. Zuckerberg's own first Threads post drew over 500,000 likes. The launch was the peak of his public feud with Musk, who had agreed (then never followed through) to a cage-match MMA fight. The point was made: Zuckerberg's team built in seven weeks what Twitter had built in seventeen years.",
+    "location": "Menlo Park, CA",
+    "key": true,
+    "tags": [
+      "Threads",
+      "Twitter",
+      "Musk",
+      "Instagram"
+    ],
+    "sources": [
+      {
+        "id": "cnn-threads-launch",
+        "url": "https://www.cnn.com/2023/07/05/tech/meta-twitter-threads-app-instagram",
+        "kind": "article",
+        "title": "Threads app: Meta officially launches Twitter rival",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "npr-threads-launch",
+        "url": "https://www.npr.org/2023/07/05/1186149939/meta-launches-its-rival-app-threads-as-it-takes-aim-at-twitter",
+        "kind": "article",
+        "title": "Meta takes aim at Twitter with the launch of its rival app Threads",
+        "publisher": "NPR",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2023-09-28-lex-fridman-metaverse",
+    "person_id": "zuckerberg",
+    "date": "2023-09-28",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "在元宇宙中接受 Lex Fridman 采访（#398）",
+    "title_en": "First interview in the metaverse with Lex Fridman (#398)",
+    "summary": "Zuckerberg 与 Lex Fridman 通过 Codec Avatars（基于头部扫描的逼真 3D 虚拟人）和空间音频在 Meta Quest 头显中进行了一次「在元宇宙里」的访谈。两人虽然身处数百英里之外，但在虚拟空间中犹如面对面。整段对话讨论了元宇宙、Quest 3、AI、大语言模型（Llama 2）、AGI、宇宙的本质、存在的意义。这是 Codec Avatars 技术第一次大规模公开演示，也是 Zuckerberg 用产品本身做营销的代表案例。Fridman 后来评论：「这是我做过最特别的对话——我永远忘不了那种『他真的就在我面前』的感觉。」",
+    "summary_en": "Zuckerberg and Lex Fridman conducted an interview entirely 'inside' the metaverse, using Meta's photorealistic Codec Avatars (built from head scans) plus spatial audio inside Meta Quest headsets. The two were physically hundreds of miles apart but appeared to be face-to-face. They discussed the metaverse, Quest 3, AI, large language models (Llama 2), AGI, the nature of reality, and the meaning of existence. It was the largest public demo of Codec Avatars to date and a textbook example of Zuckerberg using a product to market itself. Fridman later said it was 'the most singular conversation I've ever had — I'll never forget how genuinely present he felt.'",
+    "location": "Metaverse (Codec Avatars)",
+    "key": true,
+    "tags": [
+      "Lex Fridman",
+      "元宇宙",
+      "Codec Avatars",
+      "Llama"
+    ],
+    "sources": [
+      {
+        "id": "youtube-lex-zuck-398",
+        "url": "https://www.youtube.com/watch?v=MVYrJJNdrEg",
+        "embed_url": "https://www.youtube-nocookie.com/embed/MVYrJJNdrEg",
+        "kind": "video",
+        "title": "Mark Zuckerberg: First Interview in the Metaverse | Lex Fridman Podcast #398",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "lex-fridman-zuck-3",
+        "url": "https://lexfridman.com/mark-zuckerberg-3/",
+        "kind": "article",
+        "title": "#398 — Mark Zuckerberg: First Interview in the Metaverse",
+        "publisher": "Lex Fridman Podcast",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2024-01-31-child-safety-hearing",
+    "person_id": "zuckerberg",
+    "date": "2024-01-31",
+    "date_precision": "day",
+    "type": "other",
+    "title": "在参议院儿童网络安全听证中向受害者家属道歉",
+    "title_en": "Apologises to families of victims at Senate child-safety hearing",
+    "summary": "Zuckerberg 与 X、TikTok、Snap、Discord 的 CEO 在参议院司法委员会的「Big Tech 与网络儿童性剥削」听证会作证。这是历史上罕见的 Zuckerberg 直接走向旁听席观众席的瞬间——共和党参议员 Josh Hawley 在质询中要求他亲自向坐在听证厅里的、因社交媒体而失去孩子的家长道歉。他起身转向台下家属，说「我对你们经历的一切感到抱歉。没有家庭应该承受这些。」这一画面在社交媒体疯传，成为 Zuckerberg 公共生涯中最具情感张力的瞬间之一。",
+    "summary_en": "Zuckerberg testified alongside the CEOs of X, TikTok, Snap, and Discord before the Senate Judiciary Committee's hearing on 'Big Tech and the Online Child Sexual Exploitation Crisis.' In an unprecedented moment, Republican Senator Josh Hawley pressed Zuckerberg until he stood up, turned to face parents who had lost children to social-media-related harms seated behind him, and apologised directly: 'I'm sorry for everything you have all been through. No one should go through the things that your families have suffered.' The image went viral and became one of the most emotionally charged moments in Zuckerberg's public life.",
+    "location": "U.S. Senate, Washington, D.C.",
+    "key": true,
+    "tags": [
+      "国会作证",
+      "儿童安全",
+      "道歉"
+    ],
+    "sources": [
+      {
+        "id": "cspan-zuck-apology-2024",
+        "url": "https://www.c-span.org/clip/public-affairs-event/mark-zuckerberg-apologizes-to-victims-families-at-senate-hearing-on-child-sexual-exploitation/5104639",
+        "kind": "video",
+        "title": "Mark Zuckerberg Apologizes to Victims' Families at Senate Hearing on Child Sexual Exploitation",
+        "publisher": "C-SPAN",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "I'm sorry for everything you have all been through. No one should go through the things that your families have suffered, and this is why we invest so much and we are going to continue doing industry-wide efforts to make sure no one has to go through the things your families have had to suffer.",
+            "speaker": "Mark Zuckerberg",
+            "context": "Senate Judiciary Committee hearing on online child exploitation, Jan 31 2024"
+          }
+        ]
+      },
+      {
+        "id": "judiciary-recap-2024",
+        "url": "https://www.judiciary.senate.gov/press/releases/recap-senate-judiciary-committee-presses-big-tech-ceos-on-failures-to-protect-kids-online-during-landmark-hearing",
+        "kind": "article",
+        "title": "Senate Judiciary Committee Presses Big Tech CEOs on Failures to Protect Kids Online",
+        "publisher": "U.S. Senate Judiciary Committee",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2024-04-18-llama-3",
+    "person_id": "zuckerberg",
+    "date": "2024-04-18",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Meta 发布 Llama 3 开源大模型",
+    "title_en": "Meta releases Llama 3 open-source LLM",
+    "summary": "Meta 发布 Llama 3——8B 和 70B 参数两个版本的开源大语言模型，预训练数据量约 15 万亿 tokens。Llama 3 在多项基准上接近 GPT-4 水平，但权重以开放许可发布，允许商业使用。Zuckerberg 在 Instagram 上公开把 Meta 定位为「最大的 AI 开源公司」，主张开源是「让 AI 更安全、更普惠」的路径——明确把 Meta 与坚持闭源的 OpenAI、Anthropic 区分开来。Llama 系列（之后 Llama 3.1 405B 在 7 月发布、Llama 4 在 2025 年发布）成为全球数百万开发者的首选开源 AI 基础模型。",
+    "summary_en": "Meta released Llama 3 — open-source large-language models in 8B and 70B parameter sizes, pre-trained on roughly 15 trillion tokens. Llama 3 approached GPT-4 on many benchmarks but was published with permissive licensing for commercial use. Zuckerberg used Instagram to publicly position Meta as 'the largest open-source AI company,' arguing open weights are the path to 'safer and more democratised AI' — explicitly distancing Meta from the closed approaches of OpenAI and Anthropic. The Llama family (followed by Llama 3.1 405B in July 2024 and Llama 4 in 2025) became the de facto open-source AI foundation for millions of developers worldwide.",
+    "location": "Menlo Park, CA",
+    "key": true,
+    "tags": [
+      "Llama",
+      "AI",
+      "开源",
+      "LLM"
+    ],
+    "sources": [
+      {
+        "id": "ai-meta-llama-3-blog",
+        "url": "https://ai.meta.com/blog/meta-llama-3/",
+        "kind": "article",
+        "title": "Introducing Meta Llama 3: The most capable openly available LLM to date",
+        "publisher": "Meta AI",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-llama",
+        "url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
+        "kind": "article",
+        "title": "Llama (language model) (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2024-09-25-orion-glasses",
+    "person_id": "zuckerberg",
+    "date": "2024-09-25",
+    "date_precision": "day",
+    "type": "product",
+    "title": "在 Connect 2024 揭幕 Orion AR 眼镜",
+    "title_en": "Unveils Orion AR glasses at Connect 2024",
+    "summary": "在 Meta Connect 2024 主旨演讲上，Zuckerberg 现场展示了 Orion——Meta 历经十年开发的首款真正的全息增强现实（AR）眼镜原型机。Orion 重量不到 100 克、无线缆，采用碳化硅镜片、微 LED 投影和波导技术，结合语音、眼动追踪、手势和 EMG（肌电图）腕带做输入。Zuckerberg 说这代表了「智能手机的继任者」——但他坦言这只是工程原型，仅在 Meta 内部使用，价格降到消费级仍需要数年。同场也发布了价格更便宜的 Quest 3S 和升级的 Ray-Ban Meta 智能眼镜。这次发布让 Meta 在「Apple Vision Pro 之后的下一代计算」竞赛中重新占据公众视野。",
+    "summary_en": "At his Meta Connect 2024 keynote, Zuckerberg unveiled Orion — Meta's first true holographic augmented-reality glasses prototype, the product of a decade of development. Weighing under 100g and untethered, Orion combined silicon carbide lenses, micro-LED projectors, waveguides, voice, eye tracking, hand tracking, and an EMG wristband. Zuckerberg framed it as 'the successor to the smartphone' but admitted it was only an engineering prototype for internal use at Meta, with consumer pricing still years away. The same keynote also unveiled the lower-priced $299 Quest 3S and an upgraded Ray-Ban Meta smart-glasses lineup. The launch put Meta back at the centre of the 'next computing platform' race against Apple's Vision Pro.",
+    "location": "Menlo Park, CA",
+    "key": true,
+    "tags": [
+      "Orion",
+      "AR",
+      "Connect",
+      "Meta"
+    ],
+    "sources": [
+      {
+        "id": "fb-newsroom-orion",
+        "url": "https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/",
+        "kind": "article",
+        "title": "Introducing Orion, Our First True Augmented Reality Glasses",
+        "publisher": "Meta Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "youtube-connect-2024-keynote",
+        "url": "https://www.youtube.com/watch?v=I7JyydkqDeI",
+        "embed_url": "https://www.youtube-nocookie.com/embed/I7JyydkqDeI",
+        "kind": "video",
+        "title": "Connect Keynote 2024",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2025-01-10-joe-rogan-2255",
+    "person_id": "zuckerberg",
+    "date": "2025-01-10",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "再上 Joe Rogan Experience（#2255）：政策大转向",
+    "title_en": "Returns to Joe Rogan Experience (#2255): policy U-turn",
+    "summary": "Zuckerberg 第二次上 Joe Rogan 节目，与 2022 年第一次相比已是判若两人——更放松、留长发、谈论 MMA。这次访谈意外成为 Meta 政策大转向的官方注解：节目播出前一周 Meta 已宣布废除第三方事实核查、取消多项 DEI 项目、将信任与安全团队从加州迁到德州，并把 Joel Kaplan（共和党人士）任命为新政策负责人。Zuckerberg 在节目中坦言他认为美国企业文化已经「过度阴柔化」，需要「更多男性能量」，并猛烈批评拜登政府在新冠期间施压 Facebook 删除内容。这段访谈被广泛解读为他对即将上任的特朗普政府的政治信号。",
+    "summary_en": "Zuckerberg returned to The Joe Rogan Experience for episode #2255 — a striking contrast to his stiff 2022 appearance, now relaxed, with longer hair, discussing MMA. The interview functioned as an unofficial commentary on Meta's policy reversal announced a week earlier: ending third-party fact-checking, scrapping multiple DEI programs, moving trust-and-safety teams from California to Texas, and naming Republican Joel Kaplan as new policy chief. On the show Zuckerberg said American corporate culture had become 'culturally neutered' and needed 'more masculine energy,' and lambasted the Biden White House for pressuring Facebook to remove COVID content. The conversation was widely read as a public alignment signal toward the incoming Trump administration.",
+    "location": "Joe Rogan studio, Austin, TX",
+    "key": true,
+    "tags": [
+      "Joe Rogan",
+      "播客",
+      "政策转向",
+      "Trump"
+    ],
+    "sources": [
+      {
+        "id": "youtube-jre-2255",
+        "url": "https://www.youtube.com/watch?v=7k1ehaE0bdU",
+        "embed_url": "https://www.youtube-nocookie.com/embed/7k1ehaE0bdU",
+        "kind": "video",
+        "title": "Joe Rogan Experience #2255 - Mark Zuckerberg",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "spotify-jre-2255",
+        "url": "https://open.spotify.com/episode/3kDr0LcmqOHOz3mBHMdDuV",
+        "kind": "audio",
+        "title": "#2255 - Mark Zuckerberg - The Joe Rogan Experience",
+        "publisher": "Spotify",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "zuckerberg-2025-06-12-scale-ai-wang",
+    "person_id": "zuckerberg",
+    "date": "2025-06-12",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Meta 投资 143 亿美元入主 Scale AI，挖来 Alexandr Wang 领导 Superintelligence Labs",
+    "title_en": "Meta invests $14.3B in Scale AI; hires Alexandr Wang to lead Superintelligence Labs",
+    "summary": "面对 OpenAI、Anthropic 和 Google 在 AI 上的紧逼，Zuckerberg 出手抢人——以 143 亿美元换取 Scale AI 49% 股份（不带投票权），并把 28 岁的 Scale AI 创始人 Alexandr Wang 拉到 Meta 担任公司有史以来第一位 Chief AI Officer，领导新成立的 Meta Superintelligence Labs（MSL）。这笔交易绕过了反垄断审查（Meta 不收购控制权），却拿下了 AI 数据标注行业最关键的人和资源。同期 Zuckerberg 个人开出了据报道高达 1 亿美元/年的薪酬包从 OpenAI、Google DeepMind 等地挖核心研究员，引发硅谷有史以来最激烈的 AI 人才战。",
+    "summary_en": "Pressed by OpenAI, Anthropic, and Google in AI, Zuckerberg made a defining move: a $14.3 billion deal for a 49% non-voting stake in Scale AI, plus hiring its 28-year-old founder Alexandr Wang as Meta's first-ever Chief AI Officer to lead a newly formed Meta Superintelligence Labs (MSL). The deal sidestepped antitrust review (Meta took no control) while securing the most strategic data-labelling firm and its leadership. Around the same time Zuckerberg personally offered packages reportedly up to $100 million a year to poach top researchers from OpenAI, Google DeepMind, and Anthropic, igniting the fiercest AI talent war in Silicon Valley history.",
+    "location": "Menlo Park, CA",
+    "key": true,
+    "tags": [
+      "Scale AI",
+      "Alexandr Wang",
+      "Superintelligence",
+      "AI",
+      "MSL"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-meta-scale-wang",
+        "url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html",
+        "kind": "article",
+        "title": "Scale AI's Alexandr Wang confirms departure for Meta as part of $14.3 billion deal",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "scale-ai-blog-wang",
+        "url": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+        "kind": "article",
+        "title": "Founder, Alexandr Wang, Joins Meta to Work on AI Efforts",
+        "publisher": "Scale AI Blog",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-alexandr-wang",
+        "url": "https://en.wikipedia.org/wiki/Alexandr_Wang",
+        "kind": "article",
+        "title": "Alexandr Wang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  }
+]

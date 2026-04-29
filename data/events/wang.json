@@ -1,0 +1,900 @@
+[
+  {
+    "id": "wang-1966-02-15-birth",
+    "person_id": "wang",
+    "date": "1966-02-15",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于安徽无为县农民家庭",
+    "title_en": "Born into a farming family in Wuwei County, Anhui",
+    "summary": "王传福出生于安徽省无为县（今无为市）的一个贫困农民家庭，是家中八个孩子中最小的一个，上有一个哥哥（王传方）和六个姐姐。家境贫寒，连奶粉都买不起。13 岁时父亲因病去世，15 岁时母亲也离世。他在哥哥和姐姐们的支持下完成了高中学业。这种早年的苦难塑造了他后来在比亚迪一以贯之的勤俭、动手和\"工程师精神\"。",
+    "summary_en": "Wang Chuanfu was born into a poor farming family in Wuwei County, Anhui Province — the youngest of eight children, with one elder brother (Wang Chuanfang) and six elder sisters. The family was so poor they could not afford milk powder. His father died when Wang was 13, and his mother died two years later when he was 15. His elder brother and sisters supported him through high school. This early hardship shaped the frugal, hands-on, engineer-driven culture he would later instill at BYD. (Some Chinese-language biographies list his birthday as Feb 15, 1966; English Wikipedia gives Apr 8, 1966.)",
+    "location": "Wuwei County, Anhui, China",
+    "key": true,
+    "tags": ["出生", "童年", "安徽"],
+    "sources": [
+      {
+        "id": "wikipedia-wang-chuanfu",
+        "url": "https://en.wikipedia.org/wiki/Wang_Chuanfu",
+        "kind": "article",
+        "title": "Wang Chuanfu (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/Wang_Chuanfu",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "wikipedia-wang-chuanfu-zh",
+        "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%82%B3%E7%A6%8F",
+        "kind": "article",
+        "title": "王传福 - 维基百科",
+        "publisher": "维基百科",
+        "lang": "zh",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%82%B3%E7%A6%8F",
+          "timestamp": "2025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-1983-09-csut",
+    "person_id": "wang",
+    "date": "1983-09-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "考入中南矿冶学院（今中南大学），主修冶金物理化学",
+    "title_en": "Enrolls at Central South Institute of Mining and Metallurgy (now Central South University)",
+    "summary": "在哥哥姐姐的供养下，王传福从安徽考上长沙的中南矿冶学院（后更名中南工业大学，今中南大学），主修冶金物理化学专业。这是他第一次离开家乡。1987 年获学士学位。冶金化学专业的训练为他后来研究电池——本质上是化学和电化学问题——奠定了科学基础。",
+    "summary_en": "Supported by his siblings, Wang traveled from Anhui to Changsha to enroll at Central South Institute of Mining and Metallurgy (later renamed Central South University of Technology, now Central South University), majoring in metallurgical physical chemistry. He graduated in 1987. This chemistry-and-metallurgy training would later prove foundational for battery R&D — at its core a problem of electrochemistry.",
+    "location": "Changsha, Hunan, China",
+    "key": false,
+    "tags": ["教育", "中南大学", "冶金化学"],
+    "sources": [
+      {
+        "id": "wikipedia-wang-chuanfu",
+        "url": "https://en.wikipedia.org/wiki/Wang_Chuanfu",
+        "kind": "article",
+        "title": "Wang Chuanfu (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/Wang_Chuanfu",
+          "timestamp": "2025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-1990-master-grinm",
+    "person_id": "wang",
+    "date": "1990-07-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "在北京有色金属研究总院获得硕士学位，留院任研究员",
+    "title_en": "Earns master's degree at Beijing General Research Institute for Non-Ferrous Metals, joins as researcher",
+    "summary": "王传福于 1990 年在北京有色金属研究总院（今 GRINM 集团）获得硕士学位，方向是电池材料。毕业后留院工作，1990–1995 年间担任副主任研究员，主持先进电池研究。这五年让他深度接触镍镉、镍氢和锂离子电池的最新材料与工艺，并目睹日本厂商在电池产业链中的优势——这成为他日后创业的直接动机。",
+    "summary_en": "In 1990, Wang earned his master's degree at Beijing General Research Institute for Non-Ferrous Metals (now GRINM Group), specializing in battery materials. He stayed on as a researcher and from 1990–1995 served as deputy director on advanced-battery R&D, gaining hands-on exposure to NiCd, NiMH and Li-ion chemistries and to Japan's dominance of the battery supply chain. That insight directly motivated his later move to start BYD.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": ["硕士", "电池研究", "有色金属研究总院"],
+    "sources": [
+      {
+        "id": "wikipedia-wang-chuanfu",
+        "url": "https://en.wikipedia.org/wiki/Wang_Chuanfu",
+        "kind": "article",
+        "title": "Wang Chuanfu (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/Wang_Chuanfu",
+          "timestamp": "2025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-1993-bak-shenzhen",
+    "person_id": "wang",
+    "date": "1993-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "出任有色研究院在深圳设立的比格电池公司总经理",
+    "title_en": "Appointed general manager of BAK Battery (Shenzhen subsidiary of GRINM)",
+    "summary": "1993 年，北京有色金属研究总院在深圳成立比格电池有限公司（BAK Battery Co., Ltd.），凭借其学术背景，王传福被任命为总经理。这是他第一次南下深圳，也是第一次完整经历从科研到企业经营的转变。在比格的两年里，他熟悉了电池量产、客户对接和产业链——这些经验直接催生了 1995 年的 BYD。",
+    "summary_en": "In 1993, the Beijing Non-Ferrous Metal Institute spun out BAK Battery Co., Ltd. in Shenzhen, and Wang — given his research credentials — was appointed general manager. It was his first move to Shenzhen and his first transition from academic research to business operations. Two years at BAK gave him hands-on experience with mass production, customer relations and supply chains — directly shaping the BYD playbook two years later.",
+    "location": "Shenzhen, China",
+    "key": false,
+    "tags": ["职业生涯", "比格电池", "深圳"],
+    "sources": [
+      {
+        "id": "wikipedia-wang-chuanfu",
+        "url": "https://en.wikipedia.org/wiki/Wang_Chuanfu",
+        "kind": "article",
+        "title": "Wang Chuanfu (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/Wang_Chuanfu",
+          "timestamp": "2025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-1995-02-10-byd-founded",
+    "person_id": "wang",
+    "date": "1995-02-10",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在深圳与表兄吕向阳合伙创立比亚迪（BYD）",
+    "title_en": "Co-founds BYD in Shenzhen with cousin Lu Xiangyang",
+    "summary": "1995 年 2 月 10 日，29 岁的王传福离开比格电池，在深圳布吉镇正式成立\"深圳比亚迪电池有限公司\"，注册资本 250 万元人民币，主要由表兄吕向阳出资借给他。最早只有 20 名员工，主营镍镉电池。王传福看到日本厂商正从镍镉转向高利润的镍氢和锂离子，留下了一个被忽视的低端市场。BYD 三个字母后来在 2007 年被赋予 \"Build Your Dreams\" 的英文释义。",
+    "summary_en": "On Feb 10, 1995, the 29-year-old Wang left BAK and incorporated Shenzhen BYD Battery Co., Ltd. in Buji Town, Shenzhen, with CN¥2.5 million of capital largely lent by his cousin Lu Xiangyang. With only 20 employees, the company started in nickel–cadmium (NiCd) batteries — a segment Japanese giants were abandoning in favor of higher-margin NiMH and Li-ion. The acronym BYD was later (in 2007) given the English gloss \"Build Your Dreams\".",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["创立", "比亚迪", "深圳", "电池"],
+    "sources": [
+      {
+        "id": "wikipedia-byd-company",
+        "url": "https://en.wikipedia.org/wiki/BYD_Company",
+        "kind": "article",
+        "title": "BYD Company (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_Company",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "byd-corporate-about",
+        "url": "https://www.bydglobal.com/en/AboutByd.html",
+        "kind": "article",
+        "title": "About BYD",
+        "publisher": "BYD Global",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2000-motorola-contract",
+    "person_id": "wang",
+    "date": "2000-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "比亚迪成为摩托罗拉首家中国电池供应商",
+    "title_en": "BYD becomes Motorola's first Chinese battery supplier",
+    "summary": "经过五年低成本、半手工的产线打磨，比亚迪以低于日本对手 30–40% 的报价拿下摩托罗拉手机电池订单，2000 年起成为其首家中国电池供应商。此后诺基亚、爱立信、三星等巨头也相继加入。这一波订单让 BYD 在 2002 年港股上市前已是\"全球第二大充电电池厂\"，为 IPO 打下基础。",
+    "summary_en": "After five years of low-cost, semi-manual production lines, BYD won Motorola's mobile-battery contract in 2000, becoming its first Chinese battery supplier — undercutting Japanese rivals by 30–40%. Nokia, Ericsson and Samsung soon followed. By the time BYD listed in Hong Kong in 2002 it was already the world's #2 rechargeable-battery maker by volume.",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["摩托罗拉", "客户", "电池", "OEM"],
+    "sources": [
+      {
+        "id": "wikipedia-byd-company",
+        "url": "https://en.wikipedia.org/wiki/BYD_Company",
+        "kind": "article",
+        "title": "BYD Company (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_Company",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "ckgsb-byd-story",
+        "url": "https://english.ckgsb.edu.cn/knowledge/professor_analysis/how-china-byd-grew-into-an-ev-business-giant/",
+        "kind": "article",
+        "title": "How China's Battery Maker BYD Grew into EV Giant",
+        "publisher": "CKGSB Knowledge",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2002-07-31-hk-ipo",
+    "person_id": "wang",
+    "date": "2002-07-31",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "比亚迪在港交所主板上市，募资 16.5 亿港元",
+    "title_en": "BYD IPO on Hong Kong Stock Exchange (HK$1.65 billion raised)",
+    "summary": "2002 年 7 月 31 日，比亚迪股份有限公司（1211.HK）在香港联交所主板上市，发行价 10.95 港元，募集资金约 16.5 亿港元。当时比亚迪已是全球第二大手机电池厂，仅次于日本三洋。这笔资金后来直接被用于 2003 年初收购秦川汽车，开启了\"电池跨界造车\"的旅程，但也曾遭遇基金股东集体抛售抗议——他们认为造车不在招股说明书的承诺范围内。",
+    "summary_en": "On July 31, 2002, BYD Company Limited (1211.HK) listed on the main board of the Hong Kong Stock Exchange at HK$10.95 per share, raising approximately HK$1.65 billion. At the time it was already the world's #2 mobile-phone battery maker, second only to Japan's Sanyo. The proceeds would directly fund the early-2003 acquisition of Qinchuan Auto — a move that initially triggered a fund-shareholder revolt because making cars wasn't in the IPO prospectus.",
+    "location": "Hong Kong",
+    "key": true,
+    "tags": ["IPO", "港交所", "1211.HK"],
+    "sources": [
+      {
+        "id": "wikipedia-byd-company",
+        "url": "https://en.wikipedia.org/wiki/BYD_Company",
+        "kind": "article",
+        "title": "BYD Company (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_Company",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "financeasia-byd-ipo",
+        "url": "https://www.financeasia.com/article/byd-prices-ipo/31879",
+        "kind": "article",
+        "title": "BYD prices IPO",
+        "publisher": "FinanceAsia",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2003-01-qinchuan-acquisition",
+    "person_id": "wang",
+    "date": "2003-01-22",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "收购西安秦川汽车 77% 股权，正式进军汽车业",
+    "title_en": "Acquires 77% of Xi'an Qinchuan Auto — BYD enters the car business",
+    "summary": "2003 年 1 月，比亚迪以 2.69 亿港元的价格从北方工业集团手中收购西安秦川汽车 77% 股权，并随后更名为\"比亚迪汽车\"。该交易核心目的并非传统燃油车，而是获取那张几乎不可能拿到的整车生产牌照——为日后做电动车铺路。消息一出，香港机构股东集体减持，BYD 股价从 18 港元一度跌到 12 港元。但王传福坚定地称：\"我做电池就是为了有一天造电动车。\"",
+    "summary_en": "In January 2003, BYD acquired 77% of Xi'an Qinchuan Auto from state-owned Norinco for HK$269 million and rebranded it BYD Auto. The real prize was not the existing ICE car line but the near-impossible-to-obtain manufacturing license — the prerequisite for any future EV business. Hong Kong institutional shareholders dumped the stock in protest (it briefly fell from HK$18 to HK$12), but Wang famously said: \"The reason I built batteries was always so that one day I could build electric cars.\"",
+    "location": "Xi'an, Shaanxi, China",
+    "key": true,
+    "tags": ["收购", "秦川汽车", "比亚迪汽车", "造车"],
+    "sources": [
+      {
+        "id": "wikipedia-byd-auto",
+        "url": "https://en.wikipedia.org/wiki/BYD_Auto",
+        "kind": "article",
+        "title": "BYD Auto (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_Auto",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "chinacarhistory-qinchuan",
+        "url": "https://chinacarhistory.com/2020/04/11/this-history-of-the-flyer-from-qinchuan-alto-to-byd/",
+        "kind": "article",
+        "title": "The History of the Flyer – From Qinchuan Alto to BYD",
+        "publisher": "ChinaCarHistory",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2005-09-byd-f3",
+    "person_id": "wang",
+    "date": "2005-09-22",
+    "date_precision": "day",
+    "type": "product",
+    "title": "首款比亚迪自主轿车 F3 上市，定价 7.38 万元",
+    "title_en": "BYD F3 sedan launches at CN¥73,800",
+    "summary": "BYD F3 是王传福主导的第一款自主车型，2005 年 9 月 22 日在西安正式上市，起售价仅 7.38 万元——比同级丰田花冠便宜近一半。F3 在外形上明显借鉴花冠，但核心三大件（发动机、变速箱、底盘）都来自反向工程，BYD 采取\"逆向开发\"策略快速学习。F3 上市第二年即跻身中国轿车销量前十，2009 年成为中国销量第一的轿车，至 2021 年停产前累计销量超 200 万辆，是 BYD 真正的\"现金奶牛\"。",
+    "summary_en": "The BYD F3 — Wang's first wholly-developed model — launched on Sept 22, 2005 at CN¥73,800, nearly half the price of the comparable Toyota Corolla. Its body cribbed openly from the Corolla, while the powertrain came from reverse engineering — BYD's deliberate \"learn by copying\" strategy. The F3 broke into China's top-10 sedans within a year, became the country's #1-selling sedan in 2009, and sold over 2 million units before discontinuation in 2021 — the true cash cow that funded BYD's EV transformation.",
+    "location": "Xi'an, Shaanxi, China",
+    "key": true,
+    "tags": ["F3", "轿车", "首款车型", "逆向工程"],
+    "sources": [
+      {
+        "id": "wikipedia-byd-f3",
+        "url": "https://en.wikipedia.org/wiki/BYD_F3",
+        "kind": "article",
+        "title": "BYD F3 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_F3",
+          "timestamp": "2025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-2008-09-buffett-investment",
+    "person_id": "wang",
+    "date": "2008-09-27",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "巴菲特旗下 MidAmerican 以 2.3 亿美元入股 BYD 9.89%",
+    "title_en": "Buffett's MidAmerican invests $230M for 9.89% of BYD",
+    "summary": "2008 年 9 月 27 日，沃伦·巴菲特控股的 MidAmerican Energy（伯克希尔子公司）宣布以 18 亿港元（约 2.3 亿美元）认购 BYD 2.25 亿股 H 股，每股 8 港元，占 BYD 扩股后股本 9.89%。这是巴菲特罕见的中国投资——背后实际推动者是芒格。芒格几个月前在与黎力（喜马拉雅资本创始人）的会面中得知 BYD，回去就跟巴菲特说：\"这家伙是 Edison 与 Jack Welch 的合体——技术上像 Edison 解决问题，执行上像 Welch 拿结果。\"这项投资 14 年后变成约 80 亿美元，约 35 倍回报。",
+    "summary_en": "On Sept 27, 2008, Warren Buffett's MidAmerican Energy (a Berkshire subsidiary) announced a HK$1.8 billion (~US$230 million) purchase of 225 million BYD H-shares at HK$8 each — 9.89% of BYD post-issuance. The push came from Charlie Munger, who had been introduced to BYD by Li Lu of Himalaya Capital and famously told Buffett: \"This guy is a combination of Thomas Edison and Jack Welch — something like Edison in solving technical problems, and something like Welch in getting done what he needs to do.\" The stake would later peak at ~$8 billion — roughly 35× return.",
+    "location": "Omaha, NE / Shenzhen, China",
+    "key": true,
+    "tags": ["巴菲特", "芒格", "投资", "伯克希尔"],
+    "sources": [
+      {
+        "id": "financeasia-buffett-byd",
+        "url": "https://www.financeasia.com/article/warren-buffett-to-purchase-10-of-byd/123984",
+        "kind": "article",
+        "title": "Warren Buffett to purchase 10% of BYD",
+        "publisher": "FinanceAsia",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "cnbc-buffett-byd-2008",
+        "url": "https://www.cnbc.com/2008/09/27/warren-buffett-invests-in-chinese-company-developing-green-cars.html",
+        "kind": "article",
+        "title": "Warren Buffett Invests In Chinese Company Developing 'Green' Cars",
+        "publisher": "CNBC",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "fortune-munger-byd-edison-welch",
+        "url": "https://fortune.com/2009/04/13/warren-buffetts-electric-car-deal/",
+        "kind": "article",
+        "title": "Warren Buffett takes charge",
+        "publisher": "Fortune Magazine",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": ["munger"],
+        "quotes": [
+          {
+            "text": "This guy is a combination of Thomas Edison and Jack Welch — something like Edison in solving technical problems, and something like Welch in getting done what he needs to do. I have never seen anything like it.",
+            "speaker": "Charlie Munger",
+            "context": "Munger to Fortune on Wang Chuanfu, after recommending Buffett buy into BYD",
+            "context_en": "Munger to Fortune on Wang Chuanfu, after recommending Buffett buy into BYD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wang-2008-12-15-f3dm",
+    "person_id": "wang",
+    "date": "2008-12-15",
+    "date_precision": "day",
+    "type": "product",
+    "title": "推出全球首款量产插电式混合动力车 F3DM",
+    "title_en": "Launches the world's first mass-produced plug-in hybrid car (F3DM)",
+    "summary": "2008 年 12 月 15 日，比亚迪在深圳推出 F3DM——全球首款面向公众的量产插电式混合动力（PHEV）汽车，比丰田普锐斯插电版（2012）和雪佛兰 Volt（2010）都早。售价 14.98 万元，纯电续航 100 公里。F3DM 第一年只卖出 48 辆，但它确立了 BYD 在 PHEV 路线上的先发地位，也是公司日后\"DM 双模\"产品线（DM-i/DM-p）的源头。",
+    "summary_en": "On Dec 15, 2008, BYD launched the F3DM in Shenzhen — the world's first mass-produced plug-in hybrid (PHEV) car for sale to the public, beating both the Toyota Prius PHEV (2012) and Chevrolet Volt (2010). Priced at CN¥149,800 with 100 km of electric range, it sold only 48 units in its first year — but established BYD's PHEV-first DNA and seeded the entire DM (Dual Mode) product line that would later become DM-i and DM-p.",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["F3DM", "PHEV", "插电混动", "首款"],
+    "sources": [
+      {
+        "id": "wikipedia-byd-f3dm",
+        "url": "https://en.wikipedia.org/wiki/BYD_F3DM",
+        "kind": "article",
+        "title": "BYD F3DM (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_F3DM",
+          "timestamp": "2025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-2010-05-e6-shenzhen-taxi",
+    "person_id": "wang",
+    "date": "2010-05-18",
+    "date_precision": "day",
+    "type": "product",
+    "title": "首批 BYD e6 纯电动出租车在深圳上路",
+    "title_en": "First BYD e6 electric taxis hit the streets of Shenzhen",
+    "summary": "2010 年 5 月 18 日，比亚迪与深圳市政府合作在深圳投放首批 40 辆 e6 纯电动出租车，由 BYD 子公司鹏程电动出租运营，这是中国——也是全球——首支真正意义上的城市级 EV 出租车队。e6 续航 300 公里，搭载 BYD 自研的磷酸铁锂电池，平均日跑 350+ 公里，证明 LFP 电池在重度商用工况下的可行性，也让深圳成为日后\"全球第一座纯电动公交城市\"（2017）和\"纯电出租车城\"（2018）的样板。",
+    "summary_en": "On May 18, 2010, BYD launched the world's first city-level electric taxi fleet — 40 e6 EVs operated by its subsidiary Pengcheng Electric Taxi in Shenzhen. With 300 km of range on BYD's own lithium-iron-phosphate (LFP) cells and averaging 350+ km of daily duty, the e6 fleet proved LFP could survive heavy commercial use. Shenzhen would later become the world's first all-electric bus city (2017) and all-electric taxi city (2018).",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["e6", "出租车", "深圳", "LFP"],
+    "sources": [
+      {
+        "id": "wikipedia-byd-e6",
+        "url": "https://en.wikipedia.org/wiki/BYD_e6",
+        "kind": "article",
+        "title": "BYD e6 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_e6",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "greencarcongress-byd-e6-taxi",
+        "url": "https://www.greencarcongress.com/2010/05/byd-20100518.html",
+        "kind": "article",
+        "title": "40 BYD e6-Based Electric Taxis Enter Service in Shenzhen City",
+        "publisher": "Green Car Congress",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2011-06-30-szse-listing",
+    "person_id": "wang",
+    "date": "2011-06-30",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "比亚迪在深交所中小板上市（A 股 002594）",
+    "title_en": "BYD lists A-shares on Shenzhen Stock Exchange (002594)",
+    "summary": "2011 年 6 月 30 日，比亚迪以\"002594\"代码登陆深交所中小板，发行价 18 元/股，募资约 14 亿元——形成\"A+H\"双重上市结构。当时受美国次贷危机后续影响，定价低于预期，上市首日就跌破发行价。但十年后回头看，A 股上市为 BYD 后来的电动化转型提供了关键的境内融资渠道，也让大量中国投资者直接分享了王传福的造车红利。",
+    "summary_en": "On June 30, 2011, BYD listed A-shares on the Shenzhen Stock Exchange's SME board under ticker 002594, pricing the IPO at CN¥18/share and raising about CN¥1.4 billion — creating a dual A+H listing. The IPO priced below expectations amid post-2008 weakness and broke issue on day one, but the A-share listing would later become a critical domestic funding source for BYD's EV transformation and gave Chinese retail investors direct exposure to Wang's playbook.",
+    "location": "Shenzhen, China",
+    "key": false,
+    "tags": ["IPO", "A股", "深交所", "002594"],
+    "sources": [
+      {
+        "id": "wikipedia-byd-company",
+        "url": "https://en.wikipedia.org/wiki/BYD_Company",
+        "kind": "article",
+        "title": "BYD Company (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_Company",
+          "timestamp": "2025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-2013-10-lancaster-bus-plant",
+    "person_id": "wang",
+    "date": "2013-10-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "比亚迪美国电动巴士工厂在加州兰卡斯特投产",
+    "title_en": "BYD opens its first U.S. electric-bus plant in Lancaster, California",
+    "summary": "2013 年 10 月，比亚迪在加州兰卡斯特（Lancaster）投产其首个美国制造工厂，主要生产 K9 系列纯电动巴士。该厂同年从长滩交通局（Long Beach Transit）拿到 1210 万美元、10 辆电动巴士的订单，成为中国整车厂首次在美国本土实现\"零排放公交车\"量产。该厂随后扩大到 13 万平方英尺，覆盖美国 13 个州、加拿大 4 个省的电动巴士供应——是 BYD 国际化的第一个真正落地。",
+    "summary_en": "In October 2013, BYD opened its first U.S. manufacturing plant in Lancaster, California, producing K-series battery-electric buses. That same year it won a $12.1 million Long Beach Transit contract for 10 e-buses — the first time a Chinese automaker mass-produced zero-emission transit buses on American soil. The Lancaster facility eventually grew to 130,000 sq ft and would supply e-buses to 13 U.S. states and 4 Canadian provinces — BYD's first real internationalization milestone.",
+    "location": "Lancaster, CA, USA",
+    "key": true,
+    "tags": ["美国", "电动巴士", "K9", "国际化"],
+    "sources": [
+      {
+        "id": "byd-usa-lancaster",
+        "url": "https://en.byd.com/news/byd-and-the-city-of-lancaster-announce-lancaster-energy-module-and-electric-bus-manufacturing-facilities/",
+        "kind": "article",
+        "title": "BYD and the City of Lancaster Announce Bus Manufacturing Facilities",
+        "publisher": "BYD USA",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-byd-k-series",
+        "url": "https://en.wikipedia.org/wiki/BYD_K_series",
+        "kind": "article",
+        "title": "BYD K series (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2020-03-29-blade-battery",
+    "person_id": "wang",
+    "date": "2020-03-29",
+    "date_precision": "day",
+    "type": "product",
+    "title": "发布\"刀片电池\"，重新定义电动车安全标准",
+    "title_en": "Launches the Blade Battery, redefining EV safety standards",
+    "summary": "2020 年 3 月 29 日，王传福亲自主持发布会，推出比亚迪全新结构创新的\"刀片电池\"——一种长条形磷酸铁锂电芯。在最严苛的针刺测试中，刀片电池既不冒烟也不起火，表面温度仅 30–60℃；而同条件下三元锂电池温度超 500℃ 并剧烈燃烧。王传福在台上说：\"刀片电池将\"自燃\"这两个字，从新能源汽车的字典里彻底抹掉。\"刀片电池随后率先搭载在比亚迪汉 EV 上，并对外开放给丰田、特斯拉等同行。",
+    "summary_en": "On March 29, 2020, Wang personally hosted the launch of the Blade Battery — a long, thin LFP cell that BYD called a structural breakthrough. In the industry's most punishing nail-penetration test, the Blade emitted neither smoke nor fire and stayed at 30–60°C; ternary-lithium cells under the same test exceeded 500°C and burned violently. Wang declared on stage: \"The Blade Battery will completely erase the words 'spontaneous combustion' from the dictionary of new-energy vehicles.\" The Blade debuted in the Han EV and was offered to outside customers including Toyota and Tesla.",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["刀片电池", "LFP", "安全", "汉EV"],
+    "sources": [
+      {
+        "id": "wikipedia-blade-battery",
+        "url": "https://en.wikipedia.org/wiki/BYD_Blade_battery",
+        "kind": "article",
+        "title": "BYD Blade Battery (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.wikipedia.org/wiki/BYD_Blade_battery",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "byd-blade-battery-press",
+        "url": "https://en.byd.com/news/byds-new-blade-battery-set-to-redefine-ev-safety-standards/",
+        "kind": "article",
+        "title": "BYD's New Blade Battery Set to Redefine EV Safety Standards",
+        "publisher": "BYD USA",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "prnewswire-blade-battery",
+        "url": "https://www.prnewswire.com/news-releases/byds-new-blade-battery-set-to-redefine-ev-safety-standards-301031358.html",
+        "kind": "article",
+        "title": "BYD's New Blade Battery Set to Redefine EV Safety Standards",
+        "publisher": "PR Newswire",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2020-07-han-ev-launch",
+    "person_id": "wang",
+    "date": "2020-07-12",
+    "date_precision": "day",
+    "type": "product",
+    "title": "比亚迪汉 EV 正式上市，首款搭载刀片电池的旗舰轿车",
+    "title_en": "BYD Han EV launches — flagship sedan, first model with Blade Battery",
+    "summary": "2020 年 7 月 12 日，比亚迪在深圳举行汉系列上市发布会。汉 EV 顶配版搭载\"刀片电池\"，CLTC 续航 605 公里，0–100km/h 加速 3.9 秒，售价 21.98–27.95 万元——首次让中国自主电动车在 \"BBA 主导的中大型轿车细分市场\" 拿下定价权。汉 EV 上市后连续多月月销破万，成为 BYD 转型的标志性产品，也让\"刀片电池\"和\"垂直整合\"两个概念真正进入主流视野。",
+    "summary_en": "On July 12, 2020, BYD launched the Han series in Shenzhen. The top-trim Han EV — the first car to carry the Blade Battery — delivered 605 km of CLTC range and a 3.9-second 0–100 km/h sprint at CN¥219,800–279,500. It was the first Chinese EV to take pricing power in the premium midsize-sedan segment long dominated by BBA (BMW/Benz/Audi). The Han exceeded 10,000 monthly units for many months running, becoming the flagship that brought \"Blade Battery\" and \"vertical integration\" into the mainstream auto conversation.",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["汉EV", "旗舰", "刀片电池", "BBA"],
+    "sources": [
+      {
+        "id": "byd-han-ev-press",
+        "url": "https://www.byd.com/en/news-list/BYD-Officially-Launches-the-Han-Series-Model.html",
+        "kind": "article",
+        "title": "BYD Officially Launches the Han Series Model",
+        "publisher": "BYD",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-byd-han",
+        "url": "https://en.wikipedia.org/wiki/BYD_Han",
+        "kind": "article",
+        "title": "BYD Han (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2021-byd-semiconductor",
+    "person_id": "wang",
+    "date": "2021-06-30",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "比亚迪半导体启动分拆上市，IGBT 自主可控",
+    "title_en": "BYD Semiconductor files for spin-off IPO — vertical integration into chips",
+    "summary": "2021 年 6 月 30 日，比亚迪发布公告启动子公司\"比亚迪半导体\"分拆上市流程，BYD 持股 72.3%。比亚迪半导体核心业务是车规级 IGBT 芯片——电动车里仅次于电池的关键部件。在中国整车厂普遍依赖英飞凌、ST 进口的背景下，王传福从 2005 年开始布局自研 IGBT，2018 年量产 IGBT 4.0，2021 年 IGBT 5.0 上量，使比亚迪成为唯一打通\"电池+电机+电控+IGBT\"全链条的车厂。该 IPO 后于 2022 年 11 月主动撤回，理由是要把所有产能优先投入扩张。",
+    "summary_en": "On June 30, 2021, BYD filed to spin off BYD Semiconductor (72.3% owned) on the Shenzhen Stock Exchange's ChiNext board — capping a 16-year vertical-integration push into automotive-grade IGBT power chips. While most Chinese automakers depended on Infineon or ST imports, Wang began in-house IGBT R&D in 2005, mass-produced IGBT 4.0 in 2018, and ramped IGBT 5.0 in 2021 — making BYD the only carmaker to vertically own battery + motor + control + IGBT. BYD voluntarily withdrew the IPO in Nov 2022 to redirect all wafer capacity into capacity expansion instead.",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["半导体", "IGBT", "垂直整合", "芯片"],
+    "sources": [
+      {
+        "id": "cnevpost-byd-semi-spinoff",
+        "url": "https://cnevpost.com/2021/10/26/byd-gets-hkexs-nod-to-spin-off-its-semiconductor-unit-to-a-share-listing/",
+        "kind": "article",
+        "title": "BYD gets HKEx's nod to spin off its semiconductor unit to A-share listing",
+        "publisher": "CnEVPost",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "pandaily-byd-semi-terminate",
+        "url": "https://pandaily.com/byd-semiconductor-terminates-ipo-to-prioritize-wafer-production-expansion/",
+        "kind": "article",
+        "title": "BYD Semiconductor Terminates IPO to Prioritize Wafer Production Expansion",
+        "publisher": "Pandaily",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2022-04-stop-ice-production",
+    "person_id": "wang",
+    "date": "2022-04-03",
+    "date_precision": "day",
+    "type": "career",
+    "title": "比亚迪宣布停产纯燃油车，全球首家承诺只做新能源的整车厂",
+    "title_en": "BYD stops all pure-ICE production — first global automaker to do so",
+    "summary": "2022 年 4 月 3 日，比亚迪正式公告 3 月起停止生产纯燃油车，未来产品线只剩纯电（BEV）和插电混动（PHEV/DM）两类。这让比亚迪成为全球首家正式宣布告别燃油车的传统整车厂——比奔驰宣布 2030 全面电动化早 8 年，也比通用、福特等更激进。同月 BYD 销售突破 10.4 万辆，超过特斯拉同期成为全球新能源销冠。王传福这一战略性\"断臂\"决定了 BYD 此后所有资源、产线、组织都向电动化重压，是 \"All-in EV\" 路线的关键转折点。",
+    "summary_en": "On April 3, 2022, BYD formally announced it had stopped producing pure internal-combustion-engine vehicles in March, leaving only battery-electric (BEV) and plug-in hybrid (PHEV/DM) lines — making BYD the first traditional automaker globally to formally exit ICE. (Mercedes-Benz had pledged 2030; BYD did it 8 years earlier, more aggressively than GM or Ford.) That same month BYD sold 104,338 NEVs, overtaking Tesla as the world's #1 NEV seller. Wang's strategic 'amputation' committed every plant, line and dollar to electrification — the All-in EV inflection point.",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["停产燃油车", "All-in EV", "战略转折"],
+    "sources": [
+      {
+        "id": "byd-stop-ice-press",
+        "url": "https://en.byd.com/news/byd-discontinues-gas-only-auto-line-to-focus-on-phev-and-pure-electric-tech/",
+        "kind": "article",
+        "title": "BYD Discontinues Gas-only Auto Line to focus on PHEV and Pure Electric Tech",
+        "publisher": "BYD USA",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "carscoops-byd-stop-ice",
+        "url": "https://www.carscoops.com/2022/04/byd-stops-production-of-ice-only-vehicle-focuses-on-phevs-and-bevs/",
+        "kind": "article",
+        "title": "BYD Stops Production Of ICE-Only Cars, Focuses On PHEVs And EVs",
+        "publisher": "Carscoops",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "carnewschina-byd-end-ice",
+        "url": "https://carnewschina.com/2022/04/04/byd-announce-end-of-ice-vehicle-production-and-new-sales-record/",
+        "kind": "article",
+        "title": "BYD Announce End of ICE Vehicle Production and New Sales Record",
+        "publisher": "CarNewsChina",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2022-08-buffett-begins-selldown",
+    "person_id": "wang",
+    "date": "2022-08-24",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "巴菲特开始逐步减持 BYD H 股",
+    "title_en": "Buffett's Berkshire begins gradual sell-down of BYD",
+    "summary": "2022 年 8 月 24 日，港交所披露文件显示，伯克希尔·哈撒韦首次减持 BYD H 股 133 万股，每股均价 277 港元——这是 2008 年 9 月入股 14 年来的首次抛售。当时 BYD 股价相比成本 8 港元已涨超 30 倍。此后伯克希尔分十余次小幅减持，到 2025 年 9 月清空全部仓位，累计获利约 80 亿美元，约 35 倍回报，巴菲特和已故芒格称为\"最佳中国投资之一\"。王传福对此公开回应：\"这非常正常。\"",
+    "summary_en": "On Aug 24, 2022, HKEx filings revealed Berkshire Hathaway's first BYD trim — 1.33 million H-shares at HK$277 each — the first sale in nearly 14 years since Buffett's 2008 entry at HK$8. The stake had risen ~30× by that point. Berkshire would continue to whittle the position down in a dozen tranches before fully exiting by September 2025, booking roughly $8 billion (~35× return) on the original $230 million — what Buffett and the late Munger called one of their best China investments. Wang's public response: \"It's perfectly normal.\"",
+    "location": "Hong Kong / Omaha, NE",
+    "key": false,
+    "tags": ["伯克希尔", "巴菲特", "减持"],
+    "sources": [
+      {
+        "id": "fortune-buffett-byd-selldown",
+        "url": "https://fortune.com/2022/09/10/warren-buffett-investing-strategy-byd-stock-sale/",
+        "kind": "article",
+        "title": "The unconventional timing of Warren Buffett's sale of BYD stock",
+        "publisher": "Fortune",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "cnbc-buffett-byd-exit-2025",
+        "url": "https://www.cnbc.com/2025/09/21/buffett-munger-byd-exits-stake.html",
+        "kind": "article",
+        "title": "Buffett's Berkshire totally exits its profitable stake in Chinese EV maker bought because of Munger",
+        "publisher": "CNBC",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": ["munger", "buffett"]
+      }
+    ]
+  },
+  {
+    "id": "wang-2023-q4-overtakes-tesla",
+    "person_id": "wang",
+    "date": "2024-01-02",
+    "date_precision": "day",
+    "type": "career",
+    "title": "比亚迪 2023 年第四季度纯电动车销量首次超越特斯拉",
+    "title_en": "BYD overtakes Tesla on quarterly pure-EV sales for the first time (Q4 2023)",
+    "summary": "2024 年 1 月 2 日，比亚迪发布 2023 年产销快报：全年新能源车销量 302.4 万辆（同比 +62%），其中 Q4 单季度纯电动车（BEV）销量 59.5 万辆，首次超过特斯拉同期 48.5 万辆。这意味着特斯拉自 Model S 量产以来近 10 年的全球纯电销冠地位首次易主。王传福用 30 年从镍镉电池小厂走到全球电动车销冠——而且公司同时是垂直整合最深的车厂（电池、电机、IGBT、整车都自产）。次月（2024 年 1 月），媒体将之总结为\"BYD takes Tesla's EV crown\"。",
+    "summary_en": "On Jan 2, 2024, BYD released its full-year report: 3.024 million NEVs sold in 2023 (+62% YoY), with Q4 alone delivering 595,413 pure battery-electric vehicles — finally edging past Tesla's 484,507 BEV deliveries that quarter. It was the first time since the Model S launched (~2012) that Tesla lost the global quarterly BEV crown. Wang had taken BYD from a 20-person NiCd-battery shop in Shenzhen to the global #1 EV maker in 30 years — and the deepest vertically integrated car company in the world (in-house battery, motor, IGBT, vehicle).",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["全球第一", "超越特斯拉", "Q4 2023", "里程碑"],
+    "sources": [
+      {
+        "id": "fortune-byd-tesla-q4-2023",
+        "url": "https://fortune.com/2024/01/02/elon-musk-tesla-q4-production-deliveries-sales-record-byd/",
+        "kind": "article",
+        "title": "No Christmas miracle for Elon Musk as Tesla loses crown as world's largest EV maker to Warren Buffett–backed BYD",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": ["musk"]
+      },
+      {
+        "id": "cnbc-byd-2023-record",
+        "url": "https://www.cnbc.com/2024/01/02/byd-produced-more-than-3-million-cars-in-2023-set-to-beat-tesla.html",
+        "kind": "article",
+        "title": "BYD beats Tesla for a second straight year after producing more than 3 million cars in 2023",
+        "publisher": "CNBC",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "statista-byd-tesla-q4-2023",
+        "url": "https://www.statista.com/chart/31496/global-battery-electric-vehicle-deliveries-sales-tesla-byd/",
+        "kind": "article",
+        "title": "China's BYD Overtakes Tesla in Q4 2023",
+        "publisher": "Statista",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2024-11-18-byd-30th",
+    "person_id": "wang",
+    "date": "2024-11-18",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "比亚迪 30 周年暨第 1000 万辆新能源车下线发布会演讲",
+    "title_en": "Speech at BYD's 30th anniversary & 10 millionth NEV ceremony",
+    "summary": "2024 年 11 月 18 日，比亚迪在深汕特别合作区小漠工业园举行 30 周年暨第 1000 万辆新能源汽车下线仪式，王传福亲自主持并演讲。他第一次完整复盘了\"从 20 人小厂到近百万员工的全球新能源销冠\"30 年的历程，强调贯穿其中的\"敢想、敢干、坚持\"工程师精神。当天 BYD 也成为全球首家累计生产 1000 万辆新能源车的车企。央视、彭博、南华早报等媒体大量报道，B 站官方完整版被反复转载。",
+    "summary_en": "On Nov 18, 2024, BYD held its 30th-anniversary ceremony at the Xiaomo Industrial Park in Shenzhen-Shanwei, marking the rollout of its 10 millionth new-energy vehicle. Wang Chuanfu personally hosted and delivered a speech that, for the first time, comprehensively retold BYD's three-decade journey — from a 20-person workshop to a near-million-employee global NEV leader — repeatedly invoking the engineer's spirit of \"dare to imagine, dare to act, persevere.\" That day BYD became the first automaker in history to cumulatively build 10 million NEVs.",
+    "location": "Shenzhen-Shanwei Special Cooperation Zone, China",
+    "key": true,
+    "tags": ["30周年", "1000万辆", "演讲", "里程碑"],
+    "sources": [
+      {
+        "id": "bilibili-wang-30th-anniv-byd",
+        "url": "https://www.bilibili.com/video/BV1mVSPYWEk4/",
+        "kind": "video",
+        "title": "比亚迪总裁王传福回顾三十年创业历程",
+        "publisher": "比亚迪汽车 (Bilibili)",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "bilibili-wang-30th-press",
+        "url": "https://www.bilibili.com/video/BV1ZkUpYpEcy/",
+        "kind": "video",
+        "title": "发布会：比亚迪成立30周年暨第1000万辆新能源汽车下线发布会 三十而立 感谢同行 王传福",
+        "publisher": "新能车官方 (Bilibili)",
+        "lang": "zh",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "36kr-wang-30-years",
+        "url": "https://eu.36kr.com/en/p/3041711421649161",
+        "kind": "article",
+        "title": "Wang Chuanfu Reviews BYD's 30-Year Entrepreneurship History",
+        "publisher": "36Kr",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-2025-03-17-super-e-platform",
+    "person_id": "wang",
+    "date": "2025-03-17",
+    "date_precision": "day",
+    "type": "product",
+    "title": "发布超级 e 平台，1000kW 闪充实现 5 分钟充 400 公里",
+    "title_en": "Launches Super e-Platform — 1 MW flash charging, 400 km in 5 minutes",
+    "summary": "2025 年 3 月 17 日，王传福亲自主持发布会推出比亚迪\"超级 e 平台\"——首搭于汉 L 和唐 L 两款新车。系统综合电压 1000V，峰值充电功率 1 兆瓦（1000kW），充电速度 2 公里/秒，5 分钟即可补能 400 公里——理论上首次让纯电动车的补能时间逼近燃油车加油。同时电机最高转速 30,000RPM、自研第二代 SiC 碳化硅功率模块。BYD 还宣布将在中国自建超过 4000 座兆瓦级闪充站，这是比亚迪首次自建充电网络。",
+    "summary_en": "On March 17, 2025, Wang personally launched BYD's \"Super e-Platform,\" debuting on the Han L and Tang L. The 1,000-volt system delivers a peak charging power of 1 MW (1000 kW) and 2 km of range per second — 400 km in just 5 minutes, the first mass-production claim that brings EV refueling within striking distance of gasoline. The platform also includes 30,000 RPM motors and BYD's in-house second-gen silicon-carbide (SiC) power modules. BYD will build 4,000+ megawatt flash-charging stations across China — its first proprietary charging network.",
+    "location": "Shenzhen, China",
+    "key": true,
+    "tags": ["超级e平台", "5分钟闪充", "兆瓦级", "SiC"],
+    "sources": [
+      {
+        "id": "bilibili-byd-super-e-platform",
+        "url": "https://www.bilibili.com/video/BV1obXuYbEBi/",
+        "kind": "video",
+        "title": "比亚迪超级e平台发布会，王传福发言完整版（2025年3月17日）",
+        "publisher": "滚了个雪球 (Bilibili)",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "byd-super-e-platform-press",
+        "url": "https://www.byd.com/en/news-list/BYD-Unveils-Super-e-Platform-Megawatt-Flash-Charging-Electric-Vehicles-Matching-Refueling-Speeds.html",
+        "kind": "article",
+        "title": "BYD Unveils Super e-Platform with Megawatt Flash Charging",
+        "publisher": "BYD",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "cnn-byd-5-min-charge",
+        "url": "https://www.cnn.com/2025/03/18/cars/china-byd-supercharging-system-ev-tesla-intl-hnk/index.html",
+        "kind": "article",
+        "title": "Chinese EV giant BYD says new charging system takes five minutes for range of 250 miles",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  },
+  {
+    "id": "wang-cctv-science-evening-2024",
+    "person_id": "wang",
+    "date": "2024-12-31",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "登上央视\"科技之夜\"演讲：从中国制造到中国创造",
+    "title_en": "Speech at CCTV \"Science Evening\" — From Made-in-China to Innovate-in-China",
+    "summary": "2024 年底，王传福受邀登上央视\"科技之夜\"舞台演讲，回顾比亚迪从代工电池到自研刀片电池、DM-i 混动、e 平台等核心技术的历程，提出中国新能源车正从\"组装制造\"迈向\"原创创新\"的新阶段。他特别强调垂直整合的战略价值——\"在不确定的时代，有些事情必须自己掌握\"。视频在 B 站完整版由\"比亚迪汽车\"官方账号发布，播放量数十万。",
+    "summary_en": "In late 2024, Wang Chuanfu took the stage at CCTV's \"Science Evening\" gala to retell BYD's journey from contract battery maker to in-house developer of the Blade Battery, DM-i hybrid system, e-Platform and more — arguing that China's NEV industry has crossed from 'assembly manufacturing' into 'original innovation.' He doubled down on vertical integration: \"In an age of uncertainty, some things you simply must own yourself.\" The full-length speech was published on Bilibili by the official BYD Automobile account.",
+    "location": "Beijing, China",
+    "key": false,
+    "tags": ["央视", "演讲", "科晚", "中国创造"],
+    "sources": [
+      {
+        "id": "bilibili-wang-cctv-keji-zhi-ye",
+        "url": "https://www.bilibili.com/video/BV1UN6JYkEV7/",
+        "kind": "video",
+        "title": "比亚迪总裁王传福央视\"科晚\"演讲完整版回顾",
+        "publisher": "比亚迪汽车 (Bilibili)",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ]
+  }
+]

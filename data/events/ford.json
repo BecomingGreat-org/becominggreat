@@ -11,7 +11,12 @@
     "summary_en": "Henry Ford was born on a farm in Greenfield Township (today's Dearborn area), Michigan, the eldest of six children to William Ford and Mary Litogot Ford. The farmhouse stood at the intersection of Ford Road and Greenfield Road, on land that later became part of Dearborn.",
     "location": "Greenfield Township (now Dearborn), Michigan, USA",
     "key": true,
-    "tags": ["出生", "Michigan", "early-life", "family"],
+    "tags": [
+      "出生",
+      "Michigan",
+      "early-life",
+      "family"
+    ],
     "sources": [
       {
         "id": "wiki-ford-bio",
@@ -30,6 +35,21 @@
         "publisher": "Ford Motor Company",
         "lang": "en",
         "license": "all-rights-reserved"
+      },
+      {
+        "id": "youtube-pbs-american-experience",
+        "url": "https://www.youtube.com/watch?v=AWK0tG_JWIU",
+        "kind": "video",
+        "title": "Henry Ford (2013) | Full Documentary | American Experience",
+        "publisher": "PBS America",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "PBS《American Experience》2013 年制作的完整福特传记纪录片，2 小时全本——讲述他从密歇根农场少年到\"美国 20 世纪最有争议的工业家\"的全过程。",
+        "summary_en": "PBS *American Experience* 2013 full Henry Ford biography (2 hours) — from Michigan farm boy to \"the most controversial American industrialist of the 20th century.\"",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ]
   },
@@ -45,7 +65,11 @@
     "summary_en": "In December 1879, the 16-year-old Ford left his father's farm for Detroit, working in quick succession at the Michigan Car Company, James Flower & Brothers Machine Shop, and Magill Jewelry (repairing watches at night). From 1880 to 1882 he apprenticed at Detroit Dry Dock Company, gaining exposure to valves, engines, and heavy industrial machinery.",
     "location": "Detroit, Michigan, USA",
     "key": true,
-    "tags": ["学徒", "machinist", "Detroit"],
+    "tags": [
+      "学徒",
+      "machinist",
+      "Detroit"
+    ],
     "sources": [
       {
         "id": "wiki-ford-bio",
@@ -79,7 +103,11 @@
     "summary_en": "On April 11, 1888 — also Clara's 22nd birthday — Henry Ford married Clara Jane Bryant at her parents' home in Greenfield, Michigan. The two had met at a New Year's dance in 1885 and become engaged in 1886, but Clara's mother required them to wait two more years. The marriage lasted 59 years until Ford's death, and Clara remained his most important personal counsel.",
     "location": "Greenfield, Michigan, USA",
     "key": true,
-    "tags": ["婚姻", "Clara-Bryant", "personal"],
+    "tags": [
+      "婚姻",
+      "Clara-Bryant",
+      "personal"
+    ],
     "sources": [
       {
         "id": "history-ford-clara",
@@ -113,7 +141,11 @@
     "summary_en": "In 1891, Ford gave up his small lumber business and moved with Clara to Detroit, where he became a night engineer at the Edison Illuminating Company. He was promoted to chief engineer in November 1893, a position that gave him steady income while leaving him free hours to experiment with gasoline engines in a backyard shed.",
     "location": "Detroit, Michigan, USA",
     "key": true,
-    "tags": ["Edison", "engineer", "Detroit"],
+    "tags": [
+      "Edison",
+      "engineer",
+      "Detroit"
+    ],
     "sources": [
       {
         "id": "wiki-ford-bio",
@@ -147,7 +179,11 @@
     "summary_en": "On June 4, 1896, in a shed behind his Detroit home, Ford completed and first test-drove his gasoline-powered Quadricycle. The four-wheeled vehicle used an angle-iron frame, belt drive, and a buggy seat, powered by a two-cylinder 4-horsepower engine with two speeds (10 and 20 mph), no brakes, and no reverse. When finished it was too wide to fit through the shed door, so Ford took an axe to the brick wall to roll it out.",
     "location": "Detroit, Michigan, USA",
     "key": true,
-    "tags": ["Quadricycle", "first-car", "invention"],
+    "tags": [
+      "Quadricycle",
+      "first-car",
+      "invention"
+    ],
     "sources": [
       {
         "id": "wiki-quadricycle",
@@ -181,7 +217,11 @@
     "summary_en": "On August 5, 1899, Ford co-founded the Detroit Automobile Company with investors including Detroit Mayor William Maybury, capitalized at $15,000, with Ford as superintendent earning $150 per month. The company built its first gasoline-powered delivery truck in January 1900, but quality, cost, and design problems doomed it; only about 20 vehicles were produced before it dissolved in January 1901, losing investors $86,000 — Ford's first business failure.",
     "location": "Detroit, Michigan, USA",
     "key": true,
-    "tags": ["Detroit-Automobile-Company", "失败", "first-venture"],
+    "tags": [
+      "Detroit-Automobile-Company",
+      "失败",
+      "first-venture"
+    ],
     "sources": [
       {
         "id": "wiki-detroit-auto",
@@ -215,7 +255,11 @@
     "summary_en": "At 9:30 a.m. on June 16, 1903, Henry Ford and twelve other investors — including the Dodge brothers and banker John S. Gray — signed the articles of incorporation for the Ford Motor Company in Detroit, with $28,000 in cash capital. Gray became the first president while Ford ran production. The company turned profitable within months and paid out nearly 300% in cumulative dividends in two years, becoming the foundation of Ford's life work.",
     "location": "Detroit, Michigan, USA",
     "key": true,
-    "tags": ["Ford-Motor-Company", "founding", "Detroit"],
+    "tags": [
+      "Ford-Motor-Company",
+      "founding",
+      "Detroit"
+    ],
     "sources": [
       {
         "id": "wiki-ford-motor",
@@ -234,6 +278,21 @@
         "publisher": "History.com",
         "lang": "en",
         "license": "all-rights-reserved"
+      },
+      {
+        "id": "youtube-pbs-ch1",
+        "url": "https://www.youtube.com/watch?v=Vcr3YQK0eEY",
+        "kind": "video",
+        "title": "HENRY FORD | Chapter 1 | AMERICAN EXPERIENCE | PBS",
+        "publisher": "American Experience | PBS",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "PBS American Experience 第一章正片，覆盖福特 1903 年创立公司前后的历程。",
+        "summary_en": "Official PBS *American Experience* Chapter 1 covering the period around the 1903 founding of Ford Motor Company.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ]
   },
@@ -249,7 +308,12 @@
     "summary_en": "On October 1, 1908, the first production Ford Model T rolled off the line at the Piquette Avenue Plant in Detroit at $825. Ford set out to build \"a motor car for the great multitude\" — affordable to ordinary working people. Durable, easy to repair, and progressively cheaper, the Model T drew 15,000 orders within two days; by 1918 half the cars on American roads were Model Ts.",
     "location": "Piquette Avenue Plant, Detroit, Michigan, USA",
     "key": true,
-    "tags": ["Model-T", "Tin-Lizzie", "mass-market", "automobile"],
+    "tags": [
+      "Model-T",
+      "Tin-Lizzie",
+      "mass-market",
+      "automobile"
+    ],
     "sources": [
       {
         "id": "wiki-model-t",
@@ -283,7 +347,12 @@
     "summary_en": "On October 7, 1913, Ford Motor Company installed the world's first moving assembly line for full automobile production at the Highland Park plant in Michigan, inspired by meatpacking \"disassembly lines.\" Assembly time per Model T fell from 12.5 hours (728 minutes) to just 93 minutes. The innovation ushered in the era of \"Fordism\" and reshaped global manufacturing for the 20th century.",
     "location": "Highland Park, Michigan, USA",
     "key": true,
-    "tags": ["assembly-line", "Highland-Park", "Fordism", "mass-production"],
+    "tags": [
+      "assembly-line",
+      "Highland-Park",
+      "Fordism",
+      "mass-production"
+    ],
     "sources": [
       {
         "id": "wiki-highland-park",
@@ -317,7 +386,11 @@
     "summary_en": "On January 5, 1914, Ford and vice president James Couzens announced in Detroit that the company's minimum wage would jump from $2.34 for nine hours to $5 for an eight-hour day — nearly doubling pay. Structured as a profit-sharing plan, it was aimed in part at curbing Ford's 370% labor turnover in 1913. Thousands of applicants stormed Detroit in the icy weather; by 1915 turnover had collapsed to 1.4%.",
     "location": "Highland Park, Michigan, USA",
     "key": true,
-    "tags": ["five-dollar-day", "wages", "labor"],
+    "tags": [
+      "five-dollar-day",
+      "wages",
+      "labor"
+    ],
     "sources": [
       {
         "id": "thf-five-dollar-day",
@@ -351,7 +424,12 @@
     "summary_en": "On November 24, 1915, Ford chartered the Norwegian America Line ocean liner Oscar II and invited prominent American pacifists to mediate an end to World War I. The ship sailed from Hoboken, New Jersey on December 4, 1915, watched by about 15,000 spectators. An influenza outbreak struck mid-Atlantic; Ford himself fell ill and returned to the U.S. early. The press mocked it as the \"Ship of Fools,\" yet the venture revealed Ford's intense personal pacifism.",
     "location": "Hoboken, New Jersey, USA",
     "key": true,
-    "tags": ["Peace-Ship", "Oscar-II", "WWI", "pacifism"],
+    "tags": [
+      "Peace-Ship",
+      "Oscar-II",
+      "WWI",
+      "pacifism"
+    ],
     "sources": [
       {
         "id": "wiki-peace-ship",
@@ -385,7 +463,11 @@
     "summary_en": "At President Woodrow Wilson's request, Ford entered both parties' primaries and ran as the Democratic nominee for U.S. Senate from Michigan. On November 5, 1918, he lost to Republican Truman H. Newberry by roughly 2,200 votes. Newberry's massive — and ultimately illegal — campaign spending was later prosecuted by the Department of Justice, igniting a long-running national debate over campaign finance.",
     "location": "Michigan, USA",
     "key": true,
-    "tags": ["Senate", "election", "politics"],
+    "tags": [
+      "Senate",
+      "election",
+      "politics"
+    ],
     "sources": [
       {
         "id": "wiki-1918-mi-senate",
@@ -419,7 +501,12 @@
     "summary_en": "On February 4, 1922, under the influence of his son Edsel, Ford Motor Company purchased the bankrupt Lincoln Motor Company for $8 million. Lincoln had been founded by Cadillac co-founder Henry Leland. Edsel took charge of the brand and rebuilt Lincoln into Ford's premium answer to General Motors' Cadillac, returning it to profit by the end of 1923.",
     "location": "Detroit, Michigan, USA",
     "key": true,
-    "tags": ["Lincoln", "收购", "Edsel", "luxury"],
+    "tags": [
+      "Lincoln",
+      "收购",
+      "Edsel",
+      "luxury"
+    ],
     "sources": [
       {
         "id": "wiki-lincoln-motor",
@@ -453,7 +540,11 @@
     "summary_en": "On May 26, 1927, the 15-millionth Ford Model T rolled off the Highland Park assembly line, ending the legendary car's 19-year run. Henry Ford and his son Edsel were photographed with the final unit. By then the Model T had been steadily losing share to GM's Chevrolet. Ford shuttered its factories to retool for the Model A, temporarily idling some 60,000 workers until production resumed later that year.",
     "location": "Highland Park, Michigan, USA",
     "key": true,
-    "tags": ["Model-T", "milestone", "15-million"],
+    "tags": [
+      "Model-T",
+      "milestone",
+      "15-million"
+    ],
     "sources": [
       {
         "id": "wiki-model-t",
@@ -487,7 +578,12 @@
     "summary_en": "On December 2, 1927, Ford Motor Company publicly unveiled the Model A, with an estimated 10 million people viewing it during the first week and over 400,000 orders within two weeks. Edsel Ford led the styling, giving the car lower, sleeker lines than the Model T and shared no parts with its predecessor. More than 4 million Model A's were built through 1931, helping Ford retake the U.S. sales lead in 1929.",
     "location": "Detroit, Michigan, USA",
     "key": true,
-    "tags": ["Model-A", "Edsel", "successor", "comeback"],
+    "tags": [
+      "Model-A",
+      "Edsel",
+      "successor",
+      "comeback"
+    ],
     "sources": [
       {
         "id": "wiki-model-a",
@@ -521,7 +617,12 @@
     "summary_en": "On October 21, 1929 — exactly 50 years after Edison's incandescent lamp — Ford hosted the \"Light's Golden Jubilee\" in Dearborn, Michigan, formally dedicating the Edison Institute, later known as Greenfield Village and the Henry Ford Museum. Attendees included President Hoover, Thomas Edison himself, Orville Wright, Eve Curie, and John D. Rockefeller Jr. The museum opened to the public on June 22, 1933, and is today one of America's largest indoor-outdoor history museums.",
     "location": "Dearborn, Michigan, USA",
     "key": true,
-    "tags": ["Henry-Ford-Museum", "Greenfield-Village", "Edison", "philanthropy"],
+    "tags": [
+      "Henry-Ford-Museum",
+      "Greenfield-Village",
+      "Edison",
+      "philanthropy"
+    ],
     "sources": [
       {
         "id": "wiki-thf",
@@ -540,6 +641,66 @@
         "publisher": "The Henry Ford",
         "lang": "en",
         "license": "all-rights-reserved"
+      },
+      {
+        "id": "youtube-lights-golden-pt1",
+        "url": "https://www.youtube.com/watch?v=nHEGLHP0muo",
+        "kind": "video",
+        "title": "Light's Golden Anniversary, Part 1 (1929) | Archive Footage",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "亨利·福特博物馆官方频道发布的 1929 年 \"光之金禧\" 庆典原始档案影像第一部分。福特、爱迪生、胡佛总统、奥维尔·莱特等人现场。",
+        "summary_en": "Henry Ford Museum's official archival footage of the October 21, 1929 \"Light's Golden Jubilee\" Part 1 — Ford, Edison, President Hoover, Orville Wright on stage.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "youtube-lights-golden-pt3",
+        "url": "https://www.youtube.com/watch?v=eTMoaeax--Y",
+        "kind": "video",
+        "title": "Light's Golden Anniversary, Part 3 (1929) | Archive Footage",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "光之金禧庆典原始档案影像第三部分，亨利·福特博物馆官方频道。",
+        "summary_en": "Light's Golden Jubilee archival footage Part 3, from the Henry Ford Museum's official channel.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-lights-golden-radio",
+        "url": "https://archive.org/details/lights-golden-jubilee",
+        "kind": "audio",
+        "title": "Light's Golden Jubilee (NBC Radio Broadcast, October 21, 1929)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1929 年 10 月 21 日 NBC 广播电台对光之金禧的实况转播音频，包含胡佛总统、爱因斯坦、爱迪生、亨利·福特和埃德塞尔·福特的真实声音。",
+        "summary_en": "October 21, 1929 NBC live radio broadcast of Light's Golden Jubilee — actual voices of Hoover, Einstein, Edison, Henry & Edsel Ford.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-menlo-park-1932",
+        "url": "https://archive.org/details/fc-fc-909",
+        "kind": "video",
+        "title": "Reminiscences of Menlo Park (1932)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1932 年纪录片，介绍福特修复爱迪生 Menlo Park 实验室并迁入 Greenfield Village 的过程。美国国家档案馆 FedFlix 收藏。",
+        "summary_en": "1932 documentary about Ford's restoration of Edison's Menlo Park lab and its relocation to Greenfield Village. National Archives FedFlix collection.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
       }
     ]
   },
@@ -555,7 +716,12 @@
     "summary_en": "On March 31, 1932, Ford unveiled the Model 18 powered by its new Flathead V-8 engine — the first V8 light and cheap enough to go in a sub-$500 family car. The 221-cubic-inch (3.6 L) engine cast crankcase and cylinder banks as one piece and produced about 65 horsepower. Built through 1953, the Flathead V-8 became a favorite among mechanics and hot-rodders and was Ford's key counterattack against Chevrolet during the Great Depression.",
     "location": "Dearborn, Michigan, USA",
     "key": true,
-    "tags": ["V-8", "Flathead", "engine", "mass-market"],
+    "tags": [
+      "V-8",
+      "Flathead",
+      "engine",
+      "mass-market"
+    ],
     "sources": [
       {
         "id": "wiki-flathead-v8",
@@ -589,7 +755,12 @@
     "summary_en": "On May 26, 1937, UAW organizers Walter Reuther and Richard Frankensteen were leafleting at the overpass leading into Ford's River Rouge complex in Dearborn. As a Detroit News photographer asked them to pose, around 40 men from Ford's \"Service Department\" attacked from behind, injuring 16 (including 7 women). Photographs smuggled out by the photographer ran nationally, swung public opinion against Ford, and became a defining moment in American labor history.",
     "location": "River Rouge, Dearborn, Michigan, USA",
     "key": true,
-    "tags": ["Battle-of-the-Overpass", "UAW", "Reuther", "labor"],
+    "tags": [
+      "Battle-of-the-Overpass",
+      "UAW",
+      "Reuther",
+      "labor"
+    ],
     "sources": [
       {
         "id": "wiki-battle-overpass",
@@ -623,7 +794,12 @@
     "summary_en": "On July 30, 1938 — Ford's 75th birthday — Karl Kapp, German consul in Cleveland, and Fritz Heller, German consular representative in Detroit, presented Henry Ford with the Grand Cross of the Supreme Order of the German Eagle in Dearborn. The decoration, created by Hitler in 1937 for foreigners, made Ford its first American recipient. Hitler praised Ford in Mein Kampf and kept his portrait next to his desk. Ford insisted that accepting the medal \"does not… involve any sympathy on my part with Nazism.\"",
     "location": "Dearborn, Michigan, USA",
     "key": true,
-    "tags": ["German-Eagle", "Nazi", "controversy", "antisemitism"],
+    "tags": [
+      "German-Eagle",
+      "Nazi",
+      "controversy",
+      "antisemitism"
+    ],
     "sources": [
       {
         "id": "wiki-order-german-eagle",
@@ -657,7 +833,12 @@
     "summary_en": "On April 1, 1941, Ford fired all eight members of the UAW grievance committee; 50,000 River Rouge workers walked out and shut the plant down. Under intense pressure from his wife Clara — who reportedly threatened to leave him — Ford relented. On June 20, 1941, Ford Motor Company signed its first contract with the UAW-CIO, becoming the last major U.S. automaker to recognize organized labor.",
     "location": "Dearborn, Michigan, USA",
     "key": true,
-    "tags": ["UAW", "labor", "contract", "Clara-Ford"],
+    "tags": [
+      "UAW",
+      "labor",
+      "contract",
+      "Clara-Ford"
+    ],
     "sources": [
       {
         "id": "history-ford-uaw",
@@ -691,7 +872,12 @@
     "summary_en": "After his son Edsel died in 1943, the 80-year-old Henry Ford briefly resumed the presidency but was too frail to run the company, which drifted toward bankruptcy. His wife Clara and daughter-in-law Eleanor jointly threatened to sell their three-quarters of the stock unless he stepped aside. On September 21, 1945, the 28-year-old grandson Henry Ford II was sworn in as president of Ford Motor Company and launched a sweeping postwar modernization.",
     "location": "Dearborn, Michigan, USA",
     "key": true,
-    "tags": ["succession", "Henry-Ford-II", "retirement", "family"],
+    "tags": [
+      "succession",
+      "Henry-Ford-II",
+      "retirement",
+      "family"
+    ],
     "sources": [
       {
         "id": "wiki-henry-ford-ii",
@@ -725,7 +911,12 @@
     "summary_en": "Henry Ford died of a cerebral hemorrhage at 11:40 p.m. on April 7, 1947, at his Fair Lane estate in Dearborn, aged 83. Heavy rain had flooded the Rouge River and knocked out the estate's power and telephone that night, forcing the chauffeur to drive for a doctor. Clara was at his bedside. His funeral was held at St. Paul's Episcopal Cathedral in Detroit, with thousands paying respects at Greenfield Village.",
     "location": "Fair Lane, Dearborn, Michigan, USA",
     "key": true,
-    "tags": ["death", "Fair-Lane", "Dearborn", "funeral"],
+    "tags": [
+      "death",
+      "Fair-Lane",
+      "Dearborn",
+      "funeral"
+    ],
     "sources": [
       {
         "id": "wiki-ford-bio",
@@ -744,6 +935,21 @@
         "publisher": "The Henry Ford",
         "lang": "en",
         "license": "all-rights-reserved"
+      },
+      {
+        "id": "youtube-fair-lane-newsreel",
+        "url": "https://www.youtube.com/watch?v=MyOglKpj8kA",
+        "kind": "video",
+        "title": "Henry Ford at Fair Lane / Model T / Ford Memorial Newsreel",
+        "publisher": "PeriscopeFilm",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "新闻片合集，包含 1939 年世博会、1941 年费尔莱因庄园和 1947 年福特葬礼的纪念片段。",
+        "summary_en": "Newsreel compilation including 1939 World's Fair, 1941 Fair Lane footage, and the 1947 Henry Ford memorial.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ]
   }

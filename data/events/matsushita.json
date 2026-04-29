@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "matsushita-1894-11-27-birth",
+    "person_id": "matsushita",
+    "date": "1894-11-27",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于和歌山县和佐村",
+    "title_en": "Born in Wasamura, Wakayama Prefecture",
+    "summary": "1894 年 11 月 27 日，松下幸之助出生于日本和歌山县海草郡和佐村（今和歌山市的一部分）。父亲松下政楠是当地小地主，母亲名为德枝（とく枝），幸之助是家中三男五女中的幼子。和佐村是位于纪之川下游的农村，松下家在当时是村中相对富裕的人家。然而这种安稳并未持续多久——几年之后家道中落，把九岁的幸之助推向了独自闯荡大阪的道路。",
+    "summary_en": "Konosuke Matsushita was born on November 27, 1894 in Wasamura, Wakayama Prefecture (now part of Wakayama City), the youngest of eight children of small landowner Masakusu Matsushita and his wife Tokue. Wasamura was a farming village along the Kinokawa river, and the Matsushita family was relatively prosperous at the time. That stability would not last — within a few years the family would be ruined, and 9-year-old Konosuke would be sent alone to Osaka.",
+    "location": "Wasamura, Wakayama, Japan",
+    "key": true,
+    "tags": [
+      "出生",
+      "和歌山",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-matsushita-en",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+        "kind": "article",
+        "title": "Kōnosuke Matsushita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "konosuke-bio-1894-1918",
+        "url": "https://konosuke-matsushita.com/en/biography/from1894to1918.php",
+        "kind": "article",
+        "title": "Life of Konosuke Matsushita (1894-)",
+        "publisher": "Konosuke Matsushita Official Website / PHP Institute",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1899-family-ruined",
+    "person_id": "matsushita",
+    "date": "1899-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "父亲在大阪堂岛米市投机失败，家道中落",
+    "title_en": "Father loses fortune speculating on the Osaka rice market",
+    "summary": "1899 年前后，松下幸之助的父亲政楠在大阪堂岛米市的稻米期货投机中惨败，把祖传田产几乎赔光。松下家被迫卖掉房屋离开和佐村，搬到和歌山市内开木屐店糊口，但生意很快也撑不下去。更不幸的是这段时间里，幸之助的两个哥哥与一位姐姐相继因疾病去世。父亲的失败连同家中的死亡，让幸之助成为这个家最早被推向社会谋生的人——他后来在自传里写到，正是这段创伤让他终生敬畏「在世上没有便宜事」这条道理。",
+    "summary_en": "Around 1899, Matsushita's father Masakusu lost the family's land in a speculative bet on rice futures at Osaka's Dojima Rice Exchange. The Matsushitas were forced to sell their home in Wasamura, move into Wakayama city and run a wooden-clog (geta) store, which itself soon collapsed. During the same period two of Konosuke's older brothers and an elder sister died of illness. The combined loss of fortune and family pushed Konosuke into the workforce as a child, and he later wrote that this trauma instilled the lifelong conviction that 'in this world there is no such thing as a free lunch.'",
+    "location": "Wakayama, Japan",
+    "key": true,
+    "tags": [
+      "家庭破产",
+      "米相场",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-matsushita-ja",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E4%B8%8B%E5%B9%B8%E4%B9%8B%E5%8A%A9",
+        "kind": "article",
+        "title": "松下幸之助 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "ja",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://ja.wikipedia.org/wiki/%E6%9D%BE%E4%B8%8B%E5%B9%B8%E4%B9%8B%E5%8A%A9",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "php-konosuke-walks-2",
+        "url": "https://www.php.co.jp/php/topics/konosuke/article-30191.php",
+        "kind": "article",
+        "title": "父親の失敗――この世にぼろいことはない",
+        "publisher": "月刊PHP / PHP Institute",
+        "lang": "ja",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1904-hibachi-apprentice",
+    "person_id": "matsushita",
+    "date": "1904-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "九岁辍学，赴大阪宫田火钵店当学徒",
+    "title_en": "Age 9, leaves school to apprentice at the Miyata hibachi shop in Osaka",
+    "summary": "1904 年，9 岁的松下幸之助还差几个月才小学毕业，就被父亲从和歌山叫到大阪，送进船场附近的宫田火钵店做学徒。他独自坐火车离开母亲，正式踏入打工人的世界。在火钵店里他要打扫店铺、给师傅磨烟管、推车送货，一天工作十几个小时，月薪几乎为零，只换得三餐与铺位。这段经历后来被松下反复用来教育员工：「我从九岁开始就在做生意，所以一切都是从客户的脸色里学来的。」",
+    "summary_en": "In 1904, just months before he was due to graduate from elementary school, 9-year-old Konosuke was summoned by his father from Wakayama to Osaka and apprenticed to the Miyata Hibachi (charcoal brazier) Shop in the Senba merchant district. He boarded the train alone, leaving his mother behind, and entered working life. At the shop he swept floors, polished the master's smoking pipes, and pushed delivery carts ten-plus hours a day for room and board. Matsushita later told employees this was his real school: 'I have been in business since age nine — everything I know I learned by reading customers' faces.'",
+    "location": "Senba, Osaka, Japan",
+    "key": true,
+    "tags": [
+      "学徒",
+      "宫田火钵店",
+      "大阪"
+    ],
+    "sources": [
+      {
+        "id": "konosuke-bio-1894-1918",
+        "url": "https://konosuke-matsushita.com/en/biography/from1894to1918.php",
+        "kind": "article",
+        "title": "Life of Konosuke Matsushita (1894-)",
+        "publisher": "Konosuke Matsushita Official Website / PHP Institute",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "panasonic-founder-story1-01",
+        "url": "https://panasonic.net/history/founder/chapter1/story1-01.html",
+        "kind": "article",
+        "title": "The Founder Konosuke Matsushita — Chapter 1",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1905-godai-bicycle-shop",
+    "person_id": "matsushita",
+    "date": "1905-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "转入船场五代自行车店，接触最早的工业制品",
+    "title_en": "Apprentices at the Godai Bicycle Shop in Senba",
+    "summary": "1905 年，宫田火钵店因生意不振歇业，幸之助被介绍到同在船场东区的五代自行车店继续当学徒。自行车在明治末年的大阪还是新潮的舶来品，幸之助在店里学会了组装、修理、跟车间师傅打交道，第一次接触到「工业产品」这个新世界。店主五代音吉对这个聪明伶俐的少年颇为赏识，甚至允许他跟着自己进出客户家。后来松下回忆说，正是这五年自行车店的经历，让他对机械和电器产生了终生兴趣。",
+    "summary_en": "In 1905, when the Miyata hibachi shop went out of business, Konosuke was placed with the Godai Bicycle Shop in Higashi-ku, Senba. Bicycles were still an exotic foreign-made product in late-Meiji Osaka, and at Godai he learned assembly, repair and how to handle customers, getting his first exposure to the world of industrial goods. Owner Otokichi Godai grew fond of the bright apprentice and even let him accompany him on customer calls. Matsushita later said these five years at the bicycle shop seeded his lifelong fascination with machines and electricity.",
+    "location": "Senba, Osaka, Japan",
+    "key": false,
+    "tags": [
+      "学徒",
+      "五代自行车店",
+      "大阪"
+    ],
+    "sources": [
+      {
+        "id": "konosuke-bio-1894-1918",
+        "url": "https://konosuke-matsushita.com/en/biography/from1894to1918.php",
+        "kind": "article",
+        "title": "Life of Konosuke Matsushita (1894-)",
+        "publisher": "Konosuke Matsushita Official Website / PHP Institute",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-matsushita-en",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+        "kind": "article",
+        "title": "Kōnosuke Matsushita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1910-osaka-electric-light",
+    "person_id": "matsushita",
+    "date": "1910-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "15 岁进入大阪电灯公司当配线工",
+    "title_en": "Joins the Osaka Electric Light Company as a wiring assistant at age 15",
+    "summary": "1910 年，看到大阪市内电车线路逐渐普及、电气时代正在到来，15 岁的松下幸之助毅然辞掉自行车店的工作，应聘进入大阪电灯株式会社（今关西电力前身），成为一名室内配线助手。这是他第一份「电气」工作，也是他人生轨迹的关键拐点。短短七年里，他从最低级的助手晋升到 22 岁就成为公司最年轻的检查员，全大阪有名。在这里他亲手处理过的灯头、插座、配线盒，让他看清「家庭电气化」的庞大商机，并萌生自己创业、改良电器配件的念头。",
+    "summary_en": "In 1910, watching electric streetcars spread through Osaka and sensing that the electric age had arrived, 15-year-old Konosuke quit the bicycle shop and joined Osaka Electric Light Company (predecessor of Kansai Electric Power) as an interior wiring assistant. It was his first 'electrical' job and the turning point of his life. Over the next seven years he rose from rookie helper to the youngest electrical inspector the company had ever appointed at age 22. Handling sockets, lampholders and junction boxes every day, he came to see the enormous coming market for household electrification — and began to imagine designing better wiring devices on his own.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "大阪电灯",
+      "配线工",
+      "电气"
+    ],
+    "sources": [
+      {
+        "id": "konosuke-bio-1894-1918",
+        "url": "https://konosuke-matsushita.com/en/biography/from1894to1918.php",
+        "kind": "article",
+        "title": "Life of Konosuke Matsushita (1894-)",
+        "publisher": "Konosuke Matsushita Official Website / PHP Institute",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-matsushita-en",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+        "kind": "article",
+        "title": "Kōnosuke Matsushita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1915-09-04-marries-mumeno",
+    "person_id": "matsushita",
+    "date": "1915-09-04",
+    "date_precision": "day",
+    "type": "life",
+    "title": "与井植むめの结婚",
+    "title_en": "Marries Mumeno Iue",
+    "summary": "1915 年 9 月 4 日，20 岁的松下幸之助迎娶 19 岁的井植むめの（Mumeno Iue）。婚事由幸之助的姐姐撮合——むめの是姐姐家女佣的妹妹，淡路岛出身。结婚时幸之助还在大阪电灯公司当工，两人在大阪租下两间小屋开始共同生活。むめの不仅持家，更在三年后丈夫辞职创业时变成松下电器的「联合创始人」：白天替丈夫做配件、晚上记账，几乎参与了草创期的每一个环节。她娘家的弟弟井植岁男（后来三洋电机创始人）也因这层关系来到松下身边——这场看似普通的婚礼，奠定了日后两个家族电器王国的起点。",
+    "summary_en": "On September 4, 1915, the 20-year-old Konosuke married 19-year-old Mumeno Iue. The match was arranged through his elder sister — Mumeno, originally from Awaji Island, was the younger sister of his sister's housemaid. At the time Konosuke was still working at Osaka Electric Light, and the couple set up house in two rented rooms in Osaka. Mumeno would soon become more than a wife: when Konosuke left to start his own business three years later, she effectively co-founded Matsushita Electric, hand-assembling sockets by day and keeping the books by night. Her younger brother Toshio Iue — later founder of Sanyo Electric — also followed her into Matsushita's circle. The quiet wedding seeded two future electronics empires.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "婚姻",
+      "井植むめの",
+      "井植岁男"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-matsushita-en",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+        "kind": "article",
+        "title": "Kōnosuke Matsushita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "mumeno-wikipedia",
+        "url": "https://simple.wikipedia.org/wiki/Mumeno_Matsushita",
+        "kind": "article",
+        "title": "Mumeno Matsushita (Simple English Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://simple.wikipedia.org/wiki/Mumeno_Matsushita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1918-03-07-founds-matsushita-electric",
+    "person_id": "matsushita",
+    "date": "1918-03-07",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在大阪大开町创立松下电气器具制作所",
+    "title_en": "Founds Matsushita Electric Housewares Manufacturing Works in Osaka",
+    "summary": "1918 年 3 月 7 日，松下幸之助、22 岁的妻子むめの、以及 15 岁的妻弟井植岁男一同搬进大阪市北区西野田大开町的一栋两层租赁住宅，把楼下三个房间改成工坊，安上两台小型冲床——这一天成为松下电器（即今日 Panasonic）的创业纪念日。他们以 100 日元资本起步，主打两件松下亲手设计的小产品：「插头」与「双灯插座」。这两件产品比当时市面上的同类货便宜 3-5 成且质量更好，年底员工就增加到 20 人。后人把这间狭小的两层屋称为「Panasonic 的诞生地」。",
+    "summary_en": "On March 7, 1918, Konosuke Matsushita, his 22-year-old wife Mumeno, and his 15-year-old brother-in-law Toshio Iue moved into a rented two-story house at 2-chome Ohiraki, Nishi-Noda, Kita-ku, Osaka. They converted three first-floor rooms into a workshop, installed two small hand presses — and that day became the founding day of Matsushita Electric Housewares Manufacturing Works (today's Panasonic). With 100 yen of capital, they launched two products Konosuke had designed himself: an attachment plug and a duplex lamp socket, both 30-50% cheaper and better-made than what was on the market. By year's end the staff had grown to twenty. The cramped house is remembered as the birthplace of Panasonic.",
+    "location": "Ohiraki, Nishi-Noda, Osaka, Japan",
+    "key": true,
+    "tags": [
+      "创业",
+      "松下电气器具制作所",
+      "Panasonic"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-history-1918",
+        "url": "https://holdings.panasonic/jp/corporate/about/history/chronicle/1918.html",
+        "kind": "article",
+        "title": "1918年（大正7年） — パナソニックの歴史",
+        "publisher": "Panasonic Holdings",
+        "lang": "ja",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-panasonic",
+        "url": "https://en.wikipedia.org/wiki/Panasonic",
+        "kind": "article",
+        "title": "Panasonic (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Panasonic",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1923-bullet-bicycle-lamp",
+    "person_id": "matsushita",
+    "date": "1923-01-01",
+    "date_precision": "year",
+    "type": "product",
+    "title": "推出炮弹型自行车电池灯，第一款爆款产品",
+    "title_en": "Launches the bullet-shaped battery-powered bicycle lamp",
+    "summary": "1923 年，松下电器推出松下亲手设计的「炮弹型自行车用电池灯」——这是松下第一款真正的爆款。当时市面上的自行车电池灯只能持续 2-3 小时，松下花六个月做了无数原型，终于做出一款用三节干电池可亮 30-40 小时的灯。最初零售商不肯进货，松下让批发商免费分发样品再后付款，靠口碑打开市场，一年内月销超过 1 万只。这款灯是日本国民第一次大规模认识「松下」二字，也开启了松下后来标志性的「电池+灯泡」业务版图。",
+    "summary_en": "In 1923 Matsushita Electric launched its first true blockbuster: a bullet-shaped, battery-powered bicycle lamp Matsushita designed himself. Existing battery lamps lasted only 2-3 hours; he spent six months building prototypes until he produced one that ran 30-40 hours on three dry cells. When retailers refused to stock it, Matsushita gave wholesalers free samples to distribute on consignment — within a year monthly sales exceeded 10,000 units. It was the first product to make 'Matsushita' a household name across Japan and launched the company's signature dry-cell-and-lamp franchise.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "炮弹型自行车灯",
+      "电池",
+      "首款爆款"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-history-1923",
+        "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1923.html",
+        "kind": "article",
+        "title": "1923 — Panasonic Group History",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "panasonic-founder-1923",
+        "url": "https://holdings.panasonic/global/corporate/about/history/konosuke-matsushita/story2-02.html",
+        "kind": "article",
+        "title": "1923 — The Founder, Konosuke Matsushita",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1927-national-brand",
+    "person_id": "matsushita",
+    "date": "1927-04-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "推出方形手提灯，启用「ナショナル / National」品牌",
+    "title_en": "Launches the square handheld lamp under the new \"National\" brand",
+    "summary": "1927 年 4 月，松下推出他设计的方型手提电池灯，并第一次启用「ナショナル（National，国民）」这个品牌名——意为「人人都用得起的国民产品」。为了打开市场，他做了一件当时罕见的事：让批发商免费向 1 万家零售店各发一盏样品，让消费者自己掏钱买电池试用，灯卖出去之后再结款。这场赌博般的「先用后付」营销震动了整个日本流通界，新灯第一年就突破月销 3 万只。「ナショナル」从此成为松下旗下最重要的家用电器子品牌，沿用了七十余年，直到 2008 年才与 Panasonic 一同收编。",
+    "summary_en": "In April 1927 Matsushita launched a square-bodied handheld battery lamp and used the brand 'National' (ナショナル) for the first time — meaning 'a product for the whole nation.' To break open the market, he ran a then-unprecedented promotion: he had wholesalers ship one free sample to each of 10,000 retailers, letting customers buy batteries themselves to test the lamp, with payment due only after a sale. The gamble shook Japan's distribution industry — within a year monthly sales hit 30,000 units. 'National' became Matsushita's flagship household-appliance sub-brand for over seventy years, only being retired in 2008 when the company unified everything under Panasonic.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "National 品牌",
+      "营销",
+      "手提灯"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-history-1927",
+        "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1927.html",
+        "kind": "article",
+        "title": "1927 — Panasonic Group History",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-matsushita-en",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+        "kind": "article",
+        "title": "Kōnosuke Matsushita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1929-renamed-electric-mfg",
+    "person_id": "matsushita",
+    "date": "1929-03-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "更名「松下电器制作所」，颁布纲领・信条",
+    "title_en": "Renames the firm \"Matsushita Electric Manufacturing Works\" and issues the Management Objective and Company Creed",
+    "summary": "1929 年 3 月，松下把公司从「松下电气器具制作所」更名为「松下电器制作所」，并第一次写下成文的「纲领」（経営基本方針）和「信条」（社是），向 200 名员工宣读。纲领明确公司不仅生产电器，更要「致力于产业人之本分，谋社会生活之改善与向上」——这是日本企业史上最早把社会使命写进章程的尝试之一。同年 10 月美国华尔街崩盘，全球经济进入大萧条；松下在风暴前夜留下的这份纲领，后来被认为是他能挺过 1929-32 年危机、并在 1932 年提出 250 年长期使命的精神根基。",
+    "summary_en": "In March 1929 Matsushita renamed the firm from 'Matsushita Electric Housewares Manufacturing Works' to 'Matsushita Electric Manufacturing Works' and, for the first time, drafted a written Management Objective (綱領) and Company Creed (社是), reading them out to his 200 employees. The objective stated the company existed not merely to manufacture electrical goods but 'to fulfill the duty of industrialists and contribute to the improvement and advancement of social life' — one of the earliest examples in Japanese business history of an explicit social mission embedded in corporate doctrine. Seven months later Wall Street crashed; this written creed is widely seen as the spiritual scaffolding that let Matsushita survive 1929-32 and articulate his famous 250-year mission in 1932.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "更名",
+      "纲领",
+      "信条"
+    ],
+    "sources": [
+      {
+        "id": "konosuke-bio-1920-1973",
+        "url": "https://konosuke-matsushita.com/en/biography/from1920to1973.php",
+        "kind": "article",
+        "title": "Life of Konosuke Matsushita (1920-)",
+        "publisher": "Konosuke Matsushita Official Website / PHP Institute",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-panasonic",
+        "url": "https://en.wikipedia.org/wiki/Panasonic",
+        "kind": "article",
+        "title": "Panasonic (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Panasonic",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1932-05-05-tap-water-philosophy",
+    "person_id": "matsushita",
+    "date": "1932-05-05",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "在大阪中央电气俱乐部宣布「自来水哲学」与 250 年使命",
+    "title_en": "Declares the \"Tap Water Philosophy\" and 250-year mission at the Central Electric Club, Osaka",
+    "summary": "1932 年 5 月 5 日，松下在大阪中央电气俱乐部召集 200 名员工，发表他一生中最重要的一篇演讲，宣告「松下电器之真使命」。他提出著名的「自来水哲学」（水道哲学）：制造业者的天职是把生活用品像自来水一样大量、廉价地供应给社会，让贫穷从世间消失。他更进一步抛出震动全场的 250 年长期使命计划，把这 250 年分成 25 年×10 个阶段。当天被定为「创业纪念日」，1932 年也被定为松下「真正使命」的元年。这篇演讲奠定了松下「经营即修行」的理念，也成为后来日本式经营哲学的源头之一。",
+    "summary_en": "On May 5, 1932, at the Central Electric Club in Osaka, Matsushita gathered 200 employees and gave the most important speech of his life — declaring 'the true mission of Matsushita Electric.' He laid out his now-famous 'Tap Water Philosophy' (水道哲学): the duty of a manufacturer is to flood society with goods so abundant and inexpensive that they flow like tap water, until poverty itself disappears. He then stunned the room by setting a 250-year corporate plan, divided into ten 25-year phases. He designated May 5 as the company's official Founding Day and 1932 as 'Year One of the True Mission.' The speech codified Matsushita's view of management as a moral practice and became a foundational text of postwar Japanese business philosophy.",
+    "location": "Central Electric Club, Osaka, Japan",
+    "key": true,
+    "tags": [
+      "水道哲学",
+      "250年使命",
+      "演讲"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-stories-episode05",
+        "url": "https://news.panasonic.com/global/stories/17953",
+        "kind": "article",
+        "title": "Konosuke Matsushita 'Starting Anew as a Humble Merchant' — Stories Behind Panasonic History Episode 05",
+        "publisher": "Panasonic Newsroom Global",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "panasonic-tap-water-philosophy",
+        "url": "https://news.panasonic.com/global/stories/17211",
+        "kind": "article",
+        "title": "Tap Water Philosophy — Future Vision: Tatsuo Ogawa",
+        "publisher": "Panasonic Newsroom Global",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "embed_url": "https://www.youtube.com/watch?v=4dUHJcw4QD4"
+      },
+      {
+        "id": "matsushita-250-year-plan",
+        "url": "https://manabink.com/en/2020/12/27/a-long-term-vision-for-the-future-a-message-for-mankind-5000-years-from-now-by-konosuke-matsushita/",
+        "kind": "article",
+        "title": "Konosuke Matsushita's 250 Year Plan",
+        "publisher": "manabink.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1933-divisional-system",
+    "person_id": "matsushita",
+    "date": "1933-05-01",
+    "date_precision": "month",
+    "type": "other",
+    "title": "首创「事业部制」组织结构，开日本企业先河",
+    "title_en": "Introduces the divisional (jigyobu) management system — a first in Japan",
+    "summary": "1933 年 5 月，松下把公司按产品线拆成三个事业部：第一事业部（收音机）、第二事业部（电池与灯泡）、第三事业部（配线器具・合成树脂・电热器）。每个事业部都拥有自己的研发、生产和销售，自主核算盈亏。这是「事业部制」第一次在日本企业出现，比通用电气（GE）的相同制度早了好几年——松下后来回忆说，他当时只是因为产品线太多自己一个人管不过来才被迫分权，但这一无心之举却让中层管理者第一次拥有真正的经营责任，也让松下电器在战时与战后都比对手能更快培养出独立的「经营人才」。",
+    "summary_en": "In May 1933 Matsushita reorganized his company along product lines into three semi-autonomous divisions: First Division (radios), Second Division (lamps and dry cells), and Third Division (wiring devices, synthetic resins, electric-heat products). Each had its own R&D, production and sales, with full P&L responsibility. It was the first divisional structure (事業部制) ever deployed in Japan, predating GE's adoption of the same model. Matsushita later said he simply had too many product lines to manage alone, but the 'accidental' decentralization gave middle managers real ownership for the first time and gave Matsushita Electric a perpetual pipeline of independent operating talent that postwar rivals struggled to match.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "事业部制",
+      "组织设计",
+      "管理创新"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-founder-1933",
+        "url": "https://holdings.panasonic/global/corporate/about/history/konosuke-matsushita/story2-07.html",
+        "kind": "article",
+        "title": "1933 — The Founder, Konosuke Matsushita",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "panasonic-history-1933",
+        "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1933.html",
+        "kind": "article",
+        "title": "1933 — Corporate History",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1935-incorporated-mei",
+    "person_id": "matsushita",
+    "date": "1935-12-15",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "改组为「松下电器产业株式会社」，设九大事业部",
+    "title_en": "Incorporated as Matsushita Electric Industrial Co., Ltd. (the Panasonic predecessor)",
+    "summary": "1935 年 12 月 15 日，松下电器制作所在事业部制运行两年后正式改组为股份制公司，更名为「松下电器产业株式会社（Matsushita Electric Industrial Co., Ltd., MEI）」，并把原来的三个事业部进一步拆分扩展为九个分社。这一名字一直沿用了 73 年，直到 2008 年才统一为 Panasonic Corporation。这次改组也确立了松下作为 holding-style 母公司、各分社独立经营的格局，是 1933 年事业部制改革的法律化与规模化。",
+    "summary_en": "On December 15, 1935 — two years after the divisional system began running — Matsushita Electric Manufacturing Works was formally reorganized into a joint-stock company and renamed Matsushita Electric Industrial Co., Ltd. (MEI). The original three divisions were expanded into nine subsidiary companies. The new name would last 73 years, only being unified into 'Panasonic Corporation' in 2008. The 1935 reorganization also locked in Matsushita's holding-company-style structure with autonomous divisional subsidiaries — the legal and operational maturation of the 1933 divisional reform.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "松下电器产业",
+      "股份制",
+      "MEI"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-panasonic",
+        "url": "https://en.wikipedia.org/wiki/Panasonic",
+        "kind": "article",
+        "title": "Panasonic (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Panasonic",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "panasonic-newsroom-today-history-12-15",
+        "url": "https://news.panasonic.com/global/stories/2015/44481.html",
+        "kind": "article",
+        "title": "Konosuke Matsushita Today in History December 15",
+        "publisher": "Panasonic Newsroom Global",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1946-11-03-php-institute",
+    "person_id": "matsushita",
+    "date": "1946-11-03",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "创立 PHP 研究所，倡导「Peace, Happiness through Prosperity」",
+    "title_en": "Founds the PHP Institute — Peace, Happiness through Prosperity",
+    "summary": "1946 年 11 月 3 日，二战刚结束、日本满目疮痍，松下在京都创立 PHP 研究所，把全副重心从经营暂时移开，思考人类如何在物质与精神两方面恢复平衡。「PHP」三个字母取自 Peace and Happiness through Prosperity（通过繁荣实现和平与幸福）。次年 3 月发行月刊《PHP》创刊号，至今出版不断。研究所之后成为松下个人思想最重要的发表平台与版税来源，他后半生几乎所有著作（《人间を考える》《素直な心になるために》《実践経営哲学》《Quest for Prosperity》等）都通过 PHP 出版，全球累计销量超过 7000 万册。",
+    "summary_en": "On November 3, 1946 — Japan still in postwar ruins — Matsushita founded the PHP Institute in Kyoto, temporarily stepping back from running the company to think about how humanity could rebuild a balance between material and spiritual life. The acronym PHP stands for 'Peace and Happiness through Prosperity.' In March 1947 the institute launched its flagship monthly magazine PHP (still published). PHP became the primary platform for nearly every book Matsushita wrote in the second half of his life — *Thinking About Human Beings*, *Practical Management Philosophy*, *Quest for Prosperity* and many more — with combined global sales exceeding 70 million copies.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "PHP研究所",
+      "和平",
+      "出版"
+    ],
+    "sources": [
+      {
+        "id": "php-institute-en",
+        "url": "https://www.php.co.jp/en/think.php",
+        "kind": "article",
+        "title": "PHP Institute, Inc. — About PHP",
+        "publisher": "PHP Institute",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "konosuke-about-php",
+        "url": "https://konosuke-matsushita.com/en/about-php/",
+        "kind": "article",
+        "title": "About PHP — Konosuke Matsushita Official Website",
+        "publisher": "PHP Institute",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1947-saved-from-purge",
+    "person_id": "matsushita",
+    "date": "1947-05-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "1.5 万员工联署请愿，让 GHQ 撤回「财阀放逐」处分",
+    "title_en": "15,000 employees petition GHQ to overturn his zaibatsu purge",
+    "summary": "1946 年松下被驻日盟军总司令部（GHQ）列入财阀放逐名单，被勒令辞去松下电器一切职务，理由是公司战时为军方生产了无线电与零件。松下电器原本被列入财阀解体名单，公司面临被拆解的命运。面对此景，1946 年成立的松下劳动工会、加上经销商网络，做了一件几乎史无前例的事——15,000 名员工和家属联名签署请愿书，向 GHQ 申诉「松下是公司复兴的关键人物，他被驱逐就等于公司被毁灭」。这种工会站出来保护社长的现象让 GHQ 大感意外，1947 年 5 月 GHQ 罕见地撤回了对松下的放逐令，让他和董事会得以留任。这次「员工救老板」的事件后来被视为日本式劳资关系的标志性瞬间。",
+    "summary_en": "In 1946 the Allied General Headquarters (GHQ) added Matsushita to the zaibatsu purge list and ordered him to resign from every position at Matsushita Electric, citing the company's wartime production of radios and parts for the military. The company itself was slated for breakup. In response, the newly formed Matsushita Labor Union — together with the company's dealer network — did something almost unprecedented: 15,000 employees and family members signed a petition arguing that 'Matsushita is the heart of our reconstruction; to remove him is to destroy the company.' SCAP officials, who were used to unions lobbying *for* their bosses' dismissal, were stunned. In May 1947 GHQ took the rare step of reversing its order, letting Matsushita and his directors stay on. The 'employees rescuing their boss' episode became a foundational moment of postwar Japanese labor-management culture.",
+    "location": "Osaka / Tokyo (GHQ), Japan",
+    "key": true,
+    "tags": [
+      "GHQ",
+      "财阀放逐",
+      "工会请愿"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-matsushita-en",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+        "kind": "article",
+        "title": "Kōnosuke Matsushita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "panasonic-history-1946",
+        "url": "https://www.panasonic.com/global/corporate/history/chronicle/1946.html",
+        "kind": "article",
+        "title": "1946 — Corporate History",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1956-five-year-plan",
+    "person_id": "matsushita",
+    "date": "1956-01-01",
+    "date_precision": "year",
+    "type": "speech",
+    "title": "宣布五年内销售额翻四倍的扩张计划",
+    "title_en": "Announces a five-year plan to quadruple sales",
+    "summary": "1956 年初，正当日本政府宣布「战后已经结束」，全社会还在讨论复兴是否到了瓶颈时，松下却向全公司抛出一份震惊业界的五年中期计划：五年内年销售额提升 4 倍、员工数量增加 60%、资本金从 30 亿日元提升到 100 亿日元。当员工们怀疑能否完成时，松下淡淡地说：「成功是确定的，因为这些数字代表的是大众与我们之间无形契约的需求。」结果他在 4 年多的时间就提前完成了这套计划——这场宣告也成为日本企业史上最早的现代「中期经营计划」之一，比此后流行的日本式三年/五年计划早了十几年。",
+    "summary_en": "In early 1956 — just as the Japanese government was declaring 'the postwar is over' and society was debating whether reconstruction had hit a ceiling — Matsushita stunned his industry by announcing a mid-term plan: in five years he would quadruple annual sales, increase headcount by 60%, and raise capital from 3 billion yen to 10 billion yen. When employees questioned whether it could be done, Matsushita answered, 'Success is guaranteed, because these numbers represent the desires of the masses, with whom we have an invisible contract.' He hit every target in just over four years. The announcement is considered one of the earliest modern 'mid-term plans' in Japanese corporate history — predating by more than a decade the standardized 3-year and 5-year plans that became Japanese-style management's hallmark.",
+    "location": "Osaka, Japan",
+    "key": false,
+    "tags": [
+      "五年计划",
+      "战后增长",
+      "中期经营计划"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-founder-1956",
+        "url": "https://holdings.panasonic/global/corporate/about/history/konosuke-matsushita/story3-05.html",
+        "kind": "article",
+        "title": "1956 — The Founder, Konosuke Matsushita",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "panasonic-stories-episode06",
+        "url": "https://news.panasonic.com/global/stories/18369",
+        "kind": "article",
+        "title": "Konosuke Matsushita 'With a Heart Willing to Learn, the World Becomes Your Teacher' — Episode 06",
+        "publisher": "Panasonic Newsroom Global",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1959-09-meca-america",
+    "person_id": "matsushita",
+    "date": "1959-09-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "在纽约成立松下美国公司（MECA），首家海外销售公司",
+    "title_en": "Establishes Matsushita Electric Corporation of America (MECA) in New York",
+    "summary": "1959 年 9 月，64 岁的松下在纽约成立松下美国公司（Matsushita Electric Corporation of America，MECA），作为公司战后第一家海外销售子公司。MECA 选址纽约第五大道，1963 年成为新落成的泛美大厦（Pan Am Building）的首批租户之一。日本国内品牌叫「ナショナル」，但因为美国早已有同名公司，松下索性启用一个新品牌「Panasonic」（pan = all + sonic = sound）专攻海外，这后来反过来成为整个集团的全球品牌。松下叮嘱赴美管理团队：「不要把日本的做法搬过去——要去做美国消费者真正想要的产品。」",
+    "summary_en": "In September 1959, the 64-year-old Matsushita established Matsushita Electric Corporation of America (MECA) in New York — the company's first postwar overseas sales subsidiary. MECA opened on Fifth Avenue and in 1963 became one of the founding tenants of the brand-new Pan Am Building. At home the brand was 'National,' but because that name was already taken in America, Matsushita coined a new export brand: 'Panasonic' (from *pan* = all + *sonic* = sound). The export brand would eventually swallow the company itself. Matsushita's instruction to his American team was simple: 'Do not import the Japanese way — make the products American customers actually want.'",
+    "location": "New York, NY, USA",
+    "key": true,
+    "tags": [
+      "MECA",
+      "美国",
+      "Panasonic"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-founder-1959",
+        "url": "https://holdings.panasonic/global/corporate/about/history/konosuke-matsushita/story3-08.html",
+        "kind": "article",
+        "title": "1959 — The Founder, Konosuke Matsushita",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "encyclopedia-meca",
+        "url": "https://www.encyclopedia.com/economics/economics-magazines/matsushita-electric-corporation-america",
+        "kind": "article",
+        "title": "Matsushita Electric Corporation of America",
+        "publisher": "Encyclopedia.com / Gale",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1961-steps-down-president",
+    "person_id": "matsushita",
+    "date": "1961-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "辞去社长职务，由女婿松下正治继任，自己升任会长",
+    "title_en": "Steps down as president; son-in-law Masaharu Matsushita succeeds him",
+    "summary": "1961 年，66 岁的松下幸之助辞去松下电器产业株式会社社长职务，升任董事会会长（chairman）。他的女婿松下正治（原姓平田，入赘后改姓松下）接任社长，高桥荒太郎从副社长升任副会长辅佐两人。这是日本战后大企业最早的「创始人主动让位」之一。松下幸之助的解释非常坦率：「我决定，是时候让我从社长位置上后退一步，作为会长更安静地参与公司经营了。」从此他把更多精力转向 PHP 研究所、写作与教育公益事业，但仍然牢牢掌控着公司大方向。",
+    "summary_en": "In 1961 the 66-year-old Konosuke Matsushita stepped down as president of Matsushita Electric Industrial and moved up to become chairman of the board. His son-in-law Masaharu Matsushita (born Hirata, who had taken the Matsushita surname upon marriage) took over as the company's second president, with Arataro Takahashi promoted from senior vice president to vice chairman. It was one of postwar Japan's earliest voluntary founder-succession transitions. Konosuke's own words were direct: 'I have decided that the time is right for me to step back from the presidency and, in the chair's seat, take a quieter role in the company's management.' From then on he devoted increasing energy to the PHP Institute, writing, and public education — while still keeping firm hold of the company's strategic direction.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "继任",
+      "松下正治",
+      "会长"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-history-1961",
+        "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1961.html",
+        "kind": "article",
+        "title": "1961 — Panasonic Group History",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-masaharu",
+        "url": "https://en.wikipedia.org/wiki/Masaharu_Matsushita",
+        "kind": "article",
+        "title": "Masaharu Matsushita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Masaharu_Matsushita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1973-07-retires-chairman",
+    "person_id": "matsushita",
+    "date": "1973-07-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "78 岁辞去会长职务，转任「相谈役」",
+    "title_en": "Retires as chairman at age 78, becomes Executive Adviser",
+    "summary": "1973 年 7 月，公司创业 55 周年纪念日上，78 岁的松下宣布卸任董事会会长，改任无固定职责的「相谈役（Executive Adviser）」。社长仍然由女婿松下正治担任，会长由副会长高桥荒太郎接任。松下当天在员工面前坦言：「我已经将近 80 岁。过去这 55 年里，我想做的几乎都做完了。」自此他完全退出公司日常经营，把全部精力投入 PHP 研究所、写作与即将成立的松下政经塾。这次退休被认为是日本财界少见的「干净的退场」——他没有像许多创始人那样到死还把持权力。",
+    "summary_en": "In July 1973, on the company's 55th anniversary, the 78-year-old Matsushita announced he was retiring as chairman of the board to become Executive Adviser (相談役), a role with no fixed responsibilities. His son-in-law Masaharu Matsushita continued as president, and vice-chairman Arataro Takahashi was elevated to chairman. Speaking to staff that day, Konosuke said simply: 'I am almost 80 years old. In these 55 years, I have done nearly everything I set out to do.' He withdrew completely from day-to-day operations and poured his energy into the PHP Institute, writing, and the upcoming Matsushita Institute of Government and Management. The handover is regarded as one of postwar Japan's rare 'clean exits' — Matsushita refused to be one of the founders who clung to power until death.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "退休",
+      "相谈役",
+      "55周年"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-history-1973",
+        "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1973.html",
+        "kind": "article",
+        "title": "1973 — Panasonic Group History",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "konosuke-bio-1920-1973",
+        "url": "https://konosuke-matsushita.com/en/biography/from1920to1973.php",
+        "kind": "article",
+        "title": "Life of Konosuke Matsushita (1920-)",
+        "publisher": "Konosuke Matsushita Official Website / PHP Institute",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1979-matsushita-seikei-juku",
+    "person_id": "matsushita",
+    "date": "1979-06-21",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "84 岁出资 70 亿日元创办松下政经塾，培养政治领袖",
+    "title_en": "At age 84 founds the Matsushita Institute of Government and Management with ¥7 billion of his own money",
+    "summary": "1979 年 6 月，84 岁的松下幸之助拿出个人财产 70 亿日元，在神奈川县茅崎市创立「松下政経塾」（Matsushita Institute of Government and Management，简称 MSKJ），目的是培养下一代日本政治与公共领袖。他对当时日本政界「世袭政治家」越来越多的现象深感担忧，希望通过严格的住宿制三年期培训，让平民出身的年轻人也能成为政治家。松下亲自参与遴选首届塾生，并和他们同住几个月。MSKJ 后来培养出包括野田佳彦、玄叶光一郎、原口一博、前原诚司等多位国会议员、部长乃至首相，成为日本政治史上独一无二的私立政治学校。",
+    "summary_en": "In June 1979 the 84-year-old Matsushita put up 7 billion yen of his personal wealth to establish the Matsushita Institute of Government and Management (松下政経塾, Matsushita Seikei Juku, or MSKJ) in Chigasaki, Kanagawa, dedicated to training the next generation of Japan's political and public leaders. He had grown alarmed at the rise of hereditary politicians in postwar Japan and wanted a rigorous three-year residential program through which talented commoners — not just sons of MPs — could enter public life. Matsushita personally helped pick the first cohort and lived alongside them for periods. MSKJ has since produced multiple Diet members and cabinet ministers, including Prime Minister Yoshihiko Noda, making it the most influential private political training academy in Japanese history.",
+    "location": "Chigasaki, Kanagawa, Japan",
+    "key": true,
+    "tags": [
+      "松下政経塾",
+      "教育",
+      "政治"
+    ],
+    "sources": [
+      {
+        "id": "mskj-en",
+        "url": "https://www.mskj.or.jp/en/index.html",
+        "kind": "article",
+        "title": "The Matsushita Institute of Government and Management",
+        "publisher": "Matsushita Institute of Government and Management",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "mskj-founder-jp",
+        "url": "https://www.mskj.or.jp/about/founder.html",
+        "kind": "article",
+        "title": "松下幸之助とは | 松下政経塾",
+        "publisher": "Matsushita Institute of Government and Management",
+        "lang": "ja",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-mskj",
+        "url": "https://simple.wikipedia.org/wiki/The_Matsushita_Institute_of_Government_and_Management",
+        "kind": "article",
+        "title": "Matsushita Institute of Government and Management (Simple English Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://simple.wikipedia.org/wiki/The_Matsushita_Institute_of_Government_and_Management",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1988-quest-for-prosperity",
+    "person_id": "matsushita",
+    "date": "1988-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "出版自传《Quest for Prosperity》（道をひらく系列总结）",
+    "title_en": "Publishes the autobiography \"Quest for Prosperity\"",
+    "summary": "1988 年，93 岁的松下出版英文自传《Quest for Prosperity: The Life of a Japanese Industrialist》（PHP Institute），同年也有日语版本。这本书是松下生前最后一部完整的回忆录，把他从 9 岁当学徒、1918 年两层楼起家、1932 年提出「自来水哲学」、战后重建、PHP 研究所、松下政経塾这一系列经历整理成完整的人生叙事。同时期他还在持续出版《実践経営哲学》《人を活かす経営》等管理思想著作，使他的「日本式经营哲学」得以完整传给世界。这部自传出版后不到一年半，松下便辞世。",
+    "summary_en": "In 1988 the 93-year-old Matsushita published his English-language autobiography *Quest for Prosperity: The Life of a Japanese Industrialist* (PHP Institute), with a Japanese edition the same year. It was the last complete memoir he would write, weaving the full arc of his life — apprenticed at nine, founding Matsushita Electric in a two-story rented house in 1918, declaring the Tap Water Philosophy in 1932, the postwar rescue, the PHP Institute, the Seikei Juku — into a single narrative. In the same window he continued publishing management treatises like *Practical Management Philosophy* (実践経営哲学) and *Management That Brings Out the Best in People*, finally fixing his 'Japanese-style management philosophy' in writing for the world. Less than 18 months after the autobiography appeared, Matsushita died.",
+    "location": "Tokyo / Osaka, Japan",
+    "key": false,
+    "tags": [
+      "自传",
+      "Quest for Prosperity",
+      "PHP"
+    ],
+    "sources": [
+      {
+        "id": "archive-quest-for-prosperity",
+        "url": "https://archive.org/details/questforprosperi0000mats",
+        "kind": "book",
+        "title": "Quest for Prosperity: The Life of a Japanese Industrialist",
+        "publisher": "PHP Institute / Internet Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "googlebooks-practical-mgmt-philosophy",
+        "url": "https://books.google.com/books/about/Practical_Management_Philosophy.html?id=KW5GAwAAQBAJ",
+        "kind": "book",
+        "title": "Practical Management Philosophy (実践経営哲学)",
+        "publisher": "PHP Institute / Google Books",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "matsushita-1989-04-27-death",
+    "person_id": "matsushita",
+    "date": "1989-04-27",
+    "date_precision": "day",
+    "type": "life",
+    "title": "因肺炎在大阪辞世，享年 94 岁",
+    "title_en": "Dies of pneumonia in Osaka, age 94",
+    "summary": "1989 年 4 月 27 日上午 10 时 06 分，松下幸之助因肺炎在大阪松下纪念医院辞世，享年 94 岁。他长期患有慢性肺疾，最后三年几乎都在医院度过。去世时个人资产约 30 亿美元，他亲手创办的松下电器年营业额已突破 420 亿美元，是世界最大的家用电器制造商之一。日本政府追授他一等旭日大绶章；美国总统乔治·H·W·布什、日本首相竹下登均发来唁电。葬礼按神道教仪式举行，超过 2 万名员工、政界、商界人士前来送别。媒体称他是「20 世纪日本最伟大的企业家」，「経営の神様」（经营之神）的称号也从此盖棺定论。",
+    "summary_en": "At 10:06 AM on April 27, 1989, Konosuke Matsushita died of pneumonia at Matsushita Memorial Hospital in Osaka, age 94. He had suffered chronic lung problems and spent his last three years largely in hospital. At his death his personal assets were estimated at US$3 billion and the company he founded reached $42 billion in annual revenue, one of the world's largest electronics makers. The Japanese government posthumously awarded him the Grand Cordon of the Order of the Rising Sun; condolences arrived from U.S. President George H. W. Bush and Prime Minister Noboru Takeshita. His Shinto-rite funeral was attended by over 20,000 employees, politicians and business leaders. Headlines called him 'the greatest Japanese entrepreneur of the 20th century,' and the title 経営の神様 — 'God of Management' — was sealed into history.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "去世",
+      "经营之神",
+      "肺炎"
+    ],
+    "sources": [
+      {
+        "id": "panasonic-history-1989",
+        "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1989.html",
+        "kind": "article",
+        "title": "1989 — Panasonic Group History",
+        "publisher": "Panasonic Holdings",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "upi-matsushita-dies",
+        "url": "https://www.upi.com/Archives/1989/04/27/Founder-of-Japans-Matsushita-Electric-dies/7268609652800/",
+        "kind": "article",
+        "title": "Founder of Japan's Matsushita Electric dies",
+        "publisher": "UPI Archives",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-matsushita-en",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+        "kind": "article",
+        "title": "Kōnosuke Matsushita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  }
+]

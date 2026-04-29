@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "leijun-1969-12-16-birth",
+    "person_id": "leijun",
+    "date": "1969-12-16",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于湖北仙桃",
+    "title_en": "Born in Xiantao, Hubei",
+    "summary": "雷军出生于湖北省仙桃市，父母均为教师，家境普通。童年时对电子产品着迷，喜欢拆装收音机，并在父亲鼓励下用电池、灯泡和木盒做出了村里的第一盏电灯。他对动手实验和工程的兴趣，从这里萌芽。",
+    "summary_en": "Lei Jun was born in Xiantao, Hubei Province, China. Both parents were schoolteachers in modest circumstances. As a child he was fascinated by electronics, taking apart and reassembling radios, and reportedly built the first electric lamp in his village using batteries, a bulb, and a homemade wooden box — the first sign of the engineering instinct that would define his later career.",
+    "location": "Xiantao, Hubei, China",
+    "key": true,
+    "tags": [
+      "出生",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-leijun-bio",
+        "url": "https://en.wikipedia.org/wiki/Lei_Jun",
+        "kind": "article",
+        "title": "Lei Jun (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Lei_Jun",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-1987-09-wuhan-university",
+    "person_id": "leijun",
+    "date": "1987-09-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "进入武汉大学计算机系",
+    "title_en": "Enters Wuhan University to study Computer Science",
+    "summary": "1987 年从湖北省沔阳中学（现仙桃中学）毕业后，雷军考入武汉大学计算机系。在武大他读到《硅谷之火》，被乔布斯等硅谷传奇深深震撼，从此立志做出一家伟大的科技公司。他用两年时间修完所有学分，1991 年毕业获得计算机科学学士学位。多年后他以个人 13 亿元人民币捐款回馈母校，是武大史上最大单笔捐赠。",
+    "summary_en": "After graduating from Mianyang High School in Hubei in 1987, Lei Jun enrolled in the Computer Science department of Wuhan University. While there he read the Chinese translation of *Fire in the Valley*, which planted the seed of building a great technology company. Famously, he completed all of his bachelor's-degree credits in just two years and graduated in 1991. Decades later, in 2023, he would donate a record CNY 1.3 billion (~US$183 million) to his alma mater.",
+    "location": "Wuhan University, Wuhan, Hubei",
+    "key": true,
+    "tags": [
+      "求学",
+      "武汉大学",
+      "硅谷之火"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-leijun-bio",
+        "url": "https://en.wikipedia.org/wiki/Lei_Jun",
+        "kind": "article",
+        "title": "Lei Jun (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Lei_Jun",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": "雷军在 2023 年度演讲《成长》中详细回忆了武大经历"
+  },
+  {
+    "id": "leijun-1992-joins-kingsoft",
+    "person_id": "leijun",
+    "date": "1992-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入金山软件，成为第六号员工",
+    "title_en": "Joins Kingsoft as employee No. 6",
+    "summary": "1992 年，金山软件创始人、'中国第一程序员'求伯君（WPS 1.0 作者）在北大附近请雷军吃了一顿烤鸭，把他招进金山，成为公司第六号员工。求伯君是雷军最重要的导师之一。雷军在金山一干就是 16 年，从工程师做到总经理、总裁，再到 CEO。这段经历让他亲历中国软件业从盗版围剿到互联网时代的全部变迁。",
+    "summary_en": "In 1992, Kingsoft founder Qiu Bojun — 'China's No. 1 programmer' and author of WPS 1.0 — recruited Lei Jun at a Peking duck dinner near Peking University. Lei joined as employee #6. He would spend the next sixteen years at Kingsoft, rising from engineer to general manager to president to CEO, witnessing China's software industry go from piracy crisis to the dawn of the internet era.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "金山软件",
+      "求伯君",
+      "职业起点"
+    ],
+    "sources": [
+      {
+        "id": "asiafinancial-kingsoft-story",
+        "url": "https://www.asiafinancial.com/the-story-of-kingsoft-a-chinese-microsoft",
+        "kind": "article",
+        "title": "The story of Kingsoft, a 'Chinese Microsoft'",
+        "publisher": "Asia Financial",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-leijun-bio",
+        "url": "https://en.wikipedia.org/wiki/Lei_Jun",
+        "kind": "article",
+        "title": "Lei Jun (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Lei_Jun",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-1998-kingsoft-ceo",
+    "person_id": "leijun",
+    "date": "1998-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "28 岁出任金山 CEO",
+    "title_en": "Becomes CEO of Kingsoft at age 28",
+    "summary": "1998 年，年仅 28 岁的雷军升任金山软件 CEO。他领导金山从一家几乎被微软 Office 和盗版逼到墙角的公司，转型为产品线涵盖 WPS 办公套件、金山词霸、金山毒霸、剑侠情缘等网游的多元化软件公司。他后来回忆这段经历是'人生中最艰难的几年'，但也铸就了他对软件商业化、组织管理的深刻理解。",
+    "summary_en": "In 1998, at just 28, Lei Jun was promoted to CEO of Kingsoft. He led the company through one of its hardest stretches — caught between Microsoft Office's dominance and rampant piracy — and pivoted Kingsoft into a multi-product software house spanning WPS Office, Kingsoft Dictionary, Kingsoft Antivirus, and the *JX Online* MMO franchise. Lei would later describe these years as his most difficult, but they shaped his lifelong understanding of product, organization, and Chinese software economics.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "金山软件",
+      "CEO"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-leijun-bio",
+        "url": "https://en.wikipedia.org/wiki/Lei_Jun",
+        "kind": "article",
+        "title": "Lei Jun (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Lei_Jun",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "kingsoft-board-leijun",
+        "url": "https://kingsoftcorporation.gcs-web.com/board-member/jun-lei",
+        "kind": "article",
+        "title": "Jun LEI — Board Member, Kingsoft Corporation",
+        "publisher": "Kingsoft Corporation Investor Relations",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2000-joyo-founded",
+    "person_id": "leijun",
+    "date": "2000-05-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "创立卓越网（Joyo.com）",
+    "title_en": "Founds Joyo.com",
+    "summary": "2000 年，雷军在主业金山之外联合创立卓越网，主打中文图书电商，对标当时刚起步的亚马逊。卓越很快成为中国最大的图书音像在线零售商，与当当并列双雄。这是雷军第一次真正深入互联网消费业务，也为他后来在小米采用'电商+硬件'模式埋下伏笔。",
+    "summary_en": "While still running Kingsoft, Lei Jun co-founded Joyo.com in 2000 — a Chinese-language online retailer for books, music, and video, modelled on the early Amazon. Joyo quickly became, along with Dangdang, one of China's two largest online media retailers. It was Lei's first deep operating experience in internet consumer commerce, and the foundation for the e-commerce-plus-hardware model he would later deploy at Xiaomi.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "卓越网",
+      "电商",
+      "创业"
+    ],
+    "sources": [
+      {
+        "id": "joyo-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joyo.com",
+        "kind": "article",
+        "title": "Joyo.com (Amazon China) — Wikipedia",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Joyo.com",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2004-08-amazon-acquires-joyo",
+    "person_id": "leijun",
+    "date": "2004-08-19",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "亚马逊 7,500 万美元收购卓越网",
+    "title_en": "Amazon acquires Joyo.com for $75 million",
+    "summary": "2004 年 8 月 19 日，亚马逊宣布以约 7,500 万美元（约 7,200 万现金 + 300 万股票期权）收购卓越网，更名为'卓越亚马逊'，后来再改名'亚马逊中国'。这是亚马逊进入中国市场的入口，也是雷军作为天使/早期创业者的第一次重要退出。这笔钱、加上之后他持续做天使投资（YY、UC 浏览器、凡客等），让他有底气在 40 岁后从零再创业。",
+    "summary_en": "On August 19, 2004, Amazon.com announced its acquisition of Joyo.com for roughly US$75 million (about $72M cash + $3M in options). Joyo was rebranded first as 'Joyo Amazon' and later 'Amazon China', becoming Amazon's entry point into China. The exit gave Lei Jun his first major payday and — together with later angel investments in YY, UCWeb, Vancl and others — the financial cushion he needed to start over from scratch in his forties.",
+    "location": "Beijing / Seattle, WA",
+    "key": true,
+    "tags": [
+      "卓越网",
+      "亚马逊",
+      "退出",
+      "并购"
+    ],
+    "sources": [
+      {
+        "id": "amazon-joyo-press-release",
+        "url": "https://press.aboutamazon.com/2004/8/amazon-com-to-acquire-joyo-com-limited",
+        "kind": "article",
+        "title": "Amazon.com to Acquire Joyo.com Limited",
+        "publisher": "Amazon Press Center",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://press.aboutamazon.com/2004/8/amazon-com-to-acquire-joyo-com-limited",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "amazon-joyo-sec-filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312504143496/dex991.htm",
+        "kind": "document",
+        "title": "Press Release dated August 19, 2004 — Amazon.com to Acquire Joyo.com",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2007-10-09-kingsoft-ipo",
+    "person_id": "leijun",
+    "date": "2007-10-09",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "金山软件在港交所上市",
+    "title_en": "Kingsoft IPOs on Hong Kong Stock Exchange",
+    "summary": "2007 年 10 月 9 日，雷军带领金山软件在香港联交所主板挂牌上市（股票代码 3888.HK）。从 1992 年加入到 IPO 敲钟，他用了整整 15 年。两个多月后的 12 月 20 日，他以'健康原因'辞去金山总裁兼 CEO 职务。多年后他坦言，这段时间陷入了人生第一次重大低谷，他需要时间重新思考自己想做什么。",
+    "summary_en": "On October 9, 2007, Lei Jun took Kingsoft public on the main board of the Hong Kong Stock Exchange (HK 3888). It was the IPO he had spent fifteen years working toward. Just over two months later, on December 20, 2007, he resigned as president and CEO of Kingsoft, citing 'health reasons.' Years later he would acknowledge that he had hit the first major low point of his life, and needed time to rethink what he actually wanted to build.",
+    "location": "Hong Kong",
+    "key": true,
+    "tags": [
+      "金山软件",
+      "IPO",
+      "辞职"
+    ],
+    "sources": [
+      {
+        "id": "kingsoft-2007-annual-report",
+        "url": "https://ir.kingsoft.com/static-files/606f2920-d8da-4f66-b9cd-78c5187a4f2d",
+        "kind": "document",
+        "title": "Kingsoft Corporation 2007 Annual Report",
+        "publisher": "Kingsoft Corporation Investor Relations",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-leijun-bio",
+        "url": "https://en.wikipedia.org/wiki/Lei_Jun",
+        "kind": "article",
+        "title": "Lei Jun (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Lei_Jun",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2010-04-06-xiaomi-founded",
+    "person_id": "leijun",
+    "date": "2010-04-06",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在北京中关村喝小米粥创立小米",
+    "title_en": "Founds Xiaomi in Beijing's Zhongguancun over a bowl of millet porridge",
+    "summary": "2010 年 4 月 6 日清晨，40 岁的雷军和七位联合创始人——林斌（前 Google 中国工程研究院副院长）、周光平（前 Motorola 北京 R&D 高管）、刘德、黎万强（前金山词霸总经理）、黄江吉、洪锋——在北京中关村银谷大厦的一间办公室里喝下一锅小米粥，宣告小米公司成立。公司取名'小米'寓意'佛家一粒粟中藏世界'，也暗含 'Mi = Mobile Internet / Mission Impossible' 的双关。",
+    "summary_en": "On the morning of April 6, 2010, the 40-year-old Lei Jun and seven co-founders — Lin Bin (former VP of Google China's engineering institute), Zhou Guangping (Motorola Beijing R&D senior director), Liu De, Li Wanqiang (former GM of Kingsoft Dictionary), Huang Jiangji, and Hong Feng — drank a pot of millet (xiaomi) porridge together in a small office in Beijing's Zhongguancun, formally founding Xiaomi. The name evokes a Buddhist line about 'a single grain of millet containing the universe' and doubles as a backronym for 'Mobile Internet / Mission Impossible'.",
+    "location": "Yingu Building, Zhongguancun, Beijing",
+    "key": true,
+    "tags": [
+      "小米",
+      "创立",
+      "联合创始人"
+    ],
+    "sources": [
+      {
+        "id": "xiaomi-founder-page",
+        "url": "https://www.mi.com/global/about/founder/",
+        "kind": "article",
+        "title": "About — Founder | Xiaomi Global",
+        "publisher": "Xiaomi Corporation",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.mi.com/global/about/founder/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "xiaomi-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xiaomi",
+        "kind": "article",
+        "title": "Xiaomi (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Xiaomi",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2011-08-16-mi1-launch",
+    "person_id": "leijun",
+    "date": "2011-08-16",
+    "date_precision": "day",
+    "type": "product",
+    "title": "在北京 798 发布初代小米手机 Mi 1",
+    "title_en": "Launches Mi 1, the first Xiaomi phone, at Beijing's 798 Art District",
+    "summary": "2011 年 8 月 16 日，雷军在北京 798 艺术中心面对约 800 名媒体和米粉，发布小米第一款智能手机 Mi 1。售价 1,999 元人民币——比同等配置的 iPhone 便宜一半，比当时主流国产机便宜近一半。Mi 1 搭载高通双核 1.5GHz 处理器、1GB RAM，运行基于 Android 深度定制的 MIUI。开放预订 34 小时即斩获 30 万台订单，验证了'高性价比 + 互联网直销'模式。这场发布会几乎是中国版的乔布斯式 Keynote，奠定了之后所有小米发布会的模板。",
+    "summary_en": "On August 16, 2011, Lei Jun unveiled Xiaomi's first smartphone, the Mi 1, before roughly 800 media members and fans at Beijing's 798 Art Zone. Priced at CNY 1,999 — about half the price of iPhones with similar specs and well below leading domestic brands — the Mi 1 ran a deeply customized Android skin (MIUI) on a 1.5 GHz dual-core Qualcomm chip with 1 GB of RAM. Pre-orders hit 300,000 units in 34 hours, validating the 'high specs at low prices, sold direct online' model. The launch was, in effect, China's first Jobs-style consumer-tech keynote, and the template for every Xiaomi event since.",
+    "location": "798 Art District, Beijing",
+    "key": true,
+    "tags": [
+      "Mi 1",
+      "发布会",
+      "小米手机"
+    ],
+    "sources": [
+      {
+        "id": "mi1-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xiaomi_Mi_1",
+        "kind": "article",
+        "title": "Xiaomi Mi 1 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Xiaomi_Mi_1",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "gizchina-mi1-13years",
+        "url": "https://www.gizchina.com/xiaomi/xiaomi-marks-13-years-since-launching-its-first-phone-the-mi-1",
+        "kind": "article",
+        "title": "Xiaomi Marks 13 Years Since Launching Its First Phone: The Mi 1",
+        "publisher": "Gizchina",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2014-12-xiaomi-45b-valuation",
+    "person_id": "leijun",
+    "date": "2014-12-29",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "小米估值 450 亿美元，成为全球最值钱的创业公司",
+    "title_en": "Xiaomi hits $45 billion valuation — most valuable startup in the world",
+    "summary": "2014 年 12 月 29 日，小米完成 11 亿美元 F 轮融资，由 All-Stars Investment 领投，估值超过 450 亿美元——超过 Uber，成为当时全球估值最高的非上市科技公司。距小米成立仅 4 年 8 个月。这一估值后来在 2016–2017 年的低谷期经历过腰斩式的市场质疑，直到 2018 年港股 IPO 才被重新校验。",
+    "summary_en": "On December 29, 2014, Xiaomi closed an $1.1 billion Series F led by All-Stars Investment at a valuation of more than US$45 billion — eclipsing Uber and making it, at that moment, the most valuable private technology company in the world. The milestone came just 4 years and 8 months after the company was founded. The valuation would later be questioned during Xiaomi's 2016–2017 slump and only reset on the public markets at the 2018 Hong Kong IPO.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "估值",
+      "融资",
+      "独角兽"
+    ],
+    "sources": [
+      {
+        "id": "cgtn-xiaomi-45b",
+        "url": "https://america.cgtn.com/2014/12/30/xiaomis-market-value-hits-45-billion-says-founder-lei-jun",
+        "kind": "article",
+        "title": "Xiaomi's market value hits $45 billion, says founder Lei Jun",
+        "publisher": "CGTN America",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://america.cgtn.com/2014/12/30/xiaomis-market-value-hits-45-billion-says-founder-lei-jun",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "fortune-xiaomi-45b-hype",
+        "url": "https://fortune.com/longform/xiaomi-business-china/",
+        "kind": "article",
+        "title": "Can Xiaomi Live Up to Its $45 Billion Hype?",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2015-04-23-are-you-ok",
+    "person_id": "leijun",
+    "date": "2015-04-23",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "印度发布 Mi 4i：'Are you OK?' 鬼畜爆红",
+    "title_en": "Mi 4i launch in India — the 'Are you OK?' viral moment",
+    "summary": "2015 年 4 月 23 日，雷军在新德里举办小米首次海外发布会，推出 Mi 4i。他用并不流利的英文反复喊'Hello, how are you? Are you OK? Are you OK?'，并一度口误说'India Mi fans, I'm very happy to be in China'。这段视频上传到 B 站后，被 UP 主 'Mr.Lemon' 改成 Auto-Tune 神曲《跟着雷总摇起来！Are you OK！》，2015 年 4 月 30 日上线，迅速突破 5,000 万播放，成为 B 站早期最现象级的鬼畜素材。雷军不但没有抗拒，还买下了这首歌的版权作为小米手机来电铃声，以一种罕见的开放姿态把 meme 变成品牌资产。",
+    "summary_en": "On April 23, 2015, Lei Jun gave Xiaomi's first overseas launch event in New Delhi, unveiling the Mi 4i. Speaking English in public for the first time, he stiffly repeated 'Hello, how are you? Are you OK? Are you OK?' and at one point misspoke, 'India Mi fans, I'm very happy to be in China.' The clip was remixed by Bilibili creator Mr.Lemon into an Auto-Tune track titled '*Shake It with Boss Lei! Are you OK!*' (released April 30, 2015), which crossed 50 million views and became one of the earliest defining works of Bilibili's *guichu* remix culture. Rather than fight it, Lei Jun bought the song's copyright and made it an official Xiaomi ringtone — turning the meme into brand equity.",
+    "location": "New Delhi, India",
+    "key": true,
+    "tags": [
+      "印度",
+      "Are You OK",
+      "鬼畜",
+      "B站",
+      "MIUI 印度"
+    ],
+    "sources": [
+      {
+        "id": "areyouok-bilibili-mr-lemon",
+        "url": "https://www.bilibili.com/video/BV1es411D7sW/",
+        "kind": "video",
+        "title": "【循环向】跟着雷总摇起来！Are you OK！",
+        "publisher": "Bilibili / Mr.Lemon",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "geekwire-are-you-ok",
+        "url": "https://www.geekwire.com/2015/are-you-ok-xiaomi-ceos-speech-becomes-a-hit-viral-music-video/",
+        "kind": "article",
+        "title": "'Are you OK?' Xiaomi CEO's speech becomes a hit viral music video",
+        "publisher": "GeekWire",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.geekwire.com/2015/are-you-ok-xiaomi-ceos-speech-becomes-a-hit-viral-music-video/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "asiatimes-leijun-ok",
+        "url": "https://asiatimes.com/2020/08/xiaomis-ok-ceo-embraces-social-media-humor/",
+        "kind": "article",
+        "title": "Xiaomi's 'OK' CEO embraces social media humor",
+        "publisher": "Asia Times",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2018-07-09-xiaomi-ipo",
+    "person_id": "leijun",
+    "date": "2018-07-09",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "小米在港交所上市",
+    "title_en": "Xiaomi IPOs on the Hong Kong Stock Exchange",
+    "summary": "2018 年 7 月 9 日，小米集团（1810.HK）在港交所主板挂牌，发行价 17 港元，募资约 47 亿美元，是港交所首支'同股不同权'新规下的科技股。雷军亲自敲锣。最终估值约 540 亿美元——远低于早前 1,000 亿美元的目标，首日开盘即破发。雷军在现场发表致辞称：'宏观经济形势虽不理想，但伟大的公司依然能脱颖而出。'此前他承诺：上市当日所有 IPO 投资人都能赚到一倍。这一承诺后来在 2021 年股价高点时兑现。",
+    "summary_en": "On July 9, 2018, Xiaomi Corporation (HK 1810) debuted on the main board of the Hong Kong Stock Exchange, pricing at HK$17 and raising about US$4.7 billion — the first listing under HKEX's new dual-class share rules for tech companies. Lei Jun personally rang the gong. The final valuation of roughly US$54 billion was well short of the originally floated US$100 billion target, and the stock broke issue on the first day. In his remarks Lei Jun said, 'Although macroeconomic conditions are far from ideal, a great company can still rise to the challenge and distinguish itself.' His public promise that every IPO investor would 'at least double their money' was eventually fulfilled when the stock peaked in early 2021.",
+    "location": "Hong Kong Exchange, Central, Hong Kong",
+    "key": true,
+    "tags": [
+      "小米",
+      "IPO",
+      "港交所"
+    ],
+    "sources": [
+      {
+        "id": "techcrunch-xiaomi-ipo",
+        "url": "https://techcrunch.com/2018/07/09/xiaomi-hong-kong-ipo/",
+        "kind": "article",
+        "title": "China's Xiaomi makes underwhelming public debut in Hong Kong IPO",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://techcrunch.com/2018/07/09/xiaomi-hong-kong-ipo/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnbc-xiaomi-ipo",
+        "url": "https://www.cnbc.com/2018/07/09/xiaomi-chinese-smartphone-maker-debuts-below-ipo-price.html",
+        "kind": "article",
+        "title": "Xiaomi: Chinese smartphone maker debuts below IPO price",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2020-08-11-annual-speech-10y",
+    "person_id": "leijun",
+    "date": "2020-08-11",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "首次年度公开演讲：《小米十周年——一往无前》",
+    "title_en": "First annual public speech: 'Xiaomi's 10th Anniversary — Onward, Fearless'",
+    "summary": "2020 年 8 月 11 日，雷军举办小米十周年公开演讲《一往无前》，以小米创业十年为线索，复盘了 MIUI 第一批 100 名'梦想赞助商'、Mi 1 发布、低谷期、印度市场等关键节点。这是雷军第一次以纯个人身份做不带新品发布的'年度演讲'，被视为他对标乔布斯式 Keynote、把'雷军'本身打造为内容 IP 的开端。从此年度演讲成为每年小米最重要的品牌动作之一。",
+    "summary_en": "On August 11, 2020, Lei Jun delivered Xiaomi's 10th anniversary speech, 'Onward, Fearless' — his first standalone annual address, untied to a product launch. He retraced the journey from MIUI's first 100 'dream sponsors' to the Mi 1 launch, to the company's mid-decade slump, to the India expansion. Modelled openly after Jobs-style keynotes, the speech marked the moment Lei Jun consciously turned himself into a personal content IP. The annual speech has since become one of Xiaomi's most important brand moments of the year.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "年度演讲",
+      "一往无前",
+      "十周年"
+    ],
+    "sources": [
+      {
+        "id": "leijun-2020-bilibili",
+        "url": "https://www.bilibili.com/video/BV14Z4y1M7En/",
+        "kind": "video",
+        "title": "【一往无前】小米十周年 雷军公开演讲全程录播",
+        "publisher": "小米公司 (Xiaomi Corporation, Bilibili)",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2021-03-30-xiaomi-ev-announcement",
+    "person_id": "leijun",
+    "date": "2021-03-30",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "宣布小米造车：未来十年投入 100 亿美元",
+    "title_en": "Announces Xiaomi will build cars — $10 billion over ten years",
+    "summary": "2021 年 3 月 30 日晚，雷军在小米春季新品发布会的尾声宣布：小米正式进军智能电动汽车，由小米全资设立子公司，首期投入 100 亿元人民币，未来十年累计投入 100 亿美元。雷军亲自出任智能电动汽车业务 CEO，并称之为'人生最后一次重大创业项目'。在台上他几度哽咽：'我愿意压上人生全部的声誉，再次披挂上阵。'决策的直接背景是 2021 年初美国国防部一度将小米列入投资黑名单，雷军后来在 2024 年度演讲中坦言，造车正是为了'寻找下一条不被卡脖子的路'。",
+    "summary_en": "On the night of March 30, 2021, at the end of Xiaomi's spring product event, Lei Jun announced that Xiaomi was officially entering the smart electric vehicle business via a wholly-owned subsidiary, with an initial CNY 10 billion (US$1.5 B) investment and a 10-year commitment of US$10 billion. He took on the role of CEO of the EV unit personally and called it the 'last major entrepreneurial project of my life.' On stage, visibly emotional, he said: 'I am willing to put my entire reputation on the line and ride into battle one more time.' The trigger had been Xiaomi's brief inclusion on a U.S. Department of Defense investment blacklist earlier that year — in his 2024 annual speech, Lei admitted the EV bet was driven by the search for 'a future that can't be choked off'.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "小米汽车",
+      "电动车",
+      "战略转向"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-xiaomi-ev-2021",
+        "url": "https://www.cnbc.com/2021/03/30/chinas-xiaomi-to-launch-electric-car-business-and-invest-10-billion.html",
+        "kind": "article",
+        "title": "Chinese smartphone giant Xiaomi to launch electric car business with $10 billion investment",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2021/03/30/chinas-xiaomi-to-launch-electric-car-business-and-invest-10-billion.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "techcrunch-xiaomi-ev-subsidiary",
+        "url": "https://techcrunch.com/2021/03/30/xiaomi-ev-subsidiary/",
+        "kind": "article",
+        "title": "Xiaomi joins the ranks of Chinese tech giants to work on EVs",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "scmp-leijun-ev-sanctions",
+        "url": "https://www.scmp.com/tech/tech-war/article/3271427/xiaomi-founder-lei-jun-said-us-sanction-fears-spurred-smartphone-makers-ev-push",
+        "kind": "article",
+        "title": "Xiaomi founder Lei Jun said US sanction fears spurred smartphone maker's EV push",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2021-08-10-annual-speech-my-dream",
+    "person_id": "leijun",
+    "date": "2021-08-10",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "年度演讲：《我的梦想，我的选择》",
+    "title_en": "Annual speech: 'My Dream, My Choice'",
+    "summary": "2021 年 8 月 10 日，雷军举办第二次年度演讲《我的梦想，我的选择》。他公开复盘了创业以来'最艰难的 10 个决定'：包括重返金山、二次创业做小米、押上身家做手机、上市定价、推动高端化、应对美国制裁、决定造车等。他在演讲中宣布小米手机销量首次超过苹果，跻身全球第二，并立下'三年内全球第一'的目标。这一年也是小米股价的历史高点，雷军当年承诺'IPO 投资人翻倍'兑现。",
+    "summary_en": "On August 10, 2021, Lei Jun gave his second annual speech, 'My Dream, My Choice.' He walked through the ten hardest decisions of his career — returning to Kingsoft, founding Xiaomi, betting his net worth on phones, the IPO pricing, the high-end pivot, navigating U.S. sanctions, and the decision to build cars. He announced that Xiaomi smartphone shipments had overtaken Apple's for the first time, taking the global #2 position, and set a public goal of becoming #1 worldwide within three years. 2021 was the high-water mark for Xiaomi's share price; Lei Jun's earlier promise that IPO investors would double their money was, briefly, vindicated.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "年度演讲",
+      "我的梦想我的选择"
+    ],
+    "sources": [
+      {
+        "id": "leijun-2021-bilibili",
+        "url": "https://www.bilibili.com/video/BV1Qg411L7GL/",
+        "kind": "video",
+        "title": "【1080P+60FPS】2021 雷军 年度演讲 完整直播 录播",
+        "publisher": "Bilibili",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "pandaily-leijun-2021-speech",
+        "url": "https://pandaily.com/xiaomi-chief-lei-jun-releases-annual-speech-my-dream-my-choice/",
+        "kind": "article",
+        "title": "Xiaomi Chief Lei Jun Releases Annual Speech, 'My Dream, My Choice'",
+        "publisher": "Pandaily",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2022-08-11-annual-speech-trough",
+    "person_id": "leijun",
+    "date": "2022-08-11",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "年度演讲：《永远相信美好的事情即将发生——穿越人生低谷的感悟》",
+    "title_en": "Annual speech: 'Always Believe Good Things Are About to Happen — Insights on Crossing Life's Lows'",
+    "summary": "2022 年 8 月 11 日，雷军举办第三次年度演讲。这一次他没有讲业务、不发产品，而是讲'人生'——分享了三次重大低谷：金山被微软和盗版围剿的几年、卓越被卖前后的迷茫、小米 2016 年手机销量断崖式下滑。演讲核心金句：'你所经历的所有挫折、失败，甚至那些看似毫无意义、消磨时间的事情，都将成为你最宝贵的财富。永远相信美好的事情即将发生。'演讲恰逢全球科技股寒冬与中国经济增速放缓，被视作雷军面向年轻人的一次罕见'人生指南'式表达。",
+    "summary_en": "On August 11, 2022, Lei Jun delivered his third annual speech — and broke pattern by not talking about business or launching products. Instead, he talked about life: three major low points he had lived through (Kingsoft's piracy era, the murky years around the Joyo sale, and Xiaomi's 2016 phone-sales collapse). The signature line: 'Every setback, every failure, even the seemingly pointless time-wasting in between — all of it will become your most precious wealth. Always believe good things are about to happen.' Coming during a global tech-stock winter and China's slowdown, it functioned as a rare, openly motivational address aimed at young people.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "年度演讲",
+      "穿越低谷",
+      "永远相信美好"
+    ],
+    "sources": [
+      {
+        "id": "leijun-2022-bilibili",
+        "url": "https://www.bilibili.com/video/BV1LV4y1s7oy/",
+        "kind": "video",
+        "title": "【演讲】永远相信美好的事情即将发生--雷军2022年度演讲",
+        "publisher": "Bilibili / 创客麦克斯",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "scmp-leijun-2022-resilience",
+        "url": "https://www.scmp.com/tech/big-tech/article/3188708/xiaomi-founder-lei-jun-touts-personal-resilience-cooling-economy-hits",
+        "kind": "article",
+        "title": "Xiaomi founder Lei Jun touts personal resilience as cooling economy hits smartphone business",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2023-08-14-annual-speech-growth",
+    "person_id": "leijun",
+    "date": "2023-08-14",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "年度演讲：《成长》",
+    "title_en": "Annual speech: 'Growth'",
+    "summary": "2023 年 8 月 14 日，雷军在国家会议中心举办第四次年度演讲《成长》。他罕见地深入回忆了大学时代——读《硅谷之火》立志做伟大公司、两年修完所有学分、做'山寨' BASIC 编译器、在武大办公司的经历。演讲同时宣布小米科技战略升级：未来五年（2022–2026）研发投入超 1,000 亿元人民币，2023 年研发投入预计超 200 亿。同期发布 Xiaomi MIX Fold 3、CyberDog 2、Pad 6 Max 等。",
+    "summary_en": "On August 14, 2023, at the China National Convention Center, Lei Jun gave his fourth annual speech, 'Growth.' He went unusually deep into his university years — reading the Chinese edition of *Fire in the Valley* and resolving to build a great tech company, finishing his bachelor's credits in two years, building a homegrown BASIC compiler, running his first companies on the Wuhan University campus. Alongside the speech he announced an upgrade of Xiaomi's tech strategy: more than CNY 100 billion in R&D over five years (2022–2026), and over CNY 20 billion projected for 2023 alone. The Mix Fold 3, CyberDog 2, and Pad 6 Max were unveiled the same evening.",
+    "location": "China National Convention Center, Beijing",
+    "key": true,
+    "tags": [
+      "年度演讲",
+      "成长",
+      "武汉大学"
+    ],
+    "sources": [
+      {
+        "id": "leijun-2023-bilibili",
+        "url": "https://www.bilibili.com/video/BV1pu4y1q7GG/",
+        "kind": "video",
+        "title": "【演讲回顾】2023雷军年度演讲纯净版",
+        "publisher": "小米公司 (Xiaomi Corporation, Bilibili)",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "ir-mi-leijun-2023",
+        "url": "https://ir.mi.com/events/event-details/lei-jun-annual-speech-0",
+        "kind": "article",
+        "title": "Lei Jun Annual Speech (Investor Relations)",
+        "publisher": "Xiaomi Corporation Investor Relations",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2023-11-29-wuhan-donation",
+    "person_id": "leijun",
+    "date": "2023-11-29",
+    "date_precision": "day",
+    "type": "other",
+    "title": "向武汉大学捐赠 13 亿元人民币",
+    "title_en": "Donates CNY 1.3 billion to Wuhan University",
+    "summary": "2023 年 11 月 29 日，武汉大学 130 周年校庆之际，雷军向母校捐赠 13 亿元人民币（约 1.83 亿美元），用于支持计算机科学创新、学生培养和六大基础学科（数学、物理、化学、文学、历史、哲学）研究。这是武汉大学历史上数额最大的单笔捐赠，也是中国大陆高校收到的最大单笔个人校友现金捐赠。",
+    "summary_en": "On November 29, 2023, at Wuhan University's 130th anniversary, Lei Jun donated CNY 1.3 billion (~US$183 million) to his alma mater. The funds were earmarked for computer-science innovation, student development, and research across six fundamental disciplines: mathematics, physics, chemistry, literature, history, and philosophy. It was the largest single donation in Wuhan University's history and the largest individual alumni cash gift ever received by a Chinese mainland university.",
+    "location": "Wuhan University, Wuhan, Hubei",
+    "key": false,
+    "tags": [
+      "捐赠",
+      "武汉大学",
+      "慈善"
+    ],
+    "sources": [
+      {
+        "id": "scmp-leijun-wuhan-donation",
+        "url": "https://www.scmp.com/tech/big-tech/article/3243256/xiaomi-founder-lei-jun-donates-us183-million-alma-mater-wuhan-university-tech-innovation-push",
+        "kind": "article",
+        "title": "Xiaomi founder Lei Jun donates US$183 million to alma mater Wuhan University in tech innovation push",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "caixin-leijun-wuhan",
+        "url": "https://www.caixinglobal.com/2023-11-29/xiaomi-co-founder-lei-jun-donates-183-million-to-wuhan-university-102140705.html",
+        "kind": "article",
+        "title": "Xiaomi Co-Founder Lei Jun Donates $183 Million to Wuhan University",
+        "publisher": "Caixin Global",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2024-03-28-su7-launch",
+    "person_id": "leijun",
+    "date": "2024-03-28",
+    "date_precision": "day",
+    "type": "product",
+    "title": "小米 SU7 上市：21.59 万元起",
+    "title_en": "Xiaomi SU7 launches at CNY 215,900",
+    "summary": "2024 年 3 月 28 日晚 7 点，雷军在北京举行小米首款电动车 SU7 上市发布会。标准版 21.59 万元、Pro 版 24.59 万元、Max 版 29.99 万元，全部低于市场普遍预期。蔚来李斌、小鹏何小鹏、理想李想、长城魏建军、北汽张建勇等几乎所有中国主要车企掌门人到场，被称为'中国汽车工业一次罕见的同框'。SU7 24 小时大定订单 88,898 辆，4 月 3 日开始交付，年内累计交付超过 13.5 万辆，验证了小米从 0 到 1 的造车能力。",
+    "summary_en": "On the evening of March 28, 2024, in Beijing, Lei Jun launched Xiaomi's first electric car, the SU7. The Standard came in at CNY 215,900, Pro at 245,900, and Max at 299,900 — all below market expectations. Almost every major Chinese automaker CEO attended, including Nio's William Li, XPeng's He Xiaopeng, Li Auto's Li Xiang, Great Wall's Wei Jianjun, and BAIC's Zhang Jianyong, in what was called a once-in-a-generation gathering. The SU7 received 88,898 firm orders in the first 24 hours; deliveries began April 3, 2024; total 2024 deliveries exceeded 135,000 — proving Xiaomi could ship a car from a standing start.",
+    "location": "Xiaomi EV HQ, Beijing",
+    "key": true,
+    "tags": [
+      "SU7",
+      "电动车",
+      "汽车发布"
+    ],
+    "sources": [
+      {
+        "id": "su7-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xiaomi_SU7",
+        "kind": "article",
+        "title": "Xiaomi SU7 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Xiaomi_SU7",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnevpost-su7-launch-live",
+        "url": "https://cnevpost.com/2024/03/28/xiaomi-su7-launch-live-updates/",
+        "kind": "article",
+        "title": "Xiaomi SU7 launch event: Live updates",
+        "publisher": "CnEVPost",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "su7-launch-bilibili",
+        "url": "https://www.bilibili.com/video/BV1TZ421b7f4/",
+        "kind": "video",
+        "title": "小米汽车SU7上市发布会全程回放",
+        "publisher": "Bilibili / 就叫念真",
+        "lang": "zh",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2024-07-19-annual-speech-courage",
+    "person_id": "leijun",
+    "date": "2024-07-19",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "年度演讲：《勇气》——三年造车的故事",
+    "title_en": "Annual speech: 'Courage' — the three-year story of building a car",
+    "summary": "2024 年 7 月 19 日，雷军举办第五次年度演讲《勇气》，全程近三小时，其中一半时间专讲三年造车的故事——从 2021 年初的造车决策、几次差点放弃，到 SU7 标准版上市、首日大定。雷军在演讲中提到他读《历史的决断时刻》得到'勇气'的灵感。本场演讲在抖音直播观看人次 1,489 万，峰值 51 万人在线。同晚发布 Xiaomi MIX Fold 4、Mix Flip、SU7 Ultra 原型车、Xiaomi Watch 等。",
+    "summary_en": "On July 19, 2024, Lei Jun gave his fifth annual speech, 'Courage,' running nearly three hours. He spent half of it on the three-year story of building a car — from the initial 2021 decision, through near-cancellations, to the SU7 launch and first-day order avalanche. Lei said the theme came from reading *Decisive Moments in History*. The Douyin livestream drew 14.89 million viewers (peak 510K concurrent). The same evening Xiaomi unveiled the MIX Fold 4, Mix Flip, SU7 Ultra prototype, and a new Xiaomi Watch.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "年度演讲",
+      "勇气",
+      "造车"
+    ],
+    "sources": [
+      {
+        "id": "leijun-2024-bilibili",
+        "url": "https://www.bilibili.com/video/BV1n2421Z7Uu/",
+        "kind": "video",
+        "title": "【演讲回顾】2024雷军年度演讲纯净版",
+        "publisher": "小米公司 (Xiaomi Corporation, Bilibili)",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "mi-global-leijun-2024",
+        "url": "https://www.mi.com/global/event/lei-jun-annual-speech-2024/",
+        "kind": "article",
+        "title": "Lei Jun Annual Speech 2024 — Xiaomi Global",
+        "publisher": "Xiaomi Corporation",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=l5f3wvLwLXY"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2024-10-29-su7-ultra-nurburgring",
+    "person_id": "leijun",
+    "date": "2024-10-29",
+    "date_precision": "day",
+    "type": "product",
+    "title": "SU7 Ultra 原型车在纽博格林创下四门车最快圈速",
+    "title_en": "SU7 Ultra prototype sets fastest-ever lap by a four-door car at the Nürburgring",
+    "summary": "2024 年 10 月 29 日，小米 SU7 Ultra 原型车（搭载小米自研 V8s 电机，转速 27,200 rpm，最大马力 1,548 匹，0–100 km/h 加速 1.97 秒）由 2023 年纽博格林 24 小时耐力赛冠军车手 David Pittard 驾驶，在德国纽博格林北环以 6 分 46.874 秒的成绩，创下当时四门车量产挑战最快圈速。这一成绩让小米跨入全球高性能车第一梯队。生产版 SU7 Ultra 后于 2025 年 2 月 27 日发布。",
+    "summary_en": "On October 29, 2024, the Xiaomi SU7 Ultra prototype — powered by Xiaomi's in-house V8s motor (27,200 rpm, 1,548 hp, 0–100 km/h in 1.97 s) and driven by 2023 Nürburgring 24h winner David Pittard — set a 6:46.874 lap on the Nürburgring Nordschleife, the fastest ever recorded by a four-door car. The result vaulted Xiaomi into the conversation about high-performance Chinese EVs. The production SU7 Ultra would be unveiled the following February 27, 2025.",
+    "location": "Nürburgring Nordschleife, Germany",
+    "key": false,
+    "tags": [
+      "SU7 Ultra",
+      "纽博格林",
+      "性能车"
+    ],
+    "sources": [
+      {
+        "id": "cnevpost-su7-ultra-nurburgring",
+        "url": "https://cnevpost.com/2024/10/29/xiaomi-su7-ultra-prototype-fastest-4-door-nurburgring/",
+        "kind": "article",
+        "title": "Xiaomi EV says SU7 Ultra prototype becomes fastest 4-door car at Nürburgring",
+        "publisher": "CnEVPost",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "topgear-su7-ultra-nurburgring",
+        "url": "https://www.topgear.com/car-news/electric/xiaomi-su7-ultra-now-nurburgrings-fastest-electric-production-car",
+        "kind": "article",
+        "title": "The Xiaomi SU7 Ultra is now the Nürburgring's fastest electric production car",
+        "publisher": "Top Gear",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=byxvitfAdao"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2025-02-27-su7-ultra-launch",
+    "person_id": "leijun",
+    "date": "2025-02-27",
+    "date_precision": "day",
+    "type": "product",
+    "title": "SU7 Ultra 量产版发布：52.99 万元起",
+    "title_en": "Xiaomi SU7 Ultra production model launches at CNY 529,900",
+    "summary": "2025 年 2 月 27 日晚，小米 15 Ultra 暨 SU7 Ultra 新品发布会上，雷军揭晓 SU7 Ultra 量产版售价 52.99 万元——比此前预售的 81.49 万元一刀砍去 28 万。该车搭载三电机、最大功率 1,548 hp、0–100 km/h 加速 1.98 秒、极速 350 km/h+，对标保时捷 Taycan Turbo GT。3 月 3 日开始交付。2025 年 6 月，量产版在纽博格林跑出 7:04.957，刷新当时量产电动车最快圈速纪录。",
+    "summary_en": "On the evening of February 27, 2025, at the joint Xiaomi 15 Ultra / SU7 Ultra event, Lei Jun unveiled the production SU7 Ultra at CNY 529,900 — a steep CNY 280,000 cut from the previously announced pre-sale price of 814,900. The car packs three motors, 1,548 hp, 0–100 km/h in 1.98 s, and a top speed above 350 km/h, positioned squarely against the Porsche Taycan Turbo GT. Deliveries began March 3, 2025. In June 2025 the production model set a 7:04.957 Nürburgring lap, becoming the world's fastest production EV at the time.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "SU7 Ultra",
+      "性能车",
+      "发布会"
+    ],
+    "sources": [
+      {
+        "id": "cnevpost-su7-ultra-launch",
+        "url": "https://cnevpost.com/2025/02/27/xiaomi-launches-su7-ultra/",
+        "kind": "article",
+        "title": "Xiaomi officially launches SU7 Ultra to take on Porsche",
+        "publisher": "CnEVPost",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "su7-ultra-launch-bilibili",
+        "url": "https://www.bilibili.com/video/BV1T49AYhE6C/",
+        "kind": "video",
+        "title": "【小米发布会】Xiaomi 15 Ultra 暨 Xiaomi SU7 Ultra 新品发布会",
+        "publisher": "Bilibili / 中二少年Hassium",
+        "lang": "zh",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "nurburgring-su7-ultra-record",
+        "url": "https://nuerburgring.de/news/rekordrunde-auf-der-nordschleife-xiaomi-su7-ultra-ist-mit-7-04-957-minuten-schnellstes-e-fahrzeug-der-oberklasse?locale=en",
+        "kind": "article",
+        "title": "7:04.957 — Xiaomi SU7 Ultra Sets the New Record of the Fastest Electric Executive Vehicle at the Nürburgring",
+        "publisher": "Nürburgring",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=byxvitfAdao"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2025-03-29-su7-fatal-crash",
+    "person_id": "leijun",
+    "date": "2025-03-29",
+    "date_precision": "day",
+    "type": "other",
+    "title": "SU7 高速智驾事故：三名大学生罹难，舆论危机",
+    "title_en": "Fatal SU7 highway crash on NOA mode kills three students; PR crisis",
+    "summary": "2025 年 3 月 29 日 22:44，一辆小米 SU7 标准版在安徽德上高速以 NOA（导航辅助驾驶）开启状态下，时速约 116 km/h 接近施工改道路段。系统于碰撞前 1–2 秒提示驾驶员接管，驾驶员手动接管后约 1 秒，车辆以 97 km/h 撞上施工水泥隔离带并起火，三名年轻女大学生罹难。事故引发对智驾边界、AEB 失灵、车门是否锁死等一系列质疑，小米港股一度跌超 5%。雷军通过个人社交账号致歉并承诺配合调查，后于 4 月 11 日公开 EDR 完整数据。这是中国新势力造车面临的第一起大规模智驾舆论危机。",
+    "summary_en": "At 22:44 on March 29, 2025, a Xiaomi SU7 Standard travelling on Anhui's Deshang Expressway under NOA (Navigate-on-Autopilot) at ~116 km/h approached a construction-zone diversion. The system prompted the driver to take over 1–2 seconds before impact; about a second after manual takeover, the car struck a concrete construction barrier at ~97 km/h and caught fire, killing three female university students. The crash triggered broad scrutiny of L2 driving boundaries, AEB failure, and whether the doors had locked. Xiaomi shares fell more than 5% intraday. Lei Jun apologized on social media, promised cooperation with the investigation, and on April 11 publicly released full EDR data. It became the first large-scale assisted-driving public-opinion crisis for China's EV makers.",
+    "location": "Deshang Expressway, Anhui, China",
+    "key": true,
+    "tags": [
+      "SU7",
+      "事故",
+      "智驾",
+      "舆论危机"
+    ],
+    "sources": [
+      {
+        "id": "cnevpost-su7-accident",
+        "url": "https://cnevpost.com/2025/04/01/xiaomi-su7-accident-shares-fall/",
+        "kind": "article",
+        "title": "Xiaomi in spotlight after SU7 accident kills 3, shares fall",
+        "publisher": "CnEVPost",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "carnewschina-su7-fatal",
+        "url": "https://carnewschina.com/2025/04/01/first-fatal-accident-involving-xiaomi-su7-claims-three-lives-on-chinese-highway/",
+        "kind": "article",
+        "title": "First fatal accident involving Xiaomi SU7 claims three lives on Chinese highway",
+        "publisher": "CarNewsChina",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "carnewschina-su7-edr",
+        "url": "https://carnewschina.com/2025/04/11/xiaomi-discloses-logs-after-su7s-fatal-crash-that-killed-3-students/",
+        "kind": "article",
+        "title": "Xiaomi discloses logs after SU7's fatal crash that killed 3 students",
+        "publisher": "CarNewsChina",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2025-06-26-yu7-launch",
+    "person_id": "leijun",
+    "date": "2025-06-26",
+    "date_precision": "day",
+    "type": "product",
+    "title": "小米第二款车 YU7 SUV 上市",
+    "title_en": "Xiaomi launches its second car, the YU7 SUV",
+    "summary": "2025 年 6 月 26 日晚，雷军在小米全生态新品发布会上正式发布小米第二款车——纯电中大型 SUV YU7，起售价 25.35 万元人民币（约 35,320 美元），直接对标特斯拉 Model Y。YU7 长 4,999 mm、宽 1,996 mm、高 1,600 mm，轴距 3,000 mm。发布会结束 2 分钟内即收到 196,000 笔预订定金、128,000 笔锁单订单，3 分钟达 200,000，1 小时达 289,000——刷新中国电动车单一车型订单纪录。",
+    "summary_en": "On the evening of June 26, 2025, at Xiaomi's full-ecosystem product event, Lei Jun launched Xiaomi's second car — the YU7, a battery-electric mid-size luxury SUV — starting at CNY 253,500 (~US$35,320). Squarely positioned against the Tesla Model Y, the YU7 measures 4,999 mm long, 1,996 mm wide, 1,600 mm tall, with a 3,000 mm wheelbase. Within two minutes of the keynote ending, the YU7 had logged 196,000 pre-order deposits and 128,000 locked-in orders; 200,000 within three minutes, 289,000 within an hour — a new record for a single Chinese EV model.",
+    "location": "Beijing, China",
+    "key": true,
+    "tags": [
+      "YU7",
+      "SUV",
+      "电动车"
+    ],
+    "sources": [
+      {
+        "id": "yu7-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xiaomi_YU7",
+        "kind": "article",
+        "title": "Xiaomi YU7 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "electrek-yu7-tesla-y",
+        "url": "https://electrek.co/2025/05/22/xiaomi-unveils-yu7-suv-gunning-for-tesla-model-y-in-china/",
+        "kind": "article",
+        "title": "Xiaomi officially unveils its YU7 SUV and is gunning straight for the Tesla Model Y in China",
+        "publisher": "Electrek",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=ZY-9CA_lvtM"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "leijun-2025-09-25-annual-speech-change",
+    "person_id": "leijun",
+    "date": "2025-09-25",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "年度演讲：《改变》——小米 17 与玄戒 O1 自研芯片",
+    "title_en": "Annual speech: 'Change' — Xiaomi 17 and the Xring O1 in-house chip",
+    "summary": "2025 年 9 月 25 日，雷军在国家会议中心举办第六次年度演讲《改变》，恰逢小米成立 15 周年。他宣布过去五年小米已完成从'互联网公司'向'硬核科技公司'的彻底转型，未来五年再投入 1,000 亿元研发。同晚发布小米 17 / 17 Pro / 17 Pro Max / 17 Ultra 系列，全球首发高通骁龙 8 Elite Gen 5，并搭载小米自研 3nm 移动芯片'玄戒 O1'——使小米成为中国大陆首家、全球第四家具备 3nm 芯片设计能力的公司。小米 17 系列首周销量在中国突破 100 万台，刷新小米记录。",
+    "summary_en": "On September 25, 2025, at the China National Convention Center, Lei Jun delivered his sixth annual speech, 'Change,' coinciding with Xiaomi's 15th anniversary. He declared that Xiaomi had completed a full transformation from 'internet company' to 'hardcore technology company' over the previous five years, and committed another CNY 100 billion to R&D over the next five. The same evening, Xiaomi launched the Xiaomi 17, 17 Pro, 17 Pro Max, and 17 Ultra — global first to ship the Qualcomm Snapdragon 8 Elite Gen 5 — alongside Xiaomi's own 3 nm mobile SoC, the Xring O1, making Xiaomi the first company in mainland China and the fourth in the world capable of designing on 3 nm. First-week sales of the Xiaomi 17 series in China crossed one million units.",
+    "location": "China National Convention Center, Beijing",
+    "key": true,
+    "tags": [
+      "年度演讲",
+      "改变",
+      "小米17",
+      "玄戒O1",
+      "自研芯片"
+    ],
+    "sources": [
+      {
+        "id": "leijun-2025-bilibili",
+        "url": "https://www.bilibili.com/video/BV1KqnXzhE3z/",
+        "kind": "video",
+        "title": "【演讲回顾】2025雷军年度演讲纯净版",
+        "publisher": "小米公司 (Xiaomi Corporation, Bilibili)",
+        "lang": "zh",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "xiaomi17-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xiaomi_17",
+        "kind": "article",
+        "title": "Xiaomi 17 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "technode-xiaomi17-xring",
+        "url": "https://technode.com/2025/09/26/xiaomi-17-debuts-snapdragon-8-elite-gen-5-as-ceo-lei-jun-details-xring-chip-and-high-end-tech-strategy/",
+        "kind": "article",
+        "title": "Xiaomi 17 debuts Snapdragon 8 Elite Gen 5 as CEO Lei Jun details XRING chip and high-end tech strategy",
+        "publisher": "TechNode",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  }
+]

@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "hastings-1960-10-08-birth",
+    "person_id": "hastings",
+    "date": "1960-10-08",
+    "date_precision": "day",
+    "type": "life",
+    "title": "里德·哈斯廷斯出生于波士顿",
+    "title_en": "Wilmot Reed Hastings Jr. born in Boston, Massachusetts",
+    "summary": "1960 年 10 月 8 日，Wilmot Reed Hastings Jr. 出生于美国马萨诸塞州波士顿。父亲老 Wilmot Reed Hastings 是律师，曾在尼克松政府的卫生、教育和福利部任职；母亲 Joan Amory Loomis 出身波士顿名门 Loomis 家族（属波士顿婆罗门阶层）。哈斯廷斯成长于美国东海岸的高知家庭，这一精英背景为他日后辗转 Bowdoin、和平队、斯坦福乃至硅谷的成长路径奠定了起点。",
+    "summary_en": "Wilmot Reed Hastings Jr. was born on October 8, 1960, in Boston, Massachusetts. His father, Wilmot Reed Hastings Sr., was an attorney who served in the Nixon administration's Department of Health, Education and Welfare, and his mother, Joan Amory Loomis, came from the Boston Brahmin Loomis family. He grew up in an East Coast intellectual household that set the stage for his later path through Bowdoin, the Peace Corps, Stanford, and Silicon Valley.",
+    "location": "Boston, Massachusetts, USA",
+    "key": true,
+    "tags": [
+      "出生",
+      "波士顿",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-hastings-bio",
+        "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+        "kind": "article",
+        "title": "Reed Hastings (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "britannica-hastings",
+        "url": "https://www.britannica.com/money/Reed-Hastings",
+        "kind": "article",
+        "title": "Reed Hastings | Biography, Netflix, & Facts",
+        "publisher": "Britannica Money",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-1983-bowdoin-ba-math",
+    "person_id": "hastings",
+    "date": "1983-06-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "在 Bowdoin 学院获得数学学士学位",
+    "title_en": "Earns BA in Mathematics from Bowdoin College",
+    "summary": "1983 年，哈斯廷斯从缅因州不伦瑞克的 Bowdoin 学院毕业，获得数学学士学位。Bowdoin 是美国新英格兰地区著名的文理学院，他在此打下了严谨的数学训练基础。据他本人回忆，毕业后几小时他便登上前往斯威士兰的飞机加入和平队——这一选择反映了他对体验世界、突破自我边界的执着。Bowdoin 后来成为他最重要的回馈对象之一，并在 2025 年获得了他 5000 万美元的捐赠。",
+    "summary_en": "In 1983, Hastings graduated from Bowdoin College in Brunswick, Maine, with a Bachelor of Arts in mathematics. Bowdoin is a renowned New England liberal arts college that gave him rigorous mathematical training. Hours after receiving his diploma, he boarded a flight for Eswatini (then Swaziland) to join the Peace Corps — a choice that signaled his appetite for experience and self-stretching.",
+    "location": "Brunswick, Maine, USA",
+    "key": true,
+    "tags": [
+      "教育",
+      "Bowdoin",
+      "数学"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-hastings-bio",
+        "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+        "kind": "article",
+        "title": "Reed Hastings (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-1983-peace-corps-swaziland",
+    "person_id": "hastings",
+    "date": "1983-09-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入和平队，赴斯威士兰乡村教数学",
+    "title_en": "Joins Peace Corps; teaches math in rural Swaziland",
+    "summary": "1983 至 1985 年，哈斯廷斯作为美国和平队（Peace Corps）志愿者前往斯威士兰（今 Eswatini）西北部的农村地区，在一所约 800 名学生的高中教授数学。第一年他与当地一户家庭同住，每天步行 3 公里穿越山谷往返学校；第二年则与其他老师一起住在校园里。他后来多次提到这段经历改变了他对风险的看法：「当你曾经口袋里只装着十块钱穿越非洲时，创业就再也吓不倒你了。」这一非洲经历成为他后来创业精神的重要源头。",
+    "summary_en": "From 1983 to 1985, Hastings served as a US Peace Corps volunteer in rural northwest Swaziland (now Eswatini), teaching math at a high school of about 800 students. He famously credited the experience for his entrepreneurial confidence: \"Once you have hitchhiked across Africa with ten bucks in your pocket, starting a business doesn't seem too intimidating.\"",
+    "location": "Northwest Swaziland (now Eswatini)",
+    "key": true,
+    "tags": [
+      "和平队",
+      "斯威士兰",
+      "教学",
+      "非洲"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-hastings-bio",
+        "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+        "kind": "article",
+        "title": "Reed Hastings (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "peace-corps-hastings-profile",
+        "url": "https://peacecorpsworldwide.org/the-volunteer-who-became-the-co-founder-and-ceo-of-netflixa-profile-in-citizenship-reed-hastings-swaziland/",
+        "kind": "article",
+        "title": "The Volunteer Who Became the Co-founder and CEO of Netflix - Reed Hastings (Swaziland)",
+        "publisher": "Peace Corps Worldwide",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-1988-stanford-mscs",
+    "person_id": "hastings",
+    "date": "1988-06-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "在斯坦福大学获得计算机科学硕士学位（人工智能方向）",
+    "title_en": "Earns MS in Computer Science (AI track) from Stanford University",
+    "summary": "1988 年，哈斯廷斯从斯坦福大学（Stanford University）获得计算机科学硕士学位（MSCS），方向为人工智能。这段在硅谷腹地的研究生经历，让他从一名数学背景的非洲志愿者，转变为掌握现代软件工程方法的工程师。斯坦福的人脉与训练直接铺平了他后来在 Adaptive Technology、Coherent Thought 工作以及 1991 年创立 Pure Software 的道路。哈斯廷斯日后成为斯坦福最知名的校友之一，并于 2022 年受邀做该校毕业典礼演讲。",
+    "summary_en": "In 1988, Hastings earned an MS in Computer Science from Stanford University, specializing in artificial intelligence. The Stanford education transformed the math-trained Peace Corps returnee into an engineer fluent in modern software methods. The training and network paved the way for his early Silicon Valley jobs and for founding Pure Software in 1991.",
+    "location": "Stanford, California, USA",
+    "key": true,
+    "tags": [
+      "教育",
+      "斯坦福",
+      "计算机科学",
+      "人工智能"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-hastings-bio",
+        "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+        "kind": "article",
+        "title": "Reed Hastings (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "stanford-engineering-hastings",
+        "url": "https://engineering.stanford.edu/about/history/heroes/2016-heroes/reed-hastings",
+        "kind": "article",
+        "title": "Reed Hastings | Stanford University School of Engineering",
+        "publisher": "Stanford Engineering",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-1991-10-pure-software-founded",
+    "person_id": "hastings",
+    "date": "1991-10-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "与 Raymond Peck、Mark Box 共同创立 Pure Software",
+    "title_en": "Co-founds Pure Software with Raymond Peck and Mark Box",
+    "summary": "1991 年 10 月，哈斯廷斯与 Raymond Peck、Mark Box 在加州共同创立 Pure Software。公司最初的产品是 Purify——一款用于检测 C 语言编写的 Unix 应用程序内存错误（如缓冲区溢出和内存泄漏）的调试工具，这在当时是企业软件市场的痛点。Pure Software 凭借 Purify 等专业开发者工具迅速增长，但哈斯廷斯本人也承认，这段创业经历让他第一次体验到「成长中的公司如何因流程僵化而扼杀创新」——这一教训直接塑造了他日后在 Netflix 推行的「自由与责任」文化。",
+    "summary_en": "In October 1991, Hastings co-founded Pure Software with Raymond Peck and Mark Box. Their flagship product, Purify, was a debugging tool that detected memory errors (buffer overflows, leaks) in C-language Unix applications — a major pain point in enterprise software at the time. The company's growth taught Hastings how rigid processes can choke innovation, an insight that later shaped Netflix's \"freedom and responsibility\" culture.",
+    "location": "Sunnyvale, California, USA",
+    "key": true,
+    "tags": [
+      "创业",
+      "Pure Software",
+      "Purify",
+      "调试工具"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-pure-software",
+        "url": "https://en.wikipedia.org/wiki/Pure_Software",
+        "kind": "article",
+        "title": "Pure Software (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-hastings-bio",
+        "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+        "kind": "article",
+        "title": "Reed Hastings (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-1995-08-pure-software-ipo",
+    "person_id": "hastings",
+    "date": "1995-08-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "Pure Software 在摩根士丹利承销下完成 IPO",
+    "title_en": "Pure Software completes IPO underwritten by Morgan Stanley",
+    "summary": "1995 年 8 月，Pure Software 在摩根士丹利（Morgan Stanley）的承销下完成首次公开发行（IPO）。彼时哈斯廷斯还不到 35 岁，公司已成为开发者工具领域的重要玩家。然而，IPO 之后哈斯廷斯也亲身经历了作为上市公司 CEO 的压力——尤其是 1995 至 1996 年间多次被董事会推动「重组」。他后来回忆说，正是 Pure Software 的痛苦让他领悟到：与其制定僵化规则，不如雇用极少数顶尖人才并赋予他们自由。",
+    "summary_en": "In August 1995, Pure Software completed its IPO underwritten by Morgan Stanley. Hastings was still under 35, and the company had become an important player in developer tools. The post-IPO years exposed him to public-company pressures and a board that more than once tried to push him out — formative pain that taught him to prefer hiring a few exceptional people over making rigid rules.",
+    "location": "USA",
+    "key": false,
+    "tags": [
+      "IPO",
+      "Pure Software",
+      "摩根士丹利"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-pure-software",
+        "url": "https://en.wikipedia.org/wiki/Pure_Software",
+        "kind": "article",
+        "title": "Pure Software (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-1997-pure-atria-rational",
+    "person_id": "hastings",
+    "date": "1997-04-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "Pure Atria 被 Rational Software 以约 7.5 亿美元收购",
+    "title_en": "Pure Atria acquired by Rational Software (~$750M)",
+    "summary": "1996 年 8 月 Pure Software 与 Atria Software 合并为 Pure Atria，1997 年合并后的 Pure Atria 被 Rational Software 收购。这笔交易让哈斯廷斯获得财务自由，并让他能够把约 250 万美元的初始资本投入 Netflix。同样关键的是，他在 Pure Software/Pure Atria 工作期间结识了 Marc Randolph——两人最终成为 Netflix 的联合创始人。哈斯廷斯曾说，正是合并和收购期间漫长的等待（以及他与 Randolph 在硅谷之间共同通勤），孕育了 Netflix 的最初构想。",
+    "summary_en": "Pure Software merged with Atria Software in August 1996 to form Pure Atria, and in 1997 the combined company was acquired by Rational Software. The deal gave Hastings the financial freedom and the roughly $2.5 million in seed capital he later poured into Netflix. Critically, it was at Pure Software / Pure Atria that he met Marc Randolph, his future Netflix co-founder; their carpool conversations between Santa Cruz and Sunnyvale incubated the original Netflix idea.",
+    "location": "Sunnyvale, California, USA",
+    "key": true,
+    "tags": [
+      "并购",
+      "Pure Atria",
+      "Rational Software",
+      "退出"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-pure-software",
+        "url": "https://en.wikipedia.org/wiki/Pure_Software",
+        "kind": "article",
+        "title": "Pure Software (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-hastings-bio",
+        "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+        "kind": "article",
+        "title": "Reed Hastings (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-1997-08-29-netflix-founded",
+    "person_id": "hastings",
+    "date": "1997-08-29",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在加州 Scotts Valley 与 Marc Randolph 共同创立 Netflix",
+    "title_en": "Co-founds Netflix in Scotts Valley, California with Marc Randolph",
+    "summary": "1997 年 8 月 29 日，哈斯廷斯与前 Pure Software 同事 Marc Randolph 在加州 Scotts Valley 共同创立了 Netflix，最初定位为 DVD 邮寄租赁公司。两人此前每天在圣克鲁兹与 Sunnyvale 之间共乘上下班，正是在那段通勤途中孕育了在线租碟的构想。当时 DVD 还是 1997 年初才在美国引入的新格式——他们做了一个测试：把一张 CD 寄到哈斯廷斯位于 Santa Cruz 的家里，发现碟片可以毫发无损地通过普通信封送达，这成为 Netflix 商业模式的可行性验证。哈斯廷斯还从 Pure Atria 出售所得中投入约 250 万美元作为种子资本。",
+    "summary_en": "On August 29, 1997, Hastings and former Pure Software colleague Marc Randolph co-founded Netflix in Scotts Valley, California, originally as a DVD-by-mail rental service. The two had carpooled daily between Santa Cruz and Sunnyvale, and the idea was hatched in those drives. They mailed a CD to Hastings's Santa Cruz home as a feasibility test; it arrived intact in a normal envelope, validating the model. Hastings invested roughly $2.5 million from his Pure Atria proceeds as seed capital.",
+    "location": "Scotts Valley, California, USA",
+    "key": true,
+    "tags": [
+      "Netflix",
+      "创立",
+      "DVD 租赁",
+      "Marc Randolph"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-netflix",
+        "url": "https://en.wikipedia.org/wiki/Netflix",
+        "kind": "article",
+        "title": "Netflix (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-netflix-inc",
+        "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+        "kind": "article",
+        "title": "Netflix, Inc. (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-1998-04-14-netflix-launches",
+    "person_id": "hastings",
+    "date": "1998-04-14",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Netflix.com 正式上线，首日 137 笔订单",
+    "title_en": "Netflix.com launches with 137 orders on first day",
+    "summary": "1998 年 4 月 14 日上午 9 点，Netflix.com 正式上线，首页提供约 925 部 DVD 标题，按次付费租赁。Marc Randolph 下了第一笔测试订单——电影《赌城风云》（Casino），结果 15 分钟内订单蜂拥而至，服务器立刻被打爆，团队不得不冲到电脑商店再买几台机器加塞。原本预计当日 15-20 单，结果首日订单达 137 笔——一个戏剧性的开门红，验证了 DVD-by-mail 模式的吸引力，也奠定了 Netflix 后续从「按次租赁」转向「无限月费订阅」的基础。",
+    "summary_en": "Netflix.com went live at 9:00 AM on April 14, 1998 with about 925 DVD titles for per-rental purchase. Marc Randolph placed the first test order — the film Casino — and within 15 minutes orders flooded in, crashing the servers; the team rushed out to buy more hardware. They had expected 15-20 orders; they booked 137 on day one, validating the DVD-by-mail model that would soon evolve into Netflix's monthly subscription.",
+    "location": "Scotts Valley, California, USA",
+    "key": true,
+    "tags": [
+      "Netflix",
+      "产品上线",
+      "DVD"
+    ],
+    "sources": [
+      {
+        "id": "marc-randolph-25-years",
+        "url": "https://mbrandolph.medium.com/we-launched-netflix-25-years-ago-today-abf2d6f0c08f",
+        "kind": "article",
+        "title": "We Launched Netflix 25 Years Ago Today",
+        "publisher": "Marc Randolph (Medium)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "netflix-tudum-25th",
+        "url": "https://www.netflix.com/tudum/articles/netflix-trivia-25th-anniversary",
+        "kind": "article",
+        "title": "Netflix Celebrates 25 Years",
+        "publisher": "Netflix Tudum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=v5NtNn43NW4"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2000-09-blockbuster-rejected",
+    "person_id": "hastings",
+    "date": "2000-09-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "向 Blockbuster 提出 5000 万美元出售方案被拒绝",
+    "title_en": "Pitches $50M sale to Blockbuster; CEO John Antioco rejects offer",
+    "summary": "2000 年 9 月，哈斯廷斯、Marc Randolph 与时任 CFO Barry McCarthy 飞往达拉斯，与 Blockbuster 时任 CEO John Antioco 会面。他们提议 Blockbuster 以 5000 万美元收购 Netflix，并由 Netflix 团队运营 Blockbuster.com 作为其在线租碟分支。Antioco 听到价格后几乎当场笑出来，认为「dot-com 狂热被过度炒作」、Netflix 只是个利基业务，直接拒绝。Marc Randolph 后来回忆「他们差点把我们笑出会议室」。这次拒绝成为商业史上最著名的「错失良机」之一——10 年后 Blockbuster 破产，Netflix 估值则突破千亿美元。",
+    "summary_en": "In September 2000, Hastings, Marc Randolph and CFO Barry McCarthy flew to Dallas to meet Blockbuster CEO John Antioco. They proposed that Blockbuster acquire Netflix for $50 million and run Blockbuster.com through the Netflix team. Antioco struggled not to laugh, dismissed Netflix as a niche business, and called the dot-com hype overblown. Randolph would later recall they were \"laughed out of the room.\" Ten years later Blockbuster filed for bankruptcy while Netflix's market cap soared past $100 billion.",
+    "location": "Dallas, Texas, USA",
+    "key": true,
+    "tags": [
+      "Blockbuster",
+      "并购",
+      "拒绝",
+      "战略"
+    ],
+    "sources": [
+      {
+        "id": "fortune-blockbuster-50m",
+        "url": "https://fortune.com/2023/04/14/netflix-cofounder-marc-randolph-recalls-blockbuster-rejecting-chance-to-buy-it/",
+        "kind": "article",
+        "title": "Blockbuster 'laughed us out of the room,' recalls Netflix cofounder",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "inc-blockbuster-50m",
+        "url": "https://www.inc.com/minda-zetlin/netflix-blockbuster-meeting-marc-randolph-reed-hastings-john-antioco.html",
+        "kind": "article",
+        "title": "Blockbuster Could Have Bought Netflix for $50 Million",
+        "publisher": "Inc.",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2002-05-23-netflix-ipo",
+    "person_id": "hastings",
+    "date": "2002-05-23",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Netflix 在纳斯达克 IPO，发行价 15 美元",
+    "title_en": "Netflix IPOs on Nasdaq at $15 per share",
+    "summary": "2002 年 5 月 23 日，Netflix 在纳斯达克挂牌上市（股票代码 NFLX），发行价 15 美元/股，首日收于 16.75 美元，涨幅约 11-12%。彼时 Netflix 拥有约 60 万订阅用户，刚刚扭亏为盈。哈斯廷斯在 IPO 前持有公司约 20% 股份，上市后稀释至约 15%。考虑到此后多次拆股，2002 年 IPO 时投入 1000 美元，到 2018 年价值已超过 30 万美元——这次 IPO 成为哈斯廷斯将 Netflix 从 DVD 租碟业务带向流媒体帝国的关键资本里程碑。",
+    "summary_en": "On May 23, 2002, Netflix went public on Nasdaq under the ticker NFLX at $15 per share, closing its first trading day at $16.75 — a roughly 11-12% gain. The company had about 600,000 subscribers and had just turned profitable. Hastings owned about 20% of Netflix pre-IPO, diluted to roughly 15% afterwards. Adjusted for splits, $1,000 invested at IPO was worth over $300,000 by 2018 — a landmark capital milestone in Hastings's transformation of Netflix from DVD rental to streaming empire.",
+    "location": "Nasdaq, New York, USA",
+    "key": true,
+    "tags": [
+      "IPO",
+      "Netflix",
+      "纳斯达克",
+      "NFLX"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-netflix-inc",
+        "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+        "kind": "article",
+        "title": "Netflix, Inc. (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "yahoo-netflix-ipo-anniversary",
+        "url": "https://finance.yahoo.com/news/netflix-apos-ipo-16-years-170300960.html",
+        "kind": "article",
+        "title": "Netflix's IPO was 16 years ago",
+        "publisher": "Yahoo Finance",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2007-01-16-streaming-launches",
+    "person_id": "hastings",
+    "date": "2007-01-16",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Netflix 推出「Watch Now」流媒体服务",
+    "title_en": "Netflix launches \"Watch Now\" streaming service",
+    "summary": "2007 年 1 月 16 日，Netflix 推出「Watch Now」流媒体服务，订阅用户首次可以直接通过浏览器在 PC 上即时观看电影和电视剧。首发库内仅含约 1000 部影片，相对于 DVD 库的 7 万部仍有限。哈斯廷斯本人多年前就预见到这一天：他曾说「Netflix」名字本身就暗示了未来通过互联网（the Net）发行电影（flicks）。这一产品发布标志着 Netflix 从邮寄 DVD 业务转向流媒体的真正起点，并最终在十多年间彻底重塑了全球娱乐产业的分发模式。",
+    "summary_en": "On January 16, 2007, Netflix launched its \"Watch Now\" streaming service, letting subscribers instantly stream movies and TV shows on their PCs. The initial library held only about 1,000 titles versus 70,000 on DVD, but the launch marked the true pivot from DVD-by-mail to streaming — a transition Hastings had foreshadowed years earlier (the very name \"Netflix\" hinted at delivering flicks over the Net). It would reshape global entertainment distribution within a decade.",
+    "location": "Los Gatos, California, USA",
+    "key": true,
+    "tags": [
+      "流媒体",
+      "Watch Now",
+      "Netflix",
+      "产品"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-netflix",
+        "url": "https://en.wikipedia.org/wiki/Netflix",
+        "kind": "article",
+        "title": "Netflix (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2010-09-22-netflix-canada",
+    "person_id": "hastings",
+    "date": "2010-09-22",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Netflix 进入加拿大——首次海外扩张",
+    "title_en": "Netflix launches in Canada — first international market",
+    "summary": "2010 年 9 月 22 日，Netflix 在加拿大上线，成为公司首个海外市场。订阅价格为 7.99 加元/月，哈斯廷斯称之为「Netflix 在全球任何地方推出的最低、最具进攻性的价格」。加拿大版仅提供流媒体服务（无 DVD 邮寄），片库约 2647 部——远小于美国当时的 1 万多部，但仍获得了超出预期的早期增长。这次扩张是 Netflix 全球化战略的奠基试验，验证了「以低价和窄片库进入新市场、再逐步加码本地内容」的扩张剧本，为 2011 年进入拉美、2012 年进入欧洲奠定了模式。",
+    "summary_en": "On September 22, 2010, Netflix launched in Canada — its first international market. Priced at C$7.99/month, Hastings called it \"the lowest, most aggressive price we've ever had anywhere in the world.\" Canada got streaming only (no DVD by mail) with roughly 2,647 titles, far smaller than the US library, but early traction beat expectations. The launch became the template for Netflix's global playbook: enter cheap with a thin catalog, then layer on local content — a pattern repeated in Latin America (2011) and Europe (2012).",
+    "location": "Canada",
+    "key": true,
+    "tags": [
+      "国际化",
+      "加拿大",
+      "扩张",
+      "流媒体"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-international-expansion-netflix",
+        "url": "https://en.wikipedia.org/wiki/International_expansion_of_Netflix",
+        "kind": "article",
+        "title": "International expansion of Netflix (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "cbc-netflix-canada",
+        "url": "https://www.cbc.ca/news/science/netflix-launches-canadian-movie-service-1.872505",
+        "kind": "article",
+        "title": "Netflix launches Canadian movie service",
+        "publisher": "CBC News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2011-09-19-qwikster-fiasco",
+    "person_id": "hastings",
+    "date": "2011-09-19",
+    "date_precision": "day",
+    "type": "product",
+    "title": "宣布 DVD 业务剥离为 Qwikster——史上最大产品决策失误",
+    "title_en": "Announces Qwikster spin-off — Hastings's most public product mistake",
+    "summary": "2011 年 9 月 19 日，哈斯廷斯在博客上宣布将 Netflix 的 DVD 邮寄业务剥离，重新命名为 Qwikster，并附加电子游戏租赁；订阅用户从此须分别管理两个网站、两个账户、两张账单。此前 7 月公司刚把 DVD 与流媒体打包订阅拆分定价、合计涨价约 60%，已激起强烈不满，Qwikster 则进一步把品牌劈成两半。客户和投资者怒火滔天，3 周内 Netflix 流失 80 万订户，股价跌幅超 75%。10 月 10 日哈斯廷斯撤回 Qwikster 计划。他公开承认「我滑入了基于过去成功的傲慢」，并把这段经历写入 No Rules Rules——成为他后来推崇「鼓励异见、避免决策孤立」文化的核心案例。",
+    "summary_en": "On September 19, 2011, Hastings announced on Netflix's blog that the DVD-by-mail business would be spun off and rebranded as Qwikster, with separate websites, accounts and billing — and added video-game rentals on top. Coming after a July 2011 unbundling that effectively raised prices ~60%, the move enraged customers and investors. Within three weeks Netflix lost 800,000 subscribers and the stock fell more than 75%. Hastings reversed Qwikster on October 10, 2011, conceding \"In hindsight, I slid into arrogance based upon past success.\" He later turned the episode into the central cautionary tale of No Rules Rules and his \"farm for dissent\" leadership philosophy.",
+    "location": "Los Gatos, California, USA",
+    "key": true,
+    "tags": [
+      "Qwikster",
+      "失误",
+      "战略",
+      "Netflix"
+    ],
+    "sources": [
+      {
+        "id": "deadline-qwikster",
+        "url": "https://deadline.com/2011/09/netflixs-reed-hastings-says-i-messed-up-dvd-unit-will-split-rebrand-as-qwikster-173163/",
+        "kind": "article",
+        "title": "Netflix's Reed Hastings Says \"I Messed Up\"",
+        "publisher": "Deadline",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "time-qwikster",
+        "url": "https://business.time.com/2011/09/20/qwikster-split-the-real-reason-netflix-broke-in-two/",
+        "kind": "article",
+        "title": "Qwikster Split: The Real Reason Netflix Broke in Two",
+        "publisher": "TIME",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2013-02-01-house-of-cards",
+    "person_id": "hastings",
+    "date": "2013-02-01",
+    "date_precision": "day",
+    "type": "product",
+    "title": "《纸牌屋》全季上线，开启 Netflix 原创内容时代",
+    "title_en": "House of Cards launches full season — Netflix's original content era begins",
+    "summary": "2013 年 2 月 1 日，Netflix 一次性放出原创剧集《纸牌屋》（House of Cards）第一季全部 13 集——这是首部在流媒体平台独家首发的主流电视剧，也是 Netflix 「全季 binge release」释出模式的开端。该剧由 David Fincher 执导，Kevin Spacey 与 Robin Wright 主演；Netflix 当年以约 1 亿美元的两季订单从 HBO、AMC 等竞争对手手中夺下版权。这一举动确立了 Netflix 不再只是发行平台，而是与 HBO、迪士尼正面竞争的内容工作室。同年晚些时候上线的《女子监狱》（Orange is the New Black）进一步巩固了原创战略。",
+    "summary_en": "On February 1, 2013, Netflix released all 13 episodes of its original series House of Cards in a single drop — the first major TV show to premiere exclusively on a streaming service and the birth of the now-standard \"full-season binge release.\" Directed by David Fincher and starring Kevin Spacey and Robin Wright, the show cost roughly $100 million for two seasons; Netflix outbid HBO and AMC. The release transformed Netflix from a distribution platform into a content studio competing head-on with HBO and Disney. Orange Is the New Black later that year cemented the strategy.",
+    "location": "Los Gatos, California, USA",
+    "key": true,
+    "tags": [
+      "House of Cards",
+      "原创内容",
+      "binge",
+      "战略"
+    ],
+    "sources": [
+      {
+        "id": "history-house-of-cards",
+        "url": "https://www.history.com/this-day-in-history/february-1/house-of-cards-netflix-first-original-series-starts-streaming",
+        "kind": "article",
+        "title": "House of Cards, Netflix's first original series, starts streaming",
+        "publisher": "HISTORY",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "netflix-house-of-cards-prnewswire",
+        "url": "https://www.prnewswire.com/news-releases/netflix-original-series-house-of-cards-starring-kevin-spacey-and-robin-wright-available-exclusively-on-february-1-2013-172661431.html",
+        "kind": "article",
+        "title": "Netflix Original Series, House of Cards, Available Exclusively On February 1, 2013",
+        "publisher": "PR Newswire (Netflix)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-house-of-cards",
+        "url": "https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)",
+        "kind": "article",
+        "title": "House of Cards (American TV series) (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2014-stanford-gsb-entrepreneur",
+    "person_id": "hastings",
+    "date": "2014-05-22",
+    "date_precision": "year",
+    "type": "speech",
+    "title": "在斯坦福商学院获 2014 年度创业公司奖并发表演讲",
+    "title_en": "Stanford GSB 2014 Entrepreneurial Company of the Year talk",
+    "summary": "2014 年，哈斯廷斯在斯坦福商学院（Stanford GSB）做了关于 Netflix 的演讲，Netflix 当年被该学院评选为「年度创业公司」（Entrepreneurial Company of the Year）。哈斯廷斯在这次公开演讲中详细回顾了从 Pure Software 到 Netflix 的创业转折、Qwikster 的教训，以及 Netflix「自由与责任」文化的来源。这成为后来全球商学院和创业者最常引用的 Netflix 经营哲学公开课之一。",
+    "summary_en": "In 2014, Hastings spoke at Stanford Graduate School of Business as Netflix was named the school's Entrepreneurial Company of the Year. The talk traced his journey from Pure Software to Netflix, the Qwikster lessons, and the origins of Netflix's \"freedom and responsibility\" culture — becoming one of the most-cited public lectures on Netflix's operating philosophy among founders and business schools worldwide.",
+    "location": "Stanford, California, USA",
+    "key": false,
+    "tags": [
+      "斯坦福",
+      "演讲",
+      "创业",
+      "文化"
+    ],
+    "sources": [
+      {
+        "id": "stanford-gsb-entrepreneur-2014-yt",
+        "url": "https://www.youtube.com/watch?v=zCO0lNfs4oM",
+        "embed_url": "https://www.youtube-nocookie.com/embed/zCO0lNfs4oM",
+        "kind": "video",
+        "title": "Reed Hastings, Netflix: Stanford GSB 2014 Entrepreneurial Company of the Year",
+        "publisher": "Stanford Graduate School of Business (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "singju-post-stanford-2014",
+        "url": "https://singjupost.com/reed-hastings-netflix-stanford-gsb-2014-entrepreneurial-company-of-the-year/",
+        "kind": "transcript",
+        "title": "Reed Hastings, Netflix: Stanford GSB 2014 — Transcript",
+        "publisher": "Singju Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2016-01-06-ces-keynote-130",
+    "person_id": "hastings",
+    "date": "2016-01-06",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "CES 2016 主旨演讲：Netflix 一夜之间扩张到 130 国",
+    "title_en": "CES 2016 keynote: Netflix expands to 130 countries overnight",
+    "summary": "2016 年 1 月 6 日，哈斯廷斯在拉斯维加斯 CES（消费电子展）的主旨演讲台上宣布：Netflix 当天起在 130 个新国家上线，使覆盖国家数从 60 个增至 190 余个，仅余中国、克里米亚、朝鲜与叙利亚因政策原因暂未开通。新增地区包括印度、越南、波兰、沙特阿拉伯、韩国、印度尼西亚等。Netflix 同时新增阿拉伯语、韩语、繁简中文，使支持语言达 21 种。哈斯廷斯在台上说出经典名句：「今天，你们正在见证一个新的全球互联网电视网络的诞生。」这一宣告把 Netflix 从美国订阅服务推向真正意义上的全球流媒体巨头。",
+    "summary_en": "On January 6, 2016, Hastings used his CES Las Vegas keynote to announce that Netflix had — that very morning — launched in 130 new countries, growing from 60 to over 190 markets and leaving only China, Crimea, North Korea and Syria offline for policy reasons. New markets included India, Vietnam, Poland, Saudi Arabia, South Korea and Indonesia; Arabic, Korean and Simplified/Traditional Chinese were added, bringing supported languages to 21. From the stage Hastings declared: \"Today you are witnessing the birth of a new global Internet TV network.\" The moment turned Netflix into a true global streaming giant.",
+    "location": "Las Vegas, Nevada, USA",
+    "key": true,
+    "tags": [
+      "CES",
+      "全球扩张",
+      "演讲",
+      "国际化"
+    ],
+    "sources": [
+      {
+        "id": "netflix-around-the-world",
+        "url": "https://about.netflix.com/en/news/netflix-is-now-available-around-the-world",
+        "kind": "article",
+        "title": "Netflix Is Now Available Around the World",
+        "publisher": "Netflix Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=GvQs89U_tV0"
+      },
+      {
+        "id": "geekwire-130-countries",
+        "url": "https://www.geekwire.com/2016/netflix-launches-in-130-countries-ceo-reed-hastings-calls-it-the-birth-of-a-global-tv-network/",
+        "kind": "article",
+        "title": "Netflix launches in 130 countries, Reed Hastings calls it 'birth of a global TV network'",
+        "publisher": "GeekWire",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2020-07-16-sarandos-co-ceo",
+    "person_id": "hastings",
+    "date": "2020-07-16",
+    "date_precision": "day",
+    "type": "career",
+    "title": "提拔 Ted Sarandos 为联席 CEO",
+    "title_en": "Promotes Ted Sarandos to Co-CEO",
+    "summary": "2020 年 7 月 16 日，Netflix 在股东信中宣布提拔首席内容官 Ted Sarandos 为联席 CEO，并加入董事会，同时任命 Greg Peters 为首席运营官（兼任 CPO）。哈斯廷斯本人继续担任另一名联席 CEO。他将这一任命形容为「让既已存在的非正式分工正式化——Ted 和我一直共同领导 Netflix」。同时他强调自己仍将留任至少十年。这一安排实际上是 Netflix 的接班长跑：Sarandos 是把 Netflix 推入原创内容时代的关键人物，这次任命为他后续 2023 年成为单独 CEO 之一铺平了道路。",
+    "summary_en": "On July 16, 2020, Netflix announced via shareholder letter that Chief Content Officer Ted Sarandos would become Co-CEO alongside Hastings and join the board, while Greg Peters added the COO role to his existing CPO duties. Hastings described it as making formal an informal partnership — \"Ted and I share the leadership of Netflix\" — while pledging \"To be totally clear, I'm in for a decade.\" The move was Netflix's long-running succession plan: Sarandos, the architect of the original-content era, was being positioned for the day Hastings would step back, which arrived in 2023.",
+    "location": "Los Gatos, California, USA",
+    "key": true,
+    "tags": [
+      "接班",
+      "Ted Sarandos",
+      "Greg Peters",
+      "Netflix"
+    ],
+    "sources": [
+      {
+        "id": "netflix-sarandos-co-ceo",
+        "url": "https://about.netflix.com/en/news/leadership-update",
+        "kind": "article",
+        "title": "Ted Sarandos Appointed Co-CEO of Netflix",
+        "publisher": "Netflix Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "fortune-sarandos-co-ceo",
+        "url": "https://fortune.com/2020/07/17/ted-sarandos-co-ceo-netflix-reed-hastings-nflx/",
+        "kind": "article",
+        "title": "Ted Sarandos was already co-CEO of Netflix with Reed Hastings",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2020-09-08-no-rules-rules",
+    "person_id": "hastings",
+    "date": "2020-09-08",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "与 Erin Meyer 合著的《不拘一格》（No Rules Rules）出版",
+    "title_en": "Publishes No Rules Rules with Erin Meyer",
+    "summary": "2020 年 9 月 8 日，哈斯廷斯与 INSEAD 商学院教授 Erin Meyer 合著的 No Rules Rules: Netflix and the Culture of Reinvention（中文版译作《不拘一格》）由企鹅出版社出版。书中系统阐述了 Netflix 著名的「自由与责任」文化三大支柱：高人才密度、彻底坦诚反馈、移除流程控制。书中也罕见地公开复盘了 Qwikster 失误、Pure Software 失败等案例。该书入围 2020 年金融时报与麦肯锡年度商业图书奖短名单，成为科技圈最具影响力的管理著作之一，被 Spotify、Reddit、HubSpot 等公司效仿。",
+    "summary_en": "On September 8, 2020, Hastings and INSEAD professor Erin Meyer published No Rules Rules: Netflix and the Culture of Reinvention with Penguin. The book lays out Netflix's now-famous \"freedom and responsibility\" culture in three pillars — high talent density, radical candor, and removing controls — and includes rare public post-mortems of Qwikster and Pure Software. Shortlisted for the 2020 Financial Times & McKinsey Business Book of the Year, it became one of tech's most influential management books, copied at Spotify, Reddit and HubSpot.",
+    "location": "USA",
+    "key": true,
+    "tags": [
+      "书籍",
+      "No Rules Rules",
+      "Erin Meyer",
+      "文化"
+    ],
+    "sources": [
+      {
+        "id": "penguin-no-rules-rules",
+        "url": "https://www.penguinrandomhouse.com/books/606529/no-rules-rules-by-reed-hastings-and-erin-meyer/",
+        "kind": "book",
+        "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+        "publisher": "Penguin Random House",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "erin-meyer-no-rules-rules",
+        "url": "https://erinmeyer.com/books/no-rules-rules/",
+        "kind": "article",
+        "title": "No Rules Rules - Erin Meyer (Author Page)",
+        "publisher": "erinmeyer.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=qV6b1Dzoebc"
+      },
+      {
+        "id": "netflix-no-rules-rules",
+        "url": "https://about.netflix.com/en/news/no-rules-rules-explores-how-netflix-reinvented-work-culture",
+        "kind": "article",
+        "title": "'No Rules Rules' explores how Netflix reinvented work culture",
+        "publisher": "Netflix Newsroom",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=9w0PL2_-oAE"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2022-06-12-stanford-commencement",
+    "person_id": "hastings",
+    "date": "2022-06-12",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "为斯坦福 2022 届毕业生发表毕业典礼演讲",
+    "title_en": "Delivers Stanford 2022 Commencement Address",
+    "summary": "2022 年 6 月 12 日，哈斯廷斯（斯坦福 MS '88）回到母校为斯坦福大学第 131 届毕业典礼致辞。由于演讲前不久确诊新冠，他改为通过预先录制的视频远程发表演讲。他在演讲中告诉毕业生：「Inventions and stories. One is about harnessing the natural world; the other is about harnessing the human spirit.」——他认为，发明（科技）与故事（叙事）是推动人类进步、应对气候变化等紧迫挑战的两大杠杆。这是他作为最知名斯坦福校友之一的标志性公开演讲之一。",
+    "summary_en": "On June 12, 2022, Hastings (Stanford MS '88) returned to his alma mater to deliver the address at Stanford's 131st Commencement. Sidelined by a last-minute COVID-19 diagnosis, he gave the speech via pre-recorded video. He told the graduates: \"Inventions and stories. One is about harnessing the natural world; the other is about harnessing the human spirit\" — arguing that technological invention and human narrative are the twin levers for tackling climate change and other urgent challenges. It became one of his signature public speeches as a celebrated Stanford alumnus.",
+    "location": "Stanford, California, USA",
+    "key": false,
+    "tags": [
+      "斯坦福",
+      "毕业演讲",
+      "演讲"
+    ],
+    "sources": [
+      {
+        "id": "stanford-commencement-2022-yt",
+        "url": "https://www.youtube.com/watch?v=bhWYcW5Sa_4",
+        "embed_url": "https://www.youtube-nocookie.com/embed/bhWYcW5Sa_4",
+        "kind": "video",
+        "title": "2022 Stanford Commencement address by Reed Hastings",
+        "publisher": "Stanford (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "stanford-news-commencement-2022",
+        "url": "https://news.stanford.edu/stories/2022/06/reed-hastings-urges-class-2022-harness-power-inventions-stories",
+        "kind": "article",
+        "title": "Reed Hastings urges Class of 2022 to harness the power of inventions and stories",
+        "publisher": "Stanford Report",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2023-01-19-steps-down-co-ceo",
+    "person_id": "hastings",
+    "date": "2023-01-19",
+    "date_precision": "day",
+    "type": "career",
+    "title": "卸任联席 CEO，转任执行董事长；Greg Peters 出任联席 CEO",
+    "title_en": "Steps down as Co-CEO; becomes Executive Chairman as Greg Peters takes over",
+    "summary": "2023 年 1 月 19 日，哈斯廷斯宣布卸任 Netflix 联席 CEO，转任执行董事长（Executive Chairman），由原首席运营官 Greg Peters 与 Ted Sarandos 共同担任联席 CEO；Peters 同时进入董事会。哈斯廷斯彼时 62 岁，已在 CEO 任上 25 年，并自 2020 年起已与 Sarandos 共事联席 CEO。他在公告中表示「现在是完成接班的恰当时机」。这一交接被广泛视为科技史上最有序的 CEO 接班案例之一，外界对管理层延续性的信心也使 Netflix 股价当日略有上扬。",
+    "summary_en": "On January 19, 2023, Hastings announced he would step down as Co-CEO and transition to Executive Chairman, with Chief Operating Officer Greg Peters joining Ted Sarandos as Co-CEOs and taking a board seat. Hastings, then 62, had been CEO for 25 years and had shared the title with Sarandos since 2020; he said \"It's the right time to complete my succession.\" The handover is widely cited as one of the most orderly CEO transitions in tech, and Netflix's stock briefly rose on confidence in management continuity.",
+    "location": "Los Gatos, California, USA",
+    "key": true,
+    "tags": [
+      "接班",
+      "执行董事长",
+      "Greg Peters",
+      "Netflix"
+    ],
+    "sources": [
+      {
+        "id": "netflix-co-ceos-2023",
+        "url": "https://about.netflix.com/en/news/ted-sarandos-greg-peters-co-ceos-netflix",
+        "kind": "article",
+        "title": "Ted Sarandos and Greg Peters Are Now Co-CEOs of Netflix, With Reed Hastings as Executive Chairman",
+        "publisher": "Netflix Newsroom",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "variety-hastings-steps-down",
+        "url": "https://variety.com/2023/digital/news/reed-hastings-steps-down-netflix-ceo-1235495351/",
+        "kind": "article",
+        "title": "Reed Hastings Steps Down as Netflix Co-CEO",
+        "publisher": "Variety",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "fortune-hastings-steps-down",
+        "url": "https://fortune.com/2023/01/19/netflix-ceo-reed-hastings-stepping-down/",
+        "kind": "article",
+        "title": "Netflix founder Reed Hastings is stepping down as CEO",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2024-02-stanford-gsb-vftt",
+    "person_id": "hastings",
+    "date": "2024-02-29",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "在斯坦福商学院 View From The Top 系列接受学生访谈",
+    "title_en": "Stanford GSB View From The Top conversation with Katie Harris",
+    "summary": "2024 年 2 月，哈斯廷斯回到斯坦福商学院（Stanford GSB），在著名的「View From The Top」学生主持的领导力访谈系列中，由 MBA '24 学生 Katie Harris 进行专访。作为执行董事长，他在访谈中回顾了 Netflix 的接班、Qwikster、原创内容下注，并谈及他后续作为基金会捐赠人和教育投资者的思考。该系列是斯坦福 GSB 最受关注的 MBA 学生项目之一，节目同步在 GSB 官方 YouTube 频道发布。",
+    "summary_en": "In February 2024, Hastings returned to Stanford Graduate School of Business for the student-led View From The Top leadership series, in conversation with Katie Harris, MBA '24. As Executive Chairman he reviewed Netflix's CEO succession, the Qwikster reversal, the original-content bet, and his post-CEO life as a philanthropist and education investor. The series, hosted on Stanford GSB's YouTube channel, is one of the school's flagship MBA programs.",
+    "location": "Stanford, California, USA",
+    "key": false,
+    "tags": [
+      "斯坦福",
+      "View From The Top",
+      "访谈"
+    ],
+    "sources": [
+      {
+        "id": "stanford-vftt-hastings-yt",
+        "url": "https://www.youtube.com/watch?v=u17n3UaH82k",
+        "embed_url": "https://www.youtube-nocookie.com/embed/u17n3UaH82k",
+        "kind": "video",
+        "title": "Reed Hastings, Chairman and Co-Founder of Netflix",
+        "publisher": "Stanford Graduate School of Business (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "stanford-vftt-hastings-event",
+        "url": "https://www.gsb.stanford.edu/events/view-top-reed-hastings",
+        "kind": "article",
+        "title": "View From The Top: Reed Hastings",
+        "publisher": "Stanford GSB",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "hastings-2025-03-24-bowdoin-50m-ai",
+    "person_id": "hastings",
+    "date": "2025-03-24",
+    "date_precision": "day",
+    "type": "other",
+    "title": "向母校 Bowdoin 学院捐赠 5000 万美元设立 AI 与人文倡议",
+    "title_en": "Donates $50M to Bowdoin College for Hastings Initiative for AI and Humanity",
+    "summary": "2025 年 3 月 24 日，Bowdoin 学院宣布收到哈斯廷斯（1983 届校友）5000 万美元的捐赠，用于设立「Hastings Initiative for AI and Humanity」（哈斯廷斯人工智能与人文倡议）。这是 Bowdoin 建校 231 年历史上数额最大的单笔捐赠。资金将用于聘任 10 位跨学科新教授、支持师资将 AI 融入教学与研究，并主导关于 AI 对社会与人文影响的公共讨论。这一捐赠标志着哈斯廷斯卸任 CEO 后将主要精力转向慈善事业——与他和妻子 Patty Quillin 此前向 HBCU（历史悠久黑人大学）捐赠 1.2 亿美元、向公立教育基金 City Fund 等捐助形成系列。",
+    "summary_en": "On March 24, 2025, Bowdoin College announced a $50 million gift from Hastings (Class of 1983) to launch the Hastings Initiative for AI and Humanity — the largest single gift in Bowdoin's 231-year history. Funds will hire ten new interdisciplinary faculty, support the integration of AI in teaching and research, and lead public conversations on AI's social and humanistic impact. The gift marked Hastings's pivot to full-time philanthropy in his post-CEO life, building on his and wife Patty Quillin's earlier $120 million gift to historically Black colleges and universities and their funding of the City Fund education non-profit.",
+    "location": "Brunswick, Maine, USA",
+    "key": true,
+    "tags": [
+      "慈善",
+      "Bowdoin",
+      "AI",
+      "教育"
+    ],
+    "sources": [
+      {
+        "id": "bowdoin-hastings-ai-announcement",
+        "url": "https://www.bowdoin.edu/news/2025/03/announcing-the-hastings-initiative-for-ai-and-humanity.html",
+        "kind": "article",
+        "title": "Announcing the Hastings Initiative for AI and Humanity",
+        "publisher": "Bowdoin College",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "variety-bowdoin-50m",
+        "url": "https://variety.com/2025/digital/news/netflix-reed-hastings-donation-ai-center-bowdoin-college-1236346221/",
+        "kind": "article",
+        "title": "Netflix's Reed Hastings Donates $50 Million to Fund AI Research at Bowdoin College",
+        "publisher": "Variety",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "deadline-bowdoin-50m",
+        "url": "https://deadline.com/2025/03/netflix-co-founder-reed-hastings-gift-ai-bowdoin-college-1236347573/",
+        "kind": "article",
+        "title": "Netflix Co-Founder Reed Hastings Gives $50M To Bowdoin College For AI Initiative",
+        "publisher": "Deadline",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  }
+]

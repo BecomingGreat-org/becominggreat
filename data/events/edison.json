@@ -28,7 +28,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241231164007if_/https://en.wikipedia.org/wiki/Thomas_Edison",
+          "timestamp": "20241231164007",
+          "archived_at": "2024-12-31"
+        }
       },
       {
         "id": "loc-edison-life",
@@ -40,7 +45,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241230214832if_/https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/biography/life-of-thomas-alva-edison/",
+          "timestamp": "20241230214832",
+          "archived_at": "2024-12-30"
+        }
       }
     ],
     "source_hints": null
@@ -74,7 +84,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20251118193405if_/https://www.biography.com/inventors/a69474046/thomas-edison-train-accident",
+          "timestamp": "20251118193405",
+          "archived_at": "2025-11-18"
+        }
       },
       {
         "id": "wikipedia-edison-bio",
@@ -86,7 +101,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241231164007if_/https://en.wikipedia.org/wiki/Thomas_Edison",
+          "timestamp": "20241231164007",
+          "archived_at": "2024-12-31"
+        }
       }
     ],
     "source_hints": null
@@ -120,7 +140,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250214134029if_/https://patents.google.com/patent/US90646A/en",
+          "timestamp": "20250214134029",
+          "archived_at": "2025-02-14"
+        }
       },
       {
         "id": "rutgers-edison-vote-recorder",
@@ -132,7 +157,12 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20240920211814if_/https://edison.rutgers.edu/life-of-edison/inventions?view=article&id=543:vote-recorder&catid=91",
+          "timestamp": "20240920211814",
+          "archived_at": "2024-09-20"
+        }
       }
     ],
     "source_hints": null
@@ -165,7 +195,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241229111623if_/https://www.nps.gov/edis/learn/historyculture/mary-stillwell-edison.htm",
+          "timestamp": "20241229111623",
+          "archived_at": "2024-12-29"
+        }
       },
       {
         "id": "neh-heartbreak-menlo-park",
@@ -177,7 +212,12 @@
         "primary": false,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250102013001if_/https://www.neh.gov/divisions/research/featured-project/heartbreak-menlo-park",
+          "timestamp": "20250102013001",
+          "archived_at": "2025-01-02"
+        }
       }
     ],
     "source_hints": null
@@ -211,7 +251,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250106005820if_/https://www.menloparkmuseum.org/history",
+          "timestamp": "20250106005820",
+          "archived_at": "2025-01-06"
+        }
       },
       {
         "id": "rutgers-building-the-lab",
@@ -223,7 +268,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20240907174437if_/https://edison.rutgers.edu/life-of-edison/biographical-essays/factory/building-the-lab",
+          "timestamp": "20240907174437",
+          "archived_at": "2024-09-07"
+        }
       },
       {
         "id": "ethw-menlo-park-milestone",
@@ -235,7 +285,12 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241203224452if_/https://ethw.org/Milestones:Thomas_Alva_Edison_Historic_Site_at_Menlo_Park,_1876",
+          "timestamp": "20241203224452",
+          "archived_at": "2024-12-03"
+        }
       }
     ],
     "source_hints": null
@@ -269,7 +324,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250108175258if_/https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+          "timestamp": "20250108175258",
+          "archived_at": "2025-01-08"
+        }
       },
       {
         "id": "rutgers-tinfoil-phonograph",
@@ -282,7 +342,12 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "embed_url": "https://www.youtube.com/watch?v=KRnTFiXkNFw"
+        "embed_url": "https://www.youtube.com/watch?v=KRnTFiXkNFw",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20240920211813if_/https://edison.rutgers.edu/life-of-edison/inventions?view=article&id=542:tinfoil-phonograph-invention&catid=91",
+          "timestamp": "20240920211813",
+          "archived_at": "2024-09-20"
+        }
       }
     ],
     "source_hints": null
@@ -316,7 +381,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250207105501if_/https://www.hagley.org/research/news/hagley-vault/thomas-edisons-edison-electric-light-company-began-operations",
+          "timestamp": "20250207105501",
+          "archived_at": "2025-02-07"
+        }
       },
       {
         "id": "rutgers-edison-general-electric",
@@ -362,7 +432,26 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250217233054if_/https://ethw.org/Edison%27s_Incandescent_Lamp",
+          "timestamp": "20250217233054",
+          "archived_at": "2025-02-17"
+        },
+        "quotes": [
+          {
+            "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+            "text_zh": "天才是百分之一的灵感加上百分之九十九的汗水。",
+            "speaker": "Thomas Edison",
+            "context": "爱迪生最著名的格言。早期记录见 1903 年春记者 M. A. Rosanoff 的报道、1929 年《Harper's Monthly》Frank Dyer 与 Thomas Martin 整理的《爱迪生：他的生平与发明》——是爱迪生本人在多次场合的口头表达"
+          },
+          {
+            "text": "I have not failed. I have just found 10,000 ways that won't work.",
+            "text_zh": "我没有失败——我只是找到了一万种行不通的方法。",
+            "speaker": "Thomas Edison",
+            "context": "爱迪生关于发明过程的著名表述。原始版本见 1898 年 George Parsons Lathrop 的《Talks with Edison》——爱迪生回忆寻找蓄电池正极材料时的心境（\"我没有失败，我只是发现了几千种不行的方法\"），后世简化为这个广为流传的版本"
+          }
+        ]
       },
       {
         "id": "doe-history-light-bulb",
@@ -417,7 +506,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241231010539if_/https://ethw.org/Milestones:Pearl_Street_Station,_1882",
+          "timestamp": "20241231010539",
+          "archived_at": "2024-12-31"
+        }
       },
       {
         "id": "wikipedia-pearl-street",
@@ -462,7 +556,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241229111623if_/https://www.nps.gov/edis/learn/historyculture/mary-stillwell-edison.htm",
+          "timestamp": "20241229111623",
+          "archived_at": "2024-12-29"
+        }
       },
       {
         "id": "neh-heartbreak-menlo-park",
@@ -474,7 +573,12 @@
         "primary": false,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250102013001if_/https://www.neh.gov/divisions/research/featured-project/heartbreak-menlo-park",
+          "timestamp": "20250102013001",
+          "archived_at": "2025-01-02"
+        }
       }
     ],
     "source_hints": null
@@ -508,7 +612,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241225231319if_/https://en.wikipedia.org/wiki/Mina_Miller_Edison",
+          "timestamp": "20241225231319",
+          "archived_at": "2024-12-25"
+        }
       },
       {
         "id": "smithsonian-mina-miller",
@@ -520,7 +629,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241218144406if_/https://www.smithsonianmag.com/history/mina-miller-edison-was-more-than-the-wife-of-the-wizard-of-menlo-park-180981726/",
+          "timestamp": "20241218144406",
+          "archived_at": "2024-12-18"
+        }
       }
     ],
     "source_hints": null
@@ -554,7 +668,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241206084934if_/https://ethw.org/Milestones:Thomas_A._Edison_West_Orange_Laboratories_and_Factories,_1887",
+          "timestamp": "20241206084934",
+          "archived_at": "2024-12-06"
+        }
       },
       {
         "id": "rutgers-world-class-lab",
@@ -566,7 +685,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20240926202608if_/https://edison.rutgers.edu/life-of-edison/biographical-essays/menlo-west-orange/a-world-class-laboratory",
+          "timestamp": "20240926202608",
+          "archived_at": "2024-09-26"
+        }
       }
     ],
     "source_hints": null
@@ -600,7 +724,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250108175258if_/https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+          "timestamp": "20250108175258",
+          "archived_at": "2025-01-08"
+        }
       },
       {
         "id": "loc-origins-motion-pictures",
@@ -612,7 +741,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250107002958if_/https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/origins-of-motion-pictures/",
+          "timestamp": "20250107002958",
+          "archived_at": "2025-01-07"
+        }
       }
     ],
     "source_hints": null
@@ -647,7 +781,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250529065101if_/https://patents.google.com/patent/US589168A/en",
+          "timestamp": "20250529065101",
+          "archived_at": "2025-05-29"
+        }
       },
       {
         "id": "wikipedia-kinetoscope",
@@ -659,7 +798,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241217160502if_/https://en.wikipedia.org/wiki/Kinetoscope",
+          "timestamp": "20241217160502",
+          "archived_at": "2024-12-17"
+        }
       }
     ],
     "source_hints": null
@@ -694,7 +838,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241227113008if_/https://en.wikipedia.org/wiki/Thomson-Houston_Electric_Company",
+          "timestamp": "20241227113008",
+          "archived_at": "2024-12-27"
+        }
       },
       {
         "id": "wikipedia-general-electric",
@@ -706,7 +855,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250103134151if_/https://en.wikipedia.org/wiki/General_Electric",
+          "timestamp": "20250103134151",
+          "archived_at": "2025-01-03"
+        }
       }
     ],
     "source_hints": null
@@ -740,7 +894,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250106143921if_/https://en.wikipedia.org/wiki/Edison%27s_Black_Maria",
+          "timestamp": "20250106143921",
+          "archived_at": "2025-01-06"
+        }
       },
       {
         "id": "thomasedison-org-blackmaria",
@@ -752,7 +911,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250420224200if_/https://www.thomasedison.org/blackmaria",
+          "timestamp": "20250420224200",
+          "archived_at": "2025-04-20"
+        }
       },
       {
         "id": "archive-fred-otts-sneeze",
@@ -802,7 +966,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241217160502if_/https://en.wikipedia.org/wiki/Kinetoscope",
+          "timestamp": "20241217160502",
+          "archived_at": "2024-12-17"
+        }
       },
       {
         "id": "loc-edison-kinetoscope",
@@ -814,7 +983,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250207084049if_/https://www.loc.gov/static/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/origins-of-motion-pictures.html",
+          "timestamp": "20250207084049",
+          "archived_at": "2025-02-07"
+        }
       },
       {
         "id": "archive-edison-films-1891-1898",
@@ -881,7 +1055,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250103133135if_/https://en.wikipedia.org/wiki/The_Great_Train_Robbery_(1903_film)",
+          "timestamp": "20250103133135",
+          "archived_at": "2025-01-03"
+        }
       }
     ],
     "source_hints": null
@@ -915,7 +1094,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20240920213318if_/https://edison.rutgers.edu/life-of-edison/inventions?view=article&id=540:storage-battery&catid=91",
+          "timestamp": "20240920213318",
+          "archived_at": "2024-09-20"
+        }
       },
       {
         "id": "wikipedia-edison-disc-record",
@@ -927,7 +1111,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241217192322if_/https://en.wikipedia.org/wiki/Edison_Disc_Record",
+          "timestamp": "20241217192322",
+          "archived_at": "2024-12-17"
+        }
       }
     ],
     "source_hints": null
@@ -961,7 +1150,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250125170954if_/https://en.wikipedia.org/wiki/Naval_Consulting_Board",
+          "timestamp": "20250125170954",
+          "archived_at": "2025-01-25"
+        }
       },
       {
         "id": "rutgers-naval-consulting-board",
@@ -973,7 +1167,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20240919064710if_/https://edison.rutgers.edu/life-of-edison/biographical-essays/wwi/naval-consulting-board",
+          "timestamp": "20240919064710",
+          "archived_at": "2024-09-19"
+        }
       },
       {
         "id": "navy-daniels-edison-1915",
@@ -985,7 +1184,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250202225903if_/https://www.history.navy.mil/research/publications/documentary-histories/wwi/1915/secretary-of-the-nav.html",
+          "timestamp": "20250202225903",
+          "archived_at": "2025-02-02"
+        }
       }
     ],
     "source_hints": null
@@ -1019,7 +1223,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241218163233if_/https://history.house.gov/Historical-Highlights/1901-1950/Thomas-Edison-s-Congressional-Gold-Medal/",
+          "timestamp": "20241218163233",
+          "archived_at": "2024-12-18"
+        }
       },
       {
         "id": "presidency-project-edison-medal",
@@ -1031,7 +1240,12 @@
         "primary": true,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250209083313if_/https://www.presidency.ucsb.edu/documents/address-presentation-medal-thomas-edison",
+          "timestamp": "20250209083313",
+          "archived_at": "2025-02-09"
+        }
       }
     ],
     "source_hints": null
@@ -1066,7 +1280,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241225124354if_/https://en.wikipedia.org/wiki/Light%27s_Golden_Jubilee",
+          "timestamp": "20241225124354",
+          "archived_at": "2024-12-25"
+        }
       },
       {
         "id": "henry-ford-jubilee-collection",
@@ -1078,7 +1297,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250209090957if_/https://www.thehenryford.org/collections-and-research/digital-collections/expert-sets/10255/",
+          "timestamp": "20250209090957",
+          "archived_at": "2025-02-09"
+        }
       },
       {
         "id": "henry-ford-edison-hoover-photo",
@@ -1090,7 +1314,12 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250113143825if_/https://www.thehenryford.org/collections-and-research/digital-collections/artifact/298966",
+          "timestamp": "20250113143825",
+          "archived_at": "2025-01-13"
+        }
       }
     ],
     "source_hints": null
@@ -1124,7 +1353,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241231164007if_/https://en.wikipedia.org/wiki/Thomas_Edison",
+          "timestamp": "20241231164007",
+          "archived_at": "2024-12-31"
+        }
       },
       {
         "id": "patch-edison-dies",

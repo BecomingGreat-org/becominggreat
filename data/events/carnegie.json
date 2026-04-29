@@ -43,12 +43,7 @@
         "summary_en": "Full Andrew Carnegie biographical documentary — Scottish immigrant to \"Prince of Steel\" to pioneer of modern philanthropy.",
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20241213073119if_/https://www.youtube.com/watch?v=kZRND9IqPkA",
-          "timestamp": "20241213073119",
-          "archived_at": "2024-12-13"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -82,12 +77,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20241227092419if_/https://en.wikipedia.org/wiki/Andrew_Carnegie",
-          "timestamp": "20241227092419",
-          "archived_at": "2024-12-27"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -121,12 +111,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20241227092419if_/https://en.wikipedia.org/wiki/Andrew_Carnegie",
-          "timestamp": "20241227092419",
-          "archived_at": "2024-12-27"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -160,12 +145,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20241227092419if_/https://en.wikipedia.org/wiki/Andrew_Carnegie",
-          "timestamp": "20241227092419",
-          "archived_at": "2024-12-27"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -199,12 +179,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20241227092419if_/https://en.wikipedia.org/wiki/Andrew_Carnegie",
-          "timestamp": "20241227092419",
-          "archived_at": "2024-12-27"
-        }
+        "mentions": []
       },
       {
         "id": "youtube-mwba-carnegie-s1e3",
@@ -219,12 +194,7 @@
         "summary_en": "Full Men Who Built America S1E3 — how Carnegie built his steel empire through the Bessemer process, railroad customers, and vertical integration.",
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20241213060523if_/https://www.youtube.com/watch?v=g180A6k7814",
-          "timestamp": "20241213060523",
-          "archived_at": "2024-12-13"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null
@@ -347,7 +317,33 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "The man who dies thus rich dies disgraced.",
+            "text_zh": "死时富有的人，死时蒙羞。",
+            "speaker": "Andrew Carnegie",
+            "context": "《财富的福音》1889 中关于富人慈善义务的核心宣言——也成了现代慈善理念的奠基语"
+          },
+          {
+            "text": "Surplus wealth is a sacred trust which its possessor is bound to administer in his lifetime for the good of the community.",
+            "text_zh": "盈余的财富是一份神圣的托管，财富的拥有者有义务在生前妥善管理，让它造福社会。",
+            "speaker": "Andrew Carnegie",
+            "context": "《财富的福音》中关于\"富人是穷人的受托人\"思想的关键句"
+          },
+          {
+            "text": "Concentrate your energies, your thoughts, and your capital. The wise man puts all his eggs in one basket and watches the basket.",
+            "text_zh": "把你的精力、思想和资本集中起来。聪明人把鸡蛋都放在一个篮子里，然后看好那个篮子。",
+            "speaker": "Andrew Carnegie",
+            "context": "卡内基反对分散投资的著名格言——他认为成功的关键是专注，与马克·吐温合写的《追赶傻瓜》观点一致"
+          },
+          {
+            "text": "He who dies disgraced — leaving millions of available wealth which was his to administer during life, will pass away unwept, unhonored, and unsung.",
+            "text_zh": "在生前未能管理好他可支配的数百万财富、死时让其消散的富人，将无人哀悼、无人尊敬、无人传颂。",
+            "speaker": "Andrew Carnegie",
+            "context": "《财富的福音》原文中给富人立下的最严厉警告"
+          }
+        ]
       },
       {
         "id": "youtube-gospel-of-wealth-audiobook",

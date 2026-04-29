@@ -192,7 +192,27 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "Early to bed and early to rise, makes a man healthy, wealthy, and wise.",
+            "text_zh": "早睡早起，使人健康、富有、智慧。",
+            "speaker": "Benjamin Franklin",
+            "context": "《Poor Richard's Almanack》1735 年版的著名格言之一，至今仍是英语世界最广为流传的富兰克林金句"
+          },
+          {
+            "text": "An investment in knowledge pays the best interest.",
+            "text_zh": "对知识的投资，回报最高。",
+            "speaker": "Benjamin Franklin",
+            "context": "Poor Richard's Almanack 中关于教育与学习价值的著名格言"
+          },
+          {
+            "text": "Honesty is the best policy.",
+            "text_zh": "诚实是最好的策略。",
+            "speaker": "Benjamin Franklin",
+            "context": "Poor Richard's Almanack 中富兰克林为美国早期文化奠定的诚信原则"
+          }
+        ]
       }
     ],
     "source_hints": null
@@ -409,7 +429,15 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "We must, indeed, all hang together, or most assuredly we shall all hang separately.",
+            "text_zh": "我们必须团结一致——否则一定会被一个个吊死。",
+            "speaker": "Benjamin Franklin",
+            "context": "1776 年 7 月 4 日《独立宣言》签署时富兰克林对其他签字者说的话（一语双关，hang 既指\"团结\"也指被处决）。这句话最早被收录在 1840 年 Jared Sparks 的传记中"
+          }
+        ]
       }
     ],
     "source_hints": null
@@ -510,7 +538,15 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "I confess that there are several parts of this constitution which I do not at present approve, but I am not sure I shall never approve them. The older I grow, the more apt I am to doubt my own judgment, and to pay more respect to the judgment of others.",
+            "text_zh": "我承认这部宪法里有几处我目前并不赞同——但我不敢说我永远不会赞同。年龄越大，我越倾向于怀疑自己的判断，更尊重他人的看法。",
+            "speaker": "Benjamin Franklin",
+            "context": "1787 年 9 月 17 日制宪会议闭幕日富兰克林的著名讲话——他 81 岁，作为最年长代表请求所有人放下己见、签署宪法"
+          }
+        ]
       }
     ],
     "source_hints": null

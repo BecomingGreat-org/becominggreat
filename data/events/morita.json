@@ -801,9 +801,72 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human"
+      },
+      {
+        "id": "youtube-uw-1988",
+        "url": "https://www.youtube.com/watch?v=b5t4ceerkhg",
+        "kind": "video",
+        "title": "Akio Morita: Comparing Japanese and American Business Practices",
+        "publisher": "UW Video",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "1988 年华盛顿大学 \"Upon Reflection\" 节目对盛田昭夫的访谈——比较日美商业实践，是他英语长篇访谈中最权威的官方版本之一。",
+        "summary_en": "1988 University of Washington \"Upon Reflection\" series interview — Morita comparing Japanese and American business practices. One of the most authoritative official English-language Morita interviews.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
       }
     ],
     "source_hints": "ISBN 978-0525244653, hardcover edition by E. P. Dutton, New York, 1986"
+  },
+  {
+    "id": "morita-1989-japan-that-can-say-no",
+    "person_id": "morita",
+    "date": "1989-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "与石原慎太郎合著《日本可以说不》引发争议",
+    "title_en": "Co-authors the controversial \"The Japan That Can Say No\" with Shintaro Ishihara",
+    "summary": "1989 年，盛田与时任日本运输大臣石原慎太郎合作出版《日本可以说不》，主张日本应在贸易、外交上更独立地对美国说不。该书很快被翻译并未经授权流传到美国，1989 年 11 月美国众议员 Sander Levin 甚至把译本读入国会记录。盛田后来公开「后悔」参与此书，称自己并未充分了解石原的政治立场。1991 年 Simon & Schuster 出版的官方英译版只保留了石原的章节，盛田的部分被删去。",
+    "summary_en": "In 1989 Morita co-authored \"The Japan That Can Say No\" with then-Transport Minister Shintaro Ishihara, arguing that Japan should take a more assertive, independent stance toward the United States in trade and foreign policy. Unauthorized translations spread quickly in the US — Representative Sander Levin even read one into the Congressional Record in November 1989. Morita later publicly regretted his involvement, saying he had not been \"fully aware\" of Ishihara's positions. The authorized 1991 Simon & Schuster edition included only Ishihara's chapters; Morita's were dropped.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "日本可以说不",
+      "石原慎太郎",
+      "美日关系"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-japan-can-say-no",
+        "url": "https://en.wikipedia.org/wiki/The_Japan_That_Can_Say_No",
+        "kind": "article",
+        "title": "The Japan That Can Say No (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/The_Japan_That_Can_Say_No",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "britannica-japan-can-say-no",
+        "url": "https://www.britannica.com/topic/The-Japan-That-Can-Say-No",
+        "kind": "article",
+        "title": "The Japan That Can Say 'No' — Britannica",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
   },
   {
     "id": "morita-1989-09-columbia-pictures-acquisition",
@@ -852,54 +915,6 @@
           "snapshot_url": "https://web.archive.org/web/2024if_/https://www.upi.com/Archives/1989/11/07/Sony-completes-Columbia-takeover/2362626418000/",
           "timestamp": "2024"
         }
-      }
-    ],
-    "source_hints": null
-  },
-  {
-    "id": "morita-1989-japan-that-can-say-no",
-    "person_id": "morita",
-    "date": "1989-01-01",
-    "date_precision": "year",
-    "type": "writing",
-    "title": "与石原慎太郎合著《日本可以说不》引发争议",
-    "title_en": "Co-authors the controversial \"The Japan That Can Say No\" with Shintaro Ishihara",
-    "summary": "1989 年，盛田与时任日本运输大臣石原慎太郎合作出版《日本可以说不》，主张日本应在贸易、外交上更独立地对美国说不。该书很快被翻译并未经授权流传到美国，1989 年 11 月美国众议员 Sander Levin 甚至把译本读入国会记录。盛田后来公开「后悔」参与此书，称自己并未充分了解石原的政治立场。1991 年 Simon & Schuster 出版的官方英译版只保留了石原的章节，盛田的部分被删去。",
-    "summary_en": "In 1989 Morita co-authored \"The Japan That Can Say No\" with then-Transport Minister Shintaro Ishihara, arguing that Japan should take a more assertive, independent stance toward the United States in trade and foreign policy. Unauthorized translations spread quickly in the US — Representative Sander Levin even read one into the Congressional Record in November 1989. Morita later publicly regretted his involvement, saying he had not been \"fully aware\" of Ishihara's positions. The authorized 1991 Simon & Schuster edition included only Ishihara's chapters; Morita's were dropped.",
-    "location": "Tokyo, Japan",
-    "key": true,
-    "tags": [
-      "日本可以说不",
-      "石原慎太郎",
-      "美日关系"
-    ],
-    "sources": [
-      {
-        "id": "wikipedia-japan-can-say-no",
-        "url": "https://en.wikipedia.org/wiki/The_Japan_That_Can_Say_No",
-        "kind": "article",
-        "title": "The Japan That Can Say No (Wikipedia)",
-        "publisher": "Wikipedia",
-        "lang": "en",
-        "primary": true,
-        "license": "cc-by-sa",
-        "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/The_Japan_That_Can_Say_No",
-          "timestamp": "2024"
-        }
-      },
-      {
-        "id": "britannica-japan-can-say-no",
-        "url": "https://www.britannica.com/topic/The-Japan-That-Can-Say-No",
-        "kind": "article",
-        "title": "The Japan That Can Say 'No' — Britannica",
-        "publisher": "Encyclopaedia Britannica",
-        "lang": "en",
-        "primary": false,
-        "license": "all-rights-reserved",
-        "authored_by": "human"
       }
     ],
     "source_hints": null

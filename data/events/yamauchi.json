@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "yamauchi-1927-11-07-birth",
+    "person_id": "yamauchi",
+    "date": "1927-11-07",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于京都",
+    "title_en": "Born in Kyoto, Japan",
+    "summary": "山内溥 1927 年 11 月 7 日出生于京都。父亲山内重次是入赘女婿，与山内家是上门女婿婚约。山内 5 岁时父亲抛下家庭离去，母亲无力抚养，把他交给外祖父母——山内家第二代社长金田积良（山内积良）和妻子抚养。这段早年家庭破裂、被外祖父强势管教的经历，塑造了他日后果断、孤僻、不容置疑的领导风格。",
+    "summary_en": "Hiroshi Yamauchi was born on November 7, 1927 in Kyoto. His father Shikanojo Inaba had married into the Yamauchi family as an adopted son-in-law (mukoyoshi). When Hiroshi was five, his father abandoned the family; his mother gave up custody to her parents — Sekiryo Kaneda (Nintendo's second president) and his wife. The combination of an absent father and a strict grandfather raising him forged the cold, autocratic, isolated leadership style that defined his five-decade Nintendo presidency.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "出生",
+      "家庭"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yamauchi",
+        "url": "https://en.wikipedia.org/wiki/Hiroshi_Yamauchi",
+        "kind": "article",
+        "title": "Hiroshi Yamauchi",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Hiroshi_Yamauchi",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "tofugu-yamauchi",
+        "url": "https://www.tofugu.com/japan/hiroshi-yamauchi/",
+        "kind": "article",
+        "title": "Hiroshi Yamauchi: The Very Non-Whimsical Willy Wonka Of Nintendo",
+        "publisher": "Tofugu",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.tofugu.com/japan/hiroshi-yamauchi/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1949-04-25-becomes-president",
+    "person_id": "yamauchi",
+    "date": "1949-04-25",
+    "date_precision": "day",
+    "type": "career",
+    "title": "21 岁继任任天堂第三代社长",
+    "title_en": "Becomes Nintendo's third president at age 21",
+    "summary": "1948 年外祖父金田积良中风后，要求 21 岁、还在早稻田大学法学部读书的山内溥立刻接班——任天堂没有指定继承人。山内同意接手，但提出一个条件：他必须是公司里唯一的山内家族成员。这相当于让他外祖父亲手开除自己的儿子（山内的表哥）。金田勉强同意。1949 年 4 月 25 日，山内正式就任任天堂株式会社第三代社长，未满 22 岁。他随即清洗老员工、关闭工会派系，奠定了任天堂日后绝对集权的统治结构。",
+    "summary_en": "After his grandfather Sekiryo Kaneda suffered a stroke in 1948, the 21-year-old Yamauchi — still studying law at Waseda University — was asked to take over Nintendo immediately, since the company had no designated successor. Yamauchi agreed on one condition: he would be the only Yamauchi-family member at Nintendo, which forced his grandfather to fire his own son (Yamauchi's older cousin). Kaneda reluctantly agreed. On April 25, 1949, Yamauchi became the third president of Nintendo Karuta at age 21. He immediately purged longtime employees and broke the union faction — laying the foundation for the absolute, autocratic command structure that would define Nintendo for the next 53 years.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "继任",
+      "社长",
+      "权力清洗"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-yamauchi-presidency",
+        "url": "https://en.wikipedia.org/wiki/Hiroshi_Yamauchi",
+        "kind": "article",
+        "title": "Hiroshi Yamauchi",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Hiroshi_Yamauchi",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "history-nintendo-wiki",
+        "url": "https://en.wikipedia.org/wiki/History_of_Nintendo",
+        "kind": "article",
+        "title": "History of Nintendo",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/History_of_Nintendo",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "pbs-yamauchi-legacy",
+        "url": "https://www.pbs.org/newshour/nation/a-look-at-the-legacy-of-nintendos-yamauchi",
+        "kind": "article",
+        "title": "Remembering Hiroshi Yamauchi, who took Nintendo from playing cards, to love hotels, to electronics giant",
+        "publisher": "PBS NewsHour",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.pbs.org/newshour/nation/a-look-at-the-legacy-of-nintendos-yamauchi",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1953-plastic-cards",
+    "person_id": "yamauchi",
+    "date": "1953-01-01",
+    "date_precision": "year",
+    "type": "product",
+    "title": "推出日本首款塑料扑克牌",
+    "title_en": "Launches Japan's first mass-produced plastic playing cards",
+    "summary": "传统花札（hanafuda）和扑克都用纸印刷，易磨损、易脏污。1953 年，山内主导任天堂率先在日本批量生产塑料覆膜扑克牌——日本玩家可以直接用湿布擦拭。这是任天堂第一次以技术差异化突破日本传统纸牌市场。这一年也常被认为是公司从传统手工业向工业化生产转型的起点。",
+    "summary_en": "Traditional hanafuda and poker decks were printed on paper — they wore out and got dirty fast. In 1953 Yamauchi pushed Nintendo to become the first company in Japan to mass-produce plastic-coated playing cards, which players could simply wipe clean with a damp cloth. It was Nintendo's first product-tech breakthrough in a market frozen in tradition, and is often cited as the moment the firm pivoted from a traditional craft shop into an industrial manufacturer.",
+    "location": "Kyoto, Japan",
+    "key": false,
+    "tags": [
+      "塑料扑克",
+      "技术差异化"
+    ],
+    "sources": [
+      {
+        "id": "nintendo-corporate-history",
+        "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+        "kind": "article",
+        "title": "Corporate Information : Company History",
+        "publisher": "Nintendo Co., Ltd.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.nintendo.co.jp/corporate/en/history/index.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "nintendo-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nintendo",
+        "kind": "article",
+        "title": "Nintendo",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Nintendo",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1956-uspc-trip",
+    "person_id": "yamauchi",
+    "date": "1956-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "赴美考察 USPC，意识到扑克市场天花板",
+    "title_en": "Visits the U.S. Playing Card Company in Cincinnati",
+    "summary": "1956 年，山内受邀访问美国扑克牌行业的霸主 United States Playing Card Company（USPC，总部辛辛那提）。他原本预期会看到一个庞大的现代化王国，却惊讶地发现 USPC 的总部办公室简陋、规模有限——扑克牌本身就是一个有天花板的小生意。这次访问彻底改变了他的判断：仅靠扑克牌不可能撑起一家伟大公司。回国后，他开始尝试多元化（玩具、出租车、即食米饭、爱情旅馆等），并在 1959 年与迪士尼达成授权——这是任天堂从传统手工业进入消费品时代的真正起点。",
+    "summary_en": "In 1956, Yamauchi was invited to visit the United States Playing Card Company (USPC) — the dominant playing-card maker in the U.S., based in Cincinnati. He expected to find a massive modern empire; instead he found a modest headquarters and a clearly capped industry. The trip was a revelation: playing cards alone could never sustain a great company. Back in Japan, he began experimenting with diversification (toys, taxis, instant rice, love hotels, etc.) and three years later struck the Disney character licensing deal — the real moment Nintendo started its march from craft shop into consumer goods.",
+    "location": "Cincinnati, Ohio, USA",
+    "key": true,
+    "tags": [
+      "美国",
+      "USPC",
+      "战略觉醒"
+    ],
+    "sources": [
+      {
+        "id": "history-nintendo-1956",
+        "url": "https://en.wikipedia.org/wiki/History_of_Nintendo",
+        "kind": "article",
+        "title": "History of Nintendo",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/History_of_Nintendo",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "uspc-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States_Playing_Card_Company",
+        "kind": "article",
+        "title": "United States Playing Card Company",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/United_States_Playing_Card_Company",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1959-disney-deal",
+    "person_id": "yamauchi",
+    "date": "1959-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "拿下迪士尼角色独家授权",
+    "title_en": "Secures exclusive Disney character licensing deal",
+    "summary": "1956 年访美后，山内意识到任天堂需要打开\"儿童市场\"——日本传统纸牌主要面向赌博的成人玩家，市场已经饱和。1959 年，他亲自谈下迪士尼在日本的角色独家授权，把米老鼠、唐老鸭印在塑料扑克牌上，并附赠教孩子玩牌的小册子。第一年就卖出 60 万副，最终累计超过 100 万副。这是任天堂历史上第一份重要授权合同，让公司利润翻了三倍，也让任天堂在 1962 年具备了上市的条件。",
+    "summary_en": "After the 1956 U.S. trip, Yamauchi concluded Nintendo had to crack the children's market — Japan's traditional playing-card market was dominated by adult gamblers and was saturated. In 1959 he personally negotiated an exclusive license with Walt Disney for Japan, putting Mickey Mouse and Donald Duck on plastic decks bundled with a how-to-play booklet for kids. The decks sold 600,000 copies in the first year and over 1,000,000 total. It was the first major licensing deal in Nintendo's history; profits tripled and the company became viable for an IPO three years later.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "迪士尼",
+      "授权",
+      "儿童市场"
+    ],
+    "sources": [
+      {
+        "id": "nintendo-history-disney",
+        "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+        "kind": "article",
+        "title": "Corporate Information : Company History",
+        "publisher": "Nintendo Co., Ltd.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.nintendo.co.jp/corporate/en/history/index.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "disney-cards-wiki",
+        "url": "https://nintendo.fandom.com/wiki/Disney_playing_cards",
+        "kind": "article",
+        "title": "Disney playing cards",
+        "publisher": "Nintendo Wiki (Fandom)",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1962-ipo",
+    "person_id": "yamauchi",
+    "date": "1962-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "任天堂在大阪、京都证券交易所上市",
+    "title_en": "Nintendo IPOs on Osaka and Kyoto stock exchanges",
+    "summary": "迪士尼授权大获成功后，任天堂在 1962 年在大阪证券交易所第二部和京都证券交易所同时挂牌上市。资本市场的支持让山内有更多资金去尝试多元化——尽管接下来几年的多元化（出租车、爱情旅馆、即食米饭、吸尘器）几乎全部失败，但上市为任天堂日后转型娱乐和电子游戏奠定了财务基础。1963 年公司正式从\"任天堂骨牌\"改名为\"任天堂株式会社\"。",
+    "summary_en": "Buoyed by the Disney-deal success, Nintendo listed on the Second Section of the Osaka Securities Exchange and on the Kyoto Stock Exchange in 1962. The capital cushion gave Yamauchi room to experiment with diversification — most of which (taxis, love hotels, instant rice, vacuum cleaners) flopped within a decade. But going public established the financial scaffolding that would later carry Nintendo into toys and then video games. The next year the company shortened its name from \"Nintendo Playing Card Co., Ltd.\" to simply \"Nintendo.\"",
+    "location": "Osaka & Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "IPO",
+      "上市",
+      "1962"
+    ],
+    "sources": [
+      {
+        "id": "nintendo-history-ipo",
+        "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+        "kind": "article",
+        "title": "Corporate Information : Company History",
+        "publisher": "Nintendo Co., Ltd.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.nintendo.co.jp/corporate/en/history/index.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "nintendo-ir-faq",
+        "url": "https://www.nintendo.co.jp/ir/en/qa/qa.html",
+        "kind": "article",
+        "title": "IR Information : FAQ",
+        "publisher": "Nintendo Co., Ltd.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.nintendo.co.jp/ir/en/qa/qa.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1964-hanafuda-collapse",
+    "person_id": "yamauchi",
+    "date": "1964-01-01",
+    "date_precision": "year",
+    "type": "other",
+    "title": "扑克牌业务崩盘，多元化失败",
+    "title_en": "Playing-card sales collapse; diversification ventures fail",
+    "summary": "1964 年东京奥运会后，日本社会的休闲方式快速转向保龄球、弹珠机、夜店等新潮娱乐，扑克牌和花札市场迅速萎缩。任天堂股价从 900 日元一路跌到 60 日元，创历史最低。山内陷入一段长达数年的痛苦摸索：他先后投资过日产味之素式速食米饭、京都的出租车公司、爱情旅馆、电视台甚至吸尘器业务，几乎全部失败。这一段\"什么都试什么都不行\"的经历，让山内深刻认识到任天堂必须聚焦于一个能从头到尾掌控的产业——这后来变成玩具与电子游戏。",
+    "summary_en": "After the 1964 Tokyo Olympics, Japanese leisure shifted decisively to bowling, pachinko parlors, and nightlife — the playing-card market collapsed. Nintendo's stock cratered from ¥900 to ¥60. Yamauchi spent the next several years frantically diversifying into instant rice, a Kyoto taxi company, love hotels, a TV channel, even vacuum cleaners. Almost all of it failed. The lesson seared into him: Nintendo had to concentrate on one industry it could control end-to-end. Years later that conviction would point him toward toys, and then video games.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "失败",
+      "多元化",
+      "出租车",
+      "爱情旅馆"
+    ],
+    "sources": [
+      {
+        "id": "history-nintendo-collapse",
+        "url": "https://en.wikipedia.org/wiki/History_of_Nintendo",
+        "kind": "article",
+        "title": "History of Nintendo",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/History_of_Nintendo",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "tofugu-yamauchi-2",
+        "url": "https://www.tofugu.com/japan/hiroshi-yamauchi/",
+        "kind": "article",
+        "title": "Hiroshi Yamauchi: The Very Non-Whimsical Willy Wonka Of Nintendo",
+        "publisher": "Tofugu",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.tofugu.com/japan/hiroshi-yamauchi/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "inc-nintendo-taxi-hotel",
+        "url": "https://www.inc.com/sarah-sicard/nintendo-used-to-operate-a-taxi-company-and-allegedly-a-love-hotel/91109471",
+        "kind": "article",
+        "title": "Nintendo Used to Operate Taxis and, Allegedly, a 'Love Hotel'",
+        "publisher": "Inc.",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1969-games-division",
+    "person_id": "yamauchi",
+    "date": "1969-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "成立游戏开发部，提拔横井军平",
+    "title_en": "Establishes Games R&D division under Gunpei Yokoi",
+    "summary": "1966 年，山内在京都工厂巡视时，看到一名维修工程师横井军平（Gunpei Yokoi）在用车床做一只\"伸缩手\"玩具自娱自乐。山内当场命令他把它做成产品。这只\"Ultra Hand\"成为任天堂第一个真正畅销的玩具，全球卖出 120 万件。受此鼓舞，山内在 1969 年正式成立任天堂游戏开发部，由社长室长今西宏直接领导，把横井放到这个新部门，专攻电子玩具与游戏机器。这一决定播下了 Game & Watch、红白机、Game Boy 的所有种子——日后任天堂三十年的硬件创新，都从这个部门里长出来。",
+    "summary_en": "In 1966, while walking through Nintendo's Kyoto factory, Yamauchi spotted maintenance engineer Gunpei Yokoi messing around with a homemade extending-arm toy on a lathe. Yamauchi told him on the spot to turn it into a product. That \"Ultra Hand\" toy sold 1.2 million units worldwide. Emboldened, in 1969 Yamauchi formally created Nintendo's Games R&D division under Hiroshi Imanishi and put Yokoi inside it, focused on electronic toys and game machines. That single decision is the seed of every great Nintendo hardware that followed — Game & Watch, the Famicom, the Game Boy — they all grew out of this department.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "横井军平",
+      "R&D",
+      "Ultra Hand"
+    ],
+    "sources": [
+      {
+        "id": "history-nintendo-games-div",
+        "url": "https://en.wikipedia.org/wiki/History_of_Nintendo",
+        "kind": "article",
+        "title": "History of Nintendo",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/History_of_Nintendo",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "vice-yokoi-reinvented",
+        "url": "https://www.vice.com/en/article/how-gunpei-yokoi-reinvented-nintendo/",
+        "kind": "article",
+        "title": "How Gunpei Yokoi Reinvented Nintendo",
+        "publisher": "Vice",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.vice.com/en/article/how-gunpei-yokoi-reinvented-nintendo/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1977-06-01-color-tv-game-6",
+    "person_id": "yamauchi",
+    "date": "1977-06-01",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Color TV-Game 6 上市，任天堂正式进入家用游戏机市场",
+    "title_en": "Color TV-Game 6 launches — Nintendo's first home console",
+    "summary": "1977 年 6 月 1 日，任天堂与三菱电机联合推出 Color TV-Game 6——任天堂的第一款家用游戏机，本质是一台内置 6 种 Pong 变体的电视游戏盒。山内对项目下了死命令：要快、要便宜——零售价只有 9,800 日元，远低于竞争对手。Color TV-Game 系列前四款合计卖出 300 万台，是当时世界上销量最高的第一代主机。这次成功让山内确信：任天堂的未来不在玩具，而在能与软件结合的硬件。",
+    "summary_en": "On June 1, 1977, Nintendo and Mitsubishi Electric jointly released the Color TV-Game 6 — Nintendo's first home video game machine, essentially a TV box with six Pong variants built in. Yamauchi gave the team a brutal mandate: fast and cheap. The retail price was just ¥9,800, far below competitors. The first four Color TV-Game models sold a combined 3 million units, the highest of any first-generation console worldwide. The success convinced Yamauchi that Nintendo's future lay not in toys but in hardware that paired with software.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "Color TV-Game",
+      "三菱",
+      "首款主机"
+    ],
+    "sources": [
+      {
+        "id": "color-tv-game-wiki",
+        "url": "https://en.wikipedia.org/wiki/Color_TV-Game",
+        "kind": "article",
+        "title": "Color TV-Game",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Color_TV-Game",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "nintendo-corp-history-1977",
+        "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+        "kind": "article",
+        "title": "Corporate Information : Company History",
+        "publisher": "Nintendo Co., Ltd.",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.nintendo.co.jp/corporate/en/history/index.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1980-04-28-game-and-watch",
+    "person_id": "yamauchi",
+    "date": "1980-04-28",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Game & Watch 上市（横井军平设计）",
+    "title_en": "Game & Watch handheld launches (designed by Gunpei Yokoi)",
+    "summary": "1979 年某天司机请假，横井军平开车送山内去和夏普 CEO 开会。路上他向山内提了一个想法：在新干线上看到一位男士无聊地按计算器消磨时间——能不能做一台计算器大小的便携游戏机？山内当场感兴趣，并把这个想法直接抛给了夏普 CEO。一周后任天堂和夏普决定合作。1980 年 4 月 28 日，第一款 Game & Watch《Ball》上市。Game & Watch 系列累计卖出 4340 万台，是任天堂第一个真正的全球热销产品，也直接奠定了 Game Boy 的设计基因。",
+    "summary_en": "One day in 1979 the company chauffeur called in sick, so engineer Gunpei Yokoi drove Yamauchi to a meeting with Sharp's CEO. On the way Yokoi pitched an idea: on a Shinkansen he had watched a bored salaryman idly press buttons on a pocket calculator to pass the time — what if Nintendo built a calculator-sized portable game? Yamauchi was instantly hooked and floated the idea to Sharp's CEO at the meeting. A week later the partnership was approved. On April 28, 1980 the first Game & Watch (\"Ball\") shipped. The series went on to sell 43.4 million units — Nintendo's first true global hit, and the genetic blueprint for the Game Boy nine years later.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Game & Watch",
+      "横井军平",
+      "便携"
+    ],
+    "sources": [
+      {
+        "id": "game-and-watch-wiki",
+        "url": "https://en.wikipedia.org/wiki/Game_%26_Watch",
+        "kind": "article",
+        "title": "Game & Watch",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Game_%26_Watch",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "shmuplations-yokoi",
+        "url": "https://shmuplations.com/gameandwatch/",
+        "kind": "transcript",
+        "title": "Gunpei Yokoi – Inventing the Game and Watch",
+        "publisher": "shmuplations",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1981-07-09-donkey-kong",
+    "person_id": "yamauchi",
+    "date": "1981-07-09",
+    "date_precision": "day",
+    "type": "product",
+    "title": "《大金刚》街机上市，宫本茂出道",
+    "title_en": "Donkey Kong arcade launches; Miyamoto's debut, first Mario",
+    "summary": "1981 年初，任天堂美国分公司因街机《Radar Scope》滞销面临破产危机——仓库里堆着 2000 台卖不出去的街机。社长荒川实向山内求救，请求一款能改造的新游戏。山内没有把项目交给老员工，而是动员全公司资源征集创意，最终选中了 28 岁、毫无游戏开发经验的工业设计师宫本茂的方案，并指派横井军平做技术总监，预算 26.7 万美元。宫本以《金刚》《大力水手》《美女与野兽》为灵感，创造了一只大猩猩、一位木匠（即后来的 Mario），以及攀爬平台躲桶的玩法。1981 年 7 月 9 日《大金刚》在日本小规模发售。它救活了任天堂美国，并把宫本茂、Mario、街机平台游戏类型一同送上了世界舞台。",
+    "summary_en": "By early 1981, Nintendo of America was teetering toward bankruptcy: 2,000 unsold Radar Scope arcade cabinets sat in a New Jersey warehouse. NoA president Minoru Arakawa cabled Yamauchi for help — he needed a game that could be retrofitted into the existing hardware. Yamauchi declined to assign the project to a senior designer; instead he opened it to the whole company. The winning pitch came from a 28-year-old industrial designer with zero game-design experience: Shigeru Miyamoto. Yamauchi appointed Yokoi as project supervisor and gave them a $267,000 budget. Drawing on King Kong, Popeye, and Beauty and the Beast, Miyamoto created a giant ape, a carpenter (the future Mario), and the platform-jumping gameplay that defined a genre. Donkey Kong shipped July 9, 1981 in Japan. It saved Nintendo of America and put Miyamoto, Mario, and the arcade platformer onto the world map all at once.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Donkey Kong",
+      "Miyamoto",
+      "Mario",
+      "街机"
+    ],
+    "sources": [
+      {
+        "id": "donkey-kong-1981-wiki",
+        "url": "https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)",
+        "kind": "article",
+        "title": "Donkey Kong (1981 video game)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "sheff-game-over",
+        "url": "https://archive.org/details/0966961706",
+        "kind": "book",
+        "title": "Game Over: How Nintendo Conquered the World",
+        "publisher": "Random House (David Sheff, 1993)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1983-07-15-famicom",
+    "person_id": "yamauchi",
+    "date": "1983-07-15",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Famicom（红白机）在日本发售",
+    "title_en": "Family Computer (Famicom) launches in Japan",
+    "summary": "1983 年 7 月 15 日，山内一手推动设计的 Family Computer（家用电脑，简称 Famicom，俗称\"红白机\"）在日本以 14,800 日元的价格上市，首发软件包括《大金刚》《大金刚 Jr.》和《大力水手》。山内对工程师上村雅之的要求只有两条：一是必须能跑街机游戏，二是价格要低到让街机厂商都做不到。上村为此选用了 8 位芯片，山内则通过\"残酷的供应链谈判\"压低物料成本。前两个月就卖出 50 万台。山内还做出了一个超前的决定——禁止第三方未经审批发行游戏，并对每张卡带抽取版税：这套\"软件许可\"商业模式日后被全行业沿用。",
+    "summary_en": "On July 15, 1983, the Family Computer (\"Famicom\") — designed under Yamauchi's direct mandate — launched in Japan at ¥14,800 with three games: Donkey Kong, Donkey Kong Jr., and Popeye. Yamauchi gave engineer Masayuki Uemura two non-negotiable requirements: it must run arcade games, and it must cost less than any arcade hardware. Uemura chose an 8-bit chipset; Yamauchi personally squeezed component vendors with \"brutal\" negotiations. 500,000 units sold in the first two months. Yamauchi also made one prescient decision: no third-party game could ship without Nintendo's approval, and every cartridge owed Nintendo a royalty. That software-licensing model has shaped every console maker since.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Famicom",
+      "红白机",
+      "上村雅之",
+      "授权"
+    ],
+    "sources": [
+      {
+        "id": "nes-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+        "kind": "article",
+        "title": "Nintendo Entertainment System",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "japan-times-famicom-30",
+        "url": "https://www.japantimes.co.jp/news/2013/07/15/reference/nintendo-brought-arcade-games-into-homes-30-years-ago/",
+        "kind": "article",
+        "title": "Nintendo brought arcade games into homes 30 years ago",
+        "publisher": "The Japan Times",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.japantimes.co.jp/news/2013/07/15/reference/nintendo-brought-arcade-games-into-homes-30-years-ago/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1985-09-13-super-mario-bros",
+    "person_id": "yamauchi",
+    "date": "1985-09-13",
+    "date_precision": "day",
+    "type": "product",
+    "title": "《超级马里奥兄弟》在日本发售",
+    "title_en": "Super Mario Bros. launches in Japan",
+    "summary": "1985 年 9 月 13 日，宫本茂团队为 Famicom 开发的《超级马里奥兄弟》（Super Mario Bros.）在日本上市。这款游戏发布当月就卖出 120 万份，最终全球销量超过 4000 万份，成为 Famicom 时代的代表作，也是历史上最具影响力的电子游戏之一。山内本人对游戏内容并不喜欢——他不打游戏——但他清楚地看到\"软件比硬件更重要\"的事实，并据此塑造了任天堂\"卖游戏不只卖机器\"的整个商业逻辑。",
+    "summary_en": "On September 13, 1985, Super Mario Bros. — developed by Shigeru Miyamoto's team for the Famicom — launched in Japan. It sold 1.2 million copies in its release month and over 40 million worldwide, becoming the defining title of the Famicom era and one of the most influential video games ever made. Yamauchi himself didn't play games and didn't enjoy them — but he understood with absolute clarity that software, not hardware, was the real product. That conviction shaped Nintendo's entire business model: sell games, not just machines.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Super Mario",
+      "Miyamoto",
+      "Famicom"
+    ],
+    "sources": [
+      {
+        "id": "smb-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+        "kind": "article",
+        "title": "Super Mario Bros.",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1985-10-18-nes-launch",
+    "person_id": "yamauchi",
+    "date": "1985-10-18",
+    "date_precision": "day",
+    "type": "product",
+    "title": "NES（北美版红白机）在纽约试销",
+    "title_en": "NES launches in test market in New York City",
+    "summary": "1983-1985 年的\"雅达利冲击\"（Atari Shock）让美国家用电子游戏市场全面崩盘，年收入从 32 亿美元跌到 1 亿美元。零售商对\"电子游戏机\"四个字深恶痛绝。山内决定换皮重生：把 Famicom 改名为\"Nintendo Entertainment System\"（NES），不叫游戏机，叫\"娱乐系统\"；卡带不叫卡带，叫\"Game Pak\"；甚至附带一只塑料机器人 R.O.B. 和光枪，把它包装成\"玩具\"而不是游戏机。1985 年 10 月 18 日，NES 在纽约试销。这场绝地翻身最终救活了整个北美家用游戏产业，并把任天堂送上了全球游戏霸主的位置。",
+    "summary_en": "The 1983-85 Atari shock had wiped out the U.S. home video game market — annual revenue fell from $3.2 billion to $100 million, and retailers wouldn't touch anything labeled \"video game.\" Yamauchi's response was a re-skin and reposition: rename the Famicom to \"Nintendo Entertainment System\" (it wasn't a console, it was an \"entertainment system\"); cartridges became \"Game Paks\"; the kit shipped with a plastic robot (R.O.B.) and a light gun so retailers could shelve it as a toy. On October 18, 1985, NES went on sale in test markets in New York City. The gamble worked: it single-handedly revived the U.S. home video game industry and made Nintendo the global gaming hegemon.",
+    "location": "New York City, USA",
+    "key": true,
+    "tags": [
+      "NES",
+      "Atari Shock",
+      "美国",
+      "R.O.B."
+    ],
+    "sources": [
+      {
+        "id": "nes-launch-history",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Nintendo_Entertainment_System",
+        "kind": "article",
+        "title": "History of the Nintendo Entertainment System",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/History_of_the_Nintendo_Entertainment_System",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "video-game-crash-1983",
+        "url": "https://en.wikipedia.org/wiki/Video_game_crash_of_1983",
+        "kind": "article",
+        "title": "Video game crash of 1983",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Video_game_crash_of_1983",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "vgh-foundation-nes",
+        "url": "https://gamehistory.org/nes-launch-collection-1985/",
+        "kind": "article",
+        "title": "The NES Launch Collection",
+        "publisher": "Video Game History Foundation",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1989-04-21-game-boy",
+    "person_id": "yamauchi",
+    "date": "1989-04-21",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Game Boy 在日本发售",
+    "title_en": "Game Boy launches in Japan",
+    "summary": "1989 年 4 月 21 日，横井军平团队设计的 Game Boy 在日本上市，首发 30 万台两周内售罄。这款机器主屏只有 4 灰阶，远不如同期对手 Atari Lynx 和 Sega Game Gear 鲜艳——但它便宜、轻巧、电池能撑 30 小时。山内一开始对这个项目保持距离，最终被横井军平的信心说服，并放出豪言：未来三年至少卖 2500 万台。预测惊为天人，但最终 Game Boy 全系卖出 1.18 亿台。三个月后北美版上市时，Henk Rogers 说服 NoA 把《俄罗斯方块》（Tetris）作为捆绑游戏，让 Game Boy 一夜之间变成成年人通勤的伴侣。",
+    "summary_en": "On April 21, 1989, the Game Boy — designed by Gunpei Yokoi's team — launched in Japan; the first 300,000 units sold out in two weeks. Its screen was just four shades of gray, vastly inferior to the Atari Lynx and Sega Game Gear's color screens, but it was cheap, light, and ran for 30 hours on four AA batteries. Yamauchi was initially skeptical but was won over by Yokoi's confidence — and made a bold prediction: 25 million units in three years. The number was considered absurd at the time. The Game Boy line eventually sold 118 million. When the North American version shipped that July, Henk Rogers convinced NoA to bundle Tetris instead of Super Mario Land — and the Game Boy became the companion of adult commuters overnight.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Game Boy",
+      "横井军平",
+      "Tetris",
+      "便携"
+    ],
+    "sources": [
+      {
+        "id": "gameboy-wiki",
+        "url": "https://en.wikipedia.org/wiki/Game_Boy",
+        "kind": "article",
+        "title": "Game Boy",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Game_Boy",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "tetris-gameboy-wiki",
+        "url": "https://en.wikipedia.org/wiki/Tetris_(Game_Boy_video_game)",
+        "kind": "article",
+        "title": "Tetris (Game Boy video game)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Tetris_(Game_Boy_video_game)",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1990-11-21-super-famicom",
+    "person_id": "yamauchi",
+    "date": "1990-11-21",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Super Famicom（超级红白机）在日本发售",
+    "title_en": "Super Famicom launches in Japan",
+    "summary": "1990 年 11 月 21 日，Super Famicom 在日本以 25,000 日元的价格上市，首发只有《超级马里奥世界》和《F-Zero》两款游戏。批发商预订量高达 150 万台。山内还得知一个传闻——黑帮可能劫货，于是启动了\"午夜运货行动\"，让卡车在凌晨秘密配送。首批 30 万台几小时内售罄。日本政府事后专门请求任天堂以后把新机发售放在周末，因为太多人为了买机器请假。",
+    "summary_en": "On November 21, 1990, the Super Famicom launched in Japan at ¥25,000, with just two titles available: Super Mario World and F-Zero. Wholesalers had pre-ordered 1.5 million units. Yamauchi heard rumors that yakuza intended to hijack delivery trucks, so he launched \"Operation Midnight Shipping\" — trucks moved in the small hours under tight secrecy. The first 300,000 units sold out in hours. The Japanese government later asked Nintendo to please launch future consoles on weekends, because too many people were calling in sick from work to buy them.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Super Famicom",
+      "SNES",
+      "午夜运货"
+    ],
+    "sources": [
+      {
+        "id": "snes-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+        "kind": "article",
+        "title": "Super Nintendo Entertainment System",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "plozee-superfamicom-launch",
+        "url": "https://plozee.com/the-launch-of-the-super-famicom-what-led-to-the-craziest-console-release-ever/",
+        "kind": "article",
+        "title": "The launch of the Super Famicom",
+        "publisher": "Plozee",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1991-06-sony-betrayal",
+    "person_id": "yamauchi",
+    "date": "1991-06-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "和索尼分手——日后 PlayStation 的伏笔",
+    "title_en": "Public split with Sony — sets the stage for PlayStation",
+    "summary": "1988 年，索尼应任天堂之邀为 SNES 开发 CD-ROM 扩展件，并合作研发\"PlayStation\"原型机。但 1990 年山内仔细审完合同，发现 1988 年签的协议把 SNES CD-ROM 上所有游戏的国际发行权和全部音乐影像授权收入都给了索尼。山内认为这等于把任天堂的命脉交给对方。1991 年 6 月，在芝加哥消费电子展（CES）上，索尼公开发布了 PlayStation 雏形机；第二天任天堂在同一展会宣布与索尼竞争对手飞利浦合作——单方面撕毁与索尼的协议。索尼蒙羞，随即由久夛良木健主导从零开始独立开发主机。1994 年，索尼 PlayStation 上市，三年内反超任天堂成为家用机霸主。这次毁约被许多业内人士称为\"游戏史上最伟大的背叛\"。",
+    "summary_en": "In 1988, at Nintendo's invitation, Sony began developing a CD-ROM add-on for the SNES — and a hybrid console called \"PlayStation.\" But when Yamauchi reread the 1988 contract in 1990, he realized it gave Sony international distribution rights to every SNES-CD game and all music/video licensing revenue. He concluded it would hand Sony Nintendo's lifeline. In June 1991, Sony publicly unveiled the PlayStation prototype at CES Chicago. The very next day, on the same show floor, Nintendo announced a partnership with Sony's rival Philips — unilaterally tearing up the Sony deal in front of the world. Humiliated, Sony — under Ken Kutaragi — went on to build a standalone console from scratch. The PlayStation launched in December 1994 and overtook Nintendo as the home-console king within three years. The episode is widely called \"the greatest betrayal in gaming history.\"",
+    "location": "Chicago, USA",
+    "key": true,
+    "tags": [
+      "Sony",
+      "PlayStation",
+      "Philips",
+      "战略失误"
+    ],
+    "sources": [
+      {
+        "id": "snes-cd-rom-wiki",
+        "url": "https://en.wikipedia.org/wiki/Super_NES_CD-ROM",
+        "kind": "article",
+        "title": "Super NES CD-ROM",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Super_NES_CD-ROM",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "vgc-playstation-betrayal",
+        "url": "https://www.videogameschronicle.com/features/playstation-at-30-the-betrayal-and-revenge-story-of-the-ps1/",
+        "kind": "article",
+        "title": "PlayStation at 30: The betrayal and revenge story of the PS1",
+        "publisher": "Video Games Chronicle",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.videogameschronicle.com/features/playstation-at-30-the-betrayal-and-revenge-story-of-the-ps1/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1992-07-01-mariners",
+    "person_id": "yamauchi",
+    "date": "1992-07-01",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "1.25 亿美元收购西雅图水手棒球队",
+    "title_en": "Acquires the Seattle Mariners for $125 million",
+    "summary": "1991 年底，西雅图水手队（MLB）准备被卖到佛罗里达。任天堂美国分公司位于雷蒙德，山内决定回报这座城市——尽管他从来没看过一场棒球比赛，他亲自出资 7500 万美元（占 60%），加上当地投资者 5000 万美元，组成 1.25 亿美元收购方案：1 亿美元买队，2500 万美元用于经营。MLB 起初以\"反对外国人入主\"为由拒绝，最终参议员 Slade Gorton 通过 George W. Bush 联系老布什总统出面斡旋，MLB 妥协——条件是山内 60% 持股但只能行使 49% 投票权。1992 年 7 月 1 日交易正式完成，水手队成为 MLB 历史上第一支被外国资本控股的球队。山内在他余生中从未出席过一场水手队比赛。",
+    "summary_en": "In late 1991 the Seattle Mariners were on the brink of being relocated to Florida. Nintendo of America was based in nearby Redmond, and Yamauchi — who had never attended a baseball game in his life — decided he wanted to thank the community: he personally put up $75 million (a 60% share); local investors added $50 million. The total bid was $125 million ($100M for the team, $25M for reorganization). MLB initially refused, citing its policy against foreign owners. Senator Slade Gorton then enlisted George W. Bush, who in turn pressed his father, President George H. W. Bush. MLB capitulated, on the condition that Yamauchi could own 60% but exercise only 49% of voting rights. On July 1, 1992 the deal closed — the Mariners became the first MLB franchise majority-owned by non-North American capital. Yamauchi never attended a single Mariners game for the rest of his life.",
+    "location": "Seattle, USA",
+    "key": true,
+    "tags": [
+      "MLB",
+      "西雅图水手",
+      "棒球",
+      "回报社区"
+    ],
+    "sources": [
+      {
+        "id": "historylink-mariners",
+        "url": "https://www.historylink.org/File/9562",
+        "kind": "article",
+        "title": "A group of local investors announces plans to buy the Seattle Mariners on January 23, 1992",
+        "publisher": "HistoryLink.org",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.historylink.org/File/9562",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "vgc-mariners",
+        "url": "https://www.videogameschronicle.com/features/that-time-when-nintendo-bought-a-baseball-team/",
+        "kind": "article",
+        "title": "That Time When… Nintendo bought a baseball team",
+        "publisher": "Video Games Chronicle",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.videogameschronicle.com/features/that-time-when-nintendo-bought-a-baseball-team/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-1996-06-23-nintendo-64",
+    "person_id": "yamauchi",
+    "date": "1996-06-23",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Nintendo 64 在日本发售",
+    "title_en": "Nintendo 64 launches in Japan",
+    "summary": "1996 年 6 月 23 日，Nintendo 64 在日本上市，首批 30 万台一日售罄。山内做了两个有争议的决定：第一，坚持使用卡带而不是 CD-ROM——容量小、成本高，但读取快、防盗版（这是和索尼分手的延续）；第二，主动限制游戏数量，要求开发商\"专注做精品\"。这两项决定让任天堂失去了《最终幻想 VII》等大批第三方大作（这些游戏全部跑到 PlayStation 上），但也铸就了《超级马里奥 64》《时之笛》等开创 3D 游戏的纪元之作。N64 全球销量 3293 万台，远不及 PlayStation 的 1.02 亿台——这是山内时代任天堂家用机第一次彻底落后。",
+    "summary_en": "On June 23, 1996, the Nintendo 64 launched in Japan; the first 300,000 units sold out in a day. Yamauchi made two controversial calls: first, he insisted on cartridges instead of CDs — smaller, more expensive, but faster-loading and harder to pirate (a continuation of the Sony fallout); second, he deliberately limited the number of games published, telling developers to \"focus on quality, not quantity.\" Those two choices cost Nintendo Final Fantasy VII and a generation of third-party blockbusters (all of which fled to PlayStation). But they also produced Super Mario 64 and The Legend of Zelda: Ocarina of Time — landmarks that defined 3D gaming. The N64 sold 32.93 million units worldwide, against the PlayStation's 102 million — the first time a Nintendo home console had decisively lost a generation under Yamauchi.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "Nintendo 64",
+      "卡带",
+      "PlayStation",
+      "Mario 64"
+    ],
+    "sources": [
+      {
+        "id": "n64-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nintendo_64",
+        "kind": "article",
+        "title": "Nintendo 64",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Nintendo_64",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-2001-09-14-gamecube",
+    "person_id": "yamauchi",
+    "date": "2001-09-14",
+    "date_precision": "day",
+    "type": "product",
+    "title": "GameCube 在日本发售（山内时代最后一款主机）",
+    "title_en": "GameCube launches in Japan (Yamauchi's last console)",
+    "summary": "2001 年 9 月 14 日，任天堂 GameCube 在日本上市——这是山内任内推出的最后一款家用机。山内没有重蹈 N64 的卡带覆辙，改用 8cm 迷你光盘；但他依然不让 GameCube 接受 CD/DVD 视频，认为\"我们做游戏机，不做家电\"。结果索尼的 PS2 凭借 DVD 播放功能在客厅一统天下，GameCube 全球只卖了 2174 万台。但同一天发售的多款游戏，包括《路易吉鬼屋》《大金刚 64》系列等，至今仍是 GameCube 时代的经典。这场失利成为山内交班的契机——他在第二年正式退位。",
+    "summary_en": "On September 14, 2001, the Nintendo GameCube launched in Japan — the last home console released under Yamauchi. He did not repeat the N64 cartridge mistake; the GameCube used 8cm proprietary mini-DVDs. But he still refused to let the box play standard DVD movies — \"we make game machines, not appliances.\" Sony's PS2, which did play DVDs, conquered the living room; the GameCube sold only 21.74 million units worldwide. The launch lineup that same day, however — Luigi's Mansion among them — remains beloved. The defeat became the trigger for Yamauchi's exit: he formally stepped down the following year.",
+    "location": "Japan",
+    "key": true,
+    "tags": [
+      "GameCube",
+      "PS2",
+      "光盘"
+    ],
+    "sources": [
+      {
+        "id": "gamecube-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/GameCube",
+        "kind": "article",
+        "title": "GameCube",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/GameCube",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-2002-05-24-steps-down",
+    "person_id": "yamauchi",
+    "date": "2002-05-24",
+    "date_precision": "day",
+    "type": "career",
+    "title": "退任社长，岩田聪接班——首位非家族成员社长",
+    "title_en": "Steps down as president; Satoru Iwata succeeds him",
+    "summary": "2002 年 5 月 24 日，担任社长 53 年（1949-2002）的山内溥正式卸任，由 42 岁的程序员出身、HAL 研究所前社长岩田聪接任。岩田是任天堂自 1889 年创立以来第一位与山内家族没有血缘或姻亲关系的社长——这本身就是山内对家族主义的告别。山内交班时给岩田留下了一句要求：任天堂要持续创造前所未有的想法，要做能体现这些想法的硬件，要做配得上这种硬件的软件。岩田后来主导了 Nintendo DS 和 Wii，把任天堂带回家用机巅峰。山内还以一个清廉举动结束职业生涯——他主动放弃了价值约 800-1400 万美元的退休金，理由是\"公司比我更需要这笔钱\"。",
+    "summary_en": "On May 24, 2002, after 53 years as president (1949-2002), Yamauchi stepped down. His successor was 42-year-old programmer Satoru Iwata, the former president of HAL Laboratory — the first Nintendo president since 1889 with no blood or marriage tie to the Yamauchi family. That choice was itself Yamauchi's farewell to dynastic management. He left Iwata with a single charge: that Nintendo give birth to wholly new ideas, build hardware that embodies them, and make software that lives up to the same standard. Iwata went on to deliver the Nintendo DS and the Wii, returning Nintendo to the top of the industry. Yamauchi also ended his career with one famously frugal gesture: he refused his retirement bonus, reportedly worth $8-14 million, saying the company needed the money more than he did.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "退任",
+      "岩田聪",
+      "传承",
+      "拒收退休金"
+    ],
+    "sources": [
+      {
+        "id": "iwata-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Satoru_Iwata",
+        "kind": "article",
+        "title": "Satoru Iwata",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Satoru_Iwata",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "gamespot-yamauchi-stepdown",
+        "url": "https://www.gamespot.com/articles/e3-2002-yamauchi-steps-down/1100-2867848/",
+        "kind": "article",
+        "title": "E3 2002: Yamauchi steps down",
+        "publisher": "GameSpot",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "pbs-yamauchi-pension",
+        "url": "https://www.pbs.org/newshour/nation/a-look-at-the-legacy-of-nintendos-yamauchi",
+        "kind": "article",
+        "title": "Remembering Hiroshi Yamauchi",
+        "publisher": "PBS NewsHour",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.pbs.org/newshour/nation/a-look-at-the-legacy-of-nintendos-yamauchi",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-2010-05-18-cancer-hospital",
+    "person_id": "yamauchi",
+    "date": "2010-05-18",
+    "date_precision": "day",
+    "type": "other",
+    "title": "捐资 75 亿日元建京都大学癌症治疗中心",
+    "title_en": "Donates 7.5 billion yen to build cancer center at Kyoto University Hospital",
+    "summary": "2002 年退任后，山内逐渐淡出公众视野，把精力放在慈善上。2010 年 5 月 18 日，京都大学医学部附属医院\"积翠院\"（Sekitei Ward）落成投入使用——这是一座 8 层、面积约 7600 平方米的癌症治疗中心。山内私人捐赠了几乎全部的 75 亿日元（约 8300 万美元）建设费用。京都市为此特别批准建筑突破当地高度限制（约 31 米）。这座医院日后成为日本最重要的癌症综合治疗中心之一。山内去世前数月，仍然在病榻上关心医院事务。",
+    "summary_en": "After stepping down in 2002, Yamauchi withdrew from the spotlight and focused on philanthropy. On May 18, 2010, the \"Sekitei Ward\" of Kyoto University Hospital opened — an eight-story, ~7,600 m² cancer treatment center. Yamauchi personally donated almost the entire ¥7.5 billion (~$83 million) construction cost from his private wealth. Kyoto's municipal government granted a special exemption from local height restrictions to accommodate the 101-foot (~31 m) building. The center has since become one of Japan's leading comprehensive cancer treatment facilities. Even months before his death Yamauchi was still asking after the hospital from his sickbed.",
+    "location": "Kyoto, Japan",
+    "key": false,
+    "tags": [
+      "慈善",
+      "癌症",
+      "京都大学医院",
+      "Sekitei Ward"
+    ],
+    "sources": [
+      {
+        "id": "kyoto-uni-sekitei",
+        "url": "https://www.kyoto-u.ac.jp/en/archive/prev/profile/25president/25th/addresses/100518_1",
+        "kind": "article",
+        "title": "Greetings at the ceremony commemorating the completion of the Sekitei Ward of the Kyoto University Hospital",
+        "publisher": "Kyoto University",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.kyoto-u.ac.jp/en/archive/prev/profile/25president/25th/addresses/100518_1",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "nintendolife-cancer",
+        "url": "https://www.nintendolife.com/news/2010/05/hiroshi_yamauchi_gives_millions_to_cancer_treatment_hospital",
+        "kind": "article",
+        "title": "Hiroshi Yamauchi Gives Millions to Cancer Treatment Hospital",
+        "publisher": "Nintendo Life",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.nintendolife.com/news/2010/05/hiroshi_yamauchi_gives_millions_to_cancer_treatment_hospital",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "vgchartz-cancer",
+        "url": "https://www.vgchartz.com/article/80099/former-nintendo-president-hiroshi-yamauchi-funds-cancer-hospital/",
+        "kind": "article",
+        "title": "Former Nintendo President Hiroshi Yamauchi Funds Cancer Hospital",
+        "publisher": "VGChartz",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "yamauchi-2013-09-19-death",
+    "person_id": "yamauchi",
+    "date": "2013-09-19",
+    "date_precision": "day",
+    "type": "life",
+    "title": "因肺炎在京都辞世，享年 85 岁",
+    "title_en": "Dies of pneumonia in Kyoto at age 85",
+    "summary": "2013 年 9 月 19 日，山内溥因肺炎并发症在京都的医院辞世，享年 85 岁。任天堂以一句简洁的官方声明确认了这一消息。山内主导任天堂 53 年（1949-2002），从一个濒死的扑克牌厂里造出了 Famicom、NES、Game Boy、Super Famicom、Game Boy Color、N64、GameCube 七代主机，培养了横井军平、宫本茂、岩田聪三代核心人才，把任天堂从京都的小公司变成全球游戏产业的灯塔。他生前几乎从不接受采访，没看过一场水手队比赛，也几乎不打游戏——但他对一件事的判断从未失误：软件比硬件更重要，游戏比技术更重要。",
+    "summary_en": "On September 19, 2013, Hiroshi Yamauchi died of complications of pneumonia at a hospital in Kyoto, age 85. Nintendo confirmed his death in a brief official statement. Yamauchi ran Nintendo for 53 years (1949-2002). From a near-dead playing-card maker he produced seven generations of consoles — the Famicom, NES, Game Boy, Super Famicom, Game Boy Color, N64, GameCube — and three generations of core talent: Yokoi, Miyamoto, Iwata. He turned a small Kyoto company into the lighthouse of the global gaming industry. He almost never gave interviews, never attended a Mariners game, and barely played video games himself — but his judgment on one thing was never wrong: software matters more than hardware; the game matters more than the technology.",
+    "location": "Kyoto, Japan",
+    "key": true,
+    "tags": [
+      "辞世",
+      "肺炎",
+      "85岁"
+    ],
+    "sources": [
+      {
+        "id": "seattle-times-yamauchi-obit",
+        "url": "https://www.seattletimes.com/sports/mariners/hiroshi-yamauchi-85-nintendo-leader-and-mrsquos-owner-dies/",
+        "kind": "article",
+        "title": "Hiroshi Yamauchi, 85, Nintendo leader and M's owner dies",
+        "publisher": "The Seattle Times",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.seattletimes.com/sports/mariners/hiroshi-yamauchi-85-nintendo-leader-and-mrsquos-owner-dies/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnn-yamauchi-obit",
+        "url": "https://www.cnn.com/2013/09/19/tech/gaming-gadgets/yamauchi-nintendo-obit",
+        "kind": "article",
+        "title": "Longtime Nintendo president dies",
+        "publisher": "CNN",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnn.com/2013/09/19/tech/gaming-gadgets/yamauchi-nintendo-obit",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "ign-yamauchi-history-video",
+        "url": "https://www.youtube.com/watch?v=zPg5f1PIukE",
+        "kind": "video",
+        "title": "A Brief History of Nintendo's Legendary Hiroshi Yamauchi - IGN Conversation",
+        "publisher": "IGN (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  }
+]

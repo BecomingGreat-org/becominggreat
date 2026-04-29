@@ -1998,12 +1998,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "CNBC 完整转播 2023 年伯克希尔年会——巴菲特和芒格最后一次同台。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20241225054432if_/https://www.youtube.com/watch?v=UKw_NjWtg5w",
-          "timestamp": "20241225054432",
-          "archived_at": "2024-12-25"
-        }
+        "summary": "CNBC 完整转播 2023 年伯克希尔年会——巴菲特和芒格最后一次同台。"
       }
     ],
     "source_hints": "Cross-reference with munger-1978-berkshire-vice-chairman in munger.json"
@@ -2037,12 +2032,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20250109194845if_/https://en.wikipedia.org/wiki/Berkshire_Hathaway",
-          "timestamp": "20250109194845",
-          "archived_at": "2025-01-09"
-        }
+        "mentions": []
       },
       {
         "id": "youtube-berkshire-2024",
@@ -2111,12 +2101,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20250109194845if_/https://en.wikipedia.org/wiki/Berkshire_Hathaway",
-          "timestamp": "20250109194845",
-          "archived_at": "2025-01-09"
-        }
+        "mentions": []
       },
       {
         "id": "youtube-berkshire-2025-retirement",

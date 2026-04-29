@@ -607,12 +607,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/20250101024348if_/https://en.wikipedia.org/wiki/Amazon_(company)",
-          "timestamp": "20250101024348",
-          "archived_at": "2025-01-01"
-        }
+        "mentions": []
       }
     ],
     "source_hints": "Brad Stone《The Everything Store》第 5-6 章；Ravi Suria 的 Lehman Brothers 报告",
@@ -839,7 +834,12 @@
         "summary_en": "Full Bezos D6 conference interview.",
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250407103042if_/https://www.youtube.com/watch?v=Ww8A87xf0gU",
+          "timestamp": "20250407103042",
+          "archived_at": "2025-04-07"
+        }
       }
     ]
   },
@@ -952,7 +952,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241231135834if_/https://en.wikipedia.org/wiki/The_Washington_Post",
+          "timestamp": "20241231135834",
+          "archived_at": "2024-12-31"
+        }
       }
     ],
     "source_hints": null,
@@ -989,7 +994,12 @@
         "summary_en": "Full Business Insider IGNITION 2014 Bezos interview.",
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241217035559if_/https://www.youtube.com/watch?v=Xx92bUw7WX8",
+          "timestamp": "20241217035559",
+          "archived_at": "2024-12-17"
+        }
       }
     ]
   },
@@ -1032,7 +1042,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250101024348if_/https://en.wikipedia.org/wiki/Amazon_(company)",
+          "timestamp": "20250101024348",
+          "archived_at": "2025-01-01"
+        }
       }
     ],
     "source_hints": null,
@@ -1066,7 +1081,12 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250103083233if_/https://en.wikipedia.org/wiki/New_Shepard",
+          "timestamp": "20250103083233",
+          "archived_at": "2025-01-03"
+        }
       },
       {
         "id": "blueorigin-new-shepard-2015",
@@ -1093,7 +1113,12 @@
         "summary_en": "Blue Origin's official video of New Shepard's first successful vertical landing — 25 days before SpaceX Falcon 9's first sea landing (though New Shepard is suborbital and Falcon is orbital, different difficulty levels).",
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": []
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250106135527if_/https://www.youtube.com/watch?v=9pillaOxGCo",
+          "timestamp": "20250106135527",
+          "archived_at": "2025-01-06"
+        }
       }
     ],
     "source_hints": null,
