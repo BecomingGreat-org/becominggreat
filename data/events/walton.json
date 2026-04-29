@@ -1,0 +1,1123 @@
+[
+  {
+    "id": "walton-1918-03-29-born-kingfisher",
+    "person_id": "walton",
+    "date": "1918-03-29",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于俄克拉荷马州金菲舍",
+    "title_en": "Born in Kingfisher, Oklahoma",
+    "summary": "塞缪尔·摩尔·沃尔顿（Samuel Moore Walton）于 1918 年 3 月 29 日出生在俄克拉荷马州金菲舍的一户农场家庭。父亲 Thomas Gibson Walton 当时是农场主、银行职员、农场贷款评估员，后来兼做地产与保险代理；母亲 Nancy Lee 出身金菲舍当地的劳伦斯家族。沃尔顿在金菲舍的农场度过了人生最初五年，1923 年随家人迁往密苏里。家庭节俭、勤劳与务实的中西部乡村气质，将影响他一生。",
+    "summary_en": "Samuel Moore Walton was born on March 29, 1918, in the small farming town of Kingfisher, Oklahoma, the elder son of Thomas Gibson Walton and Nancy Lee Lawrence. His father worked as a farmer, banker, and later a farm-loan appraiser and real-estate/insurance agent. Sam spent his first five years on the family farm before the Waltons moved north to Missouri in 1923. The thrifty, hard-working rural Midwestern culture of his upbringing would shape him for life.",
+    "location": "Kingfisher, Oklahoma",
+    "key": true,
+    "tags": [
+      "birth",
+      "early-life",
+      "oklahoma",
+      "family"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-sam-walton",
+        "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+        "kind": "article",
+        "title": "Sam Walton (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam_Walton",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "okhistory-walton",
+        "url": "https://www.okhistory.org/publications/enc/entry?entry=WA015",
+        "kind": "article",
+        "title": "Walton, Samuel Moore — Encyclopedia of Oklahoma History and Culture",
+        "publisher": "Oklahoma Historical Society",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1932-eagle-scout",
+    "person_id": "walton",
+    "date": "1932-01-01",
+    "date_precision": "year",
+    "type": "award",
+    "title": "成为密苏里州历史上最年轻的鹰级童军",
+    "title_en": "Becomes youngest Eagle Scout in Missouri history",
+    "summary": "13 岁的沃尔顿在密苏里州谢尔比纳（Shelbina）就读八年级时获得鹰级童军（Eagle Scout）荣誉，成为当时密苏里州历史上最年轻的鹰级童军。在马歇尔（Marshall）他与童军伙伴打过赌，看谁能最先成为鹰级童军——他赢了。这个少年事件被沃尔顿日后多次回忆，被视为他一生竞争心、目标导向和领导力的最早体现，也奠定了他对组织、纪律与团队精神的早期信念。",
+    "summary_en": "At age 13, while attending eighth grade in Shelbina, Missouri, Walton earned the rank of Eagle Scout — the youngest in Missouri history at the time. He had earlier made a bet with his Scout friends in Marshall about who would be first to reach Eagle, and won. Walton would cite the achievement throughout his life as an early sign of the competitive drive, goal-orientation, and leadership instincts that defined him.",
+    "location": "Shelbina, Missouri",
+    "key": true,
+    "tags": [
+      "education",
+      "boy-scouts",
+      "missouri",
+      "youth"
+    ],
+    "sources": [
+      {
+        "id": "scouting-alumni-walton",
+        "url": "https://scoutingalumni.org/about/notable-scouting-alumni/sam-walton/",
+        "kind": "article",
+        "title": "Sam Walton — Notable Scouting Alumni",
+        "publisher": "Scouting Alumni & Friends",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "shsmo-walton",
+        "url": "https://historicmissourians.shsmo.org/waltons/",
+        "kind": "article",
+        "title": "Sam and Bud Walton — Historic Missourians",
+        "publisher": "State Historical Society of Missouri",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1940-missouri-graduates",
+    "person_id": "walton",
+    "date": "1940-06-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "毕业于密苏里大学，获经济学学士学位",
+    "title_en": "Graduates from University of Missouri (BA Economics)",
+    "summary": "沃尔顿 1940 年从密苏里大学毕业，获经济学学士学位。大学期间他通过送报、做救生员、在学生中心当服务员来支付学费，并加入 Beta Theta Pi 兄弟会、QEBH 高级男生荣誉社团和 Scabbard and Blade 全国军事荣誉社团。同学们选他为「永久班长」，这个称号体现了他被同辈一致认可的领导力。毕业后他婉拒读研究生院，决定立刻进入零售业。",
+    "summary_en": "Walton graduated from the University of Missouri in 1940 with a bachelor's degree in economics. He worked his way through college delivering newspapers, lifeguarding, and waiting tables at the student union, while joining Beta Theta Pi fraternity and the QEBH senior men's honor society. His classmates voted him \"permanent class president,\" a sign of the unusual peer leadership he commanded. He turned down graduate school to enter retail immediately.",
+    "location": "Columbia, Missouri",
+    "key": false,
+    "tags": [
+      "education",
+      "university-of-missouri",
+      "economics"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-sam-walton",
+        "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+        "kind": "article",
+        "title": "Sam Walton (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam_Walton",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "shsmo-walton",
+        "url": "https://historicmissourians.shsmo.org/waltons/",
+        "kind": "article",
+        "title": "Sam and Bud Walton — Historic Missourians",
+        "publisher": "State Historical Society of Missouri",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1940-jcpenney-trainee",
+    "person_id": "walton",
+    "date": "1940-06-03",
+    "date_precision": "day",
+    "type": "career",
+    "title": "进入 J.C. Penney 任管理培训生",
+    "title_en": "Joins J.C. Penney as a management trainee",
+    "summary": "毕业三天后，沃尔顿进入爱荷华州得梅因（Des Moines）的 J.C. Penney，成为月薪 75 美元的管理培训生。在 Penney 他第一次系统地学习了什么是连锁百货：库存周转、单位经济、商店运营与待客之道。詹姆斯·凯什·彭尼（James Cash Penney）的「金科玉律」式管理风格——把员工当合伙人、关心顾客——日后成为沃尔玛企业文化的直接精神源头。",
+    "summary_en": "Three days after graduating, Walton joined J.C. Penney's training program in Des Moines, Iowa, at $75 a month. There he received his first systematic education in chain-store retailing — inventory turns, unit economics, daily operations, and customer service. James Cash Penney's \"golden rule\" approach of treating employees as associates and customers as guests became a direct cultural ancestor of Walmart.",
+    "location": "Des Moines, Iowa",
+    "key": false,
+    "tags": [
+      "career",
+      "jc-penney",
+      "retail-training"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-sam-walton",
+        "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+        "kind": "article",
+        "title": "Sam Walton (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam_Walton",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "encyclopediaarkansas-walton",
+        "url": "https://encyclopediaofarkansas.net/entries/samuel-moore-walton-1792/",
+        "kind": "article",
+        "title": "Sam Walton (1918–1992) — Encyclopedia of Arkansas",
+        "publisher": "CALS Encyclopedia of Arkansas",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1942-army-intelligence",
+    "person_id": "walton",
+    "date": "1942-07-16",
+    "date_precision": "day",
+    "type": "career",
+    "title": "应征入伍，进入美国陆军情报兵团",
+    "title_en": "Inducted into the U.S. Army Intelligence Corps",
+    "summary": "1942 年 7 月 16 日沃尔顿应征入伍。他被分配到驻盐湖城道格拉斯堡的第 777 宪兵营 A 连情报队，担任通讯军官，负责监督美国境内飞机制造厂、弹药厂和战俘营的安保。1943 年情人节他与从俄克拉荷马克莱蒙（Claremore）来的海伦·罗布森（Helen Robson）结婚——岳父莱兰·罗布森（Leland Robson）是律师，将在沃尔顿创业之初提供关键性资金支持。1945 年退役时军衔为上尉。",
+    "summary_en": "Walton was inducted on July 16, 1942 and served as a communications officer with the Army Intelligence Corps detachment of Co. A, 777th Military Police Battalion, based at Fort Douglas in Salt Lake City, supervising security at U.S. aircraft plants, munitions factories, and POW camps. On Valentine's Day 1943 he married Helen Robson of Claremore, Oklahoma; her father Leland Robson, a lawyer, would provide critical early-stage capital for Sam's first store. Walton was discharged in 1945 at the rank of captain.",
+    "location": "Fort Douglas, Salt Lake City, Utah",
+    "key": false,
+    "tags": [
+      "military",
+      "wwii",
+      "marriage",
+      "helen-robson"
+    ],
+    "sources": [
+      {
+        "id": "encyclopediaarkansas-walton",
+        "url": "https://encyclopediaofarkansas.net/entries/samuel-moore-walton-1792/",
+        "kind": "article",
+        "title": "Sam Walton (1918–1992) — Encyclopedia of Arkansas",
+        "publisher": "CALS Encyclopedia of Arkansas",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-sam-walton",
+        "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+        "kind": "article",
+        "title": "Sam Walton (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam_Walton",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1945-09-01-newport-ben-franklin",
+    "person_id": "walton",
+    "date": "1945-09-01",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在阿肯色州纽波特买下第一家 Ben Franklin 杂货店",
+    "title_en": "Buys his first Ben Franklin variety store in Newport, Arkansas",
+    "summary": "1945 年 9 月 1 日，沃尔顿用从陆军服役攒下的 5,000 美元加上岳父莱兰·罗布森借给他的 20,000 美元，以 25,000 美元从 Butler Brothers 拿下纽波特 Front Street 一间面积 5,000 平方英尺的 Ben Franklin 加盟店。第一年销售额从 72,000 美元增至 105,000 美元，第二年涨到 140,000，第三年 175,000，第五年达到 25 万美元——这家小店让他在五年里成为该地区销售额最高的 Ben Franklin 加盟商。",
+    "summary_en": "On September 1, 1945, Walton paid $25,000 — $5,000 saved from his Army pay and a $20,000 loan from his father-in-law Leland Robson — to franchise a 5,000-square-foot Ben Franklin variety store from Butler Brothers on Front Street in Newport, Arkansas. Sales jumped from $72,000 to $105,000 in his first full year, then to $140,000, $175,000, and $250,000 by year five, making it the top-volume Ben Franklin in the region.",
+    "location": "Newport, Arkansas",
+    "key": true,
+    "tags": [
+      "founding",
+      "ben-franklin",
+      "newport",
+      "first-store"
+    ],
+    "sources": [
+      {
+        "id": "hbs-walton-great-from-start",
+        "url": "https://www.library.hbs.edu/working-knowledge/sam-walton-great-from-the-start",
+        "kind": "article",
+        "title": "Sam Walton: Great From the Start",
+        "publisher": "Harvard Business School Working Knowledge",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "encyclopediaarkansas-walton",
+        "url": "https://encyclopediaofarkansas.net/entries/samuel-moore-walton-1792/",
+        "kind": "article",
+        "title": "Sam Walton (1918–1992) — Encyclopedia of Arkansas",
+        "publisher": "CALS Encyclopedia of Arkansas",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1950-loses-newport-lease",
+    "person_id": "walton",
+    "date": "1950-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "失去纽波特店面租约，被迫举家搬迁",
+    "title_en": "Loses Newport store lease, forced to relocate",
+    "summary": "1945 年沃尔顿签下 Front Street 店面租约时不带续约条款。到 1950 年，眼见 Ben Franklin 店年销售突破 25 万美元，房东 P.K. Holmes 拒绝以任何价格续租，目的是把这门生意交给自己的儿子。沃尔顿被迫卖掉店铺存货和租约，把全家搬走。他在自传中把这次惨痛失败称为「一生最大的教训」——此后沃尔玛任何一处店铺租约都必须明确写明续约权和保障条款。",
+    "summary_en": "When Walton signed the Front Street lease in 1945 it contained no renewal option. By 1950, with the Ben Franklin posting $250,000 in annual sales, landlord P.K. Holmes refused to renew at any price so he could hand the business to his own son. Walton sold the lease and inventory and moved his family out of Newport. He later called it \"the lowest point of my business life\" — and from then on, every Walmart lease included an explicit renewal option.",
+    "location": "Newport, Arkansas",
+    "key": true,
+    "tags": [
+      "setback",
+      "lease",
+      "newport"
+    ],
+    "sources": [
+      {
+        "id": "hbs-walton-great-from-start",
+        "url": "https://www.library.hbs.edu/working-knowledge/sam-walton-great-from-the-start",
+        "kind": "article",
+        "title": "Sam Walton: Great From the Start",
+        "publisher": "Harvard Business School Working Knowledge",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "encyclopediaarkansas-walton",
+        "url": "https://encyclopediaofarkansas.net/entries/samuel-moore-walton-1792/",
+        "kind": "article",
+        "title": "Sam Walton (1918–1992) — Encyclopedia of Arkansas",
+        "publisher": "CALS Encyclopedia of Arkansas",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1950-05-09-waltons-5and10",
+    "person_id": "walton",
+    "date": "1950-05-09",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在阿肯色州本顿维尔开设 Walton's 5&10",
+    "title_en": "Opens Walton's 5&10 in Bentonville, Arkansas",
+    "summary": "失去纽波特店面后，沃尔顿全家于 1950 年 5 月 1 日搬到阿肯色州西北小镇本顿维尔（Bentonville）。在岳父协助下，他买下当地 Harrison Variety Store，重新装修，于 5 月 9 日以「Walton's 5&10」名字开门营业，举办为期一天的开业大促销。这是阿肯色州第一家自助式杂货店，也是全美第三家。第一年销售额从 7.2 万美元增至 10.5 万美元。这家店至今仍在本顿维尔市中心广场原址运营，已成为沃尔玛博物馆。",
+    "summary_en": "After losing Newport, the Waltons moved to the small northwest-Arkansas town of Bentonville on May 1, 1950. With his father-in-law's help Sam bought the local Harrison Variety Store, remodeled it, and opened on May 9 as \"Walton's 5&10\" with a one-day grand-opening sale — the first self-service variety store in Arkansas and only the third in the nation. First-year sales rose from $72,000 to $105,000. The store still stands on the Bentonville town square, now serving as the Walmart Museum.",
+    "location": "Bentonville, Arkansas",
+    "key": true,
+    "tags": [
+      "founding",
+      "bentonville",
+      "self-service",
+      "walmart-museum"
+    ],
+    "sources": [
+      {
+        "id": "encyclopediaarkansas-walton",
+        "url": "https://encyclopediaofarkansas.net/entries/samuel-moore-walton-1792/",
+        "kind": "article",
+        "title": "Sam Walton (1918–1992) — Encyclopedia of Arkansas",
+        "publisher": "CALS Encyclopedia of Arkansas",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "downtownbentonville-walton510",
+        "url": "https://downtownbentonville.org/go/the-walton-5-and-10",
+        "kind": "article",
+        "title": "The Walton 5 & 10",
+        "publisher": "Downtown Bentonville Inc.",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1962-07-02-first-walmart",
+    "person_id": "walton",
+    "date": "1962-07-02",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "首家沃尔玛在阿肯色州罗杰斯开业",
+    "title_en": "Opens first Walmart in Rogers, Arkansas",
+    "summary": "1962 年 7 月 2 日，44 岁的沃尔顿在阿肯色州罗杰斯（Rogers）West Walnut 街 719 号开设第一家「Wal-Mart Discount City」，店铺面积 16,000 平方英尺。开门前已有 500 多人排队等候。这一天是美国折扣零售业的关键起点：沃尔顿借鉴了 FedMart、Ann & Hope 等先驱的折扣模式，但选择把它带到 Kmart、Target 等大公司不愿涉足的小镇。同年 Kmart、Target、Woolco 也都开了第一家店——但只有沃尔玛活到了今天的规模。",
+    "summary_en": "On July 2, 1962, the 44-year-old Walton opened the first \"Wal-Mart Discount City\" at 719 West Walnut Street in Rogers, Arkansas, a 16,000-square-foot store. Over 500 customers were waiting in line at opening. The same year saw the launch of Kmart, Target, and Woolco — but Walton's bet to bring discount retailing into small towns the big chains ignored proved decisive. Of the four 1962 chains, only Walmart would scale to global dominance.",
+    "location": "719 West Walnut Street, Rogers, Arkansas",
+    "key": true,
+    "tags": [
+      "founding",
+      "walmart",
+      "rogers",
+      "discount-retail",
+      "1962"
+    ],
+    "sources": [
+      {
+        "id": "walmart-history",
+        "url": "https://corporate.walmart.com/about/history",
+        "kind": "article",
+        "title": "Walmart History",
+        "publisher": "Walmart Corporate",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-walmart",
+        "url": "https://en.wikipedia.org/wiki/Walmart",
+        "kind": "article",
+        "title": "Walmart (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walmart",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1969-10-31-incorporates",
+    "person_id": "walton",
+    "date": "1969-10-31",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "公司在特拉华州注册为 Wal-Mart, Inc.",
+    "title_en": "Wal-Mart incorporates in Delaware",
+    "summary": "1969 年 10 月 31 日，沃尔顿把公司根据特拉华州一般公司法注册成立为 Wal-Mart, Inc.，1970 年改名为 Wal-Mart Stores, Inc.。此时沃尔玛只有 18 家门店和约 30 间 Ben Franklin 加盟店。注册公司是为了准备公开发行——沃尔顿需要资本来兴建第一座配送中心和大规模扩张。",
+    "summary_en": "On October 31, 1969, Walton incorporated his company under Delaware General Corporation Law as Wal-Mart, Inc. (renamed Wal-Mart Stores, Inc. in 1970). The chain at the time consisted of just 18 Walmart stores and about 30 Ben Franklin franchises. Incorporation was the legal foundation for the public offering Walton was about to launch — capital he urgently needed to build his first distribution center and expand at scale.",
+    "location": "Delaware (incorporation); Bentonville, Arkansas (HQ)",
+    "key": false,
+    "tags": [
+      "incorporation",
+      "delaware",
+      "walmart"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-walmart",
+        "url": "https://en.wikipedia.org/wiki/Walmart",
+        "kind": "article",
+        "title": "Walmart (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walmart",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "walmart-history",
+        "url": "https://corporate.walmart.com/about/history",
+        "kind": "article",
+        "title": "Walmart History",
+        "publisher": "Walmart Corporate",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1970-10-01-ipo",
+    "person_id": "walton",
+    "date": "1970-10-01",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "沃尔玛公开上市，每股 16.50 美元",
+    "title_en": "Walmart goes public at $16.50 per share",
+    "summary": "1970 年 10 月 1 日，沃尔顿带领沃尔玛在场外柜台市场（OTC）公开发行 30 万股股票，每股发行价 16.50 美元，共募集约 495 万美元。当时公司有 32 家门店，年销售约 3,100 万美元。这次 IPO 让沃尔顿得以在 1971 年开张第一座配送中心和总部大楼。同样是这笔 IPO，让早期持有股票的投资人在数十年后获得了几千倍的回报。",
+    "summary_en": "On October 1, 1970, Walton took Walmart public on the over-the-counter market with an offer of 300,000 shares at $16.50, raising about $4.95 million. The company at the time operated 32 stores with roughly $31 million in annual sales. The IPO funded the construction of Walmart's first distribution center and home office in 1971. A handful of original shares would compound, over decades, into one of the great wealth-creation stories of American capitalism.",
+    "location": "Bentonville, Arkansas",
+    "key": true,
+    "tags": [
+      "ipo",
+      "1970",
+      "deal",
+      "stock"
+    ],
+    "sources": [
+      {
+        "id": "walmart-history",
+        "url": "https://corporate.walmart.com/about/history",
+        "kind": "article",
+        "title": "Walmart History",
+        "publisher": "Walmart Corporate",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-walmart",
+        "url": "https://en.wikipedia.org/wiki/Walmart",
+        "kind": "article",
+        "title": "Walmart (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walmart",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1971-first-distribution-center",
+    "person_id": "walton",
+    "date": "1971-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "在本顿维尔建成第一座配送中心和总部大楼",
+    "title_en": "Opens first distribution center and Home Office in Bentonville",
+    "summary": "1971 年，沃尔玛用 IPO 募集的资金在本顿维尔同时建成第一座配送中心和总部大楼。这是沃尔顿日后所谓「物流革命」的起点：他坚持让公司自有的卡车、自有的仓库、自有的供应链系统，覆盖每一家分店周围一日车程内的范围。这种「以仓带店」的密度模型让沃尔玛在 70-80 年代以 40% 的复合增长率扩张，并把单位运输和库存成本压到对手无法跟随的水平。",
+    "summary_en": "In 1971, Walmart used proceeds from the IPO to build its first distribution center and Home Office in Bentonville simultaneously. This was the origin of what would later be called Walton's \"logistics revolution\" — owning the trucks, warehouses, and supply-chain systems that fed every store within a day's drive. This hub-and-spoke density model powered ~40% compound annual growth through the 1970s and 80s and drove unit logistics costs below anything competitors could match.",
+    "location": "Bentonville, Arkansas",
+    "key": true,
+    "tags": [
+      "logistics",
+      "distribution",
+      "supply-chain",
+      "bentonville"
+    ],
+    "sources": [
+      {
+        "id": "walmart-history",
+        "url": "https://corporate.walmart.com/about/history",
+        "kind": "article",
+        "title": "Walmart History",
+        "publisher": "Walmart Corporate",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-walmart",
+        "url": "https://en.wikipedia.org/wiki/Walmart",
+        "kind": "article",
+        "title": "Walmart (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walmart",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1972-08-25-nyse-listed",
+    "person_id": "walton",
+    "date": "1972-08-25",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "沃尔玛在纽约证券交易所挂牌（代码 WMT）",
+    "title_en": "Walmart lists on the New York Stock Exchange (WMT)",
+    "summary": "1972 年 8 月 25 日，沃尔玛从场外柜台市场升板到纽约证券交易所，股票代码 WMT。当时公司有 51 家门店，年销售 7,800 万美元。NYSE 挂牌让沃尔玛能进入更主流的资本市场，也让公司股票成为机构投资者可以正式持有的标的。从此沃尔顿家族的财富开始以远远超出自身预料的速度增长。",
+    "summary_en": "On August 25, 1972, Walmart graduated from the OTC market to the New York Stock Exchange under the ticker WMT. The company at that point had 51 stores and $78 million in annual sales. The NYSE listing opened Walmart to mainstream institutional capital and turned the stock into an instrument any pension fund or mutual fund could hold — accelerating the Walton family's wealth growth far beyond anything Sam expected.",
+    "location": "New York, NY",
+    "key": false,
+    "tags": [
+      "nyse",
+      "stock",
+      "wmt"
+    ],
+    "sources": [
+      {
+        "id": "walmart-history",
+        "url": "https://corporate.walmart.com/about/history",
+        "kind": "article",
+        "title": "Walmart History",
+        "publisher": "Walmart Corporate",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-walmart",
+        "url": "https://en.wikipedia.org/wiki/Walmart",
+        "kind": "article",
+        "title": "Walmart (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walmart",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1980-1-billion",
+    "person_id": "walton",
+    "date": "1980-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "沃尔玛年销售额突破 10 亿美元",
+    "title_en": "Walmart reaches $1 billion in annual sales",
+    "summary": "1980 年沃尔玛年销售额首次突破 10 亿美元。当时公司有 276 家门店、21,000 名员工。沃尔玛成为美国历史上以最快速度达到此规模的零售商。沃尔顿用「日复一日的低价」（Everyday Low Prices）+ 物流密度 + 把员工称为「合伙人」（associates）+ 「十英尺规则」打造的体系，开始展示出让对手无法复制的复利效应。",
+    "summary_en": "In 1980 Walmart crossed $1 billion in annual sales — faster than any retailer in U.S. history to that point. The chain had 276 stores and 21,000 employees. Walton's model — \"Everyday Low Prices,\" the hub-and-spoke logistics network, calling employees \"associates,\" and the 10-Foot Rule — was now compounding in ways that competitors couldn't replicate, even when they understood the parts.",
+    "location": "Bentonville, Arkansas",
+    "key": false,
+    "tags": [
+      "milestone",
+      "growth",
+      "everyday-low-prices"
+    ],
+    "sources": [
+      {
+        "id": "walmart-history",
+        "url": "https://corporate.walmart.com/about/history",
+        "kind": "article",
+        "title": "Walmart History",
+        "publisher": "Walmart Corporate",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-walmart",
+        "url": "https://en.wikipedia.org/wiki/Walmart",
+        "kind": "article",
+        "title": "Walmart (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walmart",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1983-04-07-sams-club",
+    "person_id": "walton",
+    "date": "1983-04-07",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "首家 Sam's Club 在俄克拉荷马州中城开业",
+    "title_en": "First Sam's Club opens in Midwest City, Oklahoma",
+    "summary": "1983 年 4 月 7 日，沃尔顿在俄克拉荷马州中城（Midwest City）开了第一家 Sam's Wholesale Club（后简称 Sam's Club），仿效 Sol Price 创办的 Price Club 仓储会员制模式，向小企业主和单店零售商提供大包装、低毛利商品。Ron Loveless 担任首任总经理。这是沃尔顿在「日复一日低价」模式之外另一次重大渠道创新。今天 Sam's Club 是沃尔玛集团第二大业务，也是其与 Costco 长期对抗的核心品牌。",
+    "summary_en": "On April 7, 1983, Walton opened the first Sam's Wholesale Club (later Sam's Club) in Midwest City, Oklahoma, modeled on Sol Price's Price Club warehouse-membership format, targeting small-business owners and independent retailers with bulk goods at thin margins. Ron Loveless served as its first president. This was Walton's second major retail-format innovation after Walmart itself — Sam's Club is today the company's #2 business and Costco's principal long-term rival.",
+    "location": "Midwest City, Oklahoma",
+    "key": true,
+    "tags": [
+      "founding",
+      "sams-club",
+      "warehouse",
+      "membership"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-sams-club",
+        "url": "https://en.wikipedia.org/wiki/Sam%27s_Club",
+        "kind": "article",
+        "title": "Sam's Club (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam%27s_Club",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "samsclub-history-timeline",
+        "url": "https://corporate.walmart.com/about/samsclub/sams-club-history/timeline",
+        "kind": "article",
+        "title": "Sam's Club History Timeline",
+        "publisher": "Walmart Corporate / Sam's Club",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1985-03-buy-american",
+    "person_id": "walton",
+    "date": "1985-03-01",
+    "date_precision": "month",
+    "type": "speech",
+    "title": "发起「Buy American」（购买美国货）运动",
+    "title_en": "Launches the Buy American campaign",
+    "summary": "1985 年 3 月，沃尔顿在公开信中向美国制造商发出号召：只要价格不高于海外同类商品 5%，沃尔玛就承诺采购美国制造。他写道：「我们可以恢复美国的制造能力、改善国民经济、重燃对美国工艺的自豪感。」该计划又名「All American Savings」。到 1990 年代初，沃尔玛已把超过 60 亿美元原本的进口订单转移给美国本土工厂。这是当时美国零售商最具规模的供应链回流尝试，也让沃尔玛在 1980 年代赢得了广泛的舆论支持。",
+    "summary_en": "In March 1985, Walton issued an open letter to U.S. manufacturers committing Walmart to source domestically whenever American suppliers could come within 5% of the foreign price. He wrote: \"We can restore our manufacturing capacity, improve our national economy and renew our pride in American craftsmanship.\" The program (\"All American Savings\") had converted more than $6 billion in former imports to U.S. production by the early 1990s — the largest reshoring effort by any U.S. retailer at the time, and a key source of Walton's public goodwill in the 1980s.",
+    "location": "Bentonville, Arkansas",
+    "key": true,
+    "tags": [
+      "buy-american",
+      "manufacturing",
+      "supply-chain",
+      "1985"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-sam-walton",
+        "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+        "kind": "article",
+        "title": "Sam Walton (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam_Walton",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "reclaimdemocracy-walmart-history",
+        "url": "https://reclaimdemocracy.org/brief-history-of-walmart/",
+        "kind": "article",
+        "title": "A Brief History of Walmart",
+        "publisher": "Reclaim Democracy!",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1985-10-28-richest-american",
+    "person_id": "walton",
+    "date": "1985-10-28",
+    "date_precision": "day",
+    "type": "award",
+    "title": "Forbes 评为美国首富，从此引来全美关注",
+    "title_en": "Forbes names him richest American",
+    "summary": "1985 年 10 月 28 日，《福布斯》杂志公布的「美国 400 富豪榜」把沃尔顿列为全美第一，估算其个人净资产 28 亿美元。从此到 1988 年沃尔顿连续四年蝉联美国首富。媒体涌入本顿维尔时，发现这位首富仍住在普通的两层小楼里、开着 1979 年的福特 F-150 皮卡、在沃尔玛收银台后面跟普通顾客排队。当被问到为什么开旧皮卡，他回答：「为什么我得开皮卡？我的猎犬要怎么搭车？开劳斯莱斯吗？」沃尔顿因此成为「美国梦」的形象大使。",
+    "summary_en": "On October 28, 1985, the Forbes 400 ranked Walton as the richest American with an estimated net worth of $2.8 billion — a position he would hold through 1988. When reporters descended on Bentonville, they found the country's wealthiest man still living in an ordinary two-story house, driving a 1979 Ford F-150 pickup, and standing in line at his own Walmart checkout. Asked why the truck, Walton replied: \"Why do I drive a pickup truck? What am I supposed to haul my dogs around in, a Rolls Royce?\" The story made him an avatar of the American Dream.",
+    "location": "Bentonville, Arkansas",
+    "key": true,
+    "tags": [
+      "forbes",
+      "richest-american",
+      "1985",
+      "lifestyle",
+      "pickup-truck"
+    ],
+    "sources": [
+      {
+        "id": "walmartmuseum-fb-1985-richest",
+        "url": "https://www.facebook.com/walmartmuseum/posts/when-forbes-named-sam-walton-americas-richest-man-on-october-28-1985-people-were/2600881103305069/",
+        "kind": "article",
+        "title": "When Forbes named Sam Walton America's richest man on October 28, 1985",
+        "publisher": "The Walmart Museum (Facebook)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "upi-1986-richest-second-year",
+        "url": "https://www.upi.com/Archives/1986/10/13/Forbes-ranks-Walton-as-richest-American-for-second-year/4151529560000/",
+        "kind": "article",
+        "title": "Forbes ranks Walton as richest American for second year",
+        "publisher": "UPI Archives",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1988-02-david-glass-ceo",
+    "person_id": "walton",
+    "date": "1988-02-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "卸任 CEO，由 David Glass 接任",
+    "title_en": "Steps down as CEO; David Glass succeeds him",
+    "summary": "1988 年 2 月，沃尔顿正式卸任沃尔玛 CEO，由原 COO David Glass 接任。沃尔顿继续担任董事长。Glass 自 1984 年起任总裁兼 COO，是沃尔顿亲自挑选的接班人；他在 1988-2000 年间把沃尔玛销售从 160 亿美元做到 1,650 亿美元。沃尔顿也在同一年里在密苏里州华盛顿（Washington, MO）开设了第一家 Walmart Supercenter，把折扣百货与全食超市合二为一。",
+    "summary_en": "In February 1988, Walton stepped down as CEO of Walmart in favor of David Glass, who had been president and COO since 1984 and was Walton's personal choice as successor. Walton remained Chairman. Glass would grow Walmart from $16 billion in 1988 sales to $165 billion by 2000. The same year, Walton also rolled out the first Walmart Supercenter — combining a full grocery with a discount store — in Washington, Missouri.",
+    "location": "Bentonville, Arkansas",
+    "key": true,
+    "tags": [
+      "ceo",
+      "succession",
+      "david-glass",
+      "supercenter"
+    ],
+    "sources": [
+      {
+        "id": "supermarketnews-glass",
+        "url": "https://www.supermarketnews.com/foodservice-retail/walmart-leaders-mourn-loss-of-former-ceo-david-glass",
+        "kind": "article",
+        "title": "Walmart Leaders Mourn Loss of Former CEO David Glass",
+        "publisher": "Supermarket News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "uark-walton-college-glass",
+        "url": "https://walton.uark.edu/abhf/david-d-glass.php",
+        "kind": "article",
+        "title": "David D. Glass — Arkansas Business Hall of Fame",
+        "publisher": "Walton College, University of Arkansas",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=hhlHehgi7Cw"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1990-surpasses-sears",
+    "person_id": "walton",
+    "date": "1990-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "沃尔玛销售额超过 Sears，成为美国第一大零售商",
+    "title_en": "Walmart surpasses Sears as largest U.S. retailer",
+    "summary": "1990 年沃尔玛以 326 亿美元的年销售额超越 Sears（319 亿美元），成为美国第一大零售商。这标志着零售业近百年的格局——以 Sears、Kmart 为代表的大城市百货被以沃尔玛为代表的小城镇 + 折扣 + 物流组合拳颠覆。沃尔顿用 28 年时间，把一家阿肯色州小镇杂货店做成了行业第一。在他临终的 1992 年，公司销售额已达 440 亿美元、员工 38 万人。",
+    "summary_en": "In 1990 Walmart surpassed Sears with $32.6 billion in sales (vs. Sears's $31.9 billion) to become the largest retailer in the United States. The shift ended nearly a century of department-store dominance: Walton's small-town + deep-discount + logistics-density formula had displaced the big-city anchors of Sears and Kmart. In 28 years he had taken an Arkansas variety store to #1. By Walton's death in 1992, Walmart had $44 billion in sales and 380,000 employees.",
+    "location": "United States",
+    "key": true,
+    "tags": [
+      "milestone",
+      "sears",
+      "largest-retailer"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-history-walmart",
+        "url": "https://en.wikipedia.org/wiki/History_of_Walmart",
+        "kind": "article",
+        "title": "History of Walmart (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/History_of_Walmart",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "biography-sam-walton",
+        "url": "https://www.biography.com/business-figure/sam-walton",
+        "kind": "article",
+        "title": "Sam Walton — Walmart, Quotes & Facts",
+        "publisher": "Biography.com",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1992-03-17-medal-of-freedom",
+    "person_id": "walton",
+    "date": "1992-03-17",
+    "date_precision": "day",
+    "type": "award",
+    "title": "获总统自由勋章，乔治·H·W·布什到本顿维尔颁授",
+    "title_en": "Receives Presidential Medal of Freedom from George H.W. Bush",
+    "summary": "1992 年 3 月 17 日，因健康恶化无法前往华盛顿，74 岁的沃尔顿接受布什总统亲自飞赴本顿维尔沃尔玛总部礼堂颁发的总统自由勋章——美国授予平民的最高荣誉。布什评价说：「你慷慨且真诚、不知疲倦且坚韧。你敢于冒险，让我们的国家变得更加充满活力。」沃尔顿当场致辞：「如果我们一起努力，我们将降低每个人的生活成本……让世界看到节俭和更好生活的样子。」这成为沃尔玛此后官方使命陈述。沃尔顿称这是「我和整个公司的职业生涯最高点」。",
+    "summary_en": "On March 17, 1992, too ill to travel to Washington, the 74-year-old Walton received the Presidential Medal of Freedom — the nation's highest civilian honor — from President George H.W. Bush, who flew to the Walmart Home Office auditorium in Bentonville. Bush told him: \"You are generous and genuine, tireless and tenacious. You took risks and helped our country grow vigorous and strong.\" Walton replied: \"If we work together, we'll lower the cost of living for everyone... we'll give the world an opportunity to see what it's like to save and have a better life\" — a line that became Walmart's official mission. Walton called the ceremony \"the highlight of my career and the entire company's.\"",
+    "location": "Walmart Home Office, Bentonville, Arkansas",
+    "key": true,
+    "tags": [
+      "award",
+      "medal-of-freedom",
+      "george-hw-bush",
+      "1992"
+    ],
+    "sources": [
+      {
+        "id": "presidency-ucsb-walton-medal",
+        "url": "https://www.presidency.ucsb.edu/documents/remarks-presenting-the-presidential-medal-freedom-samuel-m-walton-bentonville-arkansas",
+        "kind": "transcript",
+        "title": "Remarks on Presenting the Presidential Medal of Freedom to Samuel M. Walton in Bentonville, Arkansas",
+        "publisher": "The American Presidency Project",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "You are generous and genuine, tireless and tenacious. You took risks and helped our country grow vigorous and strong.",
+            "speaker": "George H. W. Bush",
+            "context": "Bush's remarks presenting the Medal of Freedom to Sam Walton, March 17, 1992, Bentonville, Arkansas"
+          }
+        ]
+      },
+      {
+        "id": "walmart-corporate-medal-highlight",
+        "url": "https://corporate.walmart.com/news/2014/03/27/the-highlight-of-sam-waltons-career-the-presidential-medal-of-freedom",
+        "kind": "article",
+        "title": "The \"Highlight\" of Sam Walton's Career: The Presidential Medal of Freedom",
+        "publisher": "Walmart Corporate",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "If we work together, we'll lower the cost of living for everyone. We'll give the world an opportunity to see what it's like to save and to have a better life.",
+            "speaker": "Sam Walton",
+            "context": "Sam Walton's response at the Medal of Freedom ceremony, March 17, 1992 — the line became Walmart's official mission"
+          }
+        ]
+      },
+      {
+        "id": "youtube-walton-medal-of-freedom",
+        "url": "https://www.youtube.com/watch?v=2kxxPno7sVM",
+        "kind": "video",
+        "title": "George H.W. Bush gives Sam Walton the Medal of Freedom — March 17, 1992",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1992-made-in-america-book",
+    "person_id": "walton",
+    "date": "1992-06-01",
+    "date_precision": "month",
+    "type": "writing",
+    "title": "出版自传《Made in America: My Story》",
+    "title_en": "Publishes autobiography 'Sam Walton: Made in America: My Story'",
+    "summary": "1992 年沃尔顿与时任 Fortune 杂志资深编辑 John Huey 合作完成自传《Made in America: My Story》，由 Doubleday 出版。沃尔顿是在确诊多发性骨髓瘤、生命进入倒计时的几个月里赶完这本书的。书中第一次系统地公开了他的「十条经商规则」、「十英尺规则」、「日复一日低价」哲学和早年创业故事。它成为美国创业者书架上最频繁出现的几本书之一，被亚马逊创始人 Jeff Bezos 等多次推荐。最著名的格言「There is only one boss. The customer」就出自此书。",
+    "summary_en": "In 1992 Walton, with Fortune editor John Huey, completed his autobiography Sam Walton: Made in America: My Story, published by Doubleday. Walton wrote the book in the final months of his life after his multiple-myeloma diagnosis. It was the first systematic public account of his \"10 Rules for Building a Business,\" the 10-Foot Rule, his Everyday Low Prices philosophy, and the early years. It became one of the most frequently recommended books on American entrepreneurs' shelves — Jeff Bezos has cited it repeatedly. Walton's most famous line — \"There is only one boss. The customer\" — comes from this book.",
+    "location": "United States",
+    "key": true,
+    "tags": [
+      "autobiography",
+      "made-in-america",
+      "writing",
+      "doubleday"
+    ],
+    "sources": [
+      {
+        "id": "archive-walton-made-in-america",
+        "url": "https://archive.org/details/samwaltonmadeina0000walt",
+        "kind": "book",
+        "title": "Sam Walton, Made in America: My Story",
+        "publisher": "Doubleday (Internet Archive scan)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.",
+            "speaker": "Sam Walton",
+            "context": "From Sam Walton: Made in America: My Story (1992)"
+          }
+        ]
+      },
+      {
+        "id": "walmart-10-rules",
+        "url": "https://corporate.walmart.com/about/sam-walton/10-rules-for-building-a-better-business",
+        "kind": "article",
+        "title": "Sam Walton's 10 Rules for Building a Better Business",
+        "publisher": "Walmart Corporate",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "Share your profits with all your associates, and treat them as partners. In turn, they will treat you as a partner, and together you will all perform beyond your wildest expectations.",
+            "speaker": "Sam Walton",
+            "context": "Rule #2 from Sam Walton's '10 Rules for Building a Business' in Made in America (1992)"
+          },
+          {
+            "text": "Swim upstream. Go the other way. Ignore the conventional wisdom.",
+            "speaker": "Sam Walton",
+            "context": "Rule #10 from Sam Walton's '10 Rules for Building a Business' in Made in America (1992)"
+          }
+        ]
+      },
+      {
+        "id": "penguin-random-walton",
+        "url": "https://www.penguinrandomhouse.com/books/185485/sam-walton-by-sam-walton/",
+        "kind": "book",
+        "title": "Sam Walton: Made in America (Bantam paperback, June 1993)",
+        "publisher": "Penguin Random House",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "walton-1992-04-05-death",
+    "person_id": "walton",
+    "date": "1992-04-05",
+    "date_precision": "day",
+    "type": "life",
+    "title": "在阿肯色州小石城去世，享年 74 岁",
+    "title_en": "Dies in Little Rock, Arkansas at age 74",
+    "summary": "1992 年 4 月 5 日，沃尔顿因多发性骨髓瘤（一种血癌）在阿肯色州小石城去世，享年 74 岁，距获颁总统自由勋章仅 19 天。他葬于本顿维尔公墓。去世时沃尔玛拥有 1,928 家门店、销售额 440 亿美元、员工 38 万人，是美国最大的零售商；沃尔顿家族（妻子海伦和四个子女 Rob、Jim、John、Alice）合计净资产约 250 亿美元，是美国最富有的家族。沃尔顿留下的「日复一日低价 + 物流密度 + 把员工当合伙人」三件套，至今是全球零售业最难复制的模板。",
+    "summary_en": "On April 5, 1992, Walton died of multiple myeloma in Little Rock, Arkansas at the age of 74 — just 19 days after receiving the Medal of Freedom. He was buried in Bentonville Cemetery. At his death Walmart had 1,928 stores, $44 billion in sales, and 380,000 employees — the largest retailer in America; the Walton family (wife Helen and children Rob, Jim, John, and Alice) had a combined net worth of around $25 billion, making it America's wealthiest family. The trio of \"Everyday Low Prices + logistics density + treating employees as partners\" remained the most-imitated, hardest-to-replicate template in global retail.",
+    "location": "Little Rock, Arkansas",
+    "key": true,
+    "tags": [
+      "death",
+      "1992",
+      "legacy",
+      "multiple-myeloma"
+    ],
+    "sources": [
+      {
+        "id": "upi-walton-dies",
+        "url": "https://www.upi.com/Archives/1992/04/05/Billionaire-retailer-Sam-Moore-Walton-dies/9579702450000/",
+        "kind": "article",
+        "title": "Billionaire retailer Sam Moore Walton dies",
+        "publisher": "UPI Archives",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-sam-walton",
+        "url": "https://en.wikipedia.org/wiki/Sam_Walton",
+        "kind": "article",
+        "title": "Sam Walton (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sam_Walton",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  }
+]

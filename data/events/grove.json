@@ -1,0 +1,1137 @@
+[
+  {
+    "id": "grove-1936-09-02-birth",
+    "person_id": "grove",
+    "date": "1936-09-02",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于布达佩斯，本名 Gróf András István",
+    "title_en": "Born in Budapest, Hungary as Gróf András István",
+    "summary": "1936 年 9 月 2 日，安迪·格鲁夫出生于匈牙利布达佩斯一个中产阶级犹太家庭，本名 Gróf András István（安德拉什·格罗夫）。父亲 György Gróf 经营乳制品生意，母亲 Mária 是簿记员。4 岁时他患上猩红热险些丧命，留下永久性听力损伤——这在他后来的求学生涯中迫使他自学读唇语和靠词典补足课堂笔记。",
+    "summary_en": "Andy Grove was born Gróf András István on September 2, 1936, into a middle-class Jewish family in Budapest, Hungary. His father György ran a small dairy business and his mother Mária worked as a bookkeeper. At age four he contracted scarlet fever that nearly killed him and left him with permanent partial hearing loss — a disability he later compensated for by reading lips and rebuilding lecture notes at home with a dictionary.",
+    "location": "Budapest, Hungary",
+    "key": true,
+    "tags": [
+      "出生",
+      "布达佩斯",
+      "童年",
+      "犹太"
+    ],
+    "sources": [
+      {
+        "id": "grove-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Grove",
+        "kind": "article",
+        "title": "Andrew Grove (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "grove-time-survivors-tale",
+        "url": "https://time.com/4267150/andrew-grove-intel-survivor-biography-budapest/",
+        "kind": "article",
+        "title": "The True Story of Andrew Grove, TIME's 1997 Man of the Year",
+        "publisher": "TIME",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1944-holocaust-hiding",
+    "person_id": "grove",
+    "date": "1944-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "纳粹占领匈牙利，8 岁的他与母亲化名躲藏",
+    "title_en": "Hides during the Holocaust under a false Christian identity at age 8",
+    "summary": "1944 年纳粹占领匈牙利，约 50 万犹太人被驱逐至奥斯威辛等集中营。8 岁的安德拉什和母亲改用化名 Malesevics，躲在一户富有同情心的基督徒朋友家中地下室才幸免于难。父亲 György 则被抓去东线劳改营，在那里饱受酷刑与强制劳动，战争结束才与家人重聚。这段地下生活后来成为他 2001 年回忆录《Swimming Across》的核心情节。",
+    "summary_en": "When Nazi Germany occupied Hungary in 1944 and deported nearly 500,000 Jews to camps like Auschwitz, eight-year-old András and his mother survived by adopting the Christian surname Malesevics and hiding in the Budapest basement of a sympathetic family. His father György was conscripted into an Eastern labor camp where he was tortured and forced into slave labor, only reuniting with the family after the war. The episode would become the core of his 2001 memoir *Swimming Across*.",
+    "location": "Budapest, Hungary",
+    "key": true,
+    "tags": [
+      "大屠杀",
+      "二战",
+      "幸存者",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "grove-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Grove",
+        "kind": "article",
+        "title": "Andrew Grove (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "grove-jta-holocaust",
+        "url": "https://www.jta.org/2016/03/22/obituaries/former-intel-ceo-andy-grove-a-holocaust-survivor-dies-at-79",
+        "kind": "article",
+        "title": "Former Intel CEO Andy Grove, a Holocaust survivor, dies at 79",
+        "publisher": "Jewish Telegraphic Agency",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1956-12-escape-hungary",
+    "person_id": "grove",
+    "date": "1956-12-01",
+    "date_precision": "month",
+    "type": "life",
+    "title": "苏联坦克镇压匈牙利革命后徒步逃往奥地利",
+    "title_en": "Escapes Hungary across the Austrian border after Soviet invasion",
+    "summary": "1956 年苏联坦克碾过布达佩斯街头镇压匈牙利革命。20 岁的格罗夫当时正在布达佩斯大学念化学，在父母的劝说下独自踏上逃亡之路，借助走私者带路徒步穿越泥泞的边境田野进入奥地利——回忆录里他描述自己脸朝下趴在泥地里，听见有人用匈牙利语喊「我们到哪了」时才敢应声。20 万匈牙利人在那年逃往西方，他是其中之一。",
+    "summary_en": "After Soviet tanks crushed the 1956 Hungarian Revolution, Grove — then 20 and studying chemistry at the University of Budapest — was urged by his parents to flee. Guided by smugglers, he crawled across muddy fields near the Austrian border alone; in his memoir he recalls lying face-down in mud until someone shouted \"Where are we?\" in Hungarian and the answer came: \"Austria.\" Roughly 200,000 Hungarians escaped west that year, and Grove was one of them.",
+    "location": "Hungary–Austria border",
+    "key": true,
+    "tags": [
+      "逃亡",
+      "匈牙利革命",
+      "苏联",
+      "1956"
+    ],
+    "sources": [
+      {
+        "id": "grove-time-survivors-tale",
+        "url": "https://time.com/archive/6732025/andrew-grove-a-survivors-tale/",
+        "kind": "article",
+        "title": "Andrew Grove: A Survivor's Tale",
+        "publisher": "TIME (Joshua Cooper Ramo)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "grove-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Grove",
+        "kind": "article",
+        "title": "Andrew Grove (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1957-arrives-nyc",
+    "person_id": "grove",
+    "date": "1957-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "在国际救援委员会帮助下抵达纽约，几乎一句英语都不会",
+    "title_en": "Arrives in New York City via the International Rescue Committee",
+    "summary": "1957 年，格罗夫在国际救援委员会（International Rescue Committee）的帮助下从奥地利登船赴美，落脚纽约。他身无分文、几乎不会说英语，但凭借惊人的语言天赋几个月内便掌握了基本英语。同年他将名字英化为 Andrew S. Grove，并在新罕布什尔州的一家度假酒店打工时邂逅了同为奥地利难民的 Eva Kastan，两人于 1958 年 6 月在皇后区结婚。",
+    "summary_en": "With help from the International Rescue Committee, Grove sailed to America in 1957 and settled in New York City — penniless and barely able to speak English, yet picking it up in months. He anglicized his name to Andrew S. Grove that same year. Working a summer job at a New Hampshire resort, he met fellow refugee Eva Kastan, an Austrian who had also fled communism; they married in Queens in June 1958 and stayed together for the rest of his life.",
+    "location": "New York City",
+    "key": true,
+    "tags": [
+      "移民",
+      "纽约",
+      "难民",
+      "Eva"
+    ],
+    "sources": [
+      {
+        "id": "grove-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Grove",
+        "kind": "article",
+        "title": "Andrew Grove (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "grove-britannica",
+        "url": "https://www.britannica.com/money/Andrew-S-Grove",
+        "kind": "article",
+        "title": "Andrew Grove | Biography, Intel, & Facts",
+        "publisher": "Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1960-ccny-bs",
+    "person_id": "grove",
+    "date": "1960-06-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "纽约市立学院化学工程学士，以全班第一名毕业",
+    "title_en": "BS in Chemical Engineering from CCNY, top of his class",
+    "summary": "1960 年，格罗夫从纽约市立学院（City College of New York）化学工程系毕业，并以全班第一名的成绩获得学士学位。他靠学校免费教育才得以完成学业，听力损伤使他必须在课后凭借词典和书籍把听不清的讲课内容补回来。后来他向 CCNY 捐赠 2,600 万美元，CCNY 工学院因此命名为「Grove School of Engineering」。",
+    "summary_en": "Grove graduated at the top of his class from the City College of New York with a BS in chemical engineering in 1960. Free public tuition at CCNY made his education possible; his hearing loss forced him to reconstruct missed lectures at home with a dictionary. He later donated $26 million to CCNY, and the school's engineering college was renamed the Grove School of Engineering in his honor.",
+    "location": "City College of New York, New York City",
+    "key": true,
+    "tags": [
+      "教育",
+      "CCNY",
+      "化学工程",
+      "奖学金"
+    ],
+    "sources": [
+      {
+        "id": "ccny-about-grove",
+        "url": "https://www.ccny.cuny.edu/engineering/about-andy-grove",
+        "kind": "article",
+        "title": "About Andy Grove",
+        "publisher": "The City College of New York",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "ccny-mourns-grove",
+        "url": "https://www.ccny.cuny.edu/news/city-college-mourns-distinguished-alumnus-andrew-grove-60",
+        "kind": "article",
+        "title": "City College mourns distinguished alumnus Andrew Grove '60",
+        "publisher": "The City College of New York",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1963-berkeley-phd",
+    "person_id": "grove",
+    "date": "1963-06-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "加州大学伯克利分校化学工程博士，导师 Andreas Acrivos",
+    "title_en": "PhD in Chemical Engineering from UC Berkeley under Andreas Acrivos",
+    "summary": "1963 年，格罗夫在加州大学伯克利分校获得化学工程博士学位，师从流体动力学大师 Andreas Acrivos。他是 Acrivos 在伯克利招收的第一批学生之一，研究方向为流体力学。仅花三年完成博士学业的他随后写出了半导体器件领域的经典教科书《Physics and Technology of Semiconductor Devices》（1967 年出版）。",
+    "summary_en": "Grove earned his PhD in chemical engineering from UC Berkeley in 1963, working with fluid-dynamics pioneer Andreas Acrivos as one of his very first doctoral students. He completed the degree in just three years, then went on to write the classic textbook *Physics and Technology of Semiconductor Devices* (1967), which trained an entire generation of process engineers.",
+    "location": "UC Berkeley, California",
+    "key": true,
+    "tags": [
+      "教育",
+      "Berkeley",
+      "博士",
+      "Acrivos"
+    ],
+    "sources": [
+      {
+        "id": "berkeley-engineering-grove",
+        "url": "https://engineering.berkeley.edu/andy-grove-visionary-ceo/",
+        "kind": "article",
+        "title": "Andy Grove: Visionary CEO",
+        "publisher": "Berkeley Engineering",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "berkeley-chemistry-grove",
+        "url": "https://chemistry.berkeley.edu/news/andrew-s-grove",
+        "kind": "article",
+        "title": "Andrew S. Grove",
+        "publisher": "UC Berkeley College of Chemistry",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1963-fairchild-hire",
+    "person_id": "grove",
+    "date": "1963-09-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "加入仙童半导体，在 Gordon Moore 手下工作",
+    "title_en": "Joins Fairchild Semiconductor, working under Gordon Moore",
+    "summary": "博士毕业的同一年，格罗夫加入仙童半导体——当时硅谷最重要的半导体公司，由 Gordon Moore 担任研发实验室主任。Moore 亲自把他招进实验室，从此成为他一生的导师与合伙人。在仙童期间，格罗夫迅速从研究员晋升为研发副主任，并在 1967 年出版了关于 MOS 器件物理的奠基性教科书。",
+    "summary_en": "The same year he completed his PhD, Grove joined Fairchild Semiconductor — then the most important chipmaker in Silicon Valley — where Gordon Moore was running the R&D lab. Moore personally recruited him, and the two would remain partners and friends for the rest of Grove's life. At Fairchild, Grove rose from researcher to assistant director of development by 1967 and published his landmark MOS device physics textbook the same year.",
+    "location": "Fairchild Semiconductor, Mountain View, CA",
+    "key": true,
+    "tags": [
+      "仙童半导体",
+      "Gordon Moore",
+      "导师",
+      "研发"
+    ],
+    "sources": [
+      {
+        "id": "grove-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Grove",
+        "kind": "article",
+        "title": "Andrew Grove (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "chm-remembering-grove",
+        "url": "https://computerhistory.org/blog/remembering-andy-s-grove/",
+        "kind": "article",
+        "title": "Remembering Andy S. Grove",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "embed_url": "https://www.youtube.com/watch?v=XFgFWdxHILc"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1968-07-18-intel-founding",
+    "person_id": "grove",
+    "date": "1968-07-18",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "Intel 注册成立当日加入，成为三号员工",
+    "title_en": "Joins Intel as employee #3 on its incorporation day",
+    "summary": "1968 年 7 月 18 日，Robert Noyce 和 Gordon Moore 离开仙童半导体注册成立 Intel。格罗夫并非联合创始人，但在 Intel 注册成立当天就加入，成为三号员工。他不是创始人却在很多人心中成了「最关键的那个 Intel 人」——他主管运营、把一支研究型公司打造成了能稳定量产先进芯片的工业机器，最终以 CEO 身份带领公司登顶半导体王座。",
+    "summary_en": "On July 18, 1968, Robert Noyce and Gordon Moore left Fairchild and incorporated Intel. Grove was not a co-founder but joined on the day of incorporation as employee #3 (Noyce and Moore being #1 and #2). He owned operations from day one, turning a research-driven startup into the disciplined manufacturing machine that would eventually dominate the semiconductor industry — and many call him \"the indispensable Intel man.\"",
+    "location": "Mountain View, California",
+    "key": true,
+    "tags": [
+      "Intel",
+      "创立",
+      "Noyce",
+      "Moore",
+      "1968"
+    ],
+    "sources": [
+      {
+        "id": "intel-andy-grove-1936-2016",
+        "url": "https://www.intc.com/news-events/press-releases/detail/284/andrew-s-grove-1936-2016",
+        "kind": "article",
+        "title": "Andrew S. Grove 1936–2016",
+        "publisher": "Intel Corporation",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "intel-timeline-man-of-year",
+        "url": "https://timeline.intel.com/1997/andy-grove:-man-of-the-year",
+        "kind": "article",
+        "title": "Andy Grove: Man of the Year",
+        "publisher": "Intel Timeline",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1979-intel-president",
+    "person_id": "grove",
+    "date": "1979-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "出任 Intel 总裁",
+    "title_en": "Becomes President of Intel",
+    "summary": "1979 年，43 岁的格罗夫被任命为 Intel 总裁，成为公司日常运营的实际负责人。Noyce 和 Moore 此前更多扮演愿景与技术领导者的角色，格罗夫则把精力投在制造、人事与执行纪律上。这一年也是 IBM 即将选择 Intel 8088 作为 PC 处理器（1981 年）的前夜——Intel 由此进入与 PC 时代深度绑定的爆炸式增长。",
+    "summary_en": "In 1979, 43-year-old Grove was named President of Intel, taking de facto operational control of the company. Noyce and Moore had been the vision-and-technology leaders; Grove was the discipline guy — focused on manufacturing, people management, and execution. The promotion came on the eve of IBM's 1981 decision to pick the Intel 8088 for its PC, the deal that would lock Intel into the explosive PC era.",
+    "location": "Santa Clara, California",
+    "key": true,
+    "tags": [
+      "Intel",
+      "总裁",
+      "晋升"
+    ],
+    "sources": [
+      {
+        "id": "grove-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Grove",
+        "kind": "article",
+        "title": "Andrew Grove (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "grove-britannica",
+        "url": "https://www.britannica.com/money/Andrew-S-Grove",
+        "kind": "article",
+        "title": "Andrew Grove | Biography, Intel, & Facts",
+        "publisher": "Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1983-high-output-management",
+    "person_id": "grove",
+    "date": "1983-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "出版《High Output Management》，奠定 OKR 框架",
+    "title_en": "Publishes *High Output Management*, the founding text of OKRs",
+    "summary": "1983 年，格罗夫出版《High Output Management》（《格鲁夫给经理人的第一课》），系统总结了他在 Intel 推行的产出导向管理方法——包括目标与关键结果（Objectives and Key Results, OKR）、一对一会议、矩阵组织等。当年《纽约时报》称其为「各级经理人的实用指南」。这本书后来被硅谷新一代创始人奉为圣经，扎克伯格、Brian Chesky、Evan Williams 等都公开推荐过。",
+    "summary_en": "In 1983 Grove published *High Output Management*, the systematic codification of the output-driven management style he had built at Intel — including Objectives and Key Results (OKRs), one-on-ones, and matrix organization. The *New York Times* called it \"an organizational Baedeker for managers at all levels.\" Decades later it became a cult classic among Silicon Valley founders; Mark Zuckerberg, Brian Chesky, and Evan Williams have all cited it as foundational.",
+    "location": "United States",
+    "key": true,
+    "tags": [
+      "书",
+      "管理",
+      "OKR",
+      "High Output Management"
+    ],
+    "sources": [
+      {
+        "id": "high-output-management-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/High_Output_Management",
+        "kind": "book",
+        "title": "High Output Management (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "okr-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Objectives_and_key_results",
+        "kind": "article",
+        "title": "Objectives and key results (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1985-memory-pivot",
+    "person_id": "grove",
+    "date": "1985-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "与 Gordon Moore「走出门再回来」对话，决定退出存储器业务",
+    "title_en": "The pivotal \"walk out the door\" conversation with Gordon Moore: exits memory chips",
+    "summary": "1985 年中，日本厂商在 DRAM 市场把 Intel 打得节节败退，市占从 83% 跌到 1.3%。格鲁夫在办公室望着窗外的摩天轮问 Moore：「如果董事会把我们赶走再请来一个新 CEO，他会怎么做？」Moore 立刻回答：「他会把我们带出存储器业务。」格鲁夫接道：「那我们为什么不先走出这扇门，再回来自己干？」于是他们关闭工厂、裁员三分之一、把全部资源压注微处理器。这是硅谷史上最痛苦也最关键的决策之一。",
+    "summary_en": "By mid-1985 Japanese DRAM makers had crushed Intel's memory business, slashing its share from 83% to 1.3%. Looking out the window at a Ferris wheel, Grove asked Gordon Moore, \"If the board kicked us out and brought in a new CEO, what would he do?\" Moore answered without hesitation: \"He would get us out of memories.\" Grove replied: \"Why shouldn't you and I walk out the door, come back, and do it ourselves?\" They closed plants, laid off a third of the workforce, and bet everything on microprocessors — one of the most painful and consequential decisions in Silicon Valley history.",
+    "location": "Santa Clara, California",
+    "key": true,
+    "tags": [
+      "Intel",
+      "战略转折点",
+      "DRAM",
+      "微处理器",
+      "Moore"
+    ],
+    "sources": [
+      {
+        "id": "intel-timeline-farewell-dram",
+        "url": "https://timeline.intel.com/1985/farewell-to-dram",
+        "kind": "article",
+        "title": "Farewell to DRAM",
+        "publisher": "Intel Timeline",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "If we got kicked out and the board brought in a new CEO, what do you think he would do?",
+            "text_en": "If we got kicked out and the board brought in a new CEO, what do you think he would do?",
+            "speaker": "Andy Grove",
+            "context": "1985 年中与 Gordon Moore 在 Intel 办公室的对话"
+          },
+          {
+            "text": "He would get us out of memories.",
+            "text_en": "He would get us out of memories.",
+            "speaker": "Gordon Moore"
+          },
+          {
+            "text": "Why shouldn't you and I walk out the door, come back, and do it ourselves?",
+            "text_en": "Why shouldn't you and I walk out the door, come back, and do it ourselves?",
+            "speaker": "Andy Grove"
+          }
+        ]
+      },
+      {
+        "id": "commoncog-intel-pivot",
+        "url": "https://commoncog.com/c/cases/intel-transition-memories-processors/",
+        "kind": "article",
+        "title": "Intel's Near Death Moment: Switching from Memories to Microprocessors",
+        "publisher": "Commoncog Case Library",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241210174813if_/https://commoncog.com/c/cases/intel-transition-memories-processors/",
+          "timestamp": "20241210174813",
+          "archived_at": "2024-12-10"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1987-intel-ceo",
+    "person_id": "grove",
+    "date": "1987-04-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "正式出任 Intel CEO",
+    "title_en": "Becomes CEO of Intel",
+    "summary": "1987 年，Gordon Moore 升任董事长，格鲁夫正式接任 Intel CEO。在他执掌 CEO 的 11 年里，Intel 营收从约 19 亿美元增长到逾 260 亿美元（1998），市值上涨约 4500%，成为全球最大半导体公司。「Intel Inside」品牌战略、386/486/Pentium 系列处理器以及与 Microsoft 形成的 Wintel 联盟都是这一时期建立的。",
+    "summary_en": "In 1987, Gordon Moore moved up to Chairman and Grove formally took over as CEO of Intel. During his 11-year tenure, Intel's annual revenue grew from roughly $1.9 billion to over $26 billion, market cap rose about 4,500%, and the company became the world's largest semiconductor maker. The \"Intel Inside\" branding campaign, the 386/486/Pentium product line, and the Wintel alliance with Microsoft were all built on his watch.",
+    "location": "Santa Clara, California",
+    "key": true,
+    "tags": [
+      "Intel",
+      "CEO",
+      "1987",
+      "Wintel"
+    ],
+    "sources": [
+      {
+        "id": "intel-andy-grove-1936-2016",
+        "url": "https://www.intc.com/news-events/press-releases/detail/284/andrew-s-grove-1936-2016",
+        "kind": "article",
+        "title": "Andrew S. Grove 1936–2016",
+        "publisher": "Intel Corporation",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250318055903if_/https://www.intc.com/news-events/press-releases/detail/284/andrew-s-grove-1936-2016",
+          "timestamp": "20250318055903",
+          "archived_at": "2025-03-18"
+        }
+      },
+      {
+        "id": "grove-britannica",
+        "url": "https://www.britannica.com/money/Andrew-S-Grove",
+        "kind": "article",
+        "title": "Andrew Grove | Biography, Intel, & Facts",
+        "publisher": "Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250109062446if_/https://www.britannica.com/money/Andrew-S-Grove",
+          "timestamp": "20250109062446",
+          "archived_at": "2025-01-09"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1994-pentium-fdiv",
+    "person_id": "grove",
+    "date": "1994-12-20",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Pentium FDIV bug：从「拒不召回」到 4.75 亿美元全面更换",
+    "title_en": "Pentium FDIV bug crisis: pivots from refusing to recall to full $475M replacement program",
+    "summary": "1994 年 11 月，一名数学教授发现 Pentium 处理器在浮点除法（FDIV）特定情况下会输出错误结果。Intel 起初坚持只替换证明被影响的客户，引发媒体与 IBM 的强烈反弹。12 月 20 日，格鲁夫宣布无条件全面召回，「不需要任何证明」，Intel 为此计提 4.75 亿美元税前费用。这次危机成为他后来名言「坏公司被危机摧毁，好公司挺过危机，伟大公司因危机而变得更强」的起点。",
+    "summary_en": "In November 1994 a math professor discovered that the Pentium produced wrong results under certain floating-point divisions (the FDIV bug). Intel's first response — only replacing chips for users who could prove they were affected — triggered backlash from media and IBM. On December 20, 1994 Grove announced an unconditional recall: free replacement for anyone who asked, no proof required. Intel took a $475M pretax charge. The crisis became the origin of his famous line: \"Bad companies are destroyed by crises; good companies survive them; great companies are improved by them.\"",
+    "location": "Santa Clara, California",
+    "key": true,
+    "tags": [
+      "Intel",
+      "危机",
+      "Pentium",
+      "FDIV",
+      "召回"
+    ],
+    "sources": [
+      {
+        "id": "pentium-fdiv-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pentium_FDIV_bug",
+        "kind": "article",
+        "title": "Pentium FDIV bug (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241228152811if_/https://en.wikipedia.org/wiki/Pentium_FDIV_bug",
+          "timestamp": "20241228152811",
+          "archived_at": "2024-12-28"
+        },
+        "quotes": [
+          {
+            "text": "Bad companies are destroyed by crises; good companies survive them; great companies are improved by them.",
+            "text_en": "Bad companies are destroyed by crises; good companies survive them; great companies are improved by them.",
+            "speaker": "Andy Grove",
+            "context": "格鲁夫总结 Pentium FDIV 危机的名言，被印在 Intel 员工的「问题芯片纪念钥匙扣」上"
+          }
+        ]
+      },
+      {
+        "id": "tomshardware-fdiv-30",
+        "url": "https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall",
+        "kind": "article",
+        "title": "It's been 30 years since Intel's infamous Pentium FDIV bug",
+        "publisher": "Tom's Hardware",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20241214013524if_/https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall",
+          "timestamp": "20241214013524",
+          "archived_at": "2024-12-14"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1996-05-13-prostate-cancer",
+    "person_id": "grove",
+    "date": "1996-05-13",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "《Fortune》封面文章《Taking on Prostate Cancer》——Intel CEO 用工程师方式分析自己的病",
+    "title_en": "Fortune cover story \"Taking on Prostate Cancer\": engineering his own treatment",
+    "summary": "1994 年格鲁夫被诊断出前列腺癌后，他像研究半导体工艺那样自己研读医学文献、对比治疗方案。1996 年 5 月 13 日，他在《Fortune》发表了 24 页的封面长文《Taking on Prostate Cancer》（与 Bethany McLean 合写），公开自己 PSA 数值、各种治疗对比表格与最终选择放射治疗的逻辑。这篇文章后来被誉为患者自我赋权的范本，也奠定了他「把工程方法用于自身健康问题」的形象。",
+    "summary_en": "Diagnosed with prostate cancer in 1994, Grove approached his disease the way he approached chip-yield problems — reading the medical literature, building comparison tables, modeling outcomes. In the May 13, 1996 issue of *Fortune*, he and reporter Bethany McLean published a 24-page cover story, *Taking on Prostate Cancer*, in which he disclosed his PSA numbers, walked readers through every treatment option, and explained why he chose radiation. It is still cited as a model of patient self-advocacy.",
+    "location": "Silicon Valley",
+    "key": true,
+    "tags": [
+      "健康",
+      "前列腺癌",
+      "Fortune",
+      "自我研究"
+    ],
+    "sources": [
+      {
+        "id": "fortune-prostate-cancer",
+        "url": "https://fortune.com/1996/05/13/andy-grove-prostate-cancer-cover-story/",
+        "kind": "article",
+        "title": "Andy Grove: Taking on Prostate Cancer",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "phoenix5-fortune96",
+        "url": "http://www.phoenix5.org/articles/Fortune96Grove.html",
+        "kind": "article",
+        "title": "Article: Taking on Prostate Cancer (full text mirror)",
+        "publisher": "Phoenix5 Patient Resource",
+        "lang": "en",
+        "primary": false,
+        "license": "fair-use-only",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1996-paranoid-survive",
+    "person_id": "grove",
+    "date": "1996-09-01",
+    "date_precision": "month",
+    "type": "writing",
+    "title": "出版《Only the Paranoid Survive》，提出「战略转折点」概念",
+    "title_en": "Publishes *Only the Paranoid Survive*, introducing the \"strategic inflection point\"",
+    "summary": "1996 年，格鲁夫出版《Only the Paranoid Survive》（《只有偏执狂才能生存》），把他在 Intel 处理 DRAM 退出、Pentium FDIV 危机等关键节点时的思考方式总结成「战略转折点」（strategic inflection point）模型——当行业基本面发生 10 倍级变化时，公司必须重新定位或被淘汰。同年 9 月 24 日他在 Charlie Rose 节目上花一小时介绍这本书，全书的开篇宣言「Only the paranoid survive」也成了他最被引用的格言。",
+    "summary_en": "In 1996 Grove published *Only the Paranoid Survive*, distilling Intel's DRAM exit and the Pentium FDIV crisis into the framework of the \"strategic inflection point\" — a moment when industry fundamentals undergo a 10X change and a company must either reposition or be destroyed. He went on Charlie Rose on September 24, 1996 to spend an hour walking through the book. Its opening line — \"Only the paranoid survive\" — became his most-quoted maxim.",
+    "location": "United States",
+    "key": true,
+    "tags": [
+      "书",
+      "战略转折点",
+      "偏执狂",
+      "Only the Paranoid Survive"
+    ],
+    "sources": [
+      {
+        "id": "penguinrandomhouse-paranoid",
+        "url": "https://www.penguinrandomhouse.com/books/72469/only-the-paranoid-survive-by-andrew-grove/",
+        "kind": "book",
+        "title": "Only the Paranoid Survive (publisher page)",
+        "publisher": "Penguin Random House",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "Only the paranoid survive.",
+            "text_en": "Only the paranoid survive.",
+            "speaker": "Andy Grove",
+            "context": "1996 年同名著作开篇与最常被引用的座右铭"
+          },
+          {
+            "text": "Success breeds complacency. Complacency breeds failure. Only the paranoid survive.",
+            "text_en": "Success breeds complacency. Complacency breeds failure. Only the paranoid survive.",
+            "speaker": "Andy Grove"
+          }
+        ]
+      },
+      {
+        "id": "mit-grove-strategic-inflection",
+        "url": "https://infinite.mit.edu/video/andrew-grove-%E2%80%9Cexploiting-crisis-points-challenging-every-company-and-career-mit-sloan-industry/",
+        "kind": "video",
+        "title": "Andrew Grove, \"Exploiting the Crisis Points: Challenging Every Company and Career\" — MIT Sloan Industry Leaders Lecture",
+        "publisher": "MIT",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "embed_url": "https://www.youtube.com/watch?v=LfU2Qu4MzZk"
+      },
+      {
+        "id": "grove-mit-1996-youtube",
+        "url": "https://www.youtube.com/watch?v=LfU2Qu4MzZk",
+        "embed_url": "https://www.youtube-nocookie.com/embed/LfU2Qu4MzZk",
+        "kind": "video",
+        "title": "Andrew Grove, \"Strategic Inflection Points\" — 1996 MIT Industry Leaders Program Lecture",
+        "publisher": "YouTube / MIT",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1997-12-time-man-of-year",
+    "person_id": "grove",
+    "date": "1997-12-21",
+    "date_precision": "day",
+    "type": "award",
+    "title": "《时代》杂志年度风云人物 (Man of the Year 1997)",
+    "title_en": "TIME Magazine Man of the Year 1997",
+    "summary": "1997 年 12 月 21 日上市的《时代》杂志将格鲁夫评为年度风云人物，称他是「让微芯片威力与创新潜能空前增长最负责任的人」。封面长文《A Survivor's Tale》（Joshua Cooper Ramo 撰）讲述了他从布达佩斯犹太男孩、匈牙利逃亡者到 Intel CEO 的传奇——这是《时代》第一次把这一称号直接授予数字时代的个人。",
+    "summary_en": "The December 21, 1997 issue of *TIME* named Grove its Man of the Year, calling him \"the person most responsible for the amazing growth in the power and innovative potential of microchips.\" The accompanying profile *A Survivor's Tale* by Joshua Cooper Ramo traced his arc from a Jewish boy in Budapest hiding under a fake name, to a refugee escaping Soviet tanks, to CEO of Intel. It was the first time *TIME* gave the title directly to an individual of the digital age.",
+    "location": "United States",
+    "key": true,
+    "tags": [
+      "奖项",
+      "TIME",
+      "Man of the Year",
+      "1997"
+    ],
+    "sources": [
+      {
+        "id": "time-man-of-year-1997",
+        "url": "https://content.time.com/time/specials/packages/0,28757,2020559,00.html",
+        "kind": "article",
+        "title": "Man of the Year 1997",
+        "publisher": "TIME",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "time-man-of-year-grove-feature",
+        "url": "https://time.com/4267448/andrew-grove-man-of-the-year/",
+        "kind": "article",
+        "title": "Andrew Grove: Man Of The Year",
+        "publisher": "TIME",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "intel-time-man-of-year",
+        "url": "https://www.intel.com/content/www/us/en/history/virtual-vault/articles/andy-grove-times-man-of-the-year.html",
+        "kind": "article",
+        "title": "Andy Grove – TIME's Man of the Year",
+        "publisher": "Intel",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-1998-05-step-down-ceo",
+    "person_id": "grove",
+    "date": "1998-05-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "卸任 Intel CEO，由 Craig Barrett 接任，自己改任董事长",
+    "title_en": "Steps down as Intel CEO; Craig Barrett succeeds him, Grove stays as Chairman",
+    "summary": "1998 年 5 月，格鲁夫卸任 Intel CEO，由 COO Craig Barrett 接任，自己留任董事长（直到 2005 年）。他执掌 CEO 的 11 年里，Intel 年营收从 19 亿美元增长到超 260 亿美元，市值上涨约 4500%，公司从一家面临 DRAM 危机的厂商变成全球最大半导体公司、PC 时代的实际中央处理器供应商。",
+    "summary_en": "In May 1998, Grove stepped down as CEO of Intel, handing the reins to COO Craig Barrett while staying on as Chairman until 2005. Over his 11 years as CEO, Intel's annual revenue grew from $1.9B to more than $26B, market cap rose roughly 4,500%, and the company transformed from a struggling memory maker into the dominant supplier of microprocessors for the PC era.",
+    "location": "Santa Clara, California",
+    "key": true,
+    "tags": [
+      "Intel",
+      "CEO",
+      "卸任",
+      "Barrett"
+    ],
+    "sources": [
+      {
+        "id": "grove-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Grove",
+        "kind": "article",
+        "title": "Andrew Grove (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "intel-andy-grove-1936-2016",
+        "url": "https://www.intc.com/news-events/press-releases/detail/284/andrew-s-grove-1936-2016",
+        "kind": "article",
+        "title": "Andrew S. Grove 1936–2016",
+        "publisher": "Intel Corporation",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-2000-parkinsons-medal-of-honor",
+    "person_id": "grove",
+    "date": "2000-01-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "确诊帕金森症；同年获 IEEE 荣誉奖章",
+    "title_en": "Diagnosed with Parkinson's disease; receives IEEE Medal of Honor",
+    "summary": "2000 年，格鲁夫被诊断出帕金森症。他公开承认病情后投入数千万美元个人资金支持帕金森症研究，并参与多个治疗研究项目。同年他因「在 MOS 器件特性化、建模与现代半导体行业领导力方面的开创性贡献」获得电气电子工程师学会（IEEE）最高荣誉——荣誉奖章（Medal of Honor）。",
+    "summary_en": "In 2000, Grove was diagnosed with Parkinson's disease. After going public with the diagnosis, he poured tens of millions of his own money into Parkinson's research and treatment programs. The same year he received IEEE's highest honor, the Medal of Honor, \"for pioneering research in characterizing and modeling MOS devices and technology, and for leadership in the development of the modern semiconductor industry.\"",
+    "location": "Los Altos, California",
+    "key": true,
+    "tags": [
+      "健康",
+      "帕金森症",
+      "IEEE",
+      "Medal of Honor"
+    ],
+    "sources": [
+      {
+        "id": "michaeljfox-grove",
+        "url": "https://www.michaeljfox.org/bio/andrew-s-grove",
+        "kind": "article",
+        "title": "Andrew S. Grove – Parkinson's Disease",
+        "publisher": "Michael J. Fox Foundation",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "ieee-spectrum-grove",
+        "url": "https://spectrum.ieee.org/profile-andy-grove",
+        "kind": "article",
+        "title": "Profile: Andy Grove",
+        "publisher": "IEEE Spectrum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-2001-11-15-swimming-across",
+    "person_id": "grove",
+    "date": "2001-11-15",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "出版回忆录《Swimming Across》，记录 0–20 岁的匈牙利岁月",
+    "title_en": "Publishes memoir *Swimming Across*: childhood, Holocaust, and escape from Hungary",
+    "summary": "2001 年 11 月 15 日，格鲁夫的回忆录《Swimming Across》由 Warner Books 出版，讲述他从布达佩斯犹太家庭出生、躲避纳粹、在共产党时期成长，到 1956 年「游过边境」逃往奥地利、最后抵达纽约就读 CCNY 的前 20 年人生。书名「Swimming Across」既指他实际穿越边境的经历，也象征跨越政治、语言、文化的多重边界。出版当天，他还登上 Charlie Rose 节目接受了一小时专访。",
+    "summary_en": "On November 15, 2001, Warner Books released Grove's memoir *Swimming Across*. It covers his first twenty years — birth into a Jewish family in Budapest, hiding from the Nazis, growing up under communism, \"swimming across\" the border to Austria during the 1956 uprising, and finally enrolling at CCNY in New York. The title evokes both the literal border crossing and the larger figurative crossing of political, linguistic, and cultural borders. He sat down with Charlie Rose for an hour-long interview the same day.",
+    "location": "United States",
+    "key": true,
+    "tags": [
+      "书",
+      "回忆录",
+      "Swimming Across",
+      "匈牙利"
+    ],
+    "sources": [
+      {
+        "id": "publishersweekly-swimming-across",
+        "url": "https://www.publishersweekly.com/978-0-446-52859-7",
+        "kind": "article",
+        "title": "Swimming Across: A Memoir (Publishers Weekly)",
+        "publisher": "Publishers Weekly",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "intel-grove-charlie-rose-2001",
+        "url": "https://www.intel.com/pressroom/archive/speeches/asg20011115.htm",
+        "kind": "transcript",
+        "title": "Andy Grove: The Charlie Rose Program, Nov. 15, 2001",
+        "publisher": "Intel Press Room",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20240704205215if_/https://www.intel.com/pressroom/archive/speeches/asg20011115.htm",
+          "timestamp": "20240704205215",
+          "archived_at": "2024-07-04"
+        }
+      },
+      {
+        "id": "grove-charlie-rose-2001-youtube",
+        "url": "https://www.youtube.com/watch?v=-CT7lg3vIzY",
+        "embed_url": "https://www.youtube-nocookie.com/embed/-CT7lg3vIzY",
+        "kind": "video",
+        "title": "Andy Grove; Peter Bergen; Art Historian Ernst Gombrich (Nov 15, 2001) — Charlie Rose",
+        "publisher": "YouTube / Charlie Rose",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/20250224080230if_/https://www.youtube.com/watch?si=3rDkN2aPAlYpXhr1&v=-CT7lg3vIzY&feature=youtu.be",
+          "timestamp": "20250224080230",
+          "archived_at": "2025-02-24"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-2004-02-stanford-arbuckle",
+    "person_id": "grove",
+    "date": "2004-02-01",
+    "date_precision": "month",
+    "type": "speech",
+    "title": "斯坦福商学院 Arbuckle Award：呼吁修复「美国梦的阶梯」",
+    "title_en": "Stanford GSB Arbuckle Award speech: \"Fix the missing rungs in the ladder of the American Dream\"",
+    "summary": "2004 年 2 月，斯坦福商学院将 Arbuckle Award 授予格鲁夫。在颁奖晚宴的演讲中，他借用自己「身无分文移民却能在美国完成博士并领导 Intel」的经历，挑战商学院承担起修复美国梦阶梯中那些缺失横档的责任——尤其是公立教育、移民政策和制造业岗位。他与斯坦福商学院教授 Robert Burgelman 合作教课近 25 年，把自己当作活的案例研究。",
+    "summary_en": "In February 2004, Stanford Graduate School of Business gave Grove its Arbuckle Award. In his acceptance speech he used his own arc — penniless refugee to Berkeley PhD to Intel CEO — to challenge business schools to take responsibility for restoring the missing rungs in the ladder of the American Dream, particularly in public education, immigration, and manufacturing jobs. He had taught a strategy course at Stanford GSB with Robert Burgelman for nearly 25 years, often using himself as the live case study.",
+    "location": "Stanford, California",
+    "key": true,
+    "tags": [
+      "演讲",
+      "Stanford",
+      "美国梦",
+      "Arbuckle Award"
+    ],
+    "sources": [
+      {
+        "id": "stanford-remembering-grove-teacher",
+        "url": "https://www.gsb.stanford.edu/faculty-research/publications/remembering-andy-grove-teacher",
+        "kind": "article",
+        "title": "Remembering Andy Grove, the Teacher",
+        "publisher": "Stanford Graduate School of Business",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "silicon-moon-grove-2004",
+        "url": "http://bernardmoon.blogspot.com/2004/03/andy-grove-speaks.html",
+        "kind": "article",
+        "title": "Andy Grove Speaks... Fixing the Ladder of the American Dream",
+        "publisher": "Silicon Moon (Bernard Moon)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-2005-step-down-chairman",
+    "person_id": "grove",
+    "date": "2005-05-18",
+    "date_precision": "day",
+    "type": "career",
+    "title": "卸任 Intel 董事长，结束 37 年 Intel 任期",
+    "title_en": "Steps down as Intel Chairman, ending 37 years at the company",
+    "summary": "2005 年 5 月，格鲁夫从 Intel 董事长职位上退休，结束了从 1968 年 7 月 18 日以来在 Intel 长达 37 年的任期，由 Craig Barrett 接任董事长。退休后他继续担任 Intel 高级顾问，并在斯坦福、CCNY、UCSF 等学术机构活动；同时把更多精力投入帕金森症研究的资助和制造业政策评论。",
+    "summary_en": "In May 2005, Grove retired as Intel's Chairman, ending a 37-year run at the company that began on its incorporation day in July 1968; Craig Barrett succeeded him as Chairman. He stayed on as senior advisor to Intel and remained active at Stanford, CCNY, and UCSF, while devoting more attention to funding Parkinson's research and writing about US manufacturing and immigration policy.",
+    "location": "Santa Clara, California",
+    "key": true,
+    "tags": [
+      "Intel",
+      "退休",
+      "董事长",
+      "Barrett"
+    ],
+    "sources": [
+      {
+        "id": "grove-wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Grove",
+        "kind": "article",
+        "title": "Andrew Grove (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human"
+      },
+      {
+        "id": "intel-andy-grove-1936-2016",
+        "url": "https://www.intc.com/news-events/press-releases/detail/284/andrew-s-grove-1936-2016",
+        "kind": "article",
+        "title": "Andrew S. Grove 1936–2016",
+        "publisher": "Intel Corporation",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-2010-07-01-american-jobs",
+    "person_id": "grove",
+    "date": "2010-07-01",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "《Bloomberg Businessweek》文章：《How America Can Create Jobs》",
+    "title_en": "*Bloomberg Businessweek* essay: \"How America Can Create Jobs\"",
+    "summary": "2010 年 7 月 1 日，格鲁夫在 Bloomberg Businessweek 发表 2,800 字封面文章《How America Can Create Jobs》。他指出美国硅谷创新机器并未创造足够本土就业，因为关键的「scale-up」环节——把原型变成大规模制造——大量外移至亚洲。他提议对离岸劳动产品征收额外税，把税收注入「Scaling Bank of the U.S.」用于资助在美扩产的公司。文章成为他晚年关于制造业回归政策最具影响力的发言。",
+    "summary_en": "On July 1, 2010, Grove published a 2,800-word *Bloomberg Businessweek* cover essay, *How America Can Create Jobs*. He argued that Silicon Valley's innovation machine was no longer creating enough US jobs because the critical \"scale-up\" stage — turning a prototype into mass production — had been offshored to Asia. He proposed an extra tax on offshored labor with the proceeds going to a \"Scaling Bank of the U.S.\" that would fund companies expanding domestic operations. It became his most influential late-career policy statement.",
+    "location": "United States",
+    "key": true,
+    "tags": [
+      "写作",
+      "制造业",
+      "就业",
+      "Bloomberg"
+    ],
+    "sources": [
+      {
+        "id": "bloomberg-grove-create-jobs",
+        "url": "https://www.bloomberg.com/news/articles/2010-07-01/andy-grove-how-america-can-create-jobs",
+        "kind": "article",
+        "title": "Andy Grove: How America Can Create Jobs",
+        "publisher": "Bloomberg Businessweek",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "longreads-grove-create-jobs",
+        "url": "https://longreads.com/2010/07/07/andy-grove-how-america-can-create-jobs/",
+        "kind": "article",
+        "title": "Andy Grove: How America Can Create Jobs (mirror)",
+        "publisher": "Longreads",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "grove-2016-03-21-death",
+    "person_id": "grove",
+    "date": "2016-03-21",
+    "date_precision": "day",
+    "type": "life",
+    "title": "在加州 Los Altos 家中辞世，享年 79 岁",
+    "title_en": "Dies at age 79 at his home in Los Altos, California",
+    "summary": "2016 年 3 月 21 日，格鲁夫在加州 Los Altos 的家中辞世，享年 79 岁。Intel 当天发布的讣告中，时任 CEO Brian Krzanich 表示：「Andy 一次又一次地把不可能变为可能，激励了几代技术人、创业者和商业领袖。」他生前多年与帕金森症共处，并曾患过前列腺癌。妻子 Eva 与两个女儿、八个外孙在世。Bob Noyce 1990 年早逝、Gordon Moore 2023 年辞世后，Intel 三巨头时代正式落幕。",
+    "summary_en": "On March 21, 2016, Grove died at his home in Los Altos, California at age 79. In Intel's announcement, then-CEO Brian Krzanich said: \"Andy made the impossible happen, time and again, and inspired generations of technologists, entrepreneurs, and business leaders.\" Grove had lived with Parkinson's for many years and had previously battled prostate cancer. He was survived by his wife Eva, two daughters, and eight grandchildren. With Bob Noyce's death in 1990 and Gordon Moore's in 2023, the original Intel trinity was complete.",
+    "location": "Los Altos, California",
+    "key": true,
+    "tags": [
+      "逝世",
+      "Los Altos",
+      "Intel"
+    ],
+    "sources": [
+      {
+        "id": "intel-andy-grove-1936-2016",
+        "url": "https://www.intc.com/news-events/press-releases/detail/284/andrew-s-grove-1936-2016",
+        "kind": "article",
+        "title": "Andrew S. Grove 1936–2016 (Intel official obituary)",
+        "publisher": "Intel Corporation",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wapo-grove-obituary",
+        "url": "https://www.washingtonpost.com/local/obituaries/andy-grove-a-silicon-valley-pillar-dies-at-79/2016/03/21/834b57b2-efc8-11e5-a61f-e9c95c06edca_story.html",
+        "kind": "article",
+        "title": "Andy Grove, a Silicon Valley pillar, dies at 79",
+        "publisher": "The Washington Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "time-grove-memoriam",
+        "url": "https://time.com/4267526/andy-grove-in-memoriam/",
+        "kind": "article",
+        "title": "Remembering Andy Grove, Former Intel CEO",
+        "publisher": "TIME",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  }
+]

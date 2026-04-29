@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "morita-1921-01-26-birth",
+    "person_id": "morita",
+    "date": "1921-01-26",
+    "date_precision": "day",
+    "type": "life",
+    "title": "盛田昭夫出生于名古屋的酿酒世家",
+    "title_en": "Akio Morita born in Nagoya into a sake-brewing family",
+    "summary": "1921 年 1 月 26 日，盛田昭夫出生于日本爱知县名古屋市。盛田家是延续了十四代的清酒酿造世家，作为长子的他原本被期望继承家业。少年时期，他常被父亲带去观摩家族酒厂的会计与经营会议，提早接触到企业管理的实务。然而真正点燃他热情的并不是酿酒，而是从美国进口的电唱机与收音机——这些精巧的电子器具最终把他带向了截然不同的人生轨迹。",
+    "summary_en": "Akio Morita was born on January 26, 1921 in Nagoya, Japan, the eldest son of a sake-brewing family that had operated for fourteen generations. Though groomed from childhood to take over the family business, his real passion was electronics — phonographs and radios imported from America that he disassembled and rebuilt himself.",
+    "location": "Nagoya, Aichi, Japan",
+    "key": true,
+    "tags": [
+      "出生",
+      "名古屋",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "akiomorita-chronology",
+        "url": "https://akiomorita.com/en/chronology/",
+        "kind": "article",
+        "title": "Chronology — About Akio Morita",
+        "publisher": "Akio Morita Library",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1944-osaka-imperial-graduates",
+    "person_id": "morita",
+    "date": "1944-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "毕业于大阪帝国大学物理系",
+    "title_en": "Graduates from Osaka Imperial University with a degree in physics",
+    "summary": "1944 年，盛田昭夫从大阪帝国大学（现大阪大学）理学部物理学科毕业。他选择物理而非传统的家业继承之路，这在当时已显示出他对技术与科学的执着。大学期间，他在著名物理学家浅田常三郎门下学习真空管与电子学，这段训练为他战时进入海军技术部门、以及战后与井深大共同开拓电子产业奠定了基础。",
+    "summary_en": "Morita graduated from the Department of Physics at Osaka Imperial University (now University of Osaka) in 1944. He had broken with family tradition by choosing physics over inheriting the sake business, studying vacuum tubes and electronics under physicist Tsunesaburo Asada — training that would directly enable his wartime naval research and post-war partnership with Masaru Ibuka.",
+    "location": "Osaka, Japan",
+    "key": true,
+    "tags": [
+      "教育",
+      "大阪帝国大学",
+      "物理"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1944-navy-meets-ibuka",
+    "person_id": "morita",
+    "date": "1944-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "在海军技术研究委员会结识井深大",
+    "title_en": "Meets Masaru Ibuka while serving as a Navy engineer",
+    "summary": "二战末期，盛田作为日本帝国海军的技术中尉，被分配到神奈川县横须贺海军航空技术厂参与红外制导炸弹（Ke-Go）等热寻的武器项目。正是在这个海军「战时研究委员会」上，他结识了比自己年长 13 岁的电气工程师井深大——这是日后改变全球消费电子产业的两人首次相遇。两人都意识到对方是少有的、既懂科学又愿意动手解决工程问题的人，建立了一生的合作基础。",
+    "summary_en": "As a Navy technical lieutenant in the final stages of WWII, Morita was assigned to research on heat-seeking weapons (the Ke-Go infrared-guided bomb project) at the Yokosuka Naval Air Technology Arsenal. There he met civilian electrical engineer Masaru Ibuka — 13 years his senior — at the Navy's Wartime Research Committee. The encounter would seed the partnership that became Sony.",
+    "location": "Yokosuka, Kanagawa, Japan",
+    "key": true,
+    "tags": [
+      "海军",
+      "井深大",
+      "二战"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-ibuka",
+        "url": "https://en.wikipedia.org/wiki/Masaru_Ibuka",
+        "kind": "article",
+        "title": "Masaru Ibuka (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Masaru_Ibuka",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1946-05-07-founds-totsuko",
+    "person_id": "morita",
+    "date": "1946-05-07",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "与井深大共同创立东京通信工业（索尼前身）",
+    "title_en": "Co-founds Tokyo Tsushin Kogyo, the precursor to Sony",
+    "summary": "1946 年 5 月 7 日，盛田昭夫与井深大在东京日本桥被战火烧毁的白木屋百货废墟内创办「东京通信工业株式会社」（Totsuko），这就是索尼的前身。公司启动资本仅 19 万日元，员工约 20 人。井深大撰写的创业宗旨写道：「建立一个自由豁达、令人愉快的理想工厂，凭借卓越的技术为日本文化作出贡献。」这份只有数百字的宣言，成为索尼此后半个世纪坚持「创造而非模仿」的精神底色。",
+    "summary_en": "On May 7, 1946, Morita and Masaru Ibuka founded Tokyo Tsushin Kogyo (Tokyo Telecommunications Engineering Corporation, abbreviated Totsuko) in the bombed-out shell of the Shirokiya department store in Nihonbashi, Tokyo. With ¥190,000 of capital and roughly 20 employees, the founding prospectus declared the goal of building \"a free, dynamic and pleasant factory where engineers with sincere motivation can exercise their technological skill at the highest level\" — the seed of Sony's culture for the next half century.",
+    "location": "Nihonbashi, Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "创业",
+      "东京通信工业",
+      "井深大"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-history-of-sony",
+        "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+        "kind": "article",
+        "title": "History of Sony (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/History_of_Sony",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1950-g-type-tape-recorder",
+    "person_id": "morita",
+    "date": "1950-01-01",
+    "date_precision": "year",
+    "type": "product",
+    "title": "推出日本第一台磁带录音机 G 型机",
+    "title_en": "Releases Japan's first tape recorder, the Type G",
+    "summary": "1950 年，东京通信工业推出日本国产第一台磁带录音机「G 型机」，重达 35 公斤、需要两人才能搬动，主要销售给政府和学校。市场反应冷淡——记者们看不出它与既有钢丝录音机的区别。盛田亲自撰写并发行小册子《磁带录音机——录音的新世界》以教育消费者。这次几近失败的发布塑造了他终身的销售哲学：仅有先进技术不够，必须同时教育市场。",
+    "summary_en": "In 1950, Tokyo Tsushin Kogyo launched Japan's first magnetic tape recorder, the 35-kilogram Type G — so heavy it took two people to lift. Initial sales were disappointing as journalists could not distinguish it from existing wire recorders, prompting Morita to personally write and distribute an explanatory booklet titled \"Magnetic Tape Recording — What's a Tape Corder?\" The episode shaped his lifelong conviction that selling new technology required educating the market.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "录音机",
+      "G 型机",
+      "首发产品"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-history-of-sony",
+        "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+        "kind": "article",
+        "title": "History of Sony (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/History_of_Sony",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1955-08-tr55-transistor-radio",
+    "person_id": "morita",
+    "date": "1955-08-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "推出日本第一台晶体管收音机 TR-55",
+    "title_en": "Launches Japan's first transistor radio, the TR-55",
+    "summary": "1955 年 8 月，东京通信工业推出 TR-55，这是日本第一款商品化晶体管收音机，五颗晶体管全部由公司自行设计制造（技术从美国贝尔实验室授权而来）。TR-55 也是第一款使用「Sony」品牌的产品——这个为出口而创造的英文名比公司本身更早扬名海外。这款收音机让索尼在小型化、晶体管制造、品牌国际化三条道路上同时迈出了关键一步。",
+    "summary_en": "In August 1955, Tokyo Tsushin Kogyo released the TR-55, Japan's first commercial transistor radio. All five transistors were designed in-house under a Bell Labs license. The TR-55 was also the first product to bear the \"Sony\" brand name — coined for export markets and destined to outlive the company's original name. It marked Sony's simultaneous breakthroughs in miniaturization, semiconductor manufacturing, and international branding.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "TR-55",
+      "晶体管收音机",
+      "Sony 品牌"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-tr55",
+        "url": "https://en.wikipedia.org/wiki/TR-55",
+        "kind": "article",
+        "title": "TR-55 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/TR-55",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1955-bulova-rejection",
+    "person_id": "morita",
+    "date": "1955-10-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "拒绝 Bulova 10 万台贴牌订单，坚持 Sony 品牌",
+    "title_en": "Rejects Bulova's 100,000-unit OEM order to keep the Sony brand",
+    "summary": "1955 年秋天，盛田在纽约会见美国钟表厂商 Bulova 的采购代表。对方提出订购 10 万台晶体管收音机，但条件是必须贴 Bulova 商标——这笔订单的金额超过当时索尼的全部资本。尽管井深大和董事会发来电报要求接受，盛田最终拒绝了。他后来说，这是他一生中「最好的商业决策」。这一决定确立了索尼绝不做无名 OEM 的原则，让品牌成为公司战略的核心。",
+    "summary_en": "In the autumn of 1955, Morita met with a purchasing agent from American watchmaker Bulova in New York. Bulova offered to buy 100,000 transistor radios — an order larger than Sony's entire capitalization at the time — on condition the radios bear the Bulova name. Despite a cable from Ibuka and the board urging him to accept, Morita refused. He later called it \"the best business decision\" of his career, establishing Sony's lifelong refusal to be an anonymous OEM.",
+    "location": "New York, NY, USA",
+    "key": true,
+    "tags": [
+      "品牌",
+      "Bulova",
+      "拒绝订单"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-tr55",
+        "url": "https://en.wikipedia.org/wiki/TR-55",
+        "kind": "article",
+        "title": "TR-55 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/TR-55",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": "Recounted in detail in Made in Japan (Morita 1986) chapter on America"
+  },
+  {
+    "id": "morita-1957-tr63-pocketable-radio",
+    "person_id": "morita",
+    "date": "1957-03-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "推出 TR-63「口袋型」收音机进军美国",
+    "title_en": "Launches the TR-63 \"pocketable\" radio in the US market",
+    "summary": "1957 年，索尼推出 TR-63——世界上第一款全晶体管袖珍收音机。它没有真正小到能塞进衬衫口袋，盛田因此让销售员定制比标准略大的衬衫，「让收音机看起来确实是 pocketable 的」——这个新造的英文词成为索尼最早的全球营销神话。TR-63 在 1960 年代中期前累计售出 700 万台，正式让晶体管收音机成为青少年文化的标志，也让 Sony 这个品牌真正进入美国家庭。",
+    "summary_en": "In 1957 Sony launched the TR-63, the world's first pocket-sized all-transistor radio. It wasn't quite small enough to fit in a standard shirt pocket, so Morita had Sony's salesmen wear specially tailored shirts with slightly larger pockets to make the radio appear \"pocketable\" — a new English word coined for the campaign. The TR-63 went on to sell roughly 7 million units worldwide by the mid-1960s, turning Sony into a household name in America and the transistor radio into an icon of youth culture.",
+    "location": "Tokyo / New York",
+    "key": true,
+    "tags": [
+      "TR-63",
+      "pocketable",
+      "美国市场"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-transistor-radio",
+        "url": "https://en.wikipedia.org/wiki/Transistor_radio",
+        "kind": "article",
+        "title": "Transistor radio (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Transistor_radio",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "va-tr63",
+        "url": "https://collections.vam.ac.uk/item/O1749735/transistor-radio-model-tr-63-radio-sony/",
+        "kind": "article",
+        "title": "Transistor radio Model TR-63 — V&A Collections",
+        "publisher": "Victoria and Albert Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1958-01-sony-name-change",
+    "person_id": "morita",
+    "date": "1958-01-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "公司更名为「Sony Corporation」",
+    "title_en": "Renames the company to \"Sony Corporation\"",
+    "summary": "1958 年 1 月，东京通信工业正式更名为 Sony Corporation。Sony 这个新词来自拉丁语 sonus（声音）和 1950 年代美国年轻人之间流行的称呼 sonny，盛田与井深刻意挑选了一个能在任何语言中发音的、易记的英文名。这在当时极为罕见——日本企业几乎从不放弃汉字名称。索尼主银行三井银行起初强烈反对，提议至少叫「Sony Electronic Industries」，但盛田力排众议，坚持名字必须最简单。",
+    "summary_en": "In January 1958 Tokyo Tsushin Kogyo formally renamed itself Sony Corporation. The word combined the Latin \"sonus\" (sound) with the 1950s American slang \"sonny\" — chosen because it was short, memorable, and pronounceable in any language. The change was unprecedented for a Japanese company at the time; even Sony's main bank Mitsui pushed back, proposing names like \"Sony Electronic Industries.\" Morita insisted on the simplest possible form.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "Sony 命名",
+      "品牌",
+      "国际化"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-sony",
+        "url": "https://en.wikipedia.org/wiki/Sony",
+        "kind": "article",
+        "title": "Sony (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sony",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1960-02-sona-founded",
+    "person_id": "morita",
+    "date": "1960-02-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "创立索尼美国公司（SONAM）",
+    "title_en": "Founds Sony Corporation of America (SONAM)",
+    "summary": "1960 年，盛田在美国成立索尼美国公司（Sony Corporation of America，简称 SONAM），自任总裁。这是日本企业第一次把销售总部放到美国本土——而不是依靠当地代理商分销。第一家展厅于 1962 年开在曼哈顿第五大道。这一布局让索尼在美国市场建立起不依赖中介的品牌渠道，也为 1961 年发行 ADR、1970 年正式登陆纽交所铺平了道路。",
+    "summary_en": "In 1960 Morita established Sony Corporation of America (SONAM), with himself as president — the first time a Japanese company placed its sales operations directly inside the United States rather than relying on local distributors. The first showroom opened on Fifth Avenue in Manhattan in 1962. This direct presence set the stage for Sony's 1961 ADR offering and its full NYSE listing in 1970.",
+    "location": "New York, NY, USA",
+    "key": true,
+    "tags": [
+      "Sony America",
+      "美国市场",
+      "国际化"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "akiomorita-chronology",
+        "url": "https://akiomorita.com/en/chronology/",
+        "kind": "article",
+        "title": "Chronology — About Akio Morita",
+        "publisher": "Akio Morita Library",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1961-06-nyse-adr-listing",
+    "person_id": "morita",
+    "date": "1961-06-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "索尼成为首家在美发行 ADR 的日本公司",
+    "title_en": "Sony becomes the first Japanese company to issue ADRs in the US",
+    "summary": "1961 年 6 月，索尼在美国发行 200 万股美国存托凭证（ADR），成为第一家在美国资本市场公开募资的日本企业。日本大藏省专门批准了 Sony 等 16 家公司可以发行 ADR，索尼是其中规模最大的样板。这次募资不仅充实了公司资金，更让「Made in Japan」的标签第一次出现在华尔街投资者的视野里——索尼的全球化首先是从资本市场开始的。",
+    "summary_en": "In June 1961 Sony issued 2 million American Depositary Receipts in the United States, becoming the first Japanese company to raise capital directly in the US public market. The Japanese Ministry of Finance specially certified Sony along with 15 other firms for the program. Beyond the capital raised, the listing marked the first time \"Made in Japan\" appeared on a Wall Street ticker — Sony's globalization began in the capital markets.",
+    "location": "New York, NY, USA",
+    "key": true,
+    "tags": [
+      "ADR",
+      "纽交所",
+      "国际化"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-sony",
+        "url": "https://en.wikipedia.org/wiki/Sony",
+        "kind": "article",
+        "title": "Sony (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sony",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "akiomorita-chronology",
+        "url": "https://akiomorita.com/en/chronology/",
+        "kind": "article",
+        "title": "Chronology — About Akio Morita",
+        "publisher": "Akio Morita Library",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1963-moves-family-to-ny",
+    "person_id": "morita",
+    "date": "1963-06-01",
+    "date_precision": "month",
+    "type": "life",
+    "title": "举家迁居纽约第五大道",
+    "title_en": "Moves his family to New York City",
+    "summary": "1963 年 6 月，盛田带着妻子良子和三个孩子搬到纽约，住进面对大都会艺术博物馆的第五大道公寓。一位日本企业的副总裁举家迁居海外、在当地长期生活，这在 1960 年代初的日本是不可想象的。盛田夫妇频繁邀请纽约名流到家中聚会，迅速融入美国上层社会。这段沉浸经历让他对美国消费文化、媒体环境和管理实践有了第一手的体感——这种跨文化感觉是大多数日本同行所欠缺的。",
+    "summary_en": "In June 1963 Morita moved his wife Yoshiko and their three children to New York, taking an apartment on Fifth Avenue across from the Metropolitan Museum of Art. For a Japanese executive vice-president to relocate his family abroad was unthinkable at the time. Through frequent dinners with New York's elite, the Moritas quickly entered American high society — giving Akio first-hand fluency in US consumer culture, media, and business that no Japanese competitor of his generation would match.",
+    "location": "New York, NY, USA",
+    "key": true,
+    "tags": [
+      "纽约",
+      "家庭",
+      "美国"
+    ],
+    "sources": [
+      {
+        "id": "akiomorita-chronology",
+        "url": "https://akiomorita.com/en/chronology/",
+        "kind": "article",
+        "title": "Chronology — About Akio Morita",
+        "publisher": "Akio Morita Library",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": "Detailed in Made in Japan (Morita 1986) and his autobiographical writings"
+  },
+  {
+    "id": "morita-1968-04-trinitron-launch",
+    "person_id": "morita",
+    "date": "1968-04-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "推出特丽珑彩色显像管电视",
+    "title_en": "Launches the Trinitron color television",
+    "summary": "1968 年 4 月，索尼正式发布 12 英寸 Trinitron 彩色电视（KV-1210），10 月起在日本上市。Trinitron 用单电子枪与垂直栅栏取代传统荫罩，画面亮度与清晰度远超 RCA 的旧设计。盛田在 1961 年的 IEEE 展会上「当场」就被这一技术征服，亲自牵头收购了相关 Chromatron 项目。Trinitron 由此奠定了索尼 30 年的高端电视霸主地位，到 1994 年累计销量突破 1 亿台。",
+    "summary_en": "In April 1968 Sony unveiled the 12-inch KV-1210 Trinitron, with consumer launch in Japan that October. Its single electron gun and vertical aperture grille produced images far brighter than the prevailing RCA shadow-mask design. Morita had been \"sold on the spot\" by an early Chromatron demo at the 1961 IEEE trade show in New York and personally drove Sony to acquire the technology. Trinitron secured Sony's premium-TV dominance for the next three decades and passed 100 million units sold by 1994.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "Trinitron",
+      "彩色电视",
+      "产品"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-trinitron",
+        "url": "https://en.wikipedia.org/wiki/Trinitron",
+        "kind": "article",
+        "title": "Trinitron (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Trinitron",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1971-05-time-cover-president",
+    "person_id": "morita",
+    "date": "1971-05-10",
+    "date_precision": "day",
+    "type": "award",
+    "title": "登上《时代》周刊封面，同年出任索尼总裁",
+    "title_en": "Featured on the cover of TIME magazine; becomes President of Sony",
+    "summary": "1971 年 5 月 10 日，盛田昭夫成为《时代》周刊封面人物，封面故事题为「如何应对日本的商业入侵」。在西方媒体的语境里，他从此被称作「Mr. Sony」，象征日本战后经济奇迹。同年，他从井深大手中接任索尼公司总裁——井深担任总裁长达 21 年。这一年标志着盛田从企业销售引擎正式过渡为日本企业全球化的代言人。",
+    "summary_en": "On May 10, 1971 Morita appeared on the cover of TIME magazine. The cover story, \"How to Cope with Japan's Business Invasion,\" cemented his reputation in Western media as \"Mr. Sony\" and the human face of Japan's post-war economic miracle. The same year he succeeded Masaru Ibuka as President of Sony Corporation, after Ibuka had served in the role for 21 years.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "Time 封面",
+      "索尼总裁",
+      "Mr. Sony"
+    ],
+    "sources": [
+      {
+        "id": "time-1971-cover",
+        "url": "https://content.time.com/time/covers/0,16641,19710510,00.html",
+        "kind": "image",
+        "title": "TIME Magazine Cover: Akio Morita — May 10, 1971",
+        "publisher": "TIME Magazine",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1976-becomes-chairman",
+    "person_id": "morita",
+    "date": "1976-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "井深大退休，盛田出任索尼董事长兼 CEO",
+    "title_en": "Becomes Chairman and CEO of Sony as Ibuka retires",
+    "summary": "1976 年井深大退休，盛田昭夫出任索尼董事长兼首席执行官。从这一刻起，索尼的日常经营和战略决策完全集中到盛田手中——而他将用接下来的近二十年，把索尼从一家日本电子厂商推向全球娱乐与消费电子的最前沿，包括 Walkman、CD、并购哥伦比亚影业等里程碑均在他主导下完成。",
+    "summary_en": "In 1976 Masaru Ibuka retired and Morita was named Chairman and CEO of Sony Corporation. From that moment Sony's day-to-day management and strategic direction concentrated in Morita's hands. Over the next two decades he would push Sony from Japanese electronics manufacturer to global leader in entertainment and consumer technology — overseeing the Walkman, the CD, and the Columbia Pictures acquisition.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "董事长",
+      "CEO",
+      "井深大退休"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "akiomorita-chronology",
+        "url": "https://akiomorita.com/en/chronology/",
+        "kind": "article",
+        "title": "Chronology — About Akio Morita",
+        "publisher": "Akio Morita Library",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1979-07-01-walkman-launch",
+    "person_id": "morita",
+    "date": "1979-07-01",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Walkman TPS-L2 在日本上市，定义个人音乐时代",
+    "title_en": "The Walkman TPS-L2 launches in Japan, defining the personal music era",
+    "summary": "1979 年 7 月 1 日，索尼蓝色金属外壳的 Walkman TPS-L2 在日本上市，售价约 33,000 日元。盛田力排众议把这个没有录音功能、只能播放磁带的小盒子推向市场——市场调研一致预测它会失败。结果首两个月就卖出超过 30,000 台，远超公司原本「每月 5,000 台」的预测。Walkman 不仅成为索尼最具标志性的产品，更彻底改写了人类听音乐的方式，开启了「随身音乐」的全新文化。",
+    "summary_en": "On July 1, 1979 the metal-cased blue-and-silver Sony Walkman TPS-L2 went on sale in Japan at around ¥33,000. Morita pushed the playback-only cassette device through over the objections of marketers and engineers, and the launch press event in Tokyo's Yoyogi Park let journalists experience the product on roller skates and bicycles. Sony forecast 5,000 units a month; it sold over 30,000 in the first two months. The Walkman became Sony's most iconic product and rewrote how humanity listens to music, inaugurating the era of personal portable audio.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "Walkman",
+      "TPS-L2",
+      "随身音乐"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-walkman",
+        "url": "https://en.wikipedia.org/wiki/Walkman",
+        "kind": "article",
+        "title": "Walkman (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Walkman",
+          "timestamp": "2024"
+        },
+        "quotes": [
+          {
+            "text": "I do not believe that any amount of market research could have told us that the Sony Walkman would be successful.",
+            "text_en": "I do not believe that any amount of market research could have told us that the Sony Walkman would be successful.",
+            "text_zh": "我不相信任何市场调研能够事先告诉我们 Sony Walkman 会成功。",
+            "speaker": "Akio Morita",
+            "context": "Widely attributed to Morita and quoted in interviews and his book Made in Japan."
+          }
+        ]
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1982-10-01-cd-cdp101",
+    "person_id": "morita",
+    "date": "1982-10-01",
+    "date_precision": "day",
+    "type": "product",
+    "title": "推出全球第一台 CD 播放器 CDP-101",
+    "title_en": "Launches the world's first commercial CD player, the CDP-101",
+    "summary": "1982 年 10 月 1 日，索尼在日本推出 CDP-101——全球第一台商用 CD 播放器，售价 168,000 日元。这个标志着数字音频时代到来的产品，是索尼与飞利浦自 1979 年起紧密合作的成果。盛田亲自参与了 CD 标准的关键决定，比如坚持 12 厘米直径与 74 分钟的播放时长——据传后者是为了完整收录贝多芬第九交响曲，那是他最爱的古典乐曲。同时发行的还有第一张商品化 CD：比利·乔的《52nd Street》。",
+    "summary_en": "On October 1, 1982 Sony released the CDP-101 in Japan — the world's first commercial CD player — priced at ¥168,000. The launch capped a 1979 Sony–Philips partnership that defined the digital audio era. Morita personally drove key format decisions, including the disc's 12 cm diameter and 74-minute capacity (reportedly chosen to fit a complete recording of Beethoven's Ninth Symphony, his favorite classical work). The first commercially released CD, Billy Joel's 52nd Street, came out the same day.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "CD",
+      "CDP-101",
+      "数字音频"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-cdp101",
+        "url": "https://en.wikipedia.org/wiki/Sony_CDP-101",
+        "kind": "article",
+        "title": "Sony CDP-101 (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Sony_CDP-101",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1986-made-in-japan-book",
+    "person_id": "morita",
+    "date": "1986-10-01",
+    "date_precision": "month",
+    "type": "writing",
+    "title": "出版自传《Made in Japan: Akio Morita and Sony》",
+    "title_en": "Publishes autobiography \"Made in Japan: Akio Morita and Sony\"",
+    "summary": "1986 年，盛田与 Edwin M. Reingold、Mitsuko Shimomura 合著的自传《Made in Japan: Akio Morita and Sony》由美国 E. P. Dutton 出版社出版。书中盛田回顾了从战后废墟中创办公司、把 Made in Japan 从「廉价」标签变为「品质」象征的全过程，并阐述了他对日美商业差异、终身雇佣制、品牌经营等议题的见解。这本书是研究索尼历史与日本战后经济最重要的第一手文献之一，也是迄今最广为流传的盛田思想总结。",
+    "summary_en": "In 1986 E. P. Dutton in New York published \"Made in Japan: Akio Morita and Sony,\" co-authored with Edwin M. Reingold and Mitsuko Shimomura. The book traces Morita's path from co-founding a company in the rubble of post-war Tokyo to transforming \"Made in Japan\" from a label of cheapness into a symbol of quality. It lays out his views on US-Japan business differences, lifetime employment, and brand strategy — and remains the single most important first-person account of Sony and post-war Japanese industry.",
+    "location": "New York, NY, USA",
+    "key": true,
+    "tags": [
+      "自传",
+      "Made in Japan",
+      "出版"
+    ],
+    "sources": [
+      {
+        "id": "archive-made-in-japan",
+        "url": "https://archive.org/details/madeinjapanakiom00mori",
+        "kind": "book",
+        "title": "Made in Japan: Akio Morita and Sony — Internet Archive",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      },
+      {
+        "id": "openlibrary-made-in-japan",
+        "url": "https://openlibrary.org/books/OL2718247M/Made_in_Japan",
+        "kind": "article",
+        "title": "Made in Japan — Open Library",
+        "publisher": "Open Library",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": "ISBN 978-0525244653, hardcover edition by E. P. Dutton, New York, 1986"
+  },
+  {
+    "id": "morita-1989-09-columbia-pictures-acquisition",
+    "person_id": "morita",
+    "date": "1989-09-27",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "索尼以 34 亿美元收购哥伦比亚影业",
+    "title_en": "Sony acquires Columbia Pictures for $3.4 billion",
+    "summary": "1989 年 9 月 27 日，索尼宣布以 34 亿美元收购哥伦比亚影业（Columbia Pictures Entertainment Inc.），并承担 14 亿美元债务，整体规模成为当时日企在美国最大的并购案。盛田长期相信索尼必须打通「硬件 + 内容」的闭环——卖出再多 Walkman 与 CD 播放器，如果没有自己的版权内容，就只能为别人当渠道。这笔交易也立刻引发美国舆论强烈反弹，把美日贸易摩擦推向新的政治高潮。",
+    "summary_en": "On September 27, 1989 Sony announced the $3.4 billion acquisition of Columbia Pictures Entertainment Inc., plus the assumption of $1.4 billion in debt — at the time the largest Japanese acquisition of an American company. Morita had long argued Sony needed to close the \"hardware plus content\" loop: no matter how many Walkmans or CD players it sold, without owning its own copyrighted content Sony would always be a channel for someone else. The deal triggered a fierce American backlash that intensified US-Japan trade tensions.",
+    "location": "New York / Tokyo",
+    "key": true,
+    "tags": [
+      "哥伦比亚影业",
+      "并购",
+      "硬件加内容"
+    ],
+    "sources": [
+      {
+        "id": "csmonitor-1989-sony-columbia",
+        "url": "https://www.csmonitor.com/1989/0929/afilm.html",
+        "kind": "article",
+        "title": "In Boffo Bid, Sony Buys Columbia",
+        "publisher": "Christian Science Monitor",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.csmonitor.com/1989/0929/afilm.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "upi-1989-sony-columbia-completion",
+        "url": "https://www.upi.com/Archives/1989/11/07/Sony-completes-Columbia-takeover/2362626418000/",
+        "kind": "article",
+        "title": "Sony completes Columbia takeover",
+        "publisher": "UPI Archives",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.upi.com/Archives/1989/11/07/Sony-completes-Columbia-takeover/2362626418000/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1989-japan-that-can-say-no",
+    "person_id": "morita",
+    "date": "1989-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "与石原慎太郎合著《日本可以说不》引发争议",
+    "title_en": "Co-authors the controversial \"The Japan That Can Say No\" with Shintaro Ishihara",
+    "summary": "1989 年，盛田与时任日本运输大臣石原慎太郎合作出版《日本可以说不》，主张日本应在贸易、外交上更独立地对美国说不。该书很快被翻译并未经授权流传到美国，1989 年 11 月美国众议员 Sander Levin 甚至把译本读入国会记录。盛田后来公开「后悔」参与此书，称自己并未充分了解石原的政治立场。1991 年 Simon & Schuster 出版的官方英译版只保留了石原的章节，盛田的部分被删去。",
+    "summary_en": "In 1989 Morita co-authored \"The Japan That Can Say No\" with then-Transport Minister Shintaro Ishihara, arguing that Japan should take a more assertive, independent stance toward the United States in trade and foreign policy. Unauthorized translations spread quickly in the US — Representative Sander Levin even read one into the Congressional Record in November 1989. Morita later publicly regretted his involvement, saying he had not been \"fully aware\" of Ishihara's positions. The authorized 1991 Simon & Schuster edition included only Ishihara's chapters; Morita's were dropped.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "日本可以说不",
+      "石原慎太郎",
+      "美日关系"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-japan-can-say-no",
+        "url": "https://en.wikipedia.org/wiki/The_Japan_That_Can_Say_No",
+        "kind": "article",
+        "title": "The Japan That Can Say No (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/The_Japan_That_Can_Say_No",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "britannica-japan-can-say-no",
+        "url": "https://www.britannica.com/topic/The-Japan-That-Can-Say-No",
+        "kind": "article",
+        "title": "The Japan That Can Say 'No' — Britannica",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1990-04-nightline-koppel",
+    "person_id": "morita",
+    "date": "1990-04-01",
+    "date_precision": "month",
+    "type": "interview",
+    "title": "接受 ABC《Nightline》Ted Koppel 三集人物专访",
+    "title_en": "Sits for a three-part Ted Koppel profile on ABC's Nightline",
+    "summary": "1990 年 4 月，正值美日贸易摩擦最激烈的时期，盛田接受 ABC 主持人 Ted Koppel 在《Nightline》节目上的三集深度访谈。这套节目是英语世界对盛田思想最完整的电视记录之一，他在镜头前讨论日本制造、品牌、终身雇佣制以及对美国企业短期主义的批评。这些片段后来在 YouTube 上被多次上传，成为研究 1980-90 年代美日商业关系的重要影像档案。",
+    "summary_en": "In April 1990, at the peak of US-Japan trade tensions, Morita gave a three-part profile interview to Ted Koppel on ABC's Nightline. It remains one of the most comprehensive English-language TV records of his thinking — covering Japanese manufacturing, brand strategy, lifetime employment, and his sharp critique of American short-termism. The segments have since been re-uploaded to YouTube and serve as a key visual archive of US-Japan business relations in this era.",
+    "location": "Tokyo / New York",
+    "key": true,
+    "tags": [
+      "Nightline",
+      "Ted Koppel",
+      "美日关系"
+    ],
+    "sources": [
+      {
+        "id": "yt-nightline-morita-overview",
+        "url": "https://www.youtube.com/watch?v=8mNQkVr9pu0",
+        "kind": "video",
+        "title": "ABC Nightline, April 1990, Profile of Sony's Akio Morita",
+        "publisher": "YouTube",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1990 年 4 月 ABC《Nightline》盛田昭夫人物专访录像。",
+        "summary_en": "April 1990 ABC Nightline profile of Akio Morita."
+      },
+      {
+        "id": "yt-nightline-morita-part1",
+        "url": "https://www.youtube.com/watch?v=pw8perOk-gc",
+        "kind": "video",
+        "title": "ABC's Nightline with Sony Founder Akio Morita — part 1 of 3",
+        "publisher": "YouTube",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "三集 Nightline 访谈第一部分。",
+        "summary_en": "Part 1 of 3 of the Nightline interview."
+      },
+      {
+        "id": "yt-nightline-morita-part2",
+        "url": "https://www.youtube.com/watch?v=TQo_1yZp3gE",
+        "kind": "video",
+        "title": "ABC's Nightline with Sony Founder Akio Morita — part 2 of 3",
+        "publisher": "YouTube",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "三集 Nightline 访谈第二部分。",
+        "summary_en": "Part 2 of 3 of the Nightline interview."
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1992-02-royal-society-innovation",
+    "person_id": "morita",
+    "date": "1992-02-01",
+    "date_precision": "month",
+    "type": "speech",
+    "title": "在英国皇家学会演讲，谈索尼的创新文化",
+    "title_en": "Speaks at the Royal Society in London on Sony's culture of innovation",
+    "summary": "1992 年 2 月，盛田在伦敦英国皇家学会发表演讲，详细阐述索尼如何在战后日本建立起一种「不靠模仿、只靠创新」的研发文化。他特别强调创业初期那份「让工程师在自由氛围中发挥技术」的创业宗旨，以及自己反对市场调研、倾向于「先创造市场再让市场跟上」的产品哲学——Walkman 和 CD 都是这一信条的产物。这场演讲也是他在 1993 年突发脑出血前最完整的一次英文公开思想表达。",
+    "summary_en": "In February 1992 Morita spoke at the Royal Society in London on Sony's culture of innovation. He laid out how the company's founding prospectus — to let engineers exercise their technology in a free atmosphere — translated decades later into his refusal to rely on market research and his belief that great products create their own markets, citing Walkman and the CD. The lecture is among his most complete recorded English-language statements of business philosophy before his 1993 stroke.",
+    "location": "London, UK",
+    "key": true,
+    "tags": [
+      "皇家学会",
+      "创新",
+      "演讲"
+    ],
+    "sources": [
+      {
+        "id": "yt-morita-innovation-royal-society",
+        "url": "https://www.youtube.com/watch?v=K8tKHw0e52M",
+        "kind": "video",
+        "title": "AKIO MORITA, ex president of SONY, talks about innovation in his company",
+        "publisher": "YouTube",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "1992 年 2 月伦敦演讲：盛田谈索尼的创新文化。",
+        "summary_en": "February 1992 London talk on Sony's culture of innovation.",
+        "quotes": [
+          {
+            "text": "We don't believe in market research for a new product unknown to the public. So we never do any.",
+            "text_en": "We don't believe in market research for a new product unknown to the public. So we never do any.",
+            "text_zh": "对于公众尚不知道的新产品，我们不相信市场调研，所以我们从来不做。",
+            "speaker": "Akio Morita",
+            "context": "Widely attributed to Morita's late-1980s and early 1990s speeches and interviews on the Walkman and CD"
+          }
+        ]
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1992-10-knighthood",
+    "person_id": "morita",
+    "date": "1992-10-05",
+    "date_precision": "day",
+    "type": "award",
+    "title": "获英国伊丽莎白二世授予荣誉爵士勋章（KBE）",
+    "title_en": "Receives an honorary KBE from Queen Elizabeth II",
+    "summary": "1992 年 10 月 5 日，英国正式授予盛田昭夫荣誉「不列颠帝国爵级司令勋章」（KBE）。当时英国威尔士事务大臣 David Hunt 在英国驻日大使馆向他亲口宣布这一荣誉，表彰他对英日经济关系和英国出口产业的贡献。作为非英联邦国民，他成为「Sir Akio Morita」是名誉性的——但这是英国向一位日本企业家给予的最高规格认可之一。",
+    "summary_en": "On October 5, 1992 the UK announced an honorary Knight Commander of the Order of the British Empire (KBE) for Akio Morita. Welsh Secretary David Hunt delivered the news in person at the British Embassy in Tokyo, citing Morita's contribution to UK-Japan economic relations and to British exports. As a non-Commonwealth citizen the title \"Sir Akio Morita\" is honorary — but it remains one of the highest recognitions ever given by Britain to a Japanese businessman.",
+    "location": "Tokyo, Japan",
+    "key": false,
+    "tags": [
+      "KBE",
+      "英国",
+      "荣誉"
+    ],
+    "sources": [
+      {
+        "id": "deseret-1992-knighthood",
+        "url": "https://www.deseret.com/1992/10/5/19008660/sony-chief-becomes-an-honorary-knight/",
+        "kind": "article",
+        "title": "Sony Chief Becomes an Honorary Knight",
+        "publisher": "Deseret News",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.deseret.com/1992/10/5/19008660/sony-chief-becomes-an-honorary-knight/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-honorary-knights",
+        "url": "https://en.wikipedia.org/wiki/List_of_honorary_British_knights_and_dames",
+        "kind": "article",
+        "title": "List of honorary British knights and dames (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/List_of_honorary_British_knights_and_dames",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1993-11-30-cerebral-hemorrhage",
+    "person_id": "morita",
+    "date": "1993-11-30",
+    "date_precision": "day",
+    "type": "life",
+    "title": "打网球时突发脑出血",
+    "title_en": "Suffers a cerebral hemorrhage while playing tennis",
+    "summary": "1993 年 11 月 30 日，72 岁的盛田昭夫在打网球时突发脑出血。这次中风让他从此需要靠轮椅活动，也实质性结束了他的经营生涯。索尼公司不得不暂停他的董事长职责，由总裁大贺典雄全面接管日常事务。盛田之后的公开露面屈指可数，但他作为索尼精神象征的地位反而更加凸显。",
+    "summary_en": "On November 30, 1993, the 72-year-old Morita suffered a cerebral hemorrhage while playing tennis. The stroke left him wheelchair-bound and effectively ended his executive career. Sony immediately suspended his chairmanship duties and President Norio Ohga assumed full operational control. Morita's public appearances became rare from this point on — yet his stature as the human face of Sony only grew.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "中风",
+      "脑出血",
+      "退场"
+    ],
+    "sources": [
+      {
+        "id": "variety-1993-morita-ill",
+        "url": "https://variety.com/1993/biz/news/sony-s-morita-ill-steps-aside-116294/",
+        "kind": "article",
+        "title": "Sony's Morita ill, steps aside",
+        "publisher": "Variety",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://variety.com/1993/biz/news/sony-s-morita-ill-steps-aside-116294/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1994-11-25-steps-down-chairman",
+    "person_id": "morita",
+    "date": "1994-11-25",
+    "date_precision": "day",
+    "type": "career",
+    "title": "正式卸任索尼董事长，转任名誉董事长",
+    "title_en": "Steps down as Sony chairman, becomes honorary chairman",
+    "summary": "1994 年 11 月 25 日，盛田昭夫正式辞任索尼董事长一职，由总裁大贺典雄接任运营，盛田改任「名誉董事长」与公司创始人。索尼董事会在当月例会上通过了 11 月 16 日提交的辞呈。距离 1946 年那个 19 万日元、20 个人的小作坊开张，已经过去了 48 年——盛田正式退出了他亲手缔造的索尼经营。",
+    "summary_en": "On November 25, 1994 Morita formally resigned as chairman of Sony Corporation, with President Norio Ohga taking over operational leadership. The board accepted a resignation he had submitted on November 16, naming him \"founder and honorary chairman.\" Forty-eight years after a ¥190,000 startup with 20 employees opened in a bombed-out Tokyo department store, Morita stepped away from the management of the company he had built.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "卸任",
+      "名誉董事长",
+      "大贺典雄"
+    ],
+    "sources": [
+      {
+        "id": "deseret-1994-morita-steps-down",
+        "url": "https://www.deseret.com/1994/11/26/19144883/sony-co-founder-steps-down-as-chairman/",
+        "kind": "article",
+        "title": "Sony Co-Founder Steps Down as Chairman",
+        "publisher": "Deseret News",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.deseret.com/1994/11/26/19144883/sony-co-founder-steps-down-as-chairman/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "morita-1999-10-03-death",
+    "person_id": "morita",
+    "date": "1999-10-03",
+    "date_precision": "day",
+    "type": "life",
+    "title": "盛田昭夫在东京病逝，享年 78 岁",
+    "title_en": "Akio Morita dies in Tokyo at age 78",
+    "summary": "1999 年 10 月 3 日，盛田昭夫在东京一家医院因肺炎去世，享年 78 岁。他自 1993 年中风后便长期休养，1999 年 8 月在夏威夷期间病情恶化，被送回日本住院。Time 周刊在 1998 年将他列为「20 世纪最具影响力的 20 位商业人物」中唯一的亚洲人。他用半个世纪把「Made in Japan」从轻蔑的代名词转变为世界级的品质象征，永久改变了消费电子与全球商业的格局。",
+    "summary_en": "On October 3, 1999 Akio Morita died of pneumonia in a Tokyo hospital at age 78. He had been in declining health since his 1993 stroke, and his condition worsened during a stay in Hawaii in August 1999, prompting his return to Japan. In 1998 TIME magazine had named him the only Asian among the 20 most influential business figures of the 20th century. Over half a century he had turned \"Made in Japan\" from a mocking phrase into a worldwide symbol of quality, permanently reshaping consumer electronics and global business.",
+    "location": "Tokyo, Japan",
+    "key": true,
+    "tags": [
+      "去世",
+      "肺炎",
+      "东京"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-morita-bio",
+        "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+        "kind": "article",
+        "title": "Akio Morita (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Akio_Morita",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "photonics-1999-morita-obit",
+        "url": "https://www.photonics.com/Articles/Akio_Morita_Sony_Founder_Dies/a5243",
+        "kind": "article",
+        "title": "Akio Morita, Sony Founder, Dies",
+        "publisher": "Photonics Spectra",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.photonics.com/Articles/Akio_Morita_Sony_Founder_Dies/a5243",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  }
+]

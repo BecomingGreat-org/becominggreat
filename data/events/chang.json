@@ -1,0 +1,1207 @@
+[
+  {
+    "id": "chang-1931-07-10-birth",
+    "person_id": "chang",
+    "date": "1931-07-10",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于浙江宁波",
+    "title_en": "Born in Ningbo, Zhejiang, China",
+    "summary": "1931 年 7 月 10 日，张忠谋出生于浙江省宁波市的一个知识分子家庭。父亲张蔚观毕业于光华大学（今华东师范大学前身），是受过西式教育的银行家与公务员。这一年，日本关东军即将在东北发动九一八事变，中国正进入近代史上最动荡的时期。",
+    "summary_en": "Morris Chang was born on July 10, 1931, in Ningbo, Chekiang (Zhejiang) Province, into a middle-class Chinese family. His father, Chang Wei-kuan (1906-1992), was a graduate of Kwang Hua University (now East China Normal University) who received a Western education. The year of his birth was the eve of Japan's Mukden Incident in Manchuria, marking China's entry into its most turbulent period of modern history.",
+    "location": "Ningbo, Zhejiang, China",
+    "key": true,
+    "tags": [
+      "出生",
+      "宁波",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1941-flee-hong-kong-japanese-occupation",
+    "person_id": "chang",
+    "date": "1941-12-01",
+    "date_precision": "year",
+    "type": "life",
+    "title": "童年在战乱中辗转：香港、上海、重庆",
+    "title_en": "Wartime childhood across Hong Kong, Shanghai, and Chongqing",
+    "summary": "张忠谋的小学阶段大部分在英属香港度过（6-11 岁）。1941 年 12 月，珍珠港事件当天日军进攻香港，全家在炮火中躲了两周，随后又经历了一年的日据。1942 年举家辗转回到上海与宁波，最终抵达陪都重庆，亲历严重空袭。这段战乱、贫穷与社会不公的经历，他后来在多次访谈中称为「塑造我一生最早的力量」。",
+    "summary_en": "Chang spent most of his primary-school years in British Hong Kong (ages 6-11). On December 8, 1941 — the same day as Pearl Harbor — Japan attacked Hong Kong; his family lived through two weeks of gunfire and then a year under Japanese occupation. In 1942 they fled back to Shanghai and Ningbo, eventually reaching the wartime capital of Chongqing where they endured serious air raids. Chang has repeatedly called this experience of \"war, poverty, and social injustice\" the earliest force that shaped his life.",
+    "location": "Hong Kong / Shanghai / Chongqing, China",
+    "key": true,
+    "tags": [
+      "童年",
+      "战乱",
+      "香港",
+      "重庆"
+    ],
+    "sources": [
+      {
+        "id": "chm-oral-history-chang-2007-pdf",
+        "url": "https://archive.computerhistory.org/resources/text/Oral_History/Chang_Morris/Chang_Morris_1.oral_history.2007.102658129.pdf",
+        "kind": "transcript",
+        "title": "Oral History of Morris Chang (CHM, 2007)",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://archive.computerhistory.org/resources/text/Oral_History/Chang_Morris/Chang_Morris_1.oral_history.2007.102658129.pdf",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1949-07-harvard-enrolls",
+    "person_id": "chang",
+    "date": "1949-07-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "进入哈佛大学就读，全班 1100 人中唯一华人",
+    "title_en": "Enrolls at Harvard College, the only Chinese student in his class",
+    "summary": "1949 年 7 月，18 岁的张忠谋从香港赴美，进入哈佛大学应用物理系。当时全校 1100 名本科新生中，他是唯一的华人。第一年他就进入年级前 10%。然而出于对工程学就业前景的现实考量，他在大二时决定转学到 MIT。",
+    "summary_en": "In July 1949, 18-year-old Morris Chang sailed from Hong Kong to the United States and enrolled at Harvard College as an applied physics major. He was the only Chinese student among Harvard's 1,100 undergraduates that year, and finished his freshman year in the top ten percent of his class. After his sophomore year, he transferred to MIT seeking better engineering prospects.",
+    "location": "Cambridge, Massachusetts",
+    "key": true,
+    "tags": [
+      "哈佛",
+      "教育",
+      "赴美"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1952-mit-bs-mechanical",
+    "person_id": "chang",
+    "date": "1952-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "获 MIT 机械工程学士学位",
+    "title_en": "Earns BS in Mechanical Engineering from MIT",
+    "summary": "1952 年，张忠谋从麻省理工学院（MIT）获得机械工程学士学位，1953 年又取得机械工程硕士学位。1955 年获工程师学位（Master of Engineering），但博士资格考试未通过，被迫转入业界寻找工作——这一「失败」反而把他推进了刚刚兴起的半导体行业。同年他与第一任妻子 Christine Chen 结婚。",
+    "summary_en": "In 1952, Morris Chang received his Bachelor of Science in Mechanical Engineering from MIT, followed by a Master of Science in 1953. He earned a Master of Engineering in 1955 but failed his doctoral qualifying exam, forcing him into the job market — a \"failure\" that pushed him toward the nascent semiconductor industry. He also married his first wife, Christine Chen, around this time.",
+    "location": "Cambridge, Massachusetts",
+    "key": true,
+    "tags": [
+      "MIT",
+      "教育",
+      "机械工程"
+    ],
+    "sources": [
+      {
+        "id": "mit-meche-chang-profile",
+        "url": "https://meche.mit.edu/people/morris-chang",
+        "kind": "article",
+        "title": "Morris Chang | MIT Department of Mechanical Engineering",
+        "publisher": "MIT",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://meche.mit.edu/people/morris-chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1955-sylvania-semiconductor",
+    "person_id": "chang",
+    "date": "1955-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入 Sylvania 半导体部门，月薪 480 美元",
+    "title_en": "Joins Sylvania Semiconductor at $480/month",
+    "summary": "1955 年，张忠谋加入 Sylvania Electric Products 的半导体部门，月薪 480 美元——比福特汽车的 offer 仅高 1 美元。福特拒绝匹配薪资且态度傲慢，他一气之下选择了 Sylvania，从此踏入刚刚商业化、几乎没有工程师做过的「半导体」行业。他被分配研究锗晶体管的良率改善——这是他后来一生事业的源头。",
+    "summary_en": "In 1955, Morris Chang joined Sylvania Electric Products' semiconductor division at a starting salary of $480/month — exactly $1 more than Ford Motor Company's offer. After Ford refused to match the offer and treated him dismissively, an angry Chang chose Sylvania and entered the semiconductor industry, then barely commercialized. His first assignment was improving manufacturing yields on germanium transistors — the foundation of his life's work.",
+    "location": "Boston, Massachusetts",
+    "key": true,
+    "tags": [
+      "Sylvania",
+      "职业起步",
+      "半导体"
+    ],
+    "sources": [
+      {
+        "id": "ieee-spectrum-chang-foundry-father",
+        "url": "https://spectrum.ieee.org/morris-chang-foundry-father",
+        "kind": "article",
+        "title": "Morris Chang: Foundry Father",
+        "publisher": "IEEE Spectrum",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://spectrum.ieee.org/morris-chang-foundry-father",
+          "timestamp": "2024"
+        },
+        "embed_url": "https://www.youtube.com/watch?v=u-x7PdnvCyI"
+      },
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1958-joins-ti",
+    "person_id": "chang",
+    "date": "1958-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入德州仪器（TI），开启 25 年职业生涯",
+    "title_en": "Joins Texas Instruments — beginning of a 25-year career",
+    "summary": "1958 年，张忠谋离开 Sylvania，加入德州仪器（Texas Instruments），起初担任工程主管。当时 TI 是世界上最具进取心的半导体公司，杰克·基尔比刚刚发明集成电路。他在 TI 一待就是 25 年，从工程师一路升到全球半导体业务主管，是当时美国科技产业最高级的华裔高管之一。",
+    "summary_en": "In 1958, Chang left Sylvania for Texas Instruments, initially as an engineering supervisor. TI was then the most aggressive semiconductor company in the world — Jack Kilby had just invented the integrated circuit there. Chang would stay 25 years, rising from engineer to group vice president for worldwide semiconductor operations, becoming one of the highest-ranking Chinese-American executives in U.S. tech.",
+    "location": "Dallas, Texas",
+    "key": true,
+    "tags": [
+      "TI",
+      "Texas Instruments",
+      "半导体"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "chm-chang-fellow-profile",
+        "url": "https://computerhistory.org/profile/fellow-morris-chang/",
+        "kind": "article",
+        "title": "Morris Chang | Computer History Museum Fellow",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://computerhistory.org/profile/fellow-morris-chang/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1964-stanford-phd",
+    "person_id": "chang",
+    "date": "1964-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "获斯坦福电机工程博士（TI 资助）",
+    "title_en": "Earns PhD in Electrical Engineering from Stanford (sponsored by TI)",
+    "summary": "1961 年，德州仪器全额资助张忠谋赴斯坦福大学攻读博士。他用两年半时间，于 1964 年春季拿到电机工程博士学位，导师为 John L. Moll 与 William E. Spicer。这是他对 1955 年 MIT 博士资格考试失败的「翻盘」。回到 TI 后，他迅速进入管理层。",
+    "summary_en": "In 1961, Texas Instruments fully sponsored Chang's doctoral studies at Stanford. He completed his PhD in Electrical Engineering in just two and a half years, finishing in the spring of 1964, with advisors John L. Moll and William E. Spicer. This was his redemption for the 1955 MIT qualifying-exam failure. Upon returning to TI, he rapidly entered management.",
+    "location": "Stanford, California",
+    "key": true,
+    "tags": [
+      "斯坦福",
+      "博士",
+      "电机工程"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "ieee-spectrum-chang-foundry-father",
+        "url": "https://spectrum.ieee.org/morris-chang-foundry-father",
+        "kind": "article",
+        "title": "Morris Chang: Foundry Father",
+        "publisher": "IEEE Spectrum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://spectrum.ieee.org/morris-chang-foundry-father",
+          "timestamp": "2024"
+        },
+        "embed_url": "https://www.youtube.com/watch?v=u-x7PdnvCyI"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1983-leaves-ti-general-instrument",
+    "person_id": "chang",
+    "date": "1983-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "离开德州仪器，出任通用仪器（General Instrument）总裁",
+    "title_en": "Leaves TI; becomes President & COO of General Instrument",
+    "summary": "1983 年，52 岁的张忠谋在 TI 最终未能登上 CEO 之位，被调往他认为不重要的部门后，决定离开。他出任纽约通用仪器公司（General Instrument Corporation）总裁兼营运长。然而仅一年多，他就因与公司文化不合而辞职——一度处于「失业、52 岁、没有下一份工作」的状态。",
+    "summary_en": "In 1983, after 25 years at Texas Instruments and never reaching the CEO seat, the 52-year-old Chang was reassigned to a department he saw as a sidelining. He left TI to become president and chief operating officer of General Instrument Corporation in New York. But within roughly a year, dissatisfied with the company's culture, he resigned — briefly unemployed at age 52 with no next job lined up.",
+    "location": "New York, New York",
+    "key": true,
+    "tags": [
+      "通用仪器",
+      "TI",
+      "转型"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "chm-oral-history-chang-2007-pdf",
+        "url": "https://archive.computerhistory.org/resources/text/Oral_History/Chang_Morris/Chang_Morris_1.oral_history.2007.102658129.pdf",
+        "kind": "transcript",
+        "title": "Oral History of Morris Chang (CHM, 2007)",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://archive.computerhistory.org/resources/text/Oral_History/Chang_Morris/Chang_Morris_1.oral_history.2007.102658129.pdf",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1985-itri-president-taiwan",
+    "person_id": "chang",
+    "date": "1985-08-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "应邀返台担任工业技术研究院（ITRI）院长",
+    "title_en": "Returns to Taiwan as President of ITRI",
+    "summary": "1985 年 8 月，台湾时任行政院长孙运璿邀请 54 岁的张忠谋返台，出任工业技术研究院（ITRI）院长，主导发展 6 英寸晶圆技术。这是他人生第二次重大抉择——离开美国 30 年后回到亚洲。这个任命是 TSMC 创办的直接前置：政府希望他将 ITRI 的半导体研究商业化，把台湾从加工经济升级为高科技经济。",
+    "summary_en": "In August 1985, Taiwan's Premier Sun Yun-suan invited the 54-year-old Chang to return to Taiwan as president of the Industrial Technology Research Institute (ITRI), tasked with developing 6-inch wafer technology. This was the second great pivot of his life — returning to Asia after 30 years in the U.S. The appointment was the direct prelude to TSMC: the government wanted him to commercialize ITRI's semiconductor research and lift Taiwan from a processing economy to a high-tech one.",
+    "location": "Hsinchu, Taiwan",
+    "key": true,
+    "tags": [
+      "ITRI",
+      "返台",
+      "孙运璿"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "chm-chang-fellow-profile",
+        "url": "https://computerhistory.org/profile/fellow-morris-chang/",
+        "kind": "article",
+        "title": "Morris Chang | Computer History Museum Fellow",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://computerhistory.org/profile/fellow-morris-chang/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1987-02-21-founds-tsmc",
+    "person_id": "chang",
+    "date": "1987-02-21",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "55 岁创办台积电（TSMC），发明专业晶圆代工模式",
+    "title_en": "Founds TSMC at age 55 — invents the dedicated foundry model",
+    "summary": "1987 年 2 月 21 日，台积电（Taiwan Semiconductor Manufacturing Company）在新竹科学园区正式成立，初始资本 2.2 亿美元，由台湾政府、飞利浦和私人投资者共同出资。56 岁的张忠谋出任董事长，发明了一种全新的商业模式：「专业晶圆代工」（pure-play foundry）——只为他人代工，不做自有品牌芯片。这一决定将塑造此后 40 年全球半导体产业格局，催生英伟达、博通、苹果芯片等数千家「无晶圆厂」（fabless）公司。",
+    "summary_en": "On February 21, 1987, Taiwan Semiconductor Manufacturing Company (TSMC) was officially founded in Hsinchu Science Park with NT$2.2 billion (~US$220M) initial capital from Taiwan's government, Philips, and private investors. The 56-year-old Chang became chairman and invented an entirely new business model — the \"pure-play foundry\": manufacturing chips only for other companies, never selling TSMC-branded chips. This decision would reshape the global semiconductor industry for the next 40 years, enabling thousands of fabless companies including NVIDIA, Broadcom, and Apple Silicon.",
+    "location": "Hsinchu Science Park, Taiwan",
+    "key": true,
+    "tags": [
+      "TSMC",
+      "创办",
+      "晶圆代工",
+      "fabless"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-tsmc",
+        "url": "https://en.wikipedia.org/wiki/TSMC",
+        "kind": "article",
+        "title": "TSMC (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/TSMC",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1988-intel-first-customer",
+    "person_id": "chang",
+    "date": "1988-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "拿下英特尔订单，验证晶圆代工模式",
+    "title_en": "Wins first Intel contract — validates the foundry model",
+    "summary": "1988 年，台积电拿下英特尔的代工合约——这是张忠谋利用自己在 TI 时代与英特尔联合创始人安迪·葛洛夫（Andy Grove）和戈登·摩尔（Gordon Moore）的人脉争取来的。这单订单虽然金额不大，却给了刚成立的 TSMC 极高信誉。摩托罗拉、TI、飞利浦等纷纷跟进。张忠谋后来回忆：「葛洛夫和摩尔帮了我们很多，但他们当时并没有想到代工模式会变得这么重要。」",
+    "summary_en": "In 1988, TSMC won its first contract from Intel — a deal Morris Chang secured by leveraging his TI-era relationships with Intel co-founders Andy Grove and Gordon Moore. The contract was small but gave the newly founded TSMC enormous credibility. Motorola, TI, Philips, and others soon followed. Chang later recalled: \"Grove and Moore helped us a lot, but they never thought the foundry business model would become so important.\"",
+    "location": "Hsinchu, Taiwan",
+    "key": true,
+    "tags": [
+      "Intel",
+      "Andy Grove",
+      "代工",
+      "突破"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-tsmc",
+        "url": "https://en.wikipedia.org/wiki/TSMC",
+        "kind": "article",
+        "title": "TSMC (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/TSMC",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1994-09-05-tsmc-ipo",
+    "person_id": "chang",
+    "date": "1994-09-05",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "台积电在台湾证交所上市（代码 2330）",
+    "title_en": "TSMC IPO on Taiwan Stock Exchange (TWSE 2330)",
+    "summary": "1994 年 9 月 5 日，台积电在台湾证交所挂牌上市，股票代号 2330。这一年距离公司成立刚好 7 年。上市从此把 TSMC 从政府背景的合资公司转变为公开市场公司，为后续大规模扩张提供了资本通道。同年，张忠谋离开 ITRI 院长职位，专注 TSMC，并出任华邦电子转投资的世大半导体（Vanguard）董事长。",
+    "summary_en": "On September 5, 1994, TSMC was listed on the Taiwan Stock Exchange under ticker 2330 — exactly seven years after founding. The IPO transformed TSMC from a government-backed joint venture into a publicly traded company and opened the capital channel for the massive expansion that followed. That same year, Chang left ITRI to focus on TSMC and became chairman of Vanguard International Semiconductor (1994-2003).",
+    "location": "Taipei, Taiwan",
+    "key": true,
+    "tags": [
+      "IPO",
+      "上市",
+      "Taiwan Stock Exchange"
+    ],
+    "sources": [
+      {
+        "id": "tsmc-investor-faq",
+        "url": "https://investor.tsmc.com/english/faq",
+        "kind": "article",
+        "title": "TSMC Investor FAQ",
+        "publisher": "TSMC",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://investor.tsmc.com/english/faq",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-tsmc",
+        "url": "https://en.wikipedia.org/wiki/TSMC",
+        "kind": "article",
+        "title": "TSMC (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/TSMC",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-1997-10-08-tsmc-nyse-adr",
+    "person_id": "chang",
+    "date": "1997-10-08",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "台积电 ADR 在纽约证交所挂牌（代码 TSM）——首家在 NYSE 上市的台湾公司",
+    "title_en": "TSMC ADR lists on NYSE (TSM) — first Taiwan company on NYSE",
+    "summary": "1997 年 10 月 8 日上午 9:30，台积电美国存托凭证（ADR）在纽约证交所挂牌，代号 TSM——这是首家在 NYSE 上市的台湾公司。飞利浦释出 1.05 亿股 TSMC 股票转化为 ADR，每个 ADR 代表 5 股普通股，发行价 24.78 美元。这次上市将 TSMC 推上全球资本市场，为它进入半导体先进制程的「军备竞赛」奠定基础。",
+    "summary_en": "On October 8, 1997 at 9:30am New York time, TSMC's American Depositary Receipts (ADRs) launched on the New York Stock Exchange under the symbol TSM — making TSMC the first Taiwanese company to list on the NYSE. Philips released 105 million TSMC common shares converted to ADRs (each ADR = 5 common shares) at an initial price of US$24.78. The listing put TSMC onto global capital markets, financing the arms race in advanced process technology that followed.",
+    "location": "New York Stock Exchange, NY",
+    "key": true,
+    "tags": [
+      "NYSE",
+      "ADR",
+      "TSM",
+      "首家"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wikipedia-tsmc",
+        "url": "https://en.wikipedia.org/wiki/TSMC",
+        "kind": "article",
+        "title": "TSMC (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/TSMC",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2007-10-17-chm-conversation-jensen",
+    "person_id": "chang",
+    "date": "2007-10-17",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "获 Computer History Museum Fellow，与黄仁勋同台对谈",
+    "title_en": "CHM Fellow Award + on-stage conversation with Jensen Huang",
+    "summary": "2007 年，张忠谋获 Computer History Museum Fellow Award。同年 8 月 24 日，他在台北接受 Alan Patterson 长达 18 页的口述历史访谈（CHM 编号 X4151.2008）。10 月 17 日，作为 Fellow 受奖人，他在加州山景城 CHM 与英伟达 CEO 黄仁勋公开对谈——这是两位华裔半导体巨头的首次公开同台（TSMC 是 NVIDIA 自 1997 年起的代工伙伴）。CHM 官方上传 YouTube 的这场对谈视频，是他此后 17 年内最重要的英文长篇视频之一。",
+    "summary_en": "In 2007, Morris Chang received the Computer History Museum Fellow Award. On August 24, 2007 he sat in Taipei for an 18-page oral history with Alan Patterson (CHM catalog X4151.2008). Then on October 17, 2007, as Fellow Award recipient, he took the stage in Mountain View, California for a public conversation with NVIDIA CEO Jen-Hsun Huang — the first joint public appearance of these two Chinese-American semiconductor giants (TSMC has been NVIDIA's foundry partner since 1997). The CHM-uploaded YouTube video of that conversation became Chang's most-watched long-form English video for the next 17 years.",
+    "location": "Computer History Museum, Mountain View, California",
+    "key": true,
+    "tags": [
+      "CHM",
+      "黄仁勋",
+      "对谈",
+      "NVIDIA"
+    ],
+    "sources": [
+      {
+        "id": "chm-chang-huang-conversation-yt",
+        "url": "https://www.youtube.com/watch?v=u-x7PdnvCyI",
+        "embed_url": "https://www.youtube-nocookie.com/embed/u-x7PdnvCyI",
+        "kind": "video",
+        "title": "Morris Chang, in conversation with Jen-Hsun Huang",
+        "publisher": "Computer History Museum (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "chm-evening-chang-huang-catalog",
+        "url": "https://www.computerhistory.org/collections/catalog/102702700",
+        "kind": "article",
+        "title": "An Evening with Morris Chang, in conversation with Jen-Hsun Huang — CHM catalog 102702700",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.computerhistory.org/collections/catalog/102702700",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "chm-oral-history-chang-2007-pdf",
+        "url": "https://archive.computerhistory.org/resources/text/Oral_History/Chang_Morris/Chang_Morris_1.oral_history.2007.102658129.pdf",
+        "kind": "transcript",
+        "title": "Oral History of Morris Chang (CHM, 2007) — Full PDF transcript (Aug 24, 2007 in Taipei)",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://archive.computerhistory.org/resources/text/Oral_History/Chang_Morris/Chang_Morris_1.oral_history.2007.102658129.pdf",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "chm-oral-history-chang-catalog",
+        "url": "https://www.computerhistory.org/collections/catalog/102658129",
+        "kind": "article",
+        "title": "Chang, Morris oral history — CHM catalog 102658129",
+        "publisher": "Computer History Museum",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.computerhistory.org/collections/catalog/102658129",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2009-06-return-as-ceo",
+    "person_id": "chang",
+    "date": "2009-06-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "78 岁重返 CEO，挽救金融危机中的台积电",
+    "title_en": "Returns as CEO at 78 to save TSMC during financial crisis",
+    "summary": "2005 年张忠谋首次卸任 CEO，将棒子交给蔡力行（Rick Tsai）。2008 年金融危机爆发，TSMC 营收骤跌；2009 年蔡力行以「绩效改善计划」为名行变相裁员之实，士气崩溃、订单流失。2009 年 6 月，78 岁的张忠谋复出担任 CEO，承诺重新雇回所有受影响员工，并做出他职业生涯最关键的决定之一：将研发投入永久设定在营收的 8%，并启动数十亿美元的逆周期扩产计划——这次「危机中的押注」直接奠定了 TSMC 在 28nm 与之后所有先进制程上的领先地位。",
+    "summary_en": "Chang first stepped down as CEO in 2005, handing over to Rick Tsai. When the 2008 financial crisis hit, TSMC revenue collapsed; in 2009 Tsai disguised mass layoffs as a \"Performance Management and Development\" program, devastating morale and losing orders. In June 2009, the 78-year-old Chang returned as CEO, pledged to rehire every affected employee, and made one of the defining decisions of his career: permanently fixing R&D at 8% of revenue and launching a multi-billion-dollar counter-cyclical capacity expansion. This \"bet during the crisis\" directly set up TSMC's lead in 28nm and every advanced node since.",
+    "location": "Hsinchu, Taiwan",
+    "key": true,
+    "tags": [
+      "CEO",
+      "金融危机",
+      "复出",
+      "R&D"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "acquired-chang-interview",
+        "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+        "kind": "article",
+        "title": "TSMC Founder Morris Chang — Acquired podcast (Jan 27, 2025)",
+        "publisher": "Acquired",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+          "timestamp": "2025"
+        },
+        "embed_url": "https://www.youtube.com/watch?v=FZItbr4ZJnc"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2014-04-stanford-engineering-hero",
+    "person_id": "chang",
+    "date": "2014-04-01",
+    "date_precision": "month",
+    "type": "speech",
+    "title": "斯坦福工程英雄系列：与 John Hennessy 校长对谈",
+    "title_en": "Stanford Engineering Hero lecture: in conversation with President John Hennessy",
+    "summary": "2014 年 4 月，时任斯坦福大学校长 John Hennessy 主持「斯坦福工程英雄」（Stanford Engineering Hero）讲座，与 83 岁的张忠谋公开对谈。Stanford 工程学院 YouTube 频道上传了完整视频与多个剪辑（成长经历、对学生的建议）。这是他在母校斯坦福（1964 博士毕业）的一次完整公开演讲，也是他英文长篇视频访谈中最易获取的一次。",
+    "summary_en": "In April 2014, then-Stanford President John L. Hennessy hosted the Stanford Engineering Hero lecture with the 83-year-old Morris Chang. The Stanford School of Engineering YouTube channel uploaded the full video and several clips (childhood, advice to students). This is one of the most accessible long-form English video appearances by Chang, delivered at his alma mater Stanford (PhD 1964).",
+    "location": "Stanford University, California",
+    "key": true,
+    "tags": [
+      "斯坦福",
+      "Hennessy",
+      "Stanford Engineering Hero"
+    ],
+    "sources": [
+      {
+        "id": "stanford-engineering-hero-chang-yt",
+        "url": "https://www.youtube.com/watch?v=RVpN9ZKZja8",
+        "embed_url": "https://www.youtube-nocookie.com/embed/RVpN9ZKZja8",
+        "kind": "video",
+        "title": "Stanford Engineering Hero Morris Chang with President John L. Hennessy",
+        "publisher": "Stanford School of Engineering (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "stanford-chang-china-childhood-yt",
+        "url": "https://www.youtube.com/watch?v=ky98uZcbH-4",
+        "embed_url": "https://www.youtube-nocookie.com/embed/ky98uZcbH-4",
+        "kind": "video",
+        "title": "Stanford Engineering Hero Morris Chang talks about growing up in China",
+        "publisher": "Stanford School of Engineering (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "stanford-chang-advice-students-yt",
+        "url": "https://www.youtube.com/watch?v=LaS9xRccZgM",
+        "embed_url": "https://www.youtube-nocookie.com/embed/LaS9xRccZgM",
+        "kind": "video",
+        "title": "Stanford Engineering Hero Morris Chang's Advice to students",
+        "publisher": "Stanford School of Engineering (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2017-10-23-tsmc-30th-anniversary",
+    "person_id": "chang",
+    "date": "2017-10-23",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "主持台积电 30 周年庆典论坛",
+    "title_en": "Hosts TSMC 30th Anniversary Celebration Forum",
+    "summary": "2017 年 10 月 23 日，台积电在台北举办 30 周年庆典。86 岁的张忠谋亲自主持论坛，与英伟达 CEO 黄仁勋、高通 CEO Steve Mollenkopf、博通 CEO Hock Tan、ASML CEO Peter Wennink、苹果 COO Jeff Williams、ARM CEO Simon Segars、ADI CEO Vincent Roche 七位客户高管同台对话半导体未来十年。同晚，TSMC 在国家音乐厅举办庆典音乐会，奥地利指挥 Christian Arming 与维也纳室内乐团演奏贝多芬《合唱幻想曲》和第九交响曲。",
+    "summary_en": "On October 23, 2017, TSMC held its 30th Anniversary Celebration Forum in Taipei. The 86-year-old Chang personally moderated a forum with seven of TSMC's biggest customers: Jensen Huang (NVIDIA), Steve Mollenkopf (Qualcomm), Hock Tan (Broadcom), Peter Wennink (ASML), Jeff Williams (Apple COO), Simon Segars (ARM), and Vincent Roche (ADI). The forum was followed by a celebration concert at Taiwan's National Concert Hall featuring Christian Arming conducting the Vienna Chamber Orchestra in Beethoven's Choral Fantasy and Symphony No. 9.",
+    "location": "Taipei, Taiwan",
+    "key": true,
+    "tags": [
+      "TSMC",
+      "30 周年",
+      "黄仁勋",
+      "客户论坛"
+    ],
+    "sources": [
+      {
+        "id": "tsmc-30th-anniversary-forum-yt",
+        "url": "https://www.youtube.com/watch?v=lGT3zSGDN3k",
+        "embed_url": "https://www.youtube-nocookie.com/embed/lGT3zSGDN3k",
+        "kind": "video",
+        "title": "TSMC 30th Anniversary Forum 2017 — Hosted by Morris Chang",
+        "publisher": "YouTube",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2018-06-05-final-retirement",
+    "person_id": "chang",
+    "date": "2018-06-05",
+    "date_precision": "day",
+    "type": "career",
+    "title": "正式从台积电退休，结束 31 年掌舵",
+    "title_en": "Final retirement from TSMC after 31 years",
+    "summary": "2018 年 6 月 5 日，87 岁的张忠谋在新竹台积电年度股东大会上正式宣布退休，结束 31 年的董事长生涯。他将公司交给「双首长制」——刘德音任董事长、魏哲家任 CEO。在告别演说中他说：「我很高兴公司在过去 31 年里，无论是营收、利润，还是在世界上的重要性，都经历了近乎奇迹般的成长。」他承诺彻底退出：「我不会担任董事、顾问，也不会担任名誉董事长——我什么都不做。」",
+    "summary_en": "On June 5, 2018, the 87-year-old Morris Chang formally announced his retirement at TSMC's annual shareholders meeting in Hsinchu, ending 31 years at the helm. He handed over to a dual-leadership structure: Mark Liu as Chairman and C.C. Wei as CEO. In his farewell speech, he said: \"I am pleased that the company has experienced almost miraculous growth over the past 31 years in terms of revenue, profit and its importance worldwide.\" He pledged a clean break: \"I will not serve as a board director, a consultant or an honorary chairman. I will not do any of those things.\"",
+    "location": "Hsinchu, Taiwan",
+    "key": true,
+    "tags": [
+      "退休",
+      "TSMC",
+      "双首长"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-chang-bio",
+        "url": "https://en.wikipedia.org/wiki/Morris_Chang",
+        "kind": "article",
+        "title": "Morris Chang (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Morris_Chang",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "taipeitimes-chang-farewell-2018",
+        "url": "https://www.taipeitimes.com/News/front/archives/2018/06/06/2003694395",
+        "kind": "article",
+        "title": "Morris Chang says farewell at TSMC meeting",
+        "publisher": "Taipei Times",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.taipeitimes.com/News/front/archives/2018/06/06/2003694395",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2022-04-14-brookings-interview",
+    "person_id": "chang",
+    "date": "2022-04-14",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "Brookings 访谈：「美国造芯片是非常昂贵的徒劳」",
+    "title_en": "Brookings interview: U.S. chip manufacturing is \"a very expensive exercise in futility\"",
+    "summary": "2022 年 4 月 14 日，91 岁的张忠谋接受 Brookings Institution 与 CSIS 联合举办的「Vying for Talent」播客系列首集访谈，主持人是 Brookings 高级研究员 Ryan Hass 和 CSIS 研究员 Jude Blanchette。他直言美国试图重建本土半导体制造业是「非常昂贵的徒劳」，根据 1997 年起 TSMC 在俄勒冈州 25 年的实际经营数据，美国厂的成本比台湾厂高 50%。这是他退休后最重要的公开政策访谈之一，引发美中半导体产业政策圈的剧烈讨论。",
+    "summary_en": "On April 14, 2022, the 91-year-old Chang gave a rare interview as the inaugural episode of Brookings Institution and CSIS's \"Vying for Talent\" podcast series, hosted by Ryan Hass (Brookings) and Jude Blanchette (CSIS). He bluntly called the U.S. effort to rebuild domestic semiconductor manufacturing \"a very expensive exercise in futility,\" citing 25 years of TSMC operating data from its Oregon plant (since 1997) showing U.S. fab costs 50% higher than Taiwan. This became one of his most consequential post-retirement policy interviews, sparking heated debate in U.S.-China chip policy circles.",
+    "location": "Brookings Institution, Washington, D.C. (recorded in Taipei)",
+    "key": true,
+    "tags": [
+      "Brookings",
+      "美国制造",
+      "退休后",
+      "政策"
+    ],
+    "sources": [
+      {
+        "id": "brookings-chang-2022",
+        "url": "https://www.brookings.edu/articles/can-semiconductor-manufacturing-return-to-the-us/",
+        "kind": "article",
+        "title": "Can semiconductor manufacturing return to the US? (Brookings)",
+        "publisher": "Brookings Institution",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.brookings.edu/articles/can-semiconductor-manufacturing-return-to-the-us/",
+          "timestamp": "2024"
+        },
+        "embed_url": "https://www.youtube.com/watch?v=LRJmli_eRiM"
+      },
+      {
+        "id": "brookings-chang-yt",
+        "url": "https://www.youtube.com/watch?v=NwCWYcag5RE",
+        "embed_url": "https://www.youtube-nocookie.com/embed/NwCWYcag5RE",
+        "kind": "video",
+        "title": "Can semiconductor manufacturing return to the US?",
+        "publisher": "Brookings Institution (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2022-12-06-tsmc-arizona-tool-in",
+    "person_id": "chang",
+    "date": "2022-12-06",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "出席台积电亚利桑那厂首次进机典礼，与拜登、库克、黄仁勋同台",
+    "title_en": "Attends TSMC Arizona first tool-in ceremony with Biden, Cook, Huang",
+    "summary": "2022 年 12 月 6 日，91 岁的张忠谋作为 TSMC 创办人，与现任董事长刘德音、CEO 魏哲家共同主持台积电亚利桑那州凤凰城晶圆厂首次进机典礼。出席嘉宾包括美国总统拜登、商务部长 Gina Raimondo、亚利桑那州州长 Doug Ducey、苹果 CEO 蒂姆·库克、英伟达 CEO 黄仁勋、AMD CEO 苏姿丰、美光 CEO Sanjay Mehrotra。TSMC 同时宣布在亚利桑那建设第二座 3nm 厂，两厂总投资约 400 亿美元，是亚利桑那州历史上最大、美国历史上最大之一的外商直接投资。",
+    "summary_en": "On December 6, 2022, the 91-year-old Morris Chang, as TSMC founder, presided alongside Chairman Mark Liu and CEO C.C. Wei over the first tool-in ceremony of TSMC's Arizona Fab in Phoenix. Notable guests included U.S. President Joe Biden, Commerce Secretary Gina Raimondo, Arizona Governor Doug Ducey, Apple CEO Tim Cook, NVIDIA CEO Jensen Huang, AMD CEO Lisa Su, and Micron CEO Sanjay Mehrotra. TSMC simultaneously announced a second Arizona fab for 3nm production; the combined ~$40 billion investment is the largest in Arizona's history and one of the largest foreign direct investments in U.S. history.",
+    "location": "TSMC Arizona, Phoenix, Arizona",
+    "key": true,
+    "tags": [
+      "Arizona",
+      "拜登",
+      "Tim Cook",
+      "黄仁勋",
+      "美中"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-tsmc-arizona",
+        "url": "https://en.wikipedia.org/wiki/TSMC_Arizona",
+        "kind": "article",
+        "title": "TSMC Arizona (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/TSMC_Arizona",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2023-10-25-mit-distinguished-speaker",
+    "person_id": "chang",
+    "date": "2023-10-25",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "重返母校 MIT 演讲：《半导体制造的人生课》",
+    "title_en": "Returns to MIT: \"Lessons of a Life in Semiconductor Manufacturing\"",
+    "summary": "2023 年 10 月 25 日，92 岁的张忠谋回到母校 MIT（1952 学士、1953 硕士），在 10-250 教室面对 425 多名听众发表「Manufacturing@MIT 杰出讲座系列」演讲，主题为「半导体制造的人生课：从德州到台湾」。他强调：「学习曲线、经验曲线，只有当你处于同一地点时才能发挥作用——学习是地方性的（learning is local）」；并说：「没有国家安全，我们将失去一切，失去我们珍视的一切。」",
+    "summary_en": "On October 25, 2023, the 92-year-old Morris Chang returned to MIT (BS 1952, SM 1953) and delivered the Manufacturing@MIT Distinguished Speaker Series lecture in Room 10-250 to an audience of 425+ on \"Lessons of a Life in Semiconductor Manufacturing, from Texas to Taiwan.\" He emphasized: \"It works, the learning curve, the experience curve, it works only when you have a common location. Learning is local.\" And: \"Without national security, we will lose everything, everything that we value.\"",
+    "location": "MIT Room 10-250, Cambridge, Massachusetts",
+    "key": true,
+    "tags": [
+      "MIT",
+      "演讲",
+      "学习曲线",
+      "国家安全"
+    ],
+    "sources": [
+      {
+        "id": "mit-news-chang-2023",
+        "url": "https://news.mit.edu/2023/morris-chang-describes-secrets-semiconductor-success-1025",
+        "kind": "article",
+        "title": "Morris Chang '52, SM '53 describes the secrets of semiconductor success",
+        "publisher": "MIT News",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://news.mit.edu/2023/morris-chang-describes-secrets-semiconductor-success-1025",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "mit-inm-chang-yt",
+        "url": "https://www.youtube.com/watch?v=r_8XClnnvIk",
+        "embed_url": "https://www.youtube-nocookie.com/embed/r_8XClnnvIk",
+        "kind": "video",
+        "title": "TSMC founder Morris Chang on the evolution of the semiconductor industry",
+        "publisher": "MIT Initiative for New Manufacturing (YouTube)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2024-11-29-autobiography-volume-2",
+    "person_id": "chang",
+    "date": "2024-11-29",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "出版自传第二册（《张忠谋自传 下册：1964-2018》），相隔 26 年",
+    "title_en": "Publishes Autobiography Volume 2 — 26 years after Volume 1",
+    "summary": "2024 年 11 月 29 日，93 岁的张忠谋在台北出版自传第二册，距离 1998 年第一册出版已 26 年。第二册涵盖 1964-2018 年——从他获得斯坦福博士、TI 黄金 25 年、到 TSMC 31 年的关键决策（包括拿下苹果、2009 复出、2011 与 NVIDIA 危机）。两册合计约 30 万字，由「天下文化」出版。书中首次披露：他曾劝黄仁勋来 TSMC 当 CEO，黄回答「我已经有工作了」。",
+    "summary_en": "On November 29, 2024, the 93-year-old Morris Chang published the second volume of his autobiography in Taipei — 26 years after Volume 1 (1998). Volume 2 covers 1964-2018: his Stanford PhD, the golden 25 years at TI, and the pivotal decisions of 31 years at TSMC (including landing Apple, his 2009 return, and the 2009 NVIDIA crisis). The two volumes total ~300,000 Chinese characters and are published by Commonwealth Publishing (天下文化). Among its revelations: Chang offered Jensen Huang the TSMC CEO job; Huang declined: \"I already have a job.\"",
+    "location": "Taipei, Taiwan",
+    "key": true,
+    "tags": [
+      "自传",
+      "回忆录",
+      "Commonwealth Publishing"
+    ],
+    "sources": [
+      {
+        "id": "taiwannews-chang-autobio-vol2",
+        "url": "https://www.taiwannews.com.tw/news/5972653",
+        "kind": "article",
+        "title": "Taiwan's Morris Chang releases 2nd volume of autobiography",
+        "publisher": "Taiwan News",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.taiwannews.com.tw/news/5972653",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "taiwannews-chang-launch-event",
+        "url": "https://www.taiwannews.com.tw/news/5988538",
+        "kind": "article",
+        "title": "TSMC's Morris Chang attends launch of 2nd volume of autobiography",
+        "publisher": "Taiwan News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.taiwannews.com.tw/news/5988538",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "chang-2025-01-27-acquired-podcast",
+    "person_id": "chang",
+    "date": "2025-01-27",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "登上 Acquired 播客——退休 17 年来首次英文长篇视频访谈",
+    "title_en": "Appears on Acquired Podcast — first long-form English video interview in 17 years",
+    "summary": "2025 年 1 月 27 日，93 岁的张忠谋在台北接受美国知名商业播客 Acquired（主持人 Ben Gilbert 与 David Rosenthal）长达 2 小时 57 分钟的英文访谈——这是他自 2007 年与黄仁勋在 CHM 同台以来 17 年内首次长篇英文视频访谈。Acquired 团队拿到了他第二册自传的未公开英译稿做准备，重点谈了 TSMC 如何赢得苹果生意、2009 年与 NVIDIA 的争端、晶圆代工产业诞生等。这场访谈在英文世界首次系统揭示了 TSMC 内部的关键决策。",
+    "summary_en": "On January 27, 2025, the 93-year-old Morris Chang sat in Taipei for a 2-hour-57-minute English interview with the popular business podcast Acquired (hosts Ben Gilbert and David Rosenthal) — his first long-form English video interview in 17 years, since the 2007 CHM appearance with Jensen Huang. The Acquired team obtained an unpublished English translation of his Volume 2 autobiography to prepare; the interview focused on how TSMC won Apple's business, the 2009 NVIDIA dispute, and the birth of the foundry industry. This was the first systematic revelation in English of TSMC's pivotal internal decisions.",
+    "location": "Taipei, Taiwan",
+    "key": true,
+    "tags": [
+      "Acquired",
+      "播客",
+      "英文访谈",
+      "Apple",
+      "NVIDIA"
+    ],
+    "sources": [
+      {
+        "id": "acquired-chang-yt",
+        "url": "https://www.youtube.com/watch?v=FZItbr4ZJnc",
+        "embed_url": "https://www.youtube-nocookie.com/embed/FZItbr4ZJnc",
+        "kind": "video",
+        "title": "TSMC founder Morris Chang",
+        "publisher": "Acquired (YouTube)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "I bet the company, but I didn't think I would lose.",
+            "text_zh": "我把整个公司都押了上去，但我并不认为我会输。",
+            "speaker": "Morris Chang",
+            "context": "Chang on his 2013 decision to commit roughly $10 billion to build 20nm capacity for Apple's chips"
+          }
+        ]
+      },
+      {
+        "id": "acquired-chang-episode-page",
+        "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+        "kind": "article",
+        "title": "TSMC Founder Morris Chang | Acquired",
+        "publisher": "Acquired",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+          "timestamp": "2025"
+        },
+        "embed_url": "https://www.youtube.com/watch?v=FZItbr4ZJnc"
+      }
+    ],
+    "source_hints": null
+  }
+]

@@ -106,5 +106,77 @@
     "died": "1919-08-11",
     "tagline": "卡内基钢铁创始人，《财富的福音》作者，现代慈善先驱",
     "tagline_en": "Founder of Carnegie Steel, author of 'The Gospel of Wealth', pioneer of modern philanthropy"
+  },
+  {
+    "id": "ford",
+    "name_zh": "亨利·福特",
+    "name_en": "Henry Ford",
+    "born": "1863-07-30",
+    "died": "1947-04-07",
+    "tagline": "福特汽车创始人，流水线大规模生产的先驱",
+    "tagline_en": "Founder of Ford Motor Company, pioneer of assembly-line mass production"
+  },
+  {
+    "id": "edison",
+    "name_zh": "托马斯·爱迪生",
+    "name_en": "Thomas Edison",
+    "born": "1847-02-11",
+    "died": "1931-10-18",
+    "tagline": "通用电气联合创始人，1093 项专利持有者，电灯、留声机、电影摄影机的发明者",
+    "tagline_en": "Co-founder of GE, holder of 1,093 patents, inventor of the practical light bulb, phonograph, and motion picture camera"
+  },
+  {
+    "id": "walton",
+    "name_zh": "山姆·沃尔顿",
+    "name_en": "Sam Walton",
+    "born": "1918-03-29",
+    "died": "1992-04-05",
+    "tagline": "沃尔玛创始人，现代折扣零售业的奠基者",
+    "tagline_en": "Founder of Walmart, founder of modern discount retail"
+  },
+  {
+    "id": "morita",
+    "name_zh": "盛田昭夫",
+    "name_en": "Akio Morita",
+    "born": "1921-01-26",
+    "died": "1999-10-03",
+    "tagline": "索尼联合创始人，把 \"Made in Japan\" 从廉价标签变成质量符号",
+    "tagline_en": "Co-founder of Sony, transformed \"Made in Japan\" from a cheap label into a symbol of quality"
+  },
+  {
+    "id": "chang",
+    "name_zh": "张忠谋",
+    "name_en": "Morris Chang",
+    "born": "1931-07-10",
+    "died": null,
+    "tagline": "台积电（TSMC）创始人，专业晶圆代工模式发明者",
+    "tagline_en": "Founder of TSMC, inventor of the dedicated semiconductor foundry model"
+  },
+  {
+    "id": "grove",
+    "name_zh": "安迪·格鲁夫",
+    "name_en": "Andy Grove",
+    "born": "1936-09-02",
+    "died": "2016-03-21",
+    "tagline": "英特尔三号员工与长期 CEO，《只有偏执狂才能生存》作者",
+    "tagline_en": "Intel's third employee and longtime CEO, author of *Only the Paranoid Survive*"
+  },
+  {
+    "id": "ren",
+    "name_zh": "任正非",
+    "name_en": "Ren Zhengfei",
+    "born": "1944-10-25",
+    "died": null,
+    "tagline": "华为创始人，中国民营科技企业的代表人物",
+    "tagline_en": "Founder of Huawei, the icon of China's private tech industry"
+  },
+  {
+    "id": "ma",
+    "name_zh": "马云",
+    "name_en": "Jack Ma",
+    "born": "1964-09-10",
+    "died": null,
+    "tagline": "阿里巴巴集团创始人，把中国带入电商时代",
+    "tagline_en": "Founder of Alibaba Group, brought China into the e-commerce era"
   }
 ]

@@ -1,0 +1,750 @@
+[
+  {
+    "id": "ford-1863-07-30-birth",
+    "person_id": "ford",
+    "date": "1863-07-30",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于密歇根州格林菲尔德乡",
+    "title_en": "Born in Greenfield Township, Michigan",
+    "summary": "亨利·福特出生在密歇根州格林菲尔德乡（今迪尔伯恩附近）的一个农场，父母为威廉·福特和玛丽·利托戈特·福特。他是六个孩子中的长子，在福特路与格林菲尔德路交叉口的家中出生，这片土地后来并入迪尔伯恩。",
+    "summary_en": "Henry Ford was born on a farm in Greenfield Township (today's Dearborn area), Michigan, the eldest of six children to William Ford and Mary Litogot Ford. The farmhouse stood at the intersection of Ford Road and Greenfield Road, on land that later became part of Dearborn.",
+    "location": "Greenfield Township (now Dearborn), Michigan, USA",
+    "key": true,
+    "tags": ["出生", "Michigan", "early-life", "family"],
+    "sources": [
+      {
+        "id": "wiki-ford-bio",
+        "url": "https://en.wikipedia.org/wiki/Henry_Ford",
+        "kind": "article",
+        "title": "Henry Ford",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "ford-corp-bio",
+        "url": "https://corporate.ford.com/articles/history/henry-ford-biography/",
+        "kind": "article",
+        "title": "Life of Henry Ford",
+        "publisher": "Ford Motor Company",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1879-12-machinist-apprentice",
+    "person_id": "ford",
+    "date": "1879-12-01",
+    "date_precision": "month",
+    "type": "career",
+    "title": "16 岁离家到底特律当机械学徒",
+    "title_en": "Leaves farm at 16 to apprentice as a machinist in Detroit",
+    "summary": "1879 年 12 月，16 岁的福特离开父亲的农场前往底特律，先后在密歇根车厂、詹姆斯·弗劳尔兄弟机械车间工作，夜里在马吉尔珠宝店修表。1880 年起他到底特律干船坞公司继续机械学徒生涯，接触阀门、引擎和水道机械等重型工业设备。",
+    "summary_en": "In December 1879, the 16-year-old Ford left his father's farm for Detroit, working in quick succession at the Michigan Car Company, James Flower & Brothers Machine Shop, and Magill Jewelry (repairing watches at night). From 1880 to 1882 he apprenticed at Detroit Dry Dock Company, gaining exposure to valves, engines, and heavy industrial machinery.",
+    "location": "Detroit, Michigan, USA",
+    "key": true,
+    "tags": ["学徒", "machinist", "Detroit"],
+    "sources": [
+      {
+        "id": "wiki-ford-bio",
+        "url": "https://en.wikipedia.org/wiki/Henry_Ford",
+        "kind": "article",
+        "title": "Henry Ford",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-ford-1881-portrait",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/61226/",
+        "kind": "image",
+        "title": "Portrait of Henry Ford at Age 18, Working for Detroit Dry Dock Company, 1881",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1888-04-11-marriage-clara",
+    "person_id": "ford",
+    "date": "1888-04-11",
+    "date_precision": "day",
+    "type": "life",
+    "title": "与克拉拉·布莱恩特结婚",
+    "title_en": "Marries Clara Jane Bryant",
+    "summary": "1888 年 4 月 11 日，正逢克拉拉 22 岁生日，亨利·福特与克拉拉·布莱恩特在其父母位于密歇根格林菲尔德的家中结婚。两人 1885 年在新年舞会上相识，1886 年订婚但被克拉拉母亲要求等候两年。这段婚姻持续 59 年直至福特去世，克拉拉是福特一生中最重要的私人顾问。",
+    "summary_en": "On April 11, 1888 — also Clara's 22nd birthday — Henry Ford married Clara Jane Bryant at her parents' home in Greenfield, Michigan. The two had met at a New Year's dance in 1885 and become engaged in 1886, but Clara's mother required them to wait two more years. The marriage lasted 59 years until Ford's death, and Clara remained his most important personal counsel.",
+    "location": "Greenfield, Michigan, USA",
+    "key": true,
+    "tags": ["婚姻", "Clara-Bryant", "personal"],
+    "sources": [
+      {
+        "id": "history-ford-clara",
+        "url": "https://www.history.com/this-day-in-history/april-11/henry-ford-marries",
+        "kind": "article",
+        "title": "Henry Ford marries Clara Jane Bryant",
+        "publisher": "History.com",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      },
+      {
+        "id": "thf-wedding-invitation",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/182907/",
+        "kind": "image",
+        "title": "Invitation to the Wedding of Clara Bryant and Henry Ford, April 11, 1888",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1891-edison-illuminating",
+    "person_id": "ford",
+    "date": "1891-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "加入底特律爱迪生照明公司",
+    "title_en": "Joins Edison Illuminating Company in Detroit",
+    "summary": "1891 年，福特放弃自己的小型木材生意，与克拉拉搬到底特律，在爱迪生照明公司任夜班工程师。1893 年 11 月被提拔为总工程师，这份工作让他既能稳定养家，又能利用业余时间在小棚里研制汽油发动机。",
+    "summary_en": "In 1891, Ford gave up his small lumber business and moved with Clara to Detroit, where he became a night engineer at the Edison Illuminating Company. He was promoted to chief engineer in November 1893, a position that gave him steady income while leaving him free hours to experiment with gasoline engines in a backyard shed.",
+    "location": "Detroit, Michigan, USA",
+    "key": true,
+    "tags": ["Edison", "engineer", "Detroit"],
+    "sources": [
+      {
+        "id": "wiki-ford-bio",
+        "url": "https://en.wikipedia.org/wiki/Henry_Ford",
+        "kind": "article",
+        "title": "Henry Ford",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-edison-1891",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/411551/",
+        "kind": "image",
+        "title": "Edison Illuminating Company of Detroit, 1891",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1896-06-04-quadricycle",
+    "person_id": "ford",
+    "date": "1896-06-04",
+    "date_precision": "day",
+    "type": "product",
+    "title": "造出第一辆汽车 Quadricycle 并试驾",
+    "title_en": "Builds and test-drives his first automobile, the Quadricycle",
+    "summary": "1896 年 6 月 4 日，福特在底特律自家小棚里完成第一辆汽油动力汽车 Quadricycle 并首次试驾。该车采用角铁车架、皮带传动和马车座椅，搭载 4 马力双缸发动机，有两挡（10、20 mph）但没有刹车也没有倒挡。完工时车太宽出不了棚门，福特直接抡起斧头砸开砖墙。",
+    "summary_en": "On June 4, 1896, in a shed behind his Detroit home, Ford completed and first test-drove his gasoline-powered Quadricycle. The four-wheeled vehicle used an angle-iron frame, belt drive, and a buggy seat, powered by a two-cylinder 4-horsepower engine with two speeds (10 and 20 mph), no brakes, and no reverse. When finished it was too wide to fit through the shed door, so Ford took an axe to the brick wall to roll it out.",
+    "location": "Detroit, Michigan, USA",
+    "key": true,
+    "tags": ["Quadricycle", "first-car", "invention"],
+    "sources": [
+      {
+        "id": "wiki-quadricycle",
+        "url": "https://en.wikipedia.org/wiki/Ford_Quadricycle",
+        "kind": "article",
+        "title": "Ford Quadricycle",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-quadricycle-1896",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/252049",
+        "kind": "image",
+        "title": "1896 Ford Quadricycle Runabout, First Car Built by Henry Ford",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1899-08-05-detroit-automobile",
+    "person_id": "ford",
+    "date": "1899-08-05",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "联合创办底特律汽车公司（首次创业失败）",
+    "title_en": "Co-founds Detroit Automobile Company (his first venture, fails)",
+    "summary": "1899 年 8 月 5 日，福特与底特律市长威廉·梅伯里等投资人共同成立底特律汽车公司，投资 1.5 万美元，福特任厂长月薪 150 美元。该公司于 1900 年 1 月生产首辆汽油动力送货卡车，因质量、成本与设计问题，共造出约 20 辆车后于 1901 年 1 月解散，投资人损失 8.6 万美元——这是福特创业生涯的第一次失败。",
+    "summary_en": "On August 5, 1899, Ford co-founded the Detroit Automobile Company with investors including Detroit Mayor William Maybury, capitalized at $15,000, with Ford as superintendent earning $150 per month. The company built its first gasoline-powered delivery truck in January 1900, but quality, cost, and design problems doomed it; only about 20 vehicles were produced before it dissolved in January 1901, losing investors $86,000 — Ford's first business failure.",
+    "location": "Detroit, Michigan, USA",
+    "key": true,
+    "tags": ["Detroit-Automobile-Company", "失败", "first-venture"],
+    "sources": [
+      {
+        "id": "wiki-detroit-auto",
+        "url": "https://en.wikipedia.org/wiki/Detroit_Automobile_Company",
+        "kind": "article",
+        "title": "Detroit Automobile Company",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-detroit-auto-truck",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/223416",
+        "kind": "image",
+        "title": "Detroit Automobile Company Delivery Truck outside Factory, 1899-1900",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1903-06-16-ford-motor-founded",
+    "person_id": "ford",
+    "date": "1903-06-16",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "创立福特汽车公司",
+    "title_en": "Founds Ford Motor Company",
+    "summary": "1903 年 6 月 16 日上午 9:30，亨利·福特和包括道奇兄弟、银行家约翰·格雷在内的 12 位投资人在底特律签署公司章程，以 2.8 万美元现金创立福特汽车公司。格雷出任首任总裁，福特负责生产。公司不到一年就开始盈利，第一年付出近 300% 的累计股息，奠定福特一生事业的基石。",
+    "summary_en": "At 9:30 a.m. on June 16, 1903, Henry Ford and twelve other investors — including the Dodge brothers and banker John S. Gray — signed the articles of incorporation for the Ford Motor Company in Detroit, with $28,000 in cash capital. Gray became the first president while Ford ran production. The company turned profitable within months and paid out nearly 300% in cumulative dividends in two years, becoming the foundation of Ford's life work.",
+    "location": "Detroit, Michigan, USA",
+    "key": true,
+    "tags": ["Ford-Motor-Company", "founding", "Detroit"],
+    "sources": [
+      {
+        "id": "wiki-ford-motor",
+        "url": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+        "kind": "article",
+        "title": "Ford Motor Company",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "history-ford-motor-incorporated",
+        "url": "https://www.history.com/this-day-in-history/june-16/ford-motor-company-incorporated",
+        "kind": "article",
+        "title": "Ford Motor Company incorporated, June 16, 1903",
+        "publisher": "History.com",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1908-10-01-model-t-launch",
+    "person_id": "ford",
+    "date": "1908-10-01",
+    "date_precision": "day",
+    "type": "product",
+    "title": "推出 Model T——为大众而造的汽车",
+    "title_en": "Launches the Model T — a motor car for the great multitude",
+    "summary": "1908 年 10 月 1 日，首辆量产 Model T 在底特律皮奎特大道工厂下线，售价 825 美元。福特立志为\"普通大众\"造一辆人人买得起的汽车。Model T 凭借耐用、易修和持续降价，在两天内即接到 15,000 张订单，到 1918 年美国马路上一半的汽车都是 Model T。",
+    "summary_en": "On October 1, 1908, the first production Ford Model T rolled off the line at the Piquette Avenue Plant in Detroit at $825. Ford set out to build \"a motor car for the great multitude\" — affordable to ordinary working people. Durable, easy to repair, and progressively cheaper, the Model T drew 15,000 orders within two days; by 1918 half the cars on American roads were Model Ts.",
+    "location": "Piquette Avenue Plant, Detroit, Michigan, USA",
+    "key": true,
+    "tags": ["Model-T", "Tin-Lizzie", "mass-market", "automobile"],
+    "sources": [
+      {
+        "id": "wiki-model-t",
+        "url": "https://en.wikipedia.org/wiki/Ford_Model_T",
+        "kind": "article",
+        "title": "Ford Model T",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "ford-corp-model-t",
+        "url": "https://corporate.ford.com/articles/history/the-model-t/",
+        "kind": "article",
+        "title": "Model T in 1908 by Henry Ford",
+        "publisher": "Ford Motor Company",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1913-10-07-moving-assembly-line",
+    "person_id": "ford",
+    "date": "1913-10-07",
+    "date_precision": "day",
+    "type": "product",
+    "title": "在高地公园工厂启用移动装配线",
+    "title_en": "Introduces the moving assembly line at Highland Park",
+    "summary": "1913 年 10 月 7 日，福特汽车公司在密歇根州高地公园工厂为 Model T 全车装配启用世界第一条移动装配线，灵感来自肉类加工厂的\"剥解线\"。组装一辆车的时间从 12.5 小时（728 分钟）缩短到 93 分钟，效率惊人。这一发明使工业生产从此进入\"福特主义\"时代，深刻改变了 20 世纪的全球制造业。",
+    "summary_en": "On October 7, 1913, Ford Motor Company installed the world's first moving assembly line for full automobile production at the Highland Park plant in Michigan, inspired by meatpacking \"disassembly lines.\" Assembly time per Model T fell from 12.5 hours (728 minutes) to just 93 minutes. The innovation ushered in the era of \"Fordism\" and reshaped global manufacturing for the 20th century.",
+    "location": "Highland Park, Michigan, USA",
+    "key": true,
+    "tags": ["assembly-line", "Highland-Park", "Fordism", "mass-production"],
+    "sources": [
+      {
+        "id": "wiki-highland-park",
+        "url": "https://en.wikipedia.org/wiki/Highland_Park_Ford_Plant",
+        "kind": "article",
+        "title": "Highland Park Ford Plant",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "history-assembly-line",
+        "url": "https://www.history.com/this-day-in-history/october-7/moving-assembly-line-at-ford",
+        "kind": "article",
+        "title": "Moving assembly line debuts at Ford factory, October 7, 1913",
+        "publisher": "History.com",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1914-01-05-five-dollar-day",
+    "person_id": "ford",
+    "date": "1914-01-05",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "宣布日薪 5 美元、8 小时工作制",
+    "title_en": "Announces the $5 day, 8-hour workday",
+    "summary": "1914 年 1 月 5 日，福特和副总裁詹姆斯·库岑斯在底特律宣布把工人最低工资从 9 小时 2.34 美元一举提高到 8 小时 5 美元，几乎翻倍。改革实质是利润分成计划，目的之一是遏制 1913 年高达 370% 的工人流失率。消息一出，数千求职者冒雪涌向底特律，1915 年福特工人流失率降到 1.4%。",
+    "summary_en": "On January 5, 1914, Ford and vice president James Couzens announced in Detroit that the company's minimum wage would jump from $2.34 for nine hours to $5 for an eight-hour day — nearly doubling pay. Structured as a profit-sharing plan, it was aimed in part at curbing Ford's 370% labor turnover in 1913. Thousands of applicants stormed Detroit in the icy weather; by 1915 turnover had collapsed to 1.4%.",
+    "location": "Highland Park, Michigan, USA",
+    "key": true,
+    "tags": ["five-dollar-day", "wages", "labor"],
+    "sources": [
+      {
+        "id": "thf-five-dollar-day",
+        "url": "https://www.thehenryford.org/explore/blog/fords-five-dollar-day/",
+        "kind": "article",
+        "title": "Ford's Five-Dollar Day",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      },
+      {
+        "id": "gilder-lehrman-min-wage",
+        "url": "https://www.gilderlehrman.org/news/henry-ford-introduces-minimum-wage-day-january-5",
+        "kind": "article",
+        "title": "Henry Ford Introduces the Minimum Wage: On This Day, January 5",
+        "publisher": "Gilder Lehrman Institute",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1915-12-04-peace-ship",
+    "person_id": "ford",
+    "date": "1915-12-04",
+    "date_precision": "day",
+    "type": "other",
+    "title": "和平船 Oscar II 启航赴欧——失败的反战外交",
+    "title_en": "Peace Ship Oscar II sails for Europe — failed pacifist mission",
+    "summary": "1915 年 11 月 24 日，福特租下挪威美洲航运公司远洋客轮 Oscar II，邀请美国知名和平主义者赴欧调解一战。12 月 4 日轮船从新泽西霍博肯启航，送行人群约 1.5 万。航行途中爆发流感，福特本人病倒并提前返美。媒体讥讽其为\"愚人船\"。任务失败但反映了福特反战的强烈个人立场。",
+    "summary_en": "On November 24, 1915, Ford chartered the Norwegian America Line ocean liner Oscar II and invited prominent American pacifists to mediate an end to World War I. The ship sailed from Hoboken, New Jersey on December 4, 1915, watched by about 15,000 spectators. An influenza outbreak struck mid-Atlantic; Ford himself fell ill and returned to the U.S. early. The press mocked it as the \"Ship of Fools,\" yet the venture revealed Ford's intense personal pacifism.",
+    "location": "Hoboken, New Jersey, USA",
+    "key": true,
+    "tags": ["Peace-Ship", "Oscar-II", "WWI", "pacifism"],
+    "sources": [
+      {
+        "id": "wiki-peace-ship",
+        "url": "https://en.wikipedia.org/wiki/Peace_Ship",
+        "kind": "article",
+        "title": "Peace Ship",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-peace-ship",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/141626/",
+        "kind": "image",
+        "title": "Peace Ship \"Oscar II\" at Hoboken, New Jersey, 1915",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1918-11-05-senate-loss",
+    "person_id": "ford",
+    "date": "1918-11-05",
+    "date_precision": "day",
+    "type": "other",
+    "title": "竞选密歇根州联邦参议员以微弱差距落败",
+    "title_en": "Loses Michigan U.S. Senate election by a narrow margin",
+    "summary": "应总统威尔逊邀请，福特同时参加共和党与民主党初选，以民主党候选人身份角逐密歇根联邦参议员席位。1918 年 11 月 5 日，他以约 2,200 票之差败给共和党候选人特鲁曼·纽伯里。纽伯里阵营巨额且违法的竞选支出后来被司法部查办，引发了美国关于竞选资金监管的长期辩论。",
+    "summary_en": "At President Woodrow Wilson's request, Ford entered both parties' primaries and ran as the Democratic nominee for U.S. Senate from Michigan. On November 5, 1918, he lost to Republican Truman H. Newberry by roughly 2,200 votes. Newberry's massive — and ultimately illegal — campaign spending was later prosecuted by the Department of Justice, igniting a long-running national debate over campaign finance.",
+    "location": "Michigan, USA",
+    "key": true,
+    "tags": ["Senate", "election", "politics"],
+    "sources": [
+      {
+        "id": "wiki-1918-mi-senate",
+        "url": "https://en.wikipedia.org/wiki/1918_United_States_Senate_election_in_Michigan",
+        "kind": "article",
+        "title": "1918 United States Senate election in Michigan",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "senate-newberry-case",
+        "url": "https://www.senate.gov/about/origins-foundations/electing-appointing-senators/contested-senate-elections/102Ford_Newberry.htm",
+        "kind": "article",
+        "title": "The Election Case of Truman H. Newberry of Michigan (1922)",
+        "publisher": "U.S. Senate Historical Office",
+        "lang": "en",
+        "license": "public-domain"
+      }
+    ]
+  },
+  {
+    "id": "ford-1922-02-04-buys-lincoln",
+    "person_id": "ford",
+    "date": "1922-02-04",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "以 800 万美元收购林肯汽车公司",
+    "title_en": "Acquires Lincoln Motor Company for $8 million",
+    "summary": "1922 年 2 月 4 日，在儿子埃德塞尔的力主下，福特汽车公司以 800 万美元（相当于今约 1.5 亿美元）收购濒临破产的林肯汽车公司。林肯由凯迪拉克联合创始人亨利·利兰创建。埃德塞尔随后接管林肯，把它打造成对抗通用汽车凯迪拉克的高端品牌，1923 年底已实现盈利。",
+    "summary_en": "On February 4, 1922, under the influence of his son Edsel, Ford Motor Company purchased the bankrupt Lincoln Motor Company for $8 million. Lincoln had been founded by Cadillac co-founder Henry Leland. Edsel took charge of the brand and rebuilt Lincoln into Ford's premium answer to General Motors' Cadillac, returning it to profit by the end of 1923.",
+    "location": "Detroit, Michigan, USA",
+    "key": true,
+    "tags": ["Lincoln", "收购", "Edsel", "luxury"],
+    "sources": [
+      {
+        "id": "wiki-lincoln-motor",
+        "url": "https://en.wikipedia.org/wiki/Lincoln_Motor_Company",
+        "kind": "article",
+        "title": "Lincoln Motor Company",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "history-ford-lincoln",
+        "url": "https://www.history.com/this-day-in-history/february-4/ford-buys-lincoln",
+        "kind": "article",
+        "title": "Ford buys Lincoln, February 4, 1922",
+        "publisher": "History.com",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1927-05-26-model-t-ends",
+    "person_id": "ford",
+    "date": "1927-05-26",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Model T 停产，累计销量 1500 万辆",
+    "title_en": "Model T production ends after 15 million units",
+    "summary": "1927 年 5 月 26 日，第 1500 万辆 Model T 从高地公园工厂下线，标志着这款生产 19 年的传奇车型停产，亨利·福特和儿子埃德塞尔合影留念。此前 Model T 已在与通用雪佛兰的竞争中节节失利。停产期间工厂关闭，导致 6 万人临时失业，直到当年年底新一代 Model A 投产。",
+    "summary_en": "On May 26, 1927, the 15-millionth Ford Model T rolled off the Highland Park assembly line, ending the legendary car's 19-year run. Henry Ford and his son Edsel were photographed with the final unit. By then the Model T had been steadily losing share to GM's Chevrolet. Ford shuttered its factories to retool for the Model A, temporarily idling some 60,000 workers until production resumed later that year.",
+    "location": "Highland Park, Michigan, USA",
+    "key": true,
+    "tags": ["Model-T", "milestone", "15-million"],
+    "sources": [
+      {
+        "id": "wiki-model-t",
+        "url": "https://en.wikipedia.org/wiki/Ford_Model_T",
+        "kind": "article",
+        "title": "Ford Model T",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-15m-model-t",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/280343",
+        "kind": "image",
+        "title": "Henry Ford and Edsel Ford in Fifteen-Millionth Ford Model T Car, May 26, 1927",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1927-12-02-model-a-debut",
+    "person_id": "ford",
+    "date": "1927-12-02",
+    "date_precision": "day",
+    "type": "product",
+    "title": "推出 Model A 替代 Model T",
+    "title_en": "Unveils Model A as Model T successor",
+    "summary": "1927 年 12 月 2 日，福特汽车公司正式推出 Model A，首日观看人数据估计达 1000 万，两周内订单超 40 万。新车造型由埃德塞尔·福特主导，比 Model T 更低矮、更流畅，完全没有沿用旧件。Model A 至 1931 年共生产超过 400 万辆，帮助福特在 1929 年重新夺回美国汽车销量第一的位置。",
+    "summary_en": "On December 2, 1927, Ford Motor Company publicly unveiled the Model A, with an estimated 10 million people viewing it during the first week and over 400,000 orders within two weeks. Edsel Ford led the styling, giving the car lower, sleeker lines than the Model T and shared no parts with its predecessor. More than 4 million Model A's were built through 1931, helping Ford retake the U.S. sales lead in 1929.",
+    "location": "Detroit, Michigan, USA",
+    "key": true,
+    "tags": ["Model-A", "Edsel", "successor", "comeback"],
+    "sources": [
+      {
+        "id": "wiki-model-a",
+        "url": "https://en.wikipedia.org/wiki/Ford_Model_A_(1927-1931)",
+        "kind": "article",
+        "title": "Ford Model A (1927-1931)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "ford-corp-model-a",
+        "url": "https://corporate.ford.com/articles/history/the-1928-ford-model-a/",
+        "kind": "article",
+        "title": "1928 Ford Model A",
+        "publisher": "Ford Motor Company",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1929-10-21-greenfield-village",
+    "person_id": "ford",
+    "date": "1929-10-21",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "格林菲尔德村与亨利·福特博物馆奠基（光之金禧）",
+    "title_en": "Dedicates Greenfield Village & Henry Ford Museum (Light's Golden Jubilee)",
+    "summary": "1929 年 10 月 21 日——爱迪生发明白炽灯整 50 周年——福特在密歇根州迪尔伯恩举办\"光之金禧\"庆典，正式落成爱迪生研究院，即后来的格林菲尔德村与亨利·福特博物馆。出席者包括胡佛总统、爱迪生本人、奥维尔·莱特、玛丽·居里、洛克菲勒二世。博物馆 1933 年 6 月 22 日才向公众开放，如今已是美国最大的室内外历史综合博物馆之一。",
+    "summary_en": "On October 21, 1929 — exactly 50 years after Edison's incandescent lamp — Ford hosted the \"Light's Golden Jubilee\" in Dearborn, Michigan, formally dedicating the Edison Institute, later known as Greenfield Village and the Henry Ford Museum. Attendees included President Hoover, Thomas Edison himself, Orville Wright, Eve Curie, and John D. Rockefeller Jr. The museum opened to the public on June 22, 1933, and is today one of America's largest indoor-outdoor history museums.",
+    "location": "Dearborn, Michigan, USA",
+    "key": true,
+    "tags": ["Henry-Ford-Museum", "Greenfield-Village", "Edison", "philanthropy"],
+    "sources": [
+      {
+        "id": "wiki-thf",
+        "url": "https://en.wikipedia.org/wiki/The_Henry_Ford",
+        "kind": "article",
+        "title": "The Henry Ford",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-origins",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-resources/popular-topics/origins-of-thf",
+        "kind": "article",
+        "title": "Origins of The Henry Ford",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1932-03-31-v8-launch",
+    "person_id": "ford",
+    "date": "1932-03-31",
+    "date_precision": "day",
+    "type": "product",
+    "title": "推出 Flathead V-8 引擎，开创平民级 V8 时代",
+    "title_en": "Launches Flathead V-8 — first mass-market V8 engine",
+    "summary": "1932 年 3 月 31 日，福特推出搭载 Flathead V-8 引擎的 Model 18，首创把 V8 引擎放进 500 美元以下家庭轿车。这台 221 立方英寸（3.6 升）引擎采用一体铸造曲轴箱与气缸体，功率约 65 马力。Flathead V-8 生产到 1953 年，深受机修工与改装爱好者喜爱，也成为 30 年代美国大萧条期间福特挽回市场的关键产品。",
+    "summary_en": "On March 31, 1932, Ford unveiled the Model 18 powered by its new Flathead V-8 engine — the first V8 light and cheap enough to go in a sub-$500 family car. The 221-cubic-inch (3.6 L) engine cast crankcase and cylinder banks as one piece and produced about 65 horsepower. Built through 1953, the Flathead V-8 became a favorite among mechanics and hot-rodders and was Ford's key counterattack against Chevrolet during the Great Depression.",
+    "location": "Dearborn, Michigan, USA",
+    "key": true,
+    "tags": ["V-8", "Flathead", "engine", "mass-market"],
+    "sources": [
+      {
+        "id": "wiki-flathead-v8",
+        "url": "https://en.wikipedia.org/wiki/Ford_flathead_V8_engine",
+        "kind": "article",
+        "title": "Ford flathead V8 engine",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-v8-engine",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/100456/",
+        "kind": "image",
+        "title": "1932 Ford V-8 Engine, No. 1",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1937-05-26-battle-overpass",
+    "person_id": "ford",
+    "date": "1937-05-26",
+    "date_precision": "day",
+    "type": "other",
+    "title": "天桥之战——福特工厂保安暴打 UAW 组织者",
+    "title_en": "Battle of the Overpass — Ford security beats UAW organizers",
+    "summary": "1937 年 5 月 26 日，UAW 组织者沃尔特·鲁瑟和理查德·弗兰肯斯廷在迪尔伯恩福特河鲁日工厂天桥发派传单。在一名《底特律新闻》摄影记者请他们摆姿势拍照之际，福特\"服务部\"约 40 名安保人员从背后袭击，16 人受伤（含 7 名女性）。被偷藏起来的照片随后在全国发表，逆转了舆论，成为美国劳工运动史的经典事件。",
+    "summary_en": "On May 26, 1937, UAW organizers Walter Reuther and Richard Frankensteen were leafleting at the overpass leading into Ford's River Rouge complex in Dearborn. As a Detroit News photographer asked them to pose, around 40 men from Ford's \"Service Department\" attacked from behind, injuring 16 (including 7 women). Photographs smuggled out by the photographer ran nationally, swung public opinion against Ford, and became a defining moment in American labor history.",
+    "location": "River Rouge, Dearborn, Michigan, USA",
+    "key": true,
+    "tags": ["Battle-of-the-Overpass", "UAW", "Reuther", "labor"],
+    "sources": [
+      {
+        "id": "wiki-battle-overpass",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_the_Overpass",
+        "kind": "article",
+        "title": "Battle of the Overpass",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "smithsonian-overpass",
+        "url": "https://www.smithsonianmag.com/history/how-the-ford-motor-company-won-a-battle-and-lost-ground-45814533/",
+        "kind": "article",
+        "title": "How the Ford Motor Company Won a Battle and Lost Ground",
+        "publisher": "Smithsonian Magazine",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1938-07-30-german-eagle",
+    "person_id": "ford",
+    "date": "1938-07-30",
+    "date_precision": "day",
+    "type": "award",
+    "title": "在迪尔伯恩接受纳粹德国\"德意志雄鹰大十字勋章\"（争议）",
+    "title_en": "Accepts Nazi Germany's Grand Cross of the German Eagle (controversial)",
+    "summary": "1938 年 7 月 30 日，福特 75 岁生日当天，德国驻克利夫兰总领事卡尔·卡普和驻底特律领事弗里茨·黑勒在迪尔伯恩为他颁发\"德意志雄鹰大十字勋章\"，这是希特勒 1937 年专为外国人设立的最高荣誉，福特是首位获此勋章的美国人。希特勒在《我的奋斗》中专门称赞福特，办公桌旁挂着他的画像。福特反驳说接受这枚勋章并不代表他认同纳粹主义。",
+    "summary_en": "On July 30, 1938 — Ford's 75th birthday — Karl Kapp, German consul in Cleveland, and Fritz Heller, German consular representative in Detroit, presented Henry Ford with the Grand Cross of the Supreme Order of the German Eagle in Dearborn. The decoration, created by Hitler in 1937 for foreigners, made Ford its first American recipient. Hitler praised Ford in Mein Kampf and kept his portrait next to his desk. Ford insisted that accepting the medal \"does not… involve any sympathy on my part with Nazism.\"",
+    "location": "Dearborn, Michigan, USA",
+    "key": true,
+    "tags": ["German-Eagle", "Nazi", "controversy", "antisemitism"],
+    "sources": [
+      {
+        "id": "wiki-order-german-eagle",
+        "url": "https://en.wikipedia.org/wiki/Order_of_the_German_Eagle",
+        "kind": "article",
+        "title": "Order of the German Eagle",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "wapo-ford-nazi",
+        "url": "https://www.washingtonpost.com/wp-srv/national/daily/nov98/nazicars30.htm",
+        "kind": "article",
+        "title": "Ford and GM Scrutinized for Alleged Nazi Collaboration",
+        "publisher": "The Washington Post",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1941-06-20-uaw-contract",
+    "person_id": "ford",
+    "date": "1941-06-20",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "签署与 UAW 的首份劳资合同——福特最后承认工会",
+    "title_en": "Signs first contract with the UAW — Ford finally recognizes the union",
+    "summary": "1941 年 4 月 1 日，福特解雇整个 UAW 申诉委员会的 8 名工人，5 万工人涌出河鲁日工厂罢工，几乎整厂停摆。在妻子克拉拉的强力劝说下——她威胁要离开他——福特让步。1941 年 6 月 20 日，福特汽车公司与 UAW-CIO 签署首份劳资合同，成为最后一家承认工会的美国大型车企。",
+    "summary_en": "On April 1, 1941, Ford fired all eight members of the UAW grievance committee; 50,000 River Rouge workers walked out and shut the plant down. Under intense pressure from his wife Clara — who reportedly threatened to leave him — Ford relented. On June 20, 1941, Ford Motor Company signed its first contract with the UAW-CIO, becoming the last major U.S. automaker to recognize organized labor.",
+    "location": "Dearborn, Michigan, USA",
+    "key": true,
+    "tags": ["UAW", "labor", "contract", "Clara-Ford"],
+    "sources": [
+      {
+        "id": "history-ford-uaw",
+        "url": "https://www.history.com/this-day-in-history/June-20/ford-signs-first-contract-with-autoworkers-union",
+        "kind": "article",
+        "title": "Ford signs first contract with autoworkers' union, June 20, 1941",
+        "publisher": "History.com",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      },
+      {
+        "id": "wiki-uaw",
+        "url": "https://en.wikipedia.org/wiki/United_Auto_Workers",
+        "kind": "article",
+        "title": "United Auto Workers",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      }
+    ]
+  },
+  {
+    "id": "ford-1945-09-21-hands-to-grandson",
+    "person_id": "ford",
+    "date": "1945-09-21",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "把公司交给孙子小亨利·福特二世",
+    "title_en": "Hands the company over to grandson Henry Ford II",
+    "summary": "1943 年儿子埃德塞尔病逝后，80 岁的亨利·福特短暂复任总裁，但身体虚弱、决策受随从摆布，公司接近破产。妻子克拉拉与儿媳埃莉诺联手以出售三分之四股权相威胁，迫使他让位。1945 年 9 月 21 日，28 岁的孙子小亨利·福特二世正式接任福特汽车公司总裁，开始战后大刀阔斧的现代化改革。",
+    "summary_en": "After his son Edsel died in 1943, the 80-year-old Henry Ford briefly resumed the presidency but was too frail to run the company, which drifted toward bankruptcy. His wife Clara and daughter-in-law Eleanor jointly threatened to sell their three-quarters of the stock unless he stepped aside. On September 21, 1945, the 28-year-old grandson Henry Ford II was sworn in as president of Ford Motor Company and launched a sweeping postwar modernization.",
+    "location": "Dearborn, Michigan, USA",
+    "key": true,
+    "tags": ["succession", "Henry-Ford-II", "retirement", "family"],
+    "sources": [
+      {
+        "id": "wiki-henry-ford-ii",
+        "url": "https://en.wikipedia.org/wiki/Henry_Ford_II",
+        "kind": "article",
+        "title": "Henry Ford II",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "detroit-historical-hf2",
+        "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/ford-ii-henry",
+        "kind": "article",
+        "title": "Ford, II Henry",
+        "publisher": "Detroit Historical Society",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  },
+  {
+    "id": "ford-1947-04-07-death",
+    "person_id": "ford",
+    "date": "1947-04-07",
+    "date_precision": "day",
+    "type": "life",
+    "title": "在迪尔伯恩费尔莱因庄园因脑溢血逝世",
+    "title_en": "Dies of cerebral hemorrhage at Fair Lane in Dearborn",
+    "summary": "1947 年 4 月 7 日晚 11:40，亨利·福特因脑溢血在迪尔伯恩费尔莱因庄园病逝，享年 83 岁。当晚鲁日河泛滥导致庄园发电厂停电，电话不通，只能派司机找医生。妻子克拉拉一直守在床边。葬礼在底特律圣保罗座堂举行，数千人冒雨在格林菲尔德村瞻仰遗容。",
+    "summary_en": "Henry Ford died of a cerebral hemorrhage at 11:40 p.m. on April 7, 1947, at his Fair Lane estate in Dearborn, aged 83. Heavy rain had flooded the Rouge River and knocked out the estate's power and telephone that night, forcing the chauffeur to drive for a doctor. Clara was at his bedside. His funeral was held at St. Paul's Episcopal Cathedral in Detroit, with thousands paying respects at Greenfield Village.",
+    "location": "Fair Lane, Dearborn, Michigan, USA",
+    "key": true,
+    "tags": ["death", "Fair-Lane", "Dearborn", "funeral"],
+    "sources": [
+      {
+        "id": "wiki-ford-bio",
+        "url": "https://en.wikipedia.org/wiki/Henry_Ford",
+        "kind": "article",
+        "title": "Henry Ford",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "license": "cc-by-sa"
+      },
+      {
+        "id": "thf-funeral-mourners",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/56310/",
+        "kind": "image",
+        "title": "Mourners Paying Last Respects to Henry Ford at Lovett Hall, April 9, 1947",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "license": "all-rights-reserved"
+      }
+    ]
+  }
+]

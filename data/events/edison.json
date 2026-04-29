@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "edison-1847-02-11-birth",
+    "person_id": "edison",
+    "date": "1847-02-11",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于俄亥俄州米兰镇",
+    "title_en": "Born in Milan, Ohio",
+    "summary": "1847 年 2 月 11 日，托马斯·阿尔瓦·爱迪生出生于俄亥俄州米兰，是父亲塞缪尔·奥格登·爱迪生和母亲南希·马修斯·埃利奥特的第七个也是最小的孩子。1854 年全家迁往密歇根州休伦港。爱迪生几乎没有受过正规学校教育，主要由曾任教师的母亲在家中教导阅读、写作与算术。他自幼对自然科学和机械装置怀有强烈好奇，这种自学习惯成为他一生的工作方式。",
+    "summary_en": "Thomas Alva Edison was born on February 11, 1847, in Milan, Ohio, the seventh and last child of Samuel Ogden Edison Jr. and Nancy Matthews Elliott. The family moved to Port Huron, Michigan, in 1854. Edison received almost no formal schooling — his mother, a former teacher, taught him reading, writing, and arithmetic at home. From an early age he displayed an intense curiosity about natural science and mechanical devices, and this self-taught habit shaped his lifelong working method.",
+    "location": "Milan, Ohio, USA",
+    "key": true,
+    "tags": [
+      "出生",
+      "俄亥俄",
+      "童年",
+      "母亲教育"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-edison-bio",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+        "kind": "article",
+        "title": "Thomas Edison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "loc-edison-life",
+        "url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/biography/life-of-thomas-alva-edison/",
+        "kind": "article",
+        "title": "Life of Thomas Alva Edison",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1862-08-mackenzie-rescue",
+    "person_id": "edison",
+    "date": "1862-08-01",
+    "date_precision": "month",
+    "type": "life",
+    "title": "在密歇根救下小吉米·麦肯齐——以电报训练为报偿",
+    "title_en": "Saves Jimmie Mackenzie from oncoming train — rewarded with telegraphy training",
+    "summary": "1862 年 8 月，15 岁的爱迪生在密歇根州克莱门斯山火车站救下了即将被一节调度货车撞到的两岁男孩吉米·麦肯齐。男孩的父亲——站长兼电报员詹姆斯·U·麦肯齐——为了表达感激，免费教爱迪生学习摩尔斯电报系统。这项技能直接打开了爱迪生最早的职业之路：他从此辗转加拿大与美国各地担任夜班电报员，并在工作中开始构想电气与机械装置的改进方案。这是他从一个铁路报童转变为发明家的关键起点。",
+    "summary_en": "In August 1862, 15-year-old Edison saved two-year-old Jimmie Mackenzie from being struck by a runaway boxcar at the Mount Clemens, Michigan station. To repay the debt, Jimmie's father — station agent and telegrapher James U. Mackenzie — offered to teach Edison the Morse telegraphic system free of charge. The skill opened Edison's first career path: he became an itinerant night-shift telegraph operator across Canada and the United States, and began sketching improvements to electrical and mechanical devices on the job. It was the pivot point that turned a railroad newsboy into an inventor.",
+    "location": "Mount Clemens, Michigan, USA",
+    "key": true,
+    "tags": [
+      "电报",
+      "童年",
+      "导师",
+      "贵人"
+    ],
+    "sources": [
+      {
+        "id": "biography-edison-train-rescue",
+        "url": "https://www.biography.com/inventors/a69474046/thomas-edison-train-accident",
+        "kind": "article",
+        "title": "At 15, Thomas Edison Pulled a Child From a Train—That Rescue Changed the Course of History",
+        "publisher": "Biography.com",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-edison-bio",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+        "kind": "article",
+        "title": "Thomas Edison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1869-06-01-first-patent",
+    "person_id": "edison",
+    "date": "1869-06-01",
+    "date_precision": "day",
+    "type": "product",
+    "title": "首项专利——电动投票记录仪",
+    "title_en": "First patent granted — electric vote recorder",
+    "summary": "1869 年 6 月 1 日，爱迪生获得他人生中第一项美国专利（U.S. 90,646），发明的是一台电动投票记录仪：议员只需扳动开关至\"赞成\"或\"反对\"，化学处理过的纸张即可即时打印出表决结果。爱迪生当时居住在波士顿。他将该装置推销给国会，但议员拒绝采购——他们要的是慢速投票，以便有时间游说反对方。这次商业失败教会了爱迪生一条终生原则：永远先研究市场需求，再去发明。",
+    "summary_en": "On June 1, 1869, Edison received his first U.S. patent (U.S. 90,646) for an electric vote recorder. Legislators would flick a switch to \"yes\" or \"no,\" and chemically treated paper would instantly print the tally. Edison, then based in Boston, pitched the machine to Congress — but legislators refused to buy it, since slow roll-call voting gave them time to lobby the opposition. The commercial failure taught Edison a principle that guided the rest of his life: study market demand first, then invent.",
+    "location": "Boston, Massachusetts, USA",
+    "key": true,
+    "tags": [
+      "专利",
+      "投票记录仪",
+      "失败",
+      "市场教训"
+    ],
+    "sources": [
+      {
+        "id": "google-patent-90646",
+        "url": "https://patents.google.com/patent/US90646A/en",
+        "kind": "document",
+        "title": "US90646A — Improvement in electrographic vote-recorder",
+        "publisher": "Google Patents (USPTO)",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rutgers-edison-vote-recorder",
+        "url": "https://edison.rutgers.edu/life-of-edison/inventions?catid=91&id=543:vote-recorder&view=article",
+        "kind": "article",
+        "title": "Vote Recorder — Thomas A. Edison Papers",
+        "publisher": "Rutgers University",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1871-12-25-marries-mary",
+    "person_id": "edison",
+    "date": "1871-12-25",
+    "date_precision": "day",
+    "type": "life",
+    "title": "圣诞节迎娶玛丽·斯蒂尔韦尔",
+    "title_en": "Marries Mary Stilwell on Christmas Day",
+    "summary": "1871 年 12 月 25 日，24 岁的爱迪生与 16 岁的玛丽·斯蒂尔韦尔——他在新泽西工厂雇用的纽瓦克锯木工之女——在简短交往后于圣诞节当天结婚。两人育有玛丽昂、托马斯小爱迪生和威廉·莱斯利三个孩子。爱迪生几乎全部时间都投入实验室，玛丽则承担起家庭。她于 1884 年 8 月 9 日在 29 岁时去世——传统上记载死于伤寒，但近年罗格斯大学的研究指出她可能长期使用吗啡并最终过量。",
+    "summary_en": "On December 25, 1871, 24-year-old Edison married 16-year-old Mary Stilwell — daughter of a Newark sawyer who worked at Edison's New Jersey factory — after a brief courtship. They had three children: Marion, Thomas Jr., and William Leslie. Edison devoted almost all his time to the laboratory while Mary held the family together. She died on August 9, 1884, at age 29 — traditionally recorded as typhoid fever, though recent Rutgers University scholarship suggests she may have been a long-term morphine user who overdosed.",
+    "location": "Newark, New Jersey, USA",
+    "key": false,
+    "tags": [
+      "婚姻",
+      "玛丽·斯蒂尔韦尔",
+      "家庭"
+    ],
+    "sources": [
+      {
+        "id": "nps-mary-stilwell",
+        "url": "https://www.nps.gov/edis/learn/historyculture/mary-stillwell-edison.htm",
+        "kind": "article",
+        "title": "Mary Stilwell Edison — Thomas Edison National Historical Park",
+        "publisher": "U.S. National Park Service",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "neh-heartbreak-menlo-park",
+        "url": "https://www.neh.gov/divisions/research/featured-project/heartbreak-menlo-park",
+        "kind": "article",
+        "title": "Heartbreak at Menlo Park",
+        "publisher": "National Endowment for the Humanities",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1876-03-25-menlo-park",
+    "person_id": "edison",
+    "date": "1876-03-25",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在新泽西门洛帕克建立\"发明工厂\"",
+    "title_en": "Establishes the Menlo Park \"invention factory\" in New Jersey",
+    "summary": "1876 年 3 月 25 日，爱迪生位于新泽西门洛帕克的两层白色木结构实验室落成，几天后即正式入驻。这是世界上第一个有组织、有目的地进行工业研发的实验室——爱迪生宣称他的目标是\"每十天搞一项小发明，每六个月搞一项大发明\"。从 1876 至 1884 年，门洛帕克实验室共产出 400 余项电气与机电领域的专利，其中包括留声机、改进型电话发射器和实用白炽灯系统。它是现代工业研发实验室——从贝尔实验室到 Google X——的鼻祖。",
+    "summary_en": "On March 25, 1876, Edison's two-story white wooden laboratory in Menlo Park, New Jersey, was completed; he moved in days later. It was the world's first laboratory organized to do industrial research and development on a continuous, deliberate basis — Edison famously said his goal was \"a minor invention every ten days and a big thing every six months or so.\" From 1876 through 1884 the Menlo Park lab generated more than 400 patents in electrical and electromechanical fields, including the phonograph, an improved telephone transmitter, and a practical incandescent lighting system. It was the ancestor of every modern industrial R&D lab from Bell Labs to Google X.",
+    "location": "Menlo Park, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "门洛帕克",
+      "发明工厂",
+      "实验室",
+      "创立"
+    ],
+    "sources": [
+      {
+        "id": "menlo-park-museum-history",
+        "url": "https://www.menloparkmuseum.org/history",
+        "kind": "article",
+        "title": "Thomas Edison and Menlo Park",
+        "publisher": "Thomas Edison Center at Menlo Park",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rutgers-building-the-lab",
+        "url": "https://edison.rutgers.edu/life-of-edison/biographical-essays/factory/building-the-lab",
+        "kind": "article",
+        "title": "Building the Lab — Thomas A. Edison Papers",
+        "publisher": "Rutgers University",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "ethw-menlo-park-milestone",
+        "url": "https://ethw.org/Milestones:Thomas_Alva_Edison_Historic_Site_at_Menlo_Park,_1876",
+        "kind": "article",
+        "title": "Milestones: Thomas Alva Edison Historic Site at Menlo Park, 1876",
+        "publisher": "IEEE Engineering and Technology History Wiki",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1877-12-06-phonograph",
+    "person_id": "edison",
+    "date": "1877-12-06",
+    "date_precision": "day",
+    "type": "product",
+    "title": "在门洛帕克首次演示留声机——\"玛丽有只小羊羔\"",
+    "title_en": "First demonstrates the phonograph at Menlo Park — \"Mary Had a Little Lamb\"",
+    "summary": "1877 年 12 月 6 日，爱迪生命机械师约翰·克鲁西（John Kruesi）刚刚组装完毕的圆筒留声机交到他手中：一根铜质圆筒缠以锡箔，由一根针尖在锡箔上记录声音的振动。爱迪生对着话筒大声朗诵儿歌\"玛丽有只小羊羔（Mary Had a Little Lamb）\"——机器随即清晰地复述出他的声音，全实验室人都被震惊了。这是人类历史上第一次让声音被记录与复现。爱迪生于 12 月 24 日提交专利申请；这项发明也为他赢得了\"门洛帕克的奇才（Wizard of Menlo Park）\"的称号。",
+    "summary_en": "On December 6, 1877, Edison was handed the just-completed cylinder phonograph by his machinist John Kruesi: a brass cylinder wrapped in tinfoil, with a stylus that pressed sound vibrations into the foil. Edison shouted the nursery rhyme \"Mary Had a Little Lamb\" into the diaphragm — and the machine clearly played his voice back, astonishing the entire laboratory. It was the first time in human history that sound had been captured and reproduced. Edison filed the patent application on December 24; the invention earned him the nickname \"the Wizard of Menlo Park.\"",
+    "location": "Menlo Park, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "留声机",
+      "门洛帕克",
+      "声音录制",
+      "首演"
+    ],
+    "sources": [
+      {
+        "id": "loc-cylinder-phonograph-history",
+        "url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+        "kind": "article",
+        "title": "History of the Cylinder Phonograph",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rutgers-tinfoil-phonograph",
+        "url": "https://edison.rutgers.edu/life-of-edison/inventions?catid=91&id=542:tinfoil-phonograph-invention&view=article",
+        "kind": "article",
+        "title": "Tinfoil Phonograph — Thomas A. Edison Papers",
+        "publisher": "Rutgers University",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "embed_url": "https://www.youtube.com/watch?v=KRnTFiXkNFw"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1878-10-15-edison-electric-light",
+    "person_id": "edison",
+    "date": "1878-10-15",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "成立爱迪生电灯公司——通用电气的前身",
+    "title_en": "Founds Edison Electric Light Company — forerunner of General Electric",
+    "summary": "1878 年 10 月 15 日，爱迪生与朋友格罗夫纳·洛瑞（Grosvenor Lowry）在 J.P. 摩根和范德比尔特家族的支持下，以 30 万美元资本创立了爱迪生电灯公司。该公司是一家专利持有型实体，目标明确：为爱迪生的白炽灯研究提供资金，并最终为整座城市建设供电系统。1889 年，爱迪生将其旗下三家电灯制造公司整合入这一实体；1890 年再合并为爱迪生通用电气公司；1892 年与汤姆森-休斯顿公司合并，正式成为通用电气（General Electric）。",
+    "summary_en": "On October 15, 1878, Edison and his friend Grosvenor Lowry founded the Edison Electric Light Company with $300,000 of capital backed by J. P. Morgan and the Vanderbilt family. It was a patent-holding entity with one purpose: fund Edison's incandescent lamp research and ultimately build a citywide electrical lighting system. In 1889 Edison consolidated his three electric-light manufacturing companies into the entity; in 1890 it became Edison General Electric; and in 1892 it merged with Thomson-Houston to become General Electric.",
+    "location": "New York, New York, USA",
+    "key": true,
+    "tags": [
+      "爱迪生电灯公司",
+      "通用电气前身",
+      "JP摩根",
+      "融资"
+    ],
+    "sources": [
+      {
+        "id": "hagley-edison-electric-light",
+        "url": "https://www.hagley.org/research/news/hagley-vault/thomas-edisons-edison-electric-light-company-began-operations",
+        "kind": "article",
+        "title": "Thomas Edison's Edison Electric Light Company began operations",
+        "publisher": "Hagley Museum and Library",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rutgers-edison-general-electric",
+        "url": "https://edison.rutgers.edu/life-of-edison/companies/company-details/electric-light,-domestic/edison-general-electric-company",
+        "kind": "article",
+        "title": "Edison General Electric Company — Thomas A. Edison Papers",
+        "publisher": "Rutgers University",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1879-10-22-light-bulb",
+    "person_id": "edison",
+    "date": "1879-10-22",
+    "date_precision": "day",
+    "type": "product",
+    "title": "实用白炽灯首次成功运转——燃烧 13.5 小时",
+    "title_en": "Practical incandescent lamp burns successfully for 13.5 hours",
+    "summary": "1879 年 10 月 21 日凌晨 1:30，爱迪生与门洛帕克实验室的五位助手将一根碳化棉线灯丝接通电源——这是该系列实验中的第九次。整整 13 个半小时之后，到次日（10 月 22 日）下午 3:00，灯丝仍在持续发光。重要性不在于这是\"第一只白炽灯\"——前人已经造出过——而在于这是第一只在经济上、实用上、耐久性上都可用于普及的白炽灯。1879 年 11 月 4 日，爱迪生申请了第 223,898 号专利。12 月 31 日，3000 余人涌入门洛帕克实验室亲眼目睹这一新光源。",
+    "summary_en": "At 1:30 a.m. on October 21, 1879, Edison and five Menlo Park associates connected a carbonized cotton-thread filament to a power source — the ninth experiment in a long series. Thirteen and a half hours later, at 3:00 p.m. on October 22, it was still glowing. The significance was not that this was \"the first incandescent lamp\" — earlier ones existed — but that it was the first to be economical, practical, and durable enough for universal adoption. Edison filed U.S. patent 223,898 on November 4, 1879. On December 31, more than 3,000 people streamed into the Menlo Park lab to see the new light themselves.",
+    "location": "Menlo Park, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "白炽灯",
+      "门洛帕克",
+      "电力",
+      "突破"
+    ],
+    "sources": [
+      {
+        "id": "ethw-edison-incandescent-lamp",
+        "url": "https://ethw.org/Edison's_Incandescent_Lamp",
+        "kind": "article",
+        "title": "Edison's Incandescent Lamp",
+        "publisher": "IEEE Engineering and Technology History Wiki",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "doe-history-light-bulb",
+        "url": "https://www.energy.gov/articles/history-light-bulb",
+        "kind": "article",
+        "title": "The History of the Light Bulb",
+        "publisher": "U.S. Department of Energy",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": [],
+        "quotes": [
+          {
+            "text": "We will make electricity so cheap that only the rich will burn candles.",
+            "text_zh": "我们要让电变得如此便宜，只有富人才会去点蜡烛。",
+            "text_en": "We will make electricity so cheap that only the rich will burn candles.",
+            "speaker": "Thomas Edison",
+            "context": "Attributed to Edison around 1880, popularized in promotional material for the Pearl Street Station era. The exact original sourcing is disputed, but the line summarizes Edison's stated goal for electric lighting."
+          }
+        ]
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1882-09-04-pearl-street",
+    "person_id": "edison",
+    "date": "1882-09-04",
+    "date_precision": "day",
+    "type": "product",
+    "title": "珍珠街电站启用——世界第一座商业中心发电站",
+    "title_en": "Pearl Street Station opens — world's first commercial central power station",
+    "summary": "1882 年 9 月 4 日下午 3 点，爱迪生在曼哈顿下城珍珠街 257 号启动了珍珠街电站——世界上第一个永久性的中央发电站。它最初为 82 个客户的 400 盏灯供电，使用六台 100 千瓦的直流发电机，由煤炭驱动。这是\"中央发电+输配+计量\"完整电力商业系统的诞生：爱迪生不只发明了灯泡，还发明了让灯泡能在城市中规模使用的整个系统——这是真正改变文明的部分。该站持续运行至 1890 年才出现首次中断。",
+    "summary_en": "At 3 p.m. on September 4, 1882, at 257 Pearl Street in Lower Manhattan, Edison switched on the world's first permanent central electric generating station. It initially powered 400 lamps for 82 customers, running six 100 kW direct-current dynamos burning coal. This was the birth of the complete commercial electric system — central generation + transmission + distribution + metering. Edison did not merely invent the bulb; he invented the entire system that made the bulb usable at city scale — that was the civilization-shifting part. Pearl Street ran without interruption until 1890.",
+    "location": "Pearl Street Station, Lower Manhattan, New York, USA",
+    "key": true,
+    "tags": [
+      "珍珠街电站",
+      "电力系统",
+      "曼哈顿",
+      "首座电站"
+    ],
+    "sources": [
+      {
+        "id": "ethw-pearl-street-milestone",
+        "url": "https://ethw.org/Milestones:Pearl_Street_Station,_1882",
+        "kind": "article",
+        "title": "Milestones: Pearl Street Station, 1882",
+        "publisher": "IEEE Engineering and Technology History Wiki",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-pearl-street",
+        "url": "https://en.wikipedia.org/wiki/Pearl_Street_Station",
+        "kind": "article",
+        "title": "Pearl Street Station (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1884-08-09-mary-dies",
+    "person_id": "edison",
+    "date": "1884-08-09",
+    "date_precision": "day",
+    "type": "life",
+    "title": "第一任妻子玛丽·斯蒂尔韦尔病逝",
+    "title_en": "First wife Mary Stilwell dies at age 29",
+    "summary": "1884 年 8 月 9 日，玛丽·斯蒂尔韦尔·爱迪生在门洛帕克家中去世，年仅 29 岁，留下三个孩子。死因记载历来为\"伤寒\"，但近年罗格斯大学爱迪生论文项目的研究指出她长期使用吗啡，可能死于过量。爱迪生此后陷入深度悲伤，门洛帕克实验室一度停转。这是爱迪生离开门洛帕克、迁往西橙园建立新实验室的重要心理动因之一——他无法继续在玛丽病逝的房子旁边工作。",
+    "summary_en": "On August 9, 1884, Mary Stilwell Edison died at the Menlo Park home, aged 29, leaving three children. The cause was historically recorded as typhoid fever, though recent research from the Rutgers Edison Papers Project suggests she was a longtime morphine user who may have overdosed. Edison fell into deep grief, and work at the Menlo Park laboratory paused. The death was a major psychological reason Edison left Menlo Park to build a new laboratory at West Orange — he could not bear to keep working next to the house where Mary died.",
+    "location": "Menlo Park, New Jersey, USA",
+    "key": false,
+    "tags": [
+      "玛丽·斯蒂尔韦尔",
+      "丧妻",
+      "门洛帕克"
+    ],
+    "sources": [
+      {
+        "id": "nps-mary-stilwell",
+        "url": "https://www.nps.gov/edis/learn/historyculture/mary-stillwell-edison.htm",
+        "kind": "article",
+        "title": "Mary Stilwell Edison — Thomas Edison National Historical Park",
+        "publisher": "U.S. National Park Service",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "neh-heartbreak-menlo-park",
+        "url": "https://www.neh.gov/divisions/research/featured-project/heartbreak-menlo-park",
+        "kind": "article",
+        "title": "Heartbreak at Menlo Park",
+        "publisher": "National Endowment for the Humanities",
+        "lang": "en",
+        "primary": false,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1886-02-24-marries-mina",
+    "person_id": "edison",
+    "date": "1886-02-24",
+    "date_precision": "day",
+    "type": "life",
+    "title": "迎娶米娜·米勒——并以\"格伦蒙\"豪宅为聘",
+    "title_en": "Marries Mina Miller; gives her Glenmont mansion as a wedding gift",
+    "summary": "1886 年 2 月 24 日，39 岁的爱迪生迎娶了 20 岁的米娜·米勒——俄亥俄阿克伦农机制造大亨刘易斯·米勒的女儿。爱迪生为新婚买下了位于新泽西西橙园利夫林公园中的 23 房大宅\"格伦蒙（Glenmont）\"作为聘礼。米娜成为爱迪生前一段婚姻三个孩子的继母，并自己再生育玛德琳、查尔斯和西奥多三个孩子。米娜将自己定义为\"家庭执行官\"——她以科学的方式管理整个家族系统，让爱迪生能心无旁骛地投入工作。",
+    "summary_en": "On February 24, 1886, 39-year-old Edison married 20-year-old Mina Miller, daughter of Akron, Ohio agricultural-machinery magnate Lewis Miller. Edison bought the 23-room mansion \"Glenmont\" in Llewellyn Park, West Orange, New Jersey, as a wedding gift. Mina became stepmother to Edison's three children from his first marriage and bore three more — Madeleine, Charles, and Theodore. She defined herself as a \"home executive,\" managing the entire family system as scientifically as Edison ran his lab so that he could disappear into his work.",
+    "location": "Akron, Ohio, USA",
+    "key": false,
+    "tags": [
+      "米娜·米勒",
+      "格伦蒙",
+      "婚姻",
+      "西橙园"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-mina-miller",
+        "url": "https://en.wikipedia.org/wiki/Mina_Miller_Edison",
+        "kind": "article",
+        "title": "Mina Miller Edison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "smithsonian-mina-miller",
+        "url": "https://www.smithsonianmag.com/history/mina-miller-edison-was-more-than-the-wife-of-the-wizard-of-menlo-park-180981726/",
+        "kind": "article",
+        "title": "Mina Miller Edison Was Much More Than the Wife of the 'Wizard of Menlo Park'",
+        "publisher": "Smithsonian Magazine",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1887-west-orange-lab",
+    "person_id": "edison",
+    "date": "1887-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "建立西橙园实验室——他生涯最高产的总部",
+    "title_en": "Opens the West Orange laboratory — the most productive lab of his career",
+    "summary": "1887 年，爱迪生在新泽西西橙园建成了一座规模十倍于门洛帕克的实验室综合体。他在 1887 年 8 月写道：\"我将拥有现存最装备齐全、最大规模的实验室\"，并称其\"具备无可比拟的、能够快速且廉价地把发明开发出来的设施。\"实际效果如其所料：这里产出了爱迪生 1093 项美国专利中超过一半，包括实用留声机、电影摄影机、改进型蓄电池、荧光透视镜以及合成橡胶。该实验室自 1887 年运行至 1931 年爱迪生去世，是世界上第一个真正现代意义上的工业研究综合体。",
+    "summary_en": "In 1887, Edison opened a laboratory complex in West Orange, New Jersey, that was ten times the size of Menlo Park. He wrote in August 1887: \"I will have the best equipped & largest Laboratory extant,\" and \"facilities incomparably superior to any other for rapid and cheap development of an invention.\" It delivered: more than half of Edison's 1,093 U.S. patents came out of West Orange, including the practical phonograph, the motion picture camera, the improved storage battery, the fluoroscope, and synthetic rubber. The lab operated from 1887 until Edison's death in 1931 — the first truly modern industrial research complex.",
+    "location": "West Orange, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "西橙园实验室",
+      "工业研发",
+      "Edison National Historical Park",
+      "扩张"
+    ],
+    "sources": [
+      {
+        "id": "ethw-west-orange-milestone",
+        "url": "https://ethw.org/Milestones:Thomas_A._Edison_West_Orange_Laboratories_and_Factories,_1887",
+        "kind": "article",
+        "title": "Milestones: Thomas A. Edison West Orange Laboratories and Factories, 1887",
+        "publisher": "IEEE Engineering and Technology History Wiki",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rutgers-world-class-lab",
+        "url": "https://edison.rutgers.edu/life-of-edison/biographical-essays/menlo-west-orange/a-world-class-laboratory",
+        "kind": "article",
+        "title": "A World-Class Laboratory — Thomas A. Edison Papers",
+        "publisher": "Rutgers University",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1888-perfected-phonograph",
+    "person_id": "edison",
+    "date": "1888-05-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "推出\"完美型\"留声机；提出活动电影机概念",
+    "title_en": "Releases the Perfected Phonograph; conceives the Kinetoscope",
+    "summary": "1888 年 5 月，爱迪生重新设计了留声机，推出\"改进型\"和\"完美型\"留声机：原始的锡箔被替换为蜡圆筒，并由电池驱动的电机提供稳定转速，使其能记录复杂得多的声音——从语音到完整的音乐演奏。同年，受爱德沃德·迈布里奇 2 月访问西橙园实验室的启发，爱迪生开始构想活动电影机（Kinetoscope）：一台\"为眼睛做留声机为耳朵所做之事\"的设备。1888 年 10 月 17 日，爱迪生向专利局提交保护申请文件（caveat），描述了这一记录与再现运动影像的装置概念。",
+    "summary_en": "In May 1888, Edison redesigned the phonograph and released the Improved and then the Perfected Phonograph: the original tinfoil was replaced by a hard wax cylinder, and a battery-driven electric motor provided stable speed, so the machine could record far more complex sounds — from voice to full musical performances. The same year, inspired by Eadweard Muybridge's February visit to the West Orange lab, Edison began conceiving the Kinetoscope — a device that would \"do for the eye what the phonograph does for the ear.\" On October 17, 1888, he filed a patent caveat describing the apparatus.",
+    "location": "West Orange, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "完美留声机",
+      "蜡圆筒",
+      "活动电影机",
+      "Muybridge"
+    ],
+    "sources": [
+      {
+        "id": "loc-cylinder-phonograph-history",
+        "url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+        "kind": "article",
+        "title": "History of the Cylinder Phonograph",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "loc-origins-motion-pictures",
+        "url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/origins-of-motion-pictures/",
+        "kind": "article",
+        "title": "Origins of Motion Pictures",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1891-08-24-kinetoscope-patent",
+    "person_id": "edison",
+    "date": "1891-08-24",
+    "date_precision": "day",
+    "type": "product",
+    "title": "提交活动电影机与摄影机专利申请",
+    "title_en": "Files patents for the Kinetograph and Kinetoscope",
+    "summary": "1891 年 8 月 24 日，爱迪生提交了三份详细的专利申请：两份针对活动摄影机（Kinetographic Camera）和一份针对供单人观看的活动放映机（Apparatus for Exhibiting Photographs of Moving Objects）。该装置的实际开发主要由爱迪生雇员威廉·肯尼迪·劳里·迪克森（W. K. L. Dickson）于 1889 至 1892 年间在西橙园实验室完成。它实现了世界上最早的标准化电影摄录与播放工艺：35mm 胶卷、间歇式片门——这两项至今仍是电影工业的基础。",
+    "summary_en": "On August 24, 1891, Edison filed three detailed patent applications — two for the Kinetographic Camera and one for an \"Apparatus for Exhibiting Photographs of Moving Objects.\" The actual development was led by his employee William Kennedy Laurie Dickson at the West Orange lab between 1889 and 1892. The system established the world's first standardized motion-picture capture and playback process: 35 mm film and an intermittent gate — both still foundational to the modern film industry.",
+    "location": "West Orange, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "活动电影机",
+      "Kinetoscope",
+      "Kinetograph",
+      "电影",
+      "Dickson"
+    ],
+    "sources": [
+      {
+        "id": "google-patent-589168",
+        "url": "https://patents.google.com/patent/US589168A/en",
+        "kind": "document",
+        "title": "US589168A — Kinetographic camera",
+        "publisher": "Google Patents (USPTO)",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-kinetoscope",
+        "url": "https://en.wikipedia.org/wiki/Kinetoscope",
+        "kind": "article",
+        "title": "Kinetoscope (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1892-04-15-general-electric",
+    "person_id": "edison",
+    "date": "1892-04-15",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "爱迪生通用电气与汤姆森-休斯顿合并成立通用电气公司",
+    "title_en": "Edison General Electric merges with Thomson-Houston to form General Electric",
+    "summary": "1892 年 4 月 15 日，由 J·P·摩根撮合，爱迪生通用电气公司与汤姆森-休斯顿电气公司合并，成立\"通用电气公司（General Electric Company）\"。这是美国电气工业的转折点——但对爱迪生本人而言，这是一次苦涩的失败。新公司董事长不是爱迪生而是汤姆森-休斯顿出身的查尔斯·A·科芬（Charles A. Coffin）；爱迪生只参加过一次董事会，1894 年抛售了所有股票，仅以顾问身份继续收取专利使用费。爱迪生坚持的直流电（DC）技术，最终被特斯拉与威斯汀豪斯的交流电（AC）所取代。",
+    "summary_en": "On April 15, 1892, in a deal arranged by J. P. Morgan, Edison General Electric merged with Thomson-Houston Electric to form the General Electric Company. It was the turning point of the U.S. electrical industry — but for Edison personally, a bitter defeat. The new chairman was not Edison but Charles A. Coffin from Thomson-Houston; Edison attended only one board meeting, sold all his shares in 1894, and stayed on only as a consultant collecting patent royalties. Edison's beloved direct-current (DC) technology was ultimately overtaken by Tesla and Westinghouse's alternating current (AC).",
+    "location": "Schenectady, New York, USA",
+    "key": true,
+    "tags": [
+      "通用电气",
+      "JP摩根",
+      "并购",
+      "AC/DC之战",
+      "失去控制权"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-thomson-houston",
+        "url": "https://en.wikipedia.org/wiki/Thomson-Houston_Electric_Company",
+        "kind": "article",
+        "title": "Thomson-Houston Electric Company (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-general-electric",
+        "url": "https://en.wikipedia.org/wiki/General_Electric",
+        "kind": "article",
+        "title": "General Electric (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1893-black-maria",
+    "person_id": "edison",
+    "date": "1893-02-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "建成\"黑玛利亚\"——世界第一座电影制片厂",
+    "title_en": "Builds the Black Maria — world's first motion-picture studio",
+    "summary": "1893 年 2 月，爱迪生在新泽西西橙园实验室园区内建成了世界第一座电影制片厂——\"黑玛利亚（Black Maria）\"。建设始于 1892 年 12 月，造价为 637.67 美元。结构涂以黑色油毛毡，屋顶开有一扇巨型天窗以引入阳光；整座建筑被架在一个旋转盘上，工作人员每过一小时就推动它一次以追随太阳。它在 8 年间为活动电影机制作了数百部短片，其中包括 1894 年的《弗雷德·奥特的喷嚏》、世界第一部银幕之吻、桑多大力士、卡门希塔等。这是好莱坞工业的物理起点。",
+    "summary_en": "In February 1893, on the grounds of his West Orange laboratory, Edison completed the world's first motion-picture studio — the \"Black Maria.\" Construction had begun in December 1892, costing $637.67. The building was tar-papered in black with a huge skylight, mounted on a turntable so the staff could rotate it hourly to follow the sun. Over its 8-year lifespan it produced hundreds of short films for the Kinetoscope, including 1894's *Fred Ott's Sneeze*, the first on-screen kiss, Eugen Sandow, and Carmencita. It was the physical origin of the Hollywood industry.",
+    "location": "West Orange, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "黑玛利亚",
+      "电影制片厂",
+      "首创",
+      "Hollywood起源"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-black-maria",
+        "url": "https://en.wikipedia.org/wiki/Edison's_Black_Maria",
+        "kind": "article",
+        "title": "Edison's Black Maria (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "thomasedison-org-blackmaria",
+        "url": "https://www.thomasedison.org/blackmaria",
+        "kind": "article",
+        "title": "Thomas Edison's Black Maria | World's First Movie Studio",
+        "publisher": "Thomas Edison Innovation Foundation",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-fred-otts-sneeze",
+        "url": "https://archive.org/details/fred-otts-sneeze",
+        "embed_url": "https://archive.org/embed/fred-otts-sneeze",
+        "kind": "video",
+        "title": "Fred Ott's Sneeze (1894) — Edison Kinetoscopic Record of a Sneeze",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": 5,
+        "primary": true,
+        "summary": "1894 年 1 月 7 日在黑玛利亚拍摄的世界上现存最早登记版权的电影——爱迪生助手弗雷德·奥特鼻烟一打喷嚏的 5 秒短片。",
+        "summary_en": "Filmed January 7, 1894 in the Black Maria — the oldest copyrighted surviving motion picture, a 5-second clip of Edison's assistant Fred Ott sneezing after a pinch of snuff.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1894-04-14-kinetoscope-parlor",
+    "person_id": "edison",
+    "date": "1894-04-14",
+    "date_precision": "day",
+    "type": "product",
+    "title": "纽约首家活动电影机商业放映厅开业",
+    "title_en": "First commercial Kinetoscope parlor opens in New York",
+    "summary": "1894 年 4 月 14 日，霍兰兄弟在纽约百老汇 1155 号开设了第一间公共活动电影机放映厅，安装了十台爱迪生制造的 Kinetoscope。每位顾客花 25 美分即可逐机观看十部短片。第一部上映的是黑玛利亚拍摄的《铁匠铺场景（Blacksmith Scene）》。这是历史上第一次普通公众可以走进一处商业场所，按自己时间任意观看电影——电影成为一项可销售的大众娱乐产业。",
+    "summary_en": "On April 14, 1894, the Holland Bros. opened the world's first public Kinetoscope parlor at 1155 Broadway in New York City, with ten Edison-built Kinetoscopes. For 25 cents a customer could view all ten short films. The opening film was *Blacksmith Scene*, shot at the Black Maria. It was the first time in history members of the public could walk into a place of business and watch a movie at their own choosing — the moment film became a salable mass-entertainment industry.",
+    "location": "1155 Broadway, New York, New York, USA",
+    "key": false,
+    "tags": [
+      "活动电影机",
+      "百老汇",
+      "商业首映",
+      "电影产业"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-kinetoscope",
+        "url": "https://en.wikipedia.org/wiki/Kinetoscope",
+        "kind": "article",
+        "title": "Kinetoscope (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "loc-edison-kinetoscope",
+        "url": "https://www.loc.gov/static/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/origins-of-motion-pictures.html",
+        "kind": "article",
+        "title": "Edison's Kinetoscope",
+        "publisher": "Library of Congress",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "archive-edison-films-1891-1898",
+        "url": "https://archive.org/details/EdisonMotionPicturesCollectionPartOne1891-1898",
+        "embed_url": "https://archive.org/embed/EdisonMotionPicturesCollectionPartOne1891-1898",
+        "kind": "video",
+        "title": "Edison Motion Pictures Collection Part One 1891–1898",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "爱迪生制造公司 1891–1898 年间的电影作品合集，141 部短片。",
+        "summary_en": "141 short films produced by the Edison Manufacturing Company between 1891 and 1898.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1903-12-great-train-robbery",
+    "person_id": "edison",
+    "date": "1903-12-01",
+    "date_precision": "month",
+    "type": "product",
+    "title": "爱迪生制造公司发行《火车大劫案》——叙事电影开山之作",
+    "title_en": "Edison Manufacturing releases *The Great Train Robbery* — landmark narrative film",
+    "summary": "1903 年 11 月，由埃德温·S·波特（Edwin S. Porter）为爱迪生制造公司导演的《火车大劫案》在新泽西埃塞克斯县外景与爱迪生纽约工作室拍摄，12 月发行。预算仅 150 美元（约相当于 2023 年的 5,100 美元）。它是第一部成功建立\"行动连续性\"叙事手法的电影——14 个独立镜头组接出抢劫、追捕、枪战的连贯故事，并使用了平行剪辑、外景拍摄、特写镜头等开创性技巧。这部 12 分钟的西部片定义了\"电影叙事\"的语法，并使爱迪生的电影业务进入主流商业市场。",
+    "summary_en": "Filmed in November 1903 and released that December, *The Great Train Robbery* was directed by Edwin S. Porter for the Edison Manufacturing Company on a $150 budget (roughly $5,100 in 2023 dollars), shot at outdoor locations in Essex County, NJ and at Edison's New York studio. It was the first film to successfully establish narrative continuity of action — 14 separate shots cut into a coherent story of robbery, posse, and shootout — and pioneered cross-cutting, location shooting, and close-ups. The 12-minute Western defined the grammar of cinematic storytelling and pushed Edison's film business into mainstream commerce.",
+    "location": "Essex County, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "火车大劫案",
+      "Edwin Porter",
+      "叙事电影",
+      "Western",
+      "电影史"
+    ],
+    "sources": [
+      {
+        "id": "archive-great-train-robbery",
+        "url": "https://archive.org/details/TheGreatTrainRobbery_555",
+        "embed_url": "https://archive.org/embed/TheGreatTrainRobbery_555",
+        "kind": "video",
+        "title": "The Great Train Robbery (1903)",
+        "publisher": "Internet Archive",
+        "lang": "en",
+        "duration_sec": 720,
+        "primary": true,
+        "summary": "1903 年 12 月由爱迪生制造公司发行的 12 分钟西部默片——电影叙事手法的开山之作。",
+        "summary_en": "The 12-minute silent Western released by Edison Manufacturing in December 1903 — the foundational work of cinematic narrative technique.",
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-great-train-robbery",
+        "url": "https://en.wikipedia.org/wiki/The_Great_Train_Robbery_(1903_film)",
+        "kind": "article",
+        "title": "The Great Train Robbery (1903 film) (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1909-disc-phonograph-storage-battery",
+    "person_id": "edison",
+    "date": "1909-01-01",
+    "date_precision": "year",
+    "type": "product",
+    "title": "改进型蓄电池上市；筹备唱片格式留声机",
+    "title_en": "Improved storage battery hits market; disc phonograph in development",
+    "summary": "1909 年是爱迪生晚年事业的关键年份：经过 1903 年首发后市场失败、被迫召回的痛苦过程，他的镍铁碱性蓄电池改进版终于在 1909 年成功上市，成为他后半生最赚钱的产品之一。同年，面对柏林纳唱片格式正在击败传统圆筒留声机的现实，爱迪生唱片公司开始研发\"金刚石唱片（Diamond Disc）\"——一种保留垂直刻槽、可播放约 5 分钟、配以钻石针唱头的圆盘格式。该格式于 1912 年正式投产，一直生产至 1929 年。",
+    "summary_en": "1909 was a pivotal year of Edison's late career. After his nickel-iron alkaline storage battery failed at first launch in 1903 and had to be pulled, the improved 1909 version finally succeeded in the market and became one of the most profitable products of his life. In the same year, facing the reality that Berliner-style discs were beating the cylinder format, Edison Records began developing the \"Diamond Disc\" — a vertical-cut disc playing up to 5 minutes with a permanent diamond stylus. The format launched commercially in 1912 and ran until 1929.",
+    "location": "West Orange, New Jersey, USA",
+    "key": false,
+    "tags": [
+      "镍铁电池",
+      "金刚石唱片",
+      "Edison Records",
+      "晚年事业"
+    ],
+    "sources": [
+      {
+        "id": "rutgers-storage-battery",
+        "url": "https://edison.rutgers.edu/life-of-edison/inventions?catid=91&id=540:storage-battery&view=article",
+        "kind": "article",
+        "title": "Storage Battery — Thomas A. Edison Papers",
+        "publisher": "Rutgers University",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-edison-disc-record",
+        "url": "https://en.wikipedia.org/wiki/Edison_Disc_Record",
+        "kind": "article",
+        "title": "Edison Disc Record (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1915-10-07-naval-consulting-board",
+    "person_id": "edison",
+    "date": "1915-10-07",
+    "date_precision": "day",
+    "type": "career",
+    "title": "出任美国海军咨询委员会主席",
+    "title_en": "Becomes Chairman of the U.S. Naval Consulting Board",
+    "summary": "1915 年 10 月 7 日，美国海军咨询委员会正式成立——这是 68 岁的爱迪生应海军部长约瑟夫斯·丹尼尔斯之邀建议设立的机构，目的是\"利用美国天才发明者的能力，应对新型战争\"。爱迪生被推选为主席，由其首席工程师米勒·里斯·哈奇森（Miller Reese Hutchison）任私人助理。委员会成员来自十一个工程与科学组织。在第一次世界大战期间，爱迪生本人对潜艇探测、鱼雷规避、烟幕等 40 余个海军技术问题进行了亲自研究——这是他第一次将发明天赋投入大规模国防工作。",
+    "summary_en": "On October 7, 1915, the U.S. Naval Consulting Board was formally convened — an institution suggested by 68-year-old Edison and created by Navy Secretary Josephus Daniels to \"utilize the natural inventive genius of Americans to meet the new conditions of warfare.\" Edison was elected chairman, with his chief engineer Miller Reese Hutchison as personal assistant. The Board drew members from eleven engineering and scientific societies. During World War I, Edison personally tackled more than 40 naval technical problems including submarine detection, torpedo evasion, and smoke screens — his first time turning the inventive instinct toward national defense at scale.",
+    "location": "Washington, D.C., USA",
+    "key": true,
+    "tags": [
+      "Naval Consulting Board",
+      "World War I",
+      "国防",
+      "Hutchison"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-naval-consulting-board",
+        "url": "https://en.wikipedia.org/wiki/Naval_Consulting_Board",
+        "kind": "article",
+        "title": "Naval Consulting Board (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "rutgers-naval-consulting-board",
+        "url": "https://edison.rutgers.edu/life-of-edison/biographical-essays/wwi/naval-consulting-board",
+        "kind": "article",
+        "title": "Naval Consulting Board — Thomas A. Edison Papers",
+        "publisher": "Rutgers University",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "navy-daniels-edison-1915",
+        "url": "https://www.history.navy.mil/research/publications/documentary-histories/wwi/1915/secretary-of-the-nav.html",
+        "kind": "document",
+        "title": "Secretary of the Navy Josephus Daniels to Thomas A. Edison, 7/7/1915",
+        "publisher": "Naval History and Heritage Command",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1928-10-20-congressional-gold-medal",
+    "person_id": "edison",
+    "date": "1928-10-20",
+    "date_precision": "day",
+    "type": "award",
+    "title": "在西橙园实验室获颁国会金质奖章",
+    "title_en": "Receives the Congressional Gold Medal at the West Orange laboratory",
+    "summary": "1928 年 5 月 21 日，美国众议院投票通过授予爱迪生国会金质奖章的法案；柯立芝总统于 5 月 29 日签署法案。1928 年 10 月 20 日，财政部长安德鲁·梅隆亲自前往爱迪生位于新泽西西橙园的实验室授奖。柯立芝总统通过白宫的电波连线发表致辞，仪式由近 50 个广播电台同步直播——这是当时电气时代特有的全民共时事件。奖章上的铭文表彰他\"以发明革新文明并推动人类福祉（inventions that have revolutionized civilization）\"。",
+    "summary_en": "On May 21, 1928, the U.S. House voted to award Edison the Congressional Gold Medal; President Coolidge signed the bill on May 29. On October 20, 1928, Treasury Secretary Andrew Mellon traveled to Edison's West Orange laboratory to present the medal in person. Coolidge spoke from the White House over a radio link, and nearly 50 stations broadcast the ceremony live — the kind of nationwide simultaneous event only the electrical age had made possible. The medal honored Edison for \"inventions that have revolutionized civilization.\"",
+    "location": "West Orange, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "国会金质奖章",
+      "Coolidge",
+      "Mellon",
+      "广播仪式"
+    ],
+    "sources": [
+      {
+        "id": "house-history-edison-medal",
+        "url": "https://history.house.gov/Historical-Highlights/1901-1950/Thomas-Edison-s-Congressional-Gold-Medal/",
+        "kind": "article",
+        "title": "Thomas Edison's Congressional Gold Medal",
+        "publisher": "U.S. House of Representatives — History, Art & Archives",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "presidency-project-edison-medal",
+        "url": "https://www.presidency.ucsb.edu/documents/address-presentation-medal-thomas-edison",
+        "kind": "transcript",
+        "title": "Address at Presentation of Medal to Thomas A. Edison",
+        "publisher": "American Presidency Project",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1929-10-21-lights-golden-jubilee",
+    "person_id": "edison",
+    "date": "1929-10-21",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "\"光之金禧\"——亨利·福特和胡佛总统庆祝白炽灯发明 50 周年",
+    "title_en": "Light's Golden Jubilee — Ford and Hoover celebrate 50 years of the light bulb",
+    "summary": "1929 年 10 月 21 日——爱迪生白炽灯成功演示 50 周年——亨利·福特在密歇根迪尔本举行的格林菲尔德村开村大典上将整个村区献给托马斯·爱迪生，并将爱迪生原门洛帕克的实验室、图书馆与机械车间整体搬迁至此重建。82 岁的爱迪生在重建的实验室中用两根电线重新接通了白炽灯——历史性瞬间通过 140 个广播电台向全美直播。出席嘉宾包括胡佛总统、洛克菲勒小约翰、J·P·摩根、玛丽·居里、奥维尔·莱特和威尔·罗杰斯。这是 1929 年股市崩盘前夜美国工业文明的最后一场盛典。",
+    "summary_en": "On October 21, 1929 — the fiftieth anniversary of Edison's successful incandescent demonstration — Henry Ford dedicated his newly opened Greenfield Village in Dearborn, Michigan, to Thomas Edison, having relocated and reconstructed Edison's original Menlo Park laboratory, library, and machine shop on the grounds. In the rebuilt lab, 82-year-old Edison reconnected the two wires that recreated the historic moment, broadcast live over as many as 140 radio stations. Guests included President Hoover, John D. Rockefeller Jr., J. P. Morgan, Marie Curie, Orville Wright, and Will Rogers. It was the final gala of American industrial civilization on the eve of the 1929 stock market crash.",
+    "location": "Greenfield Village, Dearborn, Michigan, USA",
+    "key": true,
+    "tags": [
+      "Light's Golden Jubilee",
+      "Henry Ford",
+      "Hoover",
+      "Greenfield Village",
+      "50周年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-lights-golden-jubilee",
+        "url": "https://en.wikipedia.org/wiki/Light's_Golden_Jubilee",
+        "kind": "article",
+        "title": "Light's Golden Jubilee (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "henry-ford-jubilee-collection",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/expert-sets/10255/",
+        "kind": "article",
+        "title": "Light's Golden Jubilee — Digital Collections",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "henry-ford-edison-hoover-photo",
+        "url": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/298966/",
+        "kind": "image",
+        "title": "Henry Ford, Herbert Hoover, and Thomas Edison in Greenfield Village, October 21, 1929",
+        "publisher": "The Henry Ford",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "edison-1931-10-18-death",
+    "person_id": "edison",
+    "date": "1931-10-18",
+    "date_precision": "day",
+    "type": "life",
+    "title": "在西橙园格伦蒙宅邸去世",
+    "title_en": "Dies at Glenmont, West Orange",
+    "summary": "1931 年 10 月 18 日凌晨，84 岁的爱迪生因糖尿病在新泽西西橙园利夫林公园的格伦蒙宅邸——他自 1886 年起的家——安详离世。一生持有 1,093 项美国专利，留下了留声机、白炽灯、中央电网、电影摄录系统、改进型蓄电池等彻底重塑现代世界的发明。在他去世当晚，胡佛总统呼吁全美人民关掉 1 分钟的灯——但出于电网安全考虑只能以\"短暂调暗\"代替——这一短暂的全国性熄光，是工业时代向其奠基者作出的告别仪式。",
+    "summary_en": "In the early morning of October 18, 1931, 84-year-old Edison died of diabetes at Glenmont, his Llewellyn Park, West Orange, NJ home since 1886. He held 1,093 U.S. patents and left behind the phonograph, the incandescent lamp, the central electric grid, the motion-picture system, and the improved storage battery — inventions that had remade modern life. The night of his death, President Hoover asked Americans to turn off their lights for a minute — but for grid stability the gesture was reduced to a brief dimming — a national farewell from the industrial age to its founder.",
+    "location": "Glenmont, West Orange, New Jersey, USA",
+    "key": true,
+    "tags": [
+      "去世",
+      "格伦蒙",
+      "西橙园",
+      "Hoover致敬"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-edison-bio",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+        "kind": "article",
+        "title": "Thomas Edison (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "patch-edison-dies",
+        "url": "https://patch.com/new-jersey/westorange/inventor-thomas-edison-dies-this-day-in-history-oct-18th",
+        "kind": "article",
+        "title": "Inventor, Thomas Edison Dies — This Day in History",
+        "publisher": "Patch (West Orange, NJ)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  }
+]

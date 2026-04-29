@@ -52,11 +52,7 @@
             "speaker": "Steve Jobs",
             "context": "12 岁的乔布斯打电话给 HP 联合创始人 Bill Hewlett 时的开场白。Hewlett 笑了，给了他零件，还给了他一个 HP 暑期工"
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2018/07/25/how-steve-jobs-cold-called-his-way-to-an-internship-at-hewlett-packard.html",
-          "timestamp": "2024"
-        }
+        ]
       }
     ],
     "source_hints": null,
@@ -89,11 +85,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.reed.edu/about/steve-jobs.html",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "reed-magazine-jobs-obit",
@@ -105,11 +97,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.reed.edu/reed-magazine/in-memoriam/obituaries/december2011/steve-jobs-1976.html",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -142,11 +130,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Steve_Jobs",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": "Isaacson 传记第 4 章；Daniel Kottke 后来的回忆录",
@@ -191,11 +175,7 @@
         "primary": false,
         "license": "public-domain",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://guides.loc.gov/this-month-in-business-history/april/apple-computer-founded",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": "Wozniak《iWoz》自传",
@@ -227,11 +207,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.computerhistory.org/revolution/personal-computers/17/300",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": "Byte Magazine 1977 报道",
@@ -347,11 +323,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "ABC News 在 Apple 40 周年时重新发表的 1981 年 Bob Brown 采访幕后录像。当时未播出的原始素材被 ABC 数字化后第一次公开。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://abcnews.go.com/Technology/apple-40-steve-jobs-computers-1981/story?id=38064087",
-          "timestamp": "2024"
-        }
+        "summary": "ABC News 在 Apple 40 周年时重新发表的 1981 年 Bob Brown 采访幕后录像。当时未播出的原始素材被 ABC 数字化后第一次公开。"
       }
     ],
     "source_hints": null,
@@ -383,11 +355,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://content.time.com/time/covers/0,16641,19820215,00.html",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "cultofmac-1982-time-cover",
@@ -399,11 +367,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cultofmac.com/apple-history/steve-jobs-time-magazine-cover",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -449,11 +413,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -521,11 +481,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "Steve Jobs Archive 整理的官方页面，配合演讲音频和上下文背景。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://stevejobsarchive.com/stories/objects-of-our-life",
-          "timestamp": "2024"
-        }
+        "summary": "Steve Jobs Archive 整理的官方页面，配合演讲音频和上下文背景。"
       }
     ],
     "source_hints": null,
@@ -558,11 +514,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://americanhistory.si.edu/explore/stories/remembering-apples-1984-super-bowl-ad",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "archive-1984-ad-4k",
@@ -588,8 +540,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "embed_url": "https://www.youtube.com/watch?v=VtvjbmoDx-I"
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -678,11 +629,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "All About Steve Jobs 整理的完整文字稿。访谈由 David Sheff 主持（他后来做过约翰·列侬的最后一次大采访），是 1980 年代关于乔布斯本人最深入的采访记录。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://allaboutstevejobs.com/verbatim/interviews/playboy_1985",
-          "timestamp": "2024"
-        }
+        "summary": "All About Steve Jobs 整理的完整文字稿。访谈由 David Sheff 主持（他后来做过约翰·列侬的最后一次大采访），是 1980 年代关于乔布斯本人最深入的采访记录。"
       },
       {
         "id": "archive-jobs-playboy-1985",
@@ -769,11 +716,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "Newsweek 后来重新数字化的当年访谈完整记录。注意：Newsweek 网站对 bot 有 406 防护，浏览器访问正常。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.newsweek.com/jobs-talks-about-his-rise-and-fall-207016",
-          "timestamp": "2024"
-        }
+        "summary": "Newsweek 后来重新数字化的当年访谈完整记录。注意：Newsweek 网站对 bot 有 406 防护，浏览器访问正常。"
       },
       {
         "id": "newsweek-showdown-silicon-valley-1985",
@@ -785,11 +728,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.newsweek.com/showdown-silicon-valley-207014",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -855,11 +794,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/NeXT_Introduction",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "allaboutstevejobs-next-cube-1988",
@@ -954,11 +889,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Laurene_Powell_Jobs",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "cultofmac-jobs-marriage",
@@ -970,11 +901,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cultofmac.com/apple-history/steve-jobs-marries-laurene-powell",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -1070,11 +997,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "longreads-rs-jobs-1994",
@@ -1086,11 +1009,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://longreads.com/2009/01/01/steve-jobs-the-rolling-stone-interview-1994/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -1151,11 +1070,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "采访人 Bob Cringely 本人 2011 年（乔布斯去世两周后）发表的回忆文章，讲了这盘磁带是怎么丢的、又是怎么找回来的。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cringely.com/2011/10/21/the-steve-jobs-interview/",
-          "timestamp": "2024"
-        }
+        "summary": "采访人 Bob Cringely 本人 2011 年（乔布斯去世两周后）发表的回忆文章，讲了这盘磁带是怎么丢的、又是怎么找回来的。"
       }
     ],
     "source_hints": null,
@@ -1234,11 +1149,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "Smithsonian 国家美国历史博物馆官方页面，含完整文字稿。这是博物馆永久收藏的口述历史档案，由 Daniel Morrow 主持，1995 年 4 月 20 日录制。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://americanhistory.si.edu/comphist/sj1.html",
-          "timestamp": "2024"
-        }
+        "summary": "Smithsonian 国家美国历史博物馆官方页面，含完整文字稿。这是博物馆永久收藏的口述历史档案，由 Daniel Morrow 主持，1995 年 4 月 20 日录制。"
       },
       {
         "id": "allaboutstevejobs-smithsonian-1995",
@@ -1250,11 +1161,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://allaboutstevejobs.com/videos/misc/smithsonian_interview_1995",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "archive-smithsonian-1995",
@@ -1301,11 +1208,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Toy_Story",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": "Variety 1995-11-22 影评；Box Office Mojo 票房数据",
@@ -1338,11 +1241,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Pixar",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "cultofmac-pixar-ipo",
@@ -1402,11 +1301,7 @@
             "speaker": "Steve Jobs",
             "context": "1996 年的预言，今天的电商和个性化推荐算法是这句话的应验"
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://allaboutstevejobs.com/verbatim/interviews",
-          "timestamp": "2024"
-        }
+        ]
       }
     ],
     "source_hints": "原始 Wired 1996-02 issue（实体杂志）；wired.com 网站可能未存档全文",
@@ -1619,11 +1514,7 @@
             "speaker": "Steve Jobs",
             "context": "Think Different 广告对外发布前几天，乔布斯在 Apple 内部员工面前讲解新品牌战略。这段话被公认是乔布斯关于营销最系统的一次表达"
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://allaboutstevejobs.com/videos/misc/think_different_1997_internal",
-          "timestamp": "2024"
-        }
+        ]
       },
       {
         "id": "speakola-think-different-1997",
@@ -1812,11 +1703,7 @@
             "speaker": "Steve Jobs",
             "context": "回应 \"为什么 Apple 不做用户调研\" 时的回答——后来变成科技行业最有名的反市场调研论点"
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.bloomberg.com/news/articles/1998-05-25/steve-jobs-theres-sanity-returning",
-          "timestamp": "2024"
-        }
+        ]
       }
     ],
     "source_hints": "Bloomberg 对 bot 有 403 防护，浏览器访问正常",
@@ -1971,11 +1858,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2000/01/05Apple-Unveils-Mac-OS-X-and-Internet-Strategy-at-Macworld-Expo/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "apple-newsroom-ceo-comp-2000",
@@ -1988,11 +1871,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "两周后董事会发布的 CEO 薪酬公告：1000 万股期权 + 一架 Gulfstream V 喷气机，作为对乔布斯过去 30 个月把 Apple 从破产边缘救回来的回报。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2000/01/19Apple-Board-of-Directors-Announces-CEO-Compensation/",
-          "timestamp": "2024"
-        }
+        "summary": "两周后董事会发布的 CEO 薪酬公告：1000 万股期权 + 一架 Gulfstream V 喷气机，作为对乔布斯过去 30 个月把 Apple 从破产边缘救回来的回报。"
       },
       {
         "id": "youtube-macworld-2000-iceo",
@@ -2131,11 +2010,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2001/05/15Apple-to-Open-25-Retail-Stores-in-2001/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "cultofmac-first-apple-store",
@@ -2147,11 +2022,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cultofmac.com/news/may-2001-the-first-apple-store-opens",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -2295,11 +2166,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2003/04/28Apple-Launches-the-iTunes-Music-Store/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "archive-itunes-store-launch",
@@ -2354,11 +2221,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://abcnews.go.com/Health/CancerPreventionAndTreatment/steve-jobs-pancreatic-cancer-timeline/story?id=14681812",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -2391,11 +2254,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cbsnews.com/sanfrancisco/news/steve-jobs-offered-rare-insights-during-60-minutes-interview/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "allaboutstevejobs-60-minutes-2003",
@@ -2493,11 +2352,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.rollingstone.com/culture/culture-news/steve-jobs-rolling-stones-2003-interview-243284/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -2632,11 +2487,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "Newsweek 2004 年 7 月 26 日封面故事，Steven Levy 主笔。注意：Newsweek 网站对 bot 有 406 防护，浏览器访问正常。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.newsweek.com/ipod-nation-130863",
-          "timestamp": "2024"
-        }
+        "summary": "Newsweek 2004 年 7 月 26 日封面故事，Steven Levy 主笔。注意：Newsweek 网站对 bot 有 406 防护，浏览器访问正常。"
       }
     ],
     "source_hints": null,
@@ -2668,11 +2519,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://abcnews.go.com/Health/CancerPreventionAndTreatment/steve-jobs-pancreatic-cancer-timeline/story?id=14681812",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": "Apple 当时无对外新闻稿；员工内部邮件全文流出后被多家媒体转载",
@@ -2797,11 +2644,7 @@
             "speaker": "Steve Jobs",
             "context": "演讲第一个故事的核心：解释他在 Reed 大学休学旁听书法课的事在 10 年后变成了 Mac 字体的灵感"
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says",
-          "timestamp": "2024"
-        }
+        ]
       },
       {
         "id": "steve-jobs-archive-stanford",
@@ -2931,11 +2774,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://thewaltdisneycompany.com/disney-to-acquire-pixar/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "history-disney-pixar",
@@ -2947,11 +2786,7 @@
         "primary": false,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.history.com/this-day-in-history/january-24/walt-disney-announces-7-4-billion-purchase-of-pixar",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": "SEC EDGAR 8-K 文件（sec.gov 对 bot 有 403）",
@@ -3027,11 +2862,7 @@
             "speaker": "Steve Jobs",
             "context": "发布会及新闻稿中的核心定调，事后被证明并不夸张"
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
-          "timestamp": "2024"
-        }
+        ]
       },
       {
         "id": "apple-newsroom-iphone-cingular",
@@ -3043,11 +2874,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2007/01/09Apple-Chooses-Cingular-as-Exclusive-US-Carrier-for-Its-Revolutionary-iPhone/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "archive-iphone-keynote-2007",
@@ -3081,8 +2908,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "embed_url": "https://www.youtube.com/watch?v=MnrJzXM7a6o"
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -3130,11 +2956,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "全场 90 分钟对话的完整文字稿，由 Ubiqus Reporting 整理。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://allthingsd.com/20070531/d5-gates-jobs-transcript",
-          "timestamp": "2024"
-        }
+        "summary": "全场 90 分钟对话的完整文字稿，由 Ubiqus Reporting 整理。"
       },
       {
         "id": "allaboutstevejobs-d5-2007",
@@ -3250,11 +3072,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://content.time.com/time/specials/2007/article/0,28804,1677329_1678542_1677891,00.html",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "time-iphone-behind-scenes",
@@ -3266,11 +3084,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://time.com/3222128/apple-iphone/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -3365,11 +3179,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2008/03/06Apple-Announces-iPhone-2-0-Software-Beta/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "archive-iphone-sdk-2008",
@@ -3487,11 +3297,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "Apple 官网原文发布的健康公开信。乔布斯在信中说\"我去年的体重下降是因为激素失衡，剥夺了身体所需的蛋白质\"，并承诺\"我会继续担任 Apple CEO\"。信里没有提到将进行肝脏移植——这件事直到 6 月手术成功后才被外界知道。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2009/01/05Letter-from-Apple-CEO-Steve-Jobs/",
-          "timestamp": "2024"
-        }
+        "summary": "Apple 官网原文发布的健康公开信。乔布斯在信中说\"我去年的体重下降是因为激素失衡，剥夺了身体所需的蛋白质\"，并承诺\"我会继续担任 Apple CEO\"。信里没有提到将进行肝脏移植——这件事直到 6 月手术成功后才被外界知道。"
       },
       {
         "id": "fortune-liver-transplant",
@@ -3504,11 +3310,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "Fortune 2009 年 6 月发表的深度调查，第一次公开了乔布斯 3 月 21 日在 Memphis Methodist 医院接受肝脏移植的细节。手术由 James Eason 主刀。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://fortune.com/2009/06/20/inside-steve-jobs-liver-transplant/",
-          "timestamp": "2024"
-        }
+        "summary": "Fortune 2009 年 6 月发表的深度调查，第一次公开了乔布斯 3 月 21 日在 Memphis Methodist 医院接受肝脏移植的细节。手术由 James Eason 主刀。"
       }
     ],
     "source_hints": null,
@@ -3549,11 +3351,7 @@
             "speaker": "Steve Jobs",
             "context": "新闻稿中给 iPad 的定调——\"全新一类设备\""
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/",
-          "timestamp": "2024"
-        }
+        ]
       },
       {
         "id": "archive-ipad-keynote",
@@ -3643,11 +3441,7 @@
         "primary": false,
         "license": "cc-by-sa",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Thoughts_on_Flash",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "newslang-thoughts-on-flash-pdf",
@@ -3702,11 +3496,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "AllThingsD 发表的全长完整版采访，含视频和文字摘要。著名的\"卡车 vs 汽车\"比喻：\"当我们农业社会的时候，所有的交通工具都是卡车，因为人需要它来干农活。但随着大家进了城，开始有了轿车——卡车依然存在，只是变成了少数。我相信 PC 也会变成那样。\"",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://allthingsd.com/20100607/steve-jobs-at-d8-the-full-uncut-interview/",
-          "timestamp": "2024"
-        }
+        "summary": "AllThingsD 发表的全长完整版采访，含视频和文字摘要。著名的\"卡车 vs 汽车\"比喻：\"当我们农业社会的时候，所有的交通工具都是卡车，因为人需要它来干农活。但随着大家进了城，开始有了轿车——卡车依然存在，只是变成了少数。我相信 PC 也会变成那样。\""
       },
       {
         "id": "allaboutstevejobs-d8-2010",
@@ -3752,11 +3542,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "archive-wwdc-2010-iphone4",
@@ -3805,11 +3591,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "记者会前 14 天，Apple 先发了一封\"向用户致信\"，承认信号显示 bug 但否认天线设计问题。这封信没能平息舆论，所以才有了 7 月 16 日的现场记者会。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2010/07/02Letter-from-Apple-Regarding-iPhone-4/",
-          "timestamp": "2024"
-        }
+        "summary": "记者会前 14 天，Apple 先发了一封\"向用户致信\"，承认信号显示 bug 但否认天线设计问题。这封信没能平息舆论，所以才有了 7 月 16 日的现场记者会。"
       },
       {
         "id": "allaboutstevejobs-antennagate",
@@ -3898,11 +3680,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2011/06/06Apple-Introduces-iCloud/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       },
       {
         "id": "archive-wwdc-2011-icloud",
@@ -4022,11 +3800,7 @@
             "speaker": "Steve Jobs",
             "context": "辞职信开篇，呼应他多年来对外承诺的健康透明承诺"
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2011/08/24Letter-from-Steve-Jobs/",
-          "timestamp": "2024"
-        }
+        ]
       },
       {
         "id": "apple-newsroom-resignation-announcement",
@@ -4038,11 +3812,7 @@
         "primary": true,
         "license": "all-rights-reserved",
         "authored_by": "human",
-        "mentions": [],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2011/08/24Steve-Jobs-Resigns-as-CEO-of-Apple/",
-          "timestamp": "2024"
-        }
+        "mentions": []
       }
     ],
     "source_hints": null,
@@ -4082,11 +3852,7 @@
             "speaker": "Apple 董事会",
             "context": "他去世当晚发表的官方声明"
           }
-        ],
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/newsroom/2011/10/05Statement-by-Apples-Board-of-Directors/",
-          "timestamp": "2024"
-        }
+        ]
       },
       {
         "id": "apple-stevejobs-tribute",
@@ -4099,11 +3865,7 @@
         "license": "all-rights-reserved",
         "authored_by": "human",
         "mentions": [],
-        "summary": "Apple 官网为乔布斯设立的永久纪念页。他去世后的几天里，apple.com 首页只显示一张乔布斯的黑白肖像和生卒年份。这个纪念页保留了那段时间的封面以及大量的悼词来信。",
-        "wayback": {
-          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.apple.com/stevejobs/",
-          "timestamp": "2024"
-        }
+        "summary": "Apple 官网为乔布斯设立的永久纪念页。他去世后的几天里，apple.com 首页只显示一张乔布斯的黑白肖像和生卒年份。这个纪念页保留了那段时间的封面以及大量的悼词来信。"
       }
     ],
     "source_hints": null,

@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "ma-1964-09-10-birth",
+    "person_id": "ma",
+    "date": "1964-09-10",
+    "date_precision": "day",
+    "type": "life",
+    "title": "马云出生于浙江杭州",
+    "title_en": "Jack Ma (Ma Yun) born in Hangzhou, Zhejiang, China",
+    "summary": "1964 年 9 月 10 日，马云（本名马云，英文名 Jack Ma）出生于浙江省杭州市的一个普通家庭。父亲是一名摄影师，母亲在工厂工作。家境并不富裕，但杭州——以西湖闻名的千年古都——给童年的马云提供了独特的成长舞台。这座城市后来贯穿他几乎全部商业人生：阿里巴巴、淘宝、蚂蚁金服都诞生于此。",
+    "summary_en": "Ma Yun, known internationally as Jack Ma, was born on September 10, 1964, in Hangzhou, Zhejiang Province, into a modest family — his father a photographer, his mother a factory worker. Hangzhou, famous for West Lake and a millennium of cultural heritage, would remain Ma's lifelong base; Alibaba, Taobao, and Ant Group were all founded in this same city.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "出生",
+      "杭州",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-ma-bio",
+        "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+        "kind": "article",
+        "title": "Jack Ma (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Jack_Ma",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "britannica-ma",
+        "url": "https://www.britannica.com/money/Jack-Ma",
+        "kind": "article",
+        "title": "Jack Ma | Biography, Alibaba, & Facts | Britannica Money",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.britannica.com/money/Jack-Ma",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-1976-self-taught-english-west-lake",
+    "person_id": "ma",
+    "date": "1976-01-01",
+    "date_precision": "year",
+    "type": "education",
+    "title": "12 岁起在西湖畔自学英语，给外国游客做免费导游",
+    "title_en": "Self-teaches English from age 12; offers free tours to foreigners at West Lake",
+    "summary": "约 12 岁时，马云开始痴迷英语。他在西湖边的杭州饭店蹲守外国游客，主动提供免费导游服务以换取练习口语的机会。九年间，他几乎每天骑自行车 27 公里赶到酒店门口接客。一位与他成为笔友的澳大利亚朋友给他取了 \"Jack\" 的英文名。这段在改革开放前的中国极其罕见的跨文化经历，奠定了他日后与西方做生意的语言能力和全球视野。",
+    "summary_en": "From around age 12, Ma became obsessed with English. He cycled 17 miles each morning to the Hangzhou Hotel near West Lake to meet foreign tourists, offering free tours in exchange for English practice. He kept this up for nine years. An Australian pen pal gave him the nickname \"Jack\" because his Chinese name was hard to pronounce. In pre-reform-era China, this kind of cross-cultural exposure was extraordinarily rare, and it shaped his global outlook and command of English.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "自学",
+      "英语",
+      "西湖",
+      "童年"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-ma-bio",
+        "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+        "kind": "article",
+        "title": "Jack Ma (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Jack_Ma",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "scmp-ma-tour-guide",
+        "url": "https://www.scmp.com/news/china/article/2099614/us-lawyer-and-his-chinese-tour-guide-how-meeting-jack-ma-inspired",
+        "kind": "article",
+        "title": "The US lawyer and his Chinese 'tour guide': how meeting Jack Ma inspired a footloose American 37 years ago",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.scmp.com/news/china/article/2099614/us-lawyer-and-his-chinese-tour-guide-how-meeting-jack-ma-inspired",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-1988-graduates-hangzhou-normal",
+    "person_id": "ma",
+    "date": "1988-07-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "杭州师范学院英语专业毕业，被分配到杭州电子工业学院任教",
+    "title_en": "Graduates from Hangzhou Normal University with BA in English; assigned as lecturer at Hangzhou Dianzi University",
+    "summary": "1988 年，马云从杭州师范学院（今杭州师范大学）外语系毕业，获英语学士学位。他高考考了三次才考上，但最终在大学连续拿下外语系前五名，并担任学生会主席、杭州市学联主席。毕业后他被分配到杭州电子工业学院（今杭州电子科技大学）担任英语和国际贸易讲师，月薪人民币 100 多元。这段大学教师经历持续到 1995 年，他离职去做互联网创业。",
+    "summary_en": "In 1988, Ma graduated from Hangzhou Normal University with a BA in English. He had failed the gaokao (national college entrance exam) twice before passing on the third try, but at university he consistently ranked in the top five of his department and led the student union. After graduation he was assigned, as was standard under China's planned-economy system, to teach English and international trade at Hangzhou Dianzi University on a salary of around 100 yuan per month. He kept this teaching job until 1995, when he left to pursue the internet.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "教育",
+      "杭州师范学院",
+      "英语"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-ma-bio",
+        "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+        "kind": "article",
+        "title": "Jack Ma (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Jack_Ma",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-1994-haibo-translation-agency",
+    "person_id": "ma",
+    "date": "1994-01-01",
+    "date_precision": "year",
+    "type": "founding",
+    "title": "创办杭州海博翻译社（\"Hope\"，希望之意）",
+    "title_en": "Founds Hangzhou Hope (Haibo) Translation Agency",
+    "summary": "1994 年，马云在杭州创办海博翻译社（Haibo / Hope Translation Agency）——杭州第一家专业翻译公司。最初他想帮助本地退休英语教师赚点外快、对接外国客户。翻译社初期亏损，马云为养活公司一度去义乌进货卖鲜花和小礼品。这段折腾的小生意经历让他第一次理解市场、客户和现金流，也是他真正意义上第一次创业。",
+    "summary_en": "In 1994, Ma founded Hangzhou Haibo Translation Agency — the city's first professional translation firm. (\"Haibo\" is a phonetic pun on the English \"hope.\") The original mission was to help retired English teachers earn extra income by working with foreign clients. To keep the loss-making agency alive, Ma personally hauled flowers and gifts from Yiwu wholesale market to resell. It was Ma's true first venture and his earliest schooling in customers, cash flow, and survival.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "创业",
+      "翻译",
+      "海博"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-ma-bio",
+        "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+        "kind": "article",
+        "title": "Jack Ma (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Jack_Ma",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-1995-seattle-internet-discovery",
+    "person_id": "ma",
+    "date": "1995-05-01",
+    "date_precision": "month",
+    "type": "life",
+    "title": "首次访美，在西雅图第一次接触互联网",
+    "title_en": "First US trip — discovers the internet in Seattle",
+    "summary": "1995 年初，马云作为杭州市政府代表去美国处理一桩高速公路投资纠纷。在西雅图，他在朋友家第一次见到互联网，输入 \"beer\" 搜索时几乎没有任何中文内容。他后来反复讲述：\"那一刻我意识到，互联网会改变中国，而中国还什么都没有。\" 同年 5 月 10 日，他在美国注册了 chinapages.com 域名。这次西雅图之行被广泛认为是中国互联网史上的关键一刻。",
+    "summary_en": "In early 1995, Ma traveled to the US as a Hangzhou municipal representative to resolve a highway investment dispute. In Seattle, at a friend's house, he saw the internet for the first time. He typed \"beer\" and found almost no Chinese content. He has retold the story countless times: \"At that moment I realized the internet would change China, and China had nothing.\" On May 10, 1995, while still in the US, he registered the domain chinapages.com. The Seattle trip is widely treated as the inflection point of China's internet history.",
+    "location": "Seattle, Washington, USA",
+    "key": true,
+    "tags": [
+      "美国",
+      "西雅图",
+      "互联网",
+      "顿悟"
+    ],
+    "sources": [
+      {
+        "id": "ckgsb-ma-us-inspiration",
+        "url": "https://english.ckgsb.edu.cn/new/jack-mas-u-s-inspiration-set-path-to-alibaba-ipo/",
+        "kind": "article",
+        "title": "Jack Ma's U.S. Inspiration Set Path to Alibaba IPO",
+        "publisher": "CKGSB Knowledge",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://english.ckgsb.edu.cn/new/jack-mas-u-s-inspiration-set-path-to-alibaba-ipo/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "geekwire-ma-charlie-rose",
+        "url": "https://www.geekwire.com/2015/alibabas-jack-ma-tells-charlie-rose-discovering-internet-seattle/",
+        "kind": "article",
+        "title": "Alibaba's Jack Ma tells Charlie Rose about discovering the Internet in Seattle",
+        "publisher": "GeekWire",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.geekwire.com/2015/alibabas-jack-ma-tells-charlie-rose-discovering-internet-seattle/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-1995-china-pages-founded",
+    "person_id": "ma",
+    "date": "1995-04-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "在杭州创办中国黄页（China Pages），中国最早的互联网公司之一",
+    "title_en": "Founds China Pages — one of China's first internet companies",
+    "summary": "回到杭州后，马云从积蓄和姐姐处凑了 7000 元人民币，与妻子张瑛、何一兵共同创办 \"中国黄页\"（China Pages），为中国企业制作英文网页发布到 chinapages.com。在还没有商业 Web 的中国，他逐户敲门推销 \"互联网\" 这个连他自己都没真正用过几次的概念。1996 年，公司被中国电信旗下杭州电信分公司控股，马云被边缘化后离开。中国黄页是他第一次真正的互联网创业，也是他理解 \"中国电商需要绕开国企体系\" 的开端。",
+    "summary_en": "Back in Hangzhou, Ma scraped together 7,000 yuan from his savings and his sister, and with his wife Zhang Ying and partner He Yibing co-founded China Pages — a Yellow Pages-style website that put Chinese businesses online at chinapages.com. In a country with virtually no commercial web, he sold \"the internet\" door-to-door, a concept he himself had used for only minutes. In 1996, China Telecom's Hangzhou subsidiary took a controlling stake; Ma was sidelined and eventually left. The experience taught him that Chinese e-commerce had to be built outside the state-enterprise system.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "创业",
+      "中国黄页",
+      "互联网"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-ma-bio",
+        "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+        "kind": "article",
+        "title": "Jack Ma (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Jack_Ma",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "ckgsb-ma-us-inspiration",
+        "url": "https://english.ckgsb.edu.cn/new/jack-mas-u-s-inspiration-set-path-to-alibaba-ipo/",
+        "kind": "article",
+        "title": "Jack Ma's U.S. Inspiration Set Path to Alibaba IPO",
+        "publisher": "CKGSB Knowledge",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://english.ckgsb.edu.cn/new/jack-mas-u-s-inspiration-set-path-to-alibaba-ipo/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-1999-02-21-alibaba-founding-speech",
+    "person_id": "ma",
+    "date": "1999-02-21",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "在杭州湖畔花园公寓向 17 位创始人发表创业演讲",
+    "title_en": "Founding speech to 17 colleagues in Hupan Garden apartment, Hangzhou",
+    "summary": "1999 年 2 月，马云从北京返回杭州，在湖畔花园（Hupan Garden）他自己的小公寓里召集 17 位伙伴，宣布创立阿里巴巴。这次会议被现场录像保留下来，是中国互联网史上最著名的影像之一。马云在演讲中说：\"我们要做的不是中国最好的公司，而是要做一家全球最好的电子商务公司。\"\"3 到 5 年后我们的回报不会是这套公寓，而是 50 套这样的公寓。\" 他要求每个人最多投 1 万元——为了保证大家都把这家公司当回事，但又不至于破产。",
+    "summary_en": "In February 1999, Ma returned from Beijing to Hangzhou and gathered 17 colleagues in his own modest Hupan Garden apartment to announce the founding of Alibaba. The meeting was filmed and survives as one of the most famous moments in Chinese internet history. Ma told them: \"We are not going to be the best company in China — we are going to be the best e-commerce company in the world,\" and \"What we will get in three to five years is not this apartment, but 50 apartments like this one.\" He asked each person to put in no more than 10,000 yuan — enough that they took it seriously, not so much it would ruin them.",
+    "location": "湖畔花园, 杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "阿里巴巴",
+      "创业",
+      "湖畔花园",
+      "演讲"
+    ],
+    "sources": [
+      {
+        "id": "youtube-ma-1999-pitch",
+        "url": "https://www.youtube.com/watch?v=vab8qXQnius",
+        "kind": "video",
+        "title": "Jack Ma (Alibaba.com) speech to 17 friends in his apartment in 1999",
+        "publisher": "YouTube",
+        "lang": "zh",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "马云 1999 年初在湖畔花园公寓向 17 位创始人发表的原始创业演讲录像。中文原声，是中国互联网史上保留下来最有价值的影像之一。",
+        "summary_en": "The original 1999 founding-day speech by Ma to his 17 co-founders in the Hupan Garden apartment. In Chinese; one of the most historically valuable surviving recordings in Chinese internet history.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "wikipedia-alibaba-group",
+        "url": "https://en.wikipedia.org/wiki/Alibaba_Group",
+        "kind": "article",
+        "title": "Alibaba Group (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Alibaba_Group",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-1999-06-28-alibaba-founded",
+    "person_id": "ma",
+    "date": "1999-06-28",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "阿里巴巴集团正式成立",
+    "title_en": "Alibaba Group formally founded",
+    "summary": "1999 年 6 月 28 日，阿里巴巴集团（Alibaba Group）在杭州正式成立，定位为面向中小企业的全球 B2B 电子商务平台 Alibaba.com。马云任董事长兼 CEO。\"阿里巴巴\" 这个名字来自《一千零一夜》——他刻意挑选一个全球任何地方都好念、好记、好拼写、且以字母 A 开头的名字。这家公司将在接下来 25 年里把中国推入电子商务时代。",
+    "summary_en": "On June 28, 1999, Alibaba Group was formally registered in Hangzhou, with its B2B platform Alibaba.com targeting small and medium-sized exporters worldwide. Ma served as chairman and CEO. The name \"Alibaba\" was chosen deliberately from One Thousand and One Nights — Ma wanted a brand recognizable anywhere in the world, easy to spell, and starting with the letter A so it would always sort first. Over the next 25 years, this company would drag China into the e-commerce era.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "阿里巴巴",
+      "创业",
+      "B2B"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-alibaba-group",
+        "url": "https://en.wikipedia.org/wiki/Alibaba_Group",
+        "kind": "article",
+        "title": "Alibaba Group (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Alibaba_Group",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "britannica-ma",
+        "url": "https://www.britannica.com/money/Jack-Ma",
+        "kind": "article",
+        "title": "Jack Ma | Biography, Alibaba, & Facts | Britannica Money",
+        "publisher": "Encyclopaedia Britannica",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.britannica.com/money/Jack-Ma",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2000-01-softbank-investment",
+    "person_id": "ma",
+    "date": "2000-01-01",
+    "date_precision": "month",
+    "type": "deal",
+    "title": "软银孙正义六分钟谈成 2000 万美元投资",
+    "title_en": "SoftBank's Masayoshi Son invests $20M after a 6-minute meeting",
+    "summary": "2000 年 1 月，软银创始人孙正义在东京与马云会面，仅 6 分钟便决定向阿里巴巴投资 2000 万美元。同期高盛领投的 500 万美元（1999 年 10 月）已经到位。这两笔早期融资在 2000 年互联网泡沫破裂前的最后窗口给了阿里巴巴生死攸关的现金。多年后软银这笔投资成为风险投资史上最成功的押注之一，回报超过 1500 亿美元。",
+    "summary_en": "In January 2000, SoftBank founder Masayoshi Son met Ma in Tokyo and decided in just six minutes to invest $20 million in Alibaba. This came on top of $5 million led by Goldman Sachs the previous October. Closing in the last window before the dot-com bust, this funding was existential cash for Alibaba. Years later, SoftBank's $20M would prove to be one of the greatest VC bets in history — eventually returning over $150 billion.",
+    "location": "东京, 日本",
+    "key": true,
+    "tags": [
+      "融资",
+      "软银",
+      "孙正义",
+      "高盛"
+    ],
+    "sources": [
+      {
+        "id": "globe-mail-goldman-alibaba",
+        "url": "https://www.theglobeandmail.com/report-on-business/international-business/asian-pacific-business/how-goldman-sachs-won-and-lost-with-alibaba/article19475021/",
+        "kind": "article",
+        "title": "How Goldman Sachs won and lost with China's Alibaba",
+        "publisher": "The Globe and Mail",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.theglobeandmail.com/report-on-business/international-business/asian-pacific-business/how-goldman-sachs-won-and-lost-with-alibaba/article19475021/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "bloomberg-son-jack-ma",
+        "url": "https://www.bloomberg.com/news/videos/2017-10-11/why-masayoshi-son-invested-20-million-in-jack-ma-video",
+        "kind": "video",
+        "title": "Why Masayoshi Son Invested $20 Million in a Young Jack Ma",
+        "publisher": "Bloomberg",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.bloomberg.com/news/videos/2017-10-11/why-masayoshi-son-invested-20-million-in-jack-ma-video",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2003-05-10-taobao-launch",
+    "person_id": "ma",
+    "date": "2003-05-10",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在 SARS 隔离期间秘密创立淘宝，对抗 eBay",
+    "title_en": "Launches Taobao in secret during SARS to take on eBay China",
+    "summary": "2003 年 5 月 10 日，正值非典疫情，阿里巴巴秘密上线 C2C 平台淘宝（Taobao，意为 \"寻宝\"）。开发团队被隔离在湖畔花园马云的旧公寓中赶工，为了保密甚至连阿里员工内部也不知情。淘宝针对 eBay 在 2002 年收购的中国在线拍卖龙头易趣（Eachnet），采取免费上架策略——这与 eBay 的收费模式根本对立。马云有句名言：\"eBay 是海洋里的鲨鱼，我们是长江里的鳄鱼。在海洋里我们打不过它，但在长江里它打不过我们。\" 两年内淘宝市场份额从 8% 升到 59%，eBay 中国从 79% 跌到 36%；2006 年 eBay 退出中国市场。",
+    "summary_en": "On May 10, 2003 — at the height of the SARS epidemic — Alibaba secretly launched the C2C platform Taobao (\"hunt for treasure\"). The team built it under quarantine in Ma's original Hupan Garden apartment, kept secret even from most Alibaba employees. Taobao went directly at Eachnet, the Chinese online-auction leader that eBay had acquired in 2002, using a free-listings strategy — exactly the opposite of eBay's fee model. Ma's famous line: \"eBay is a shark in the ocean. We are a crocodile in the Yangtze. In the ocean we lose; in the Yangtze we win.\" Within two years, Taobao's share went from 8% to 59% while eBay China collapsed from 79% to 36%. eBay exited China in 2006.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "淘宝",
+      "电商",
+      "eBay",
+      "SARS"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-taobao",
+        "url": "https://en.wikipedia.org/wiki/Taobao",
+        "kind": "article",
+        "title": "Taobao (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Taobao",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnbc-sars-alibaba",
+        "url": "https://www.cnbc.com/2020/03/26/chinas-2002-2003-sars-outbreak-helped-alibaba-become-e-commerce-giant.html",
+        "kind": "article",
+        "title": "China's 2002-2003 SARS outbreak helped Alibaba become an e-commerce giant",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2020/03/26/chinas-2002-2003-sars-outbreak-helped-alibaba-become-e-commerce-giant.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2004-12-alipay-founded",
+    "person_id": "ma",
+    "date": "2004-12-01",
+    "date_precision": "month",
+    "type": "founding",
+    "title": "支付宝独立运营，开创第三方担保支付模式",
+    "title_en": "Alipay spun out as independent escrow-payment platform",
+    "summary": "支付宝（Alipay）于 2003 年 10 月作为淘宝内部的支付工具上线，2004 年 12 月正式独立运营。它创造性地引入第三方托管（escrow）模式：买家付款进入支付宝账户，确认收货后才打给卖家。在中国信用体系尚未健全、网购双方互不信任的年代，这一机制成为中国电商爆发的关键基础设施。支付宝后来发展为蚂蚁集团（Ant Group），并演化出余额宝、芝麻信用、花呗等产品，根本性地重塑了中国金融。",
+    "summary_en": "Alipay (支付宝) first appeared in October 2003 as Taobao's internal payment tool and was spun out as a standalone service in December 2004. It introduced China's first true escrow model: buyers' funds were held by Alipay until they confirmed delivery, then released to sellers. In a country where credit systems were primitive and online buyers and sellers fundamentally distrusted each other, this single mechanism unlocked Chinese e-commerce. Alipay would later become Ant Group, spawning Yu'eBao money market, Sesame Credit, and Huabei consumer credit — reshaping Chinese finance.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "支付宝",
+      "金融科技",
+      "蚂蚁集团"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-alipay",
+        "url": "https://en.wikipedia.org/wiki/Alipay",
+        "kind": "article",
+        "title": "Alipay (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Alipay",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2005-08-yahoo-investment",
+    "person_id": "ma",
+    "date": "2005-08-11",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "雅虎投资 10 亿美元换取阿里巴巴 40% 股权",
+    "title_en": "Yahoo invests $1B for 40% of Alibaba",
+    "summary": "2005 年 8 月 11 日，雅虎（Yahoo!）宣布以 10 亿美元现金加上雅虎中国全部业务，换取阿里巴巴 40% 股权和 35% 投票权。这是当时中国互联网史上最大的投资交易。雅虎中国从此交由阿里巴巴运营，马云一举掌握中国搜索市场入口。这笔投资也奠定了未来 9 年雅虎-阿里巴巴-软银的三角股权结构，最终在 2014 年阿里 IPO 时为雅虎兑现超过 800 亿美元。",
+    "summary_en": "On August 11, 2005, Yahoo! announced a $1 billion cash investment plus all of Yahoo China's operations in exchange for 40% of Alibaba's equity and 35% of voting rights — at the time, the biggest internet deal in Chinese history. Yahoo China was handed over to Alibaba to run, giving Ma a foothold in Chinese search. The deal also locked in the Yahoo–Alibaba–SoftBank triangle that would last nine years, ultimately yielding Yahoo more than $80 billion when Alibaba IPO'd in 2014.",
+    "location": "Sunnyvale, California, USA",
+    "key": true,
+    "tags": [
+      "雅虎",
+      "融资",
+      "杨致远",
+      "并购"
+    ],
+    "sources": [
+      {
+        "id": "aljazeera-yahoo-alibaba-2005",
+        "url": "https://www.aljazeera.com/news/2005/8/11/yahoo-to-invest-1-billion-in-china-firm",
+        "kind": "article",
+        "title": "Yahoo to invest $1 billion in China firm",
+        "publisher": "Al Jazeera",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.aljazeera.com/news/2005/8/11/yahoo-to-invest-1-billion-in-china-firm",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "moneymorning-yahoo-alibaba",
+        "url": "https://moneymorning.com/2014/09/18/yahoos-stake-in-alibaba-how-this-partnership-started-and-whats-next/",
+        "kind": "article",
+        "title": "Yahoo's Stake in Alibaba: How This Partnership Started and What's Next",
+        "publisher": "Money Morning",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://moneymorning.com/2014/09/18/yahoos-stake-in-alibaba-how-this-partnership-started-and-whats-next/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2007-11-06-alibaba-hk-ipo",
+    "person_id": "ma",
+    "date": "2007-11-06",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Alibaba.com 在香港交易所 IPO，融资约 17 亿美元",
+    "title_en": "Alibaba.com IPOs on Hong Kong Stock Exchange, raising ~$1.7B",
+    "summary": "2007 年 11 月 6 日，阿里巴巴 B2B 业务子公司 Alibaba.com Limited 在香港交易所挂牌（股票代码 1688.HK），募集约 17 亿美元（市场报道介于 15-17 亿之间），成为自 2004 年谷歌 IPO 以来全球最大的互联网 IPO。首日股价飙升 193%，市值约 256 亿美元。这是马云第一次把阿里巴巴拿到资本市场的检验，也是中国互联网公司在国际舞台上的一次重要亮相。该上市实体在 2012 年被私有化，为日后整体集团赴美上市铺平道路。",
+    "summary_en": "On November 6, 2007, Alibaba's B2B subsidiary, Alibaba.com Limited, listed on the Hong Kong Stock Exchange (ticker 1688.HK), raising about $1.7 billion (reports range from $1.5B to $1.7B) — the largest internet IPO globally since Google's 2004 listing. Shares jumped 193% on day one, valuing the company at about $25.6 billion. This was Ma's first major public-market validation, and a coming-out moment for Chinese internet companies internationally. This entity was taken private in 2012, clearing the path for the parent group's eventual US listing.",
+    "location": "香港",
+    "key": true,
+    "tags": [
+      "IPO",
+      "香港",
+      "Alibaba.com"
+    ],
+    "sources": [
+      {
+        "id": "cnnmoney-alibaba-ipo-2007",
+        "url": "https://money.cnn.com/2007/11/05/markets/ipo/ali_baba_ipo/index.htm",
+        "kind": "article",
+        "title": "Alibaba.com IPO jumps in Hong Kong debut",
+        "publisher": "CNNMoney",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://money.cnn.com/2007/11/05/markets/ipo/ali_baba_ipo/index.htm",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "chinadaily-alibaba-ipo-2007",
+        "url": "https://www.chinadaily.com.cn/china/2007-10/28/content_6211644.htm",
+        "kind": "article",
+        "title": "Alibaba.com raises $1.5 billion in IPO",
+        "publisher": "China Daily",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.chinadaily.com.cn/china/2007-10/28/content_6211644.htm",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2009-09-aliyun-founded",
+    "person_id": "ma",
+    "date": "2009-09-10",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "阿里巴巴成立 10 周年，宣布成立阿里云（Aliyun）",
+    "title_en": "On Alibaba's 10th anniversary, founds Alibaba Cloud (Aliyun)",
+    "summary": "2009 年 9 月 10 日（马云 45 岁生日同日，也是阿里巴巴 10 周年），阿里宣布成立云计算子公司阿里云（Aliyun / Alibaba Cloud），定位为面向电商数据挖掘和处理的公共云平台。这一决定在当年看来非常激进——彼时中国几乎没人理解云计算，马云顶着内部巨大反对力推。十多年后，阿里云已成为中国最大的公有云服务商、全球第三大云服务商，是阿里巴巴除电商外最重要的业务支柱。",
+    "summary_en": "On September 10, 2009 — Ma's 45th birthday and Alibaba's 10th anniversary — the company announced its cloud-computing subsidiary, Aliyun (Alibaba Cloud), positioned as a public cloud platform for e-commerce data mining and processing. The bet looked extreme at the time — almost no one in China understood cloud computing, and Ma overrode heavy internal opposition to push it through. A decade later, Alibaba Cloud is China's largest public cloud provider and the world's third-largest, and Alibaba's most important non-e-commerce business pillar.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "阿里云",
+      "云计算"
+    ],
+    "sources": [
+      {
+        "id": "wikipedia-alibaba-cloud",
+        "url": "https://en.wikipedia.org/wiki/Alibaba_Cloud",
+        "kind": "article",
+        "title": "Alibaba Cloud (Wikipedia)",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": false,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Alibaba_Cloud",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2009-11-11-singles-day",
+    "person_id": "ma",
+    "date": "2009-11-11",
+    "date_precision": "day",
+    "type": "product",
+    "title": "首届 \"双 11\" 购物节，27 家商户参与，销售额 5000 万元",
+    "title_en": "First Singles' Day (Double 11) shopping festival — 27 merchants, 50M yuan in sales",
+    "summary": "2009 年 11 月 11 日，阿里旗下天猫前身淘宝商城（Tmall 雏形）发起首届 \"双 11 购物节\"。这一天原本是中国大学生自嘲的 \"光棍节\"，时任淘宝商城总裁张勇（后任阿里集团 CEO）将其作为电商促销切入点。首届双 11 仅 27 家商户参与，但销售额达 5000 万元人民币，远超预期。十年后，双 11 单日 GMV 超 4000 亿元，成为全球规模最大的购物节，也是马云团队最重要的营销创造。",
+    "summary_en": "On November 11, 2009, Alibaba's Taobao Mall (the precursor to Tmall) launched the first \"Double 11 / Singles' Day\" shopping festival. The date had been adopted by Chinese university students as a self-mocking \"singles' holiday\"; Daniel Zhang, then president of Taobao Mall and later Alibaba Group CEO, turned it into an e-commerce sales hook. Only 27 merchants participated, but the day generated 50 million yuan — far above expectations. A decade later, single-day GMV would top 400 billion yuan, making Double 11 the largest shopping festival on Earth and one of Ma's team's most important marketing inventions.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "双11",
+      "光棍节",
+      "天猫",
+      "电商"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-singles-day-history",
+        "url": "https://www.cnbc.com/2018/11/09/alibaba-singles-day-how-the-giant-shopping-event-began.html",
+        "kind": "article",
+        "title": "Alibaba's CEO started Singles Day to promote a new brand. Now it's a $25 billion 'phenomenon'",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2018/11/09/alibaba-singles-day-how-the-giant-shopping-event-began.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "techcrunch-singles-day",
+        "url": "https://techcrunch.com/2018/11/09/alibaba-singles-day-11-festival/",
+        "kind": "article",
+        "title": "Singles' Day: China's $25 billion shopping festival explained",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://techcrunch.com/2018/11/09/alibaba-singles-day-11-festival/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2011-09-30-stanford-speech",
+    "person_id": "ma",
+    "date": "2011-09-30",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "斯坦福大学演讲：放话 \"对收购雅虎非常感兴趣\"",
+    "title_en": "Stanford University speech — \"Very interested\" in buying Yahoo",
+    "summary": "2011 年 9 月 30 日，马云在斯坦福大学发表近一小时英语演讲，公开表示阿里巴巴 \"非常有兴趣\" 收购雅虎，回顾他与杨致远的友谊，并谈及淘宝增长、与 eBay 的中国之战、以及美国市场对阿里全球化的重要性。这场演讲被广泛传播，是马云首次系统性地向硅谷展示自己的全球野心。",
+    "summary_en": "On September 30, 2011, Ma gave a nearly hour-long speech in English at Stanford University, openly declaring Alibaba was \"very interested\" in acquiring Yahoo!. He recounted his friendship with Yahoo co-founder Jerry Yang, the Taobao-vs-eBay battle in China, the growth of Taobao, and the importance of the US market for Alibaba's global plans. It was Ma's first systematic pitch of his global ambitions to Silicon Valley.",
+    "location": "Stanford University, California, USA",
+    "key": true,
+    "tags": [
+      "斯坦福",
+      "演讲",
+      "雅虎"
+    ],
+    "sources": [
+      {
+        "id": "youtube-ma-stanford-2011",
+        "url": "https://www.youtube.com/watch?v=MRp4jiJed3c",
+        "kind": "video",
+        "title": "Alibaba Group CEO, Jack Ma, Speech In Stanford University, Sept 30, 2011",
+        "publisher": "YouTube",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "马云 2011 年 9 月 30 日在斯坦福大学的完整英语演讲。",
+        "summary_en": "Ma's full English-language speech at Stanford University, September 30, 2011.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "alizila-ma-stanford-2011",
+        "url": "https://www.alizila.com/watch-jack-mas-stanford-speech/",
+        "kind": "article",
+        "title": "Watch Jack Ma's Stanford Speech",
+        "publisher": "Alizila",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.alizila.com/watch-jack-mas-stanford-speech/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2013-05-10-steps-down-ceo",
+    "person_id": "ma",
+    "date": "2013-05-10",
+    "date_precision": "day",
+    "type": "career",
+    "title": "辞去阿里 CEO 职务，由陆兆禧（Jonathan Lu）接任",
+    "title_en": "Steps down as Alibaba CEO; Jonathan Lu succeeds him",
+    "summary": "2013 年 5 月 10 日（淘宝 10 周年纪念日），48 岁的马云正式辞去阿里巴巴集团 CEO 职务，将公司交棒给跟随他十多年的老将陆兆禧（Jonathan Lu Zhaoxi）。马云保留董事局主席职位，把日常运营全部移交。在卸任仪式上他公开表示，48 岁 \"对一家互联网公司的 CEO 来说太老了\"，公司需要更年轻的头脑去理解快速变化的中国互联网。这是阿里第一次系统性的代际传承。",
+    "summary_en": "On May 10, 2013 — Taobao's 10th anniversary — Ma, then 48, formally resigned as CEO of Alibaba Group, handing the role to longtime lieutenant Jonathan Lu Zhaoxi. Ma kept the executive chairman title but stepped out of day-to-day operations. At the handover, he publicly said that 48 was \"too old\" for an internet-company CEO and that Alibaba needed younger leaders who could keep up with China's fast-changing internet. It was the first formal generational transition at Alibaba.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "传承",
+      "陆兆禧",
+      "CEO"
+    ],
+    "sources": [
+      {
+        "id": "techcrunch-jonathan-lu-2013",
+        "url": "https://techcrunch.com/2013/03/10/alibaba-names-insider-jonathan-lu-as-new-ceo-replacing-founder-jack-ma/",
+        "kind": "article",
+        "title": "Alibaba Names Insider Jonathan Lu As New CEO, Replacing Founder Jack Ma",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://techcrunch.com/2013/03/10/alibaba-names-insider-jonathan-lu-as-new-ceo-replacing-founder-jack-ma/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "scmp-jonathan-lu",
+        "url": "https://www.scmp.com/business/companies/article/1188314/veteran-company-executive-jonathan-lu-takes-helm-alibaba",
+        "kind": "article",
+        "title": "Veteran company executive Jonathan Lu takes the helm at Alibaba",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.scmp.com/business/companies/article/1188314/veteran-company-executive-jonathan-lu-takes-helm-alibaba",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2014-09-19-alibaba-nyse-ipo",
+    "person_id": "ma",
+    "date": "2014-09-19",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "阿里巴巴在纽交所 IPO，融资 218 亿美元——美国史上最大 IPO",
+    "title_en": "Alibaba Group IPOs on NYSE, raising $21.8B — largest IPO in US history",
+    "summary": "2014 年 9 月 19 日，阿里巴巴集团（BABA）正式登陆纽约证券交易所，发行价 68 美元，募集 218 亿美元（含超额配售后达 250 亿美元），创下美国证券史上最大 IPO 纪录。开盘价 92.70 美元，首日上涨 38%，市值飙升至 2360 亿美元——超过 Facebook 和亚马逊。马云敲钟时邀请 8 位阿里平台上的卖家、客户和员工同台，象征 \"阿里属于小企业和普通人\"。这是中国互联网公司第一次站在全球资本市场的中心。",
+    "summary_en": "On September 19, 2014, Alibaba Group (NYSE: BABA) listed on the New York Stock Exchange at $68/share, raising $21.8 billion (rising to $25 billion with the over-allotment) — the largest IPO in US history. Shares opened at $92.70 and closed up 38%, valuing Alibaba at $236 billion, more than Facebook or Amazon at the time. Ma chose to ring the opening bell flanked by eight Alibaba sellers, customers, and employees rather than executives — a deliberate signal that \"Alibaba belongs to small businesses and ordinary people.\" It was the first time a Chinese internet company stood at the center of global capital markets.",
+    "location": "New York Stock Exchange, New York, USA",
+    "key": true,
+    "tags": [
+      "IPO",
+      "纽交所",
+      "BABA"
+    ],
+    "sources": [
+      {
+        "id": "cnnmoney-alibaba-ipo-2014",
+        "url": "https://money.cnn.com/2014/09/19/investing/alibaba-ipo-debut-nyse/index.html",
+        "kind": "article",
+        "title": "Boom: Alibaba surges 38% in huge IPO debut",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://money.cnn.com/2014/09/19/investing/alibaba-ipo-debut-nyse/index.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cbsnews-alibaba-ipo-2014",
+        "url": "https://www.cbsnews.com/news/alibaba-ipo-trading-to-start-after-22-billion-sale/",
+        "kind": "article",
+        "title": "Alibaba IPO: Stock opens for trading at $92.70 a share",
+        "publisher": "CBS News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cbsnews.com/news/alibaba-ipo-trading-to-start-after-22-billion-sale/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "60min-jack-ma-2014",
+        "url": "https://www.cbsnews.com/news/alibaba-chairman-jack-ma-brings-company-to-america/",
+        "kind": "article",
+        "title": "Jack Ma brings Alibaba to the U.S.",
+        "publisher": "CBS News / 60 Minutes",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cbsnews.com/news/alibaba-chairman-jack-ma-brings-company-to-america/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "youtube-60min-ma",
+        "url": "https://www.youtube.com/watch?v=F7EyJqDj3js",
+        "kind": "video",
+        "title": "60 Minutes talks with founder of Alibaba, largest e-commerce company",
+        "publisher": "CBS News / 60 Minutes (YouTube)",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "2014 年 9 月 28 日，《60 分钟》Lara Logan 主持的马云专访，与阿里 IPO 同期播出。",
+        "summary_en": "60 Minutes profile of Jack Ma by Lara Logan, aired September 28, 2014, alongside Alibaba's NYSE IPO.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2015-01-charlie-rose-davos",
+    "person_id": "ma",
+    "date": "2015-01-23",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "达沃斯论坛接受 Charlie Rose 专访",
+    "title_en": "Charlie Rose interview at Davos World Economic Forum",
+    "summary": "2015 年 1 月，阿里 IPO 四个月后，马云在达沃斯世界经济论坛接受著名美国主持人 Charlie Rose 一对一专访，谈了阿里 1 亿日活用户、3 万员工、与中国政府的关系，以及他在西雅图第一次接触互联网（在 \"美国银行\" 大厦内）的故事。他还谈到 \"阿里巴巴\" 这个名字怎么来的：\"这是个全球都知道的名字，发音简单，又以 A 开头，永远排在最前面。\" 这场对话被广泛视为西方主流认识马云个人的关键节点。",
+    "summary_en": "In January 2015, four months after the NYSE IPO, Ma sat down with Charlie Rose at the World Economic Forum in Davos for a wide-ranging conversation: Alibaba's 100 million daily shoppers and 30,000 employees, the company's relationship with the Chinese government, and his original 1995 internet encounter in Seattle (\"in a building called U.S. Bank\"). He also explained the name: \"Alibaba is globally known, easy to pronounce, and starts with an 'A,' so it's always on top.\" The interview is widely considered the moment Ma personally landed in Western public consciousness.",
+    "location": "Davos, Switzerland",
+    "key": true,
+    "tags": [
+      "达沃斯",
+      "Charlie Rose",
+      "采访"
+    ],
+    "sources": [
+      {
+        "id": "youtube-ma-charlie-rose-davos",
+        "url": "https://www.youtube.com/watch?v=t7qemrp2w_w",
+        "kind": "video",
+        "title": "Jack Ma's interview with Charlie Rose at Davos, 2015",
+        "publisher": "YouTube",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2015 年 1 月达沃斯论坛上 Charlie Rose 对马云的全程英语专访。",
+        "summary_en": "Full English-language Charlie Rose interview with Ma at Davos, January 2015.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "geekwire-ma-charlie-rose",
+        "url": "https://www.geekwire.com/2015/alibabas-jack-ma-tells-charlie-rose-discovering-internet-seattle/",
+        "kind": "article",
+        "title": "Alibaba's Jack Ma tells Charlie Rose about discovering the Internet in Seattle",
+        "publisher": "GeekWire",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.geekwire.com/2015/alibabas-jack-ma-tells-charlie-rose-discovering-internet-seattle/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2015-09-stanford-gsb-encore",
+    "person_id": "ma",
+    "date": "2015-09-24",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "斯坦福商学院 ENCORE 奖：年度创业公司 + 演讲",
+    "title_en": "Stanford GSB ENCORE Award — Entrepreneurial Company of the Year",
+    "summary": "2015 年 9 月 24 日，斯坦福商学院（GSB）将第 38 届年度 ENCORE 奖授予阿里巴巴集团，评为 \"年度创业公司\"。马云以创始人身份出席，做了一场关于阿里历程、女性领导力、和未来 30 年互联网走向的演讲。这是阿里巴巴在 2014 年 IPO 后被美国学术界系统性肯定的一个仪式性时刻。",
+    "summary_en": "On September 24, 2015, Stanford Graduate School of Business gave Alibaba Group the 38th annual ENCORE Award for \"Entrepreneurial Company of the Year.\" Ma attended as founder and gave a speech on Alibaba's journey, female leadership, and his vision for the next 30 years of the internet. It was a ceremonial moment of US academic validation following the 2014 NYSE IPO.",
+    "location": "Stanford GSB, California, USA",
+    "key": false,
+    "tags": [
+      "斯坦福",
+      "演讲",
+      "GSB"
+    ],
+    "sources": [
+      {
+        "id": "youtube-ma-stanford-gsb-2015",
+        "url": "https://www.youtube.com/watch?v=kh_wPWQrWZA",
+        "kind": "video",
+        "title": "Jack Ma, Alibaba Group: Stanford GSB 2015 Entrepreneurial Company of the Year",
+        "publisher": "Stanford Graduate School of Business (YouTube)",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "斯坦福商学院 2015 年度创业公司颁奖现场马云完整演讲录像。",
+        "summary_en": "Full video of Ma's speech at the Stanford GSB 2015 Entrepreneurial Company of the Year award ceremony.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "gsb-ma-ideas-tech",
+        "url": "https://www.gsb.stanford.edu/insights/alibaba-founder-jack-ma-ideas-technology-can-change-world",
+        "kind": "article",
+        "title": "Alibaba Founder Jack Ma: Ideas & Technology Can Change the World",
+        "publisher": "Stanford Graduate School of Business",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.gsb.stanford.edu/insights/alibaba-founder-jack-ma-ideas-technology-can-change-world",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2017-01-09-trump-tower-meeting",
+    "person_id": "ma",
+    "date": "2017-01-09",
+    "date_precision": "day",
+    "type": "career",
+    "title": "在特朗普大厦会见候任总统特朗普，承诺 5 年为美国创造 100 万就业",
+    "title_en": "Meets President-elect Trump at Trump Tower; pledges 1M US jobs in 5 years",
+    "summary": "2017 年 1 月 9 日，马云在纽约特朗普大厦与候任总统特朗普会面 40 分钟，承诺阿里巴巴将通过帮助 100 万家美国中小企业把商品卖到中国和亚洲，在未来 5 年间间接创造 100 万个美国就业岗位。会后特朗普在摄影机前称马云为 \"伟大的、伟大的企业家，全球最棒的之一\"。这是中美关系紧张前夕，中国头部互联网企业家少有的与美国新政府的高调互动，也注定让马云此后被卷入更复杂的政治叙事。",
+    "summary_en": "On January 9, 2017, Ma met President-elect Donald Trump for 40 minutes at Trump Tower in New York and pledged that Alibaba would help 1 million American small businesses sell to China and Asia, indirectly creating 1 million US jobs over five years. Trump described Ma to the press pool as \"a great, great entrepreneur, one of the best in the world.\" Coming on the eve of US–China tensions, this was a rare high-profile engagement between a top Chinese internet founder and the incoming US administration — and one that would later draw Ma into a much more complicated political narrative.",
+    "location": "Trump Tower, New York, USA",
+    "key": true,
+    "tags": [
+      "特朗普",
+      "中美关系",
+      "就业"
+    ],
+    "sources": [
+      {
+        "id": "cnnmoney-trump-ma",
+        "url": "https://money.cnn.com/2017/01/09/technology/trump-alibaba-jack-ma",
+        "kind": "article",
+        "title": "Alibaba's Jack Ma met with Trump to talk jobs",
+        "publisher": "CNN Money",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://money.cnn.com/2017/01/09/technology/trump-alibaba-jack-ma",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnbc-trump-ma-2017",
+        "url": "https://www.cnbc.com/2017/01/09/alibaba-to-discuss-expansion-plans-with-trump-company-aims-to-create-1-million-us-jobs-over-the-next-5-years.html",
+        "kind": "article",
+        "title": "Alibaba job boom: Jack Ma chats with Trump about how to create 1 million US jobs over 5 years",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2017/01/09/alibaba-to-discuss-expansion-plans-with-trump-company-aims-to-create-1-million-us-jobs-over-the-next-5-years.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2017-01-18-davos-globalization",
+    "person_id": "ma",
+    "date": "2017-01-18",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "达沃斯演讲：\"美国浪费了 14 万亿打仗，而不是建设自己\"",
+    "title_en": "Davos speech — \"America wasted $14 trillion on wars instead of building itself\"",
+    "summary": "2017 年 1 月 18 日，马云在世界经济论坛达沃斯年会的 \"An Insight, An Idea with Jack Ma\" 专场上接受 CNBC Andrew Ross Sorkin 采访。他直言美国民众的失业焦虑不是中国偷走的，\"过去 30 年里美国打了 13 场战争、花了超过 14 万亿美元，本该用这些钱投资基础设施和自己的人民\"。他同时呼吁 \"包容性的全球化\"，\"全球化是好事，但它需要被改进\"。这一段讲话被全球媒体反复引用，成为马云国际形象的标志性时刻之一。",
+    "summary_en": "On January 18, 2017, at \"An Insight, An Idea with Jack Ma\" during the World Economic Forum's annual meeting in Davos, Ma was interviewed by CNBC's Andrew Ross Sorkin. He told the audience that American workers' job-loss anxieties weren't caused by China — \"Over the past 30 years, the US fought 13 wars and spent over $14 trillion. That money should have been invested in infrastructure and in your own people.\" He also called for \"inclusive globalization\": \"Globalization is good, but it needs to be improved.\" The exchange was replayed worldwide and became one of the signature moments of Ma's international persona.",
+    "location": "Davos-Klosters, Switzerland",
+    "key": true,
+    "tags": [
+      "达沃斯",
+      "全球化",
+      "中美关系",
+      "演讲"
+    ],
+    "sources": [
+      {
+        "id": "weforum-ma-2017",
+        "url": "https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2017/sessions/an-insight-an-idea-with-jack-ma/",
+        "kind": "article",
+        "title": "An Insight, An Idea with Jack Ma — World Economic Forum Annual Meeting 2017",
+        "publisher": "World Economic Forum",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2017/sessions/an-insight-an-idea-with-jack-ma/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnbc-ma-davos-2017",
+        "url": "https://www.cnbc.com/2017/01/18/chinese-billionaire-jack-ma-says-the-us-wasted-trillions-on-warfare-instead-of-investing-in-infrastructure.html",
+        "kind": "article",
+        "title": "Chinese billionaire Jack Ma says the US wasted trillions on warfare instead of investing in infrastructure",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2017/01/18/chinese-billionaire-jack-ma-says-the-us-wasted-trillions-on-warfare-instead-of-investing-in-infrastructure.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2018-09-10-retirement-announcement",
+    "person_id": "ma",
+    "date": "2018-09-10",
+    "date_precision": "day",
+    "type": "career",
+    "title": "54 岁生日宣布退休计划，张勇将于一年后接任董事长",
+    "title_en": "On 54th birthday, announces retirement plan; Daniel Zhang to succeed as chairman in one year",
+    "summary": "2018 年 9 月 10 日，马云 54 岁生日（也是教师节，也是阿里 19 周年纪念日），他通过一封致投资者和员工的公开信宣布退休计划：将于 2019 年 9 月 10 日（阿里 20 周年）卸任阿里巴巴集团董事长，由现任 CEO 张勇（Daniel Zhang）接任，自己将专注于教育公益和马云公益基金会的工作。这次提前一年宣布的传承计划被认为是中国互联网企业第一次系统性、制度化的代际交班，与许多创始人 \"终身在位\" 的中国传统企业形成鲜明对比。",
+    "summary_en": "On September 10, 2018 — Ma's 54th birthday, China's Teacher's Day, and Alibaba's 19th anniversary — he published an open letter to shareholders and employees announcing his retirement plan: he would step down as Alibaba Group chairman on September 10, 2019 (Alibaba's 20th anniversary), with then-CEO Daniel Zhang Yong taking over, while Ma would focus on education, philanthropy, and the Jack Ma Foundation. Announcing the handover a full year in advance was widely seen as the first systematic, institutionalized generational transition in a Chinese internet company — a sharp break from the \"founder for life\" model common among Chinese private companies.",
+    "location": "杭州, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "退休",
+      "传承",
+      "张勇"
+    ],
+    "sources": [
+      {
+        "id": "techcrunch-ma-retirement-2018",
+        "url": "https://techcrunch.com/2018/09/09/alibaba-announces-ceo-daniel-zhang-will-succeed-jack-ma-as-chairman-next-year/",
+        "kind": "article",
+        "title": "Alibaba announces CEO Daniel Zhang will succeed Jack Ma as chairman next year",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://techcrunch.com/2018/09/09/alibaba-announces-ceo-daniel-zhang-will-succeed-jack-ma-as-chairman-next-year/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "qz-ma-letter",
+        "url": "https://qz.com/1384087/full-text-jack-mas-letter-announcing-retirement-from-alibaba",
+        "kind": "article",
+        "title": "Read Jack Ma's letter announcing his retirement as Alibaba chairman",
+        "publisher": "Quartz",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://qz.com/1384087/full-text-jack-mas-letter-announcing-retirement-from-alibaba",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "acquired-alibaba",
+        "url": "https://www.acquired.fm/episodes/season-3-episode-5nbspalibaba",
+        "kind": "audio",
+        "title": "Acquired Podcast — Season 3, Episode 5: Alibaba",
+        "publisher": "Acquired (Ben Gilbert & David Rosenthal)",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "Acquired 播客对阿里巴巴的深度复盘：从英语教师到全球电商帝国，软银投资、阿里-雅虎-软银三角股权、支付宝拆分等关键节点。",
+        "summary_en": "Deep-dive episode of the Acquired podcast walking through Alibaba's full story — from Ma's days as an English teacher, through SoftBank, the Yahoo–Alibaba–SoftBank triangle, and the Alipay spin-out.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2019-08-29-musk-debate",
+    "person_id": "ma",
+    "date": "2019-08-29",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "在上海世界人工智能大会上与马斯克 AI 辩论",
+    "title_en": "Debates Elon Musk on AI at the World Artificial Intelligence Conference in Shanghai",
+    "summary": "2019 年 8 月 29 日，马云与特斯拉创始人马斯克在上海世界人工智能大会（WAIC）开幕式上展开公开对谈。两人在 AI 是否会威胁人类、就业、教育、太空探索等问题上观点鲜明对立。马斯克认为 \"AI 比最聪明的人类还聪明\"，担心 AI 失控；马云则反复强调 \"我对 AI 一点也不担心\"，并说 \"人类历史上 99.99% 的关于未来的预言都错了\"。这场两位顶级企业家的同台对谈被全球媒体反复报道，是 2019 年最具传播力的 AI 公共讨论之一。",
+    "summary_en": "On August 29, 2019, Ma and Tesla CEO Elon Musk faced off in a public conversation at the opening of the World Artificial Intelligence Conference (WAIC) in Shanghai. They diverged sharply on whether AI would threaten humanity, jobs, education, and space travel. Musk said \"AI is smarter than the smartest human being\" and warned of existential risk. Ma kept repeating \"I'm not worried about AI at all\" and joked, \"99.99% of all predictions humans have made about the future are wrong.\" The debate between two of the world's most prominent founders became one of the most-covered public AI conversations of 2019.",
+    "location": "上海, 中国",
+    "key": true,
+    "tags": [
+      "马斯克",
+      "AI",
+      "WAIC",
+      "辩论"
+    ],
+    "sources": [
+      {
+        "id": "youtube-ma-musk-debate",
+        "url": "https://www.youtube.com/watch?v=zqoXSbnNMjM",
+        "kind": "video",
+        "title": "Jack Ma, Elon Musk debate AI at China summit",
+        "publisher": "YouTube",
+        "lang": "en",
+        "duration_sec": null,
+        "primary": true,
+        "summary": "2019 年 8 月 29 日上海 WAIC 开幕式马云与马斯克的 AI 公开辩论完整视频。",
+        "summary_en": "Full video of the Ma–Musk public AI debate at the WAIC opening, Shanghai, August 29, 2019.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "cgtn-ma-musk-ai",
+        "url": "https://news.cgtn.com/news/2019-08-29/World-AI-Conference-Ma-Musk-disagree-on-AI-JyLNIrYniU/index.html",
+        "kind": "article",
+        "title": "World AI Conference: Ma, Musk disagree on AI",
+        "publisher": "CGTN",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://news.cgtn.com/news/2019-08-29/World-AI-Conference-Ma-Musk-disagree-on-AI-JyLNIrYniU/index.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2019-09-10-retires-chairman",
+    "person_id": "ma",
+    "date": "2019-09-10",
+    "date_precision": "day",
+    "type": "career",
+    "title": "在阿里 20 周年大会上正式卸任董事长",
+    "title_en": "Officially retires as Alibaba chairman at 20th anniversary celebration",
+    "summary": "2019 年 9 月 10 日，阿里巴巴成立 20 周年纪念日，杭州奥体中心 6 万人见证马云正式卸任阿里巴巴集团董事局主席，张勇接任。马云在告别演讲中说：\"今天不是阿里的退休，而是一个新阿里的开始。\" 同日，他穿摇滚装出现，唱歌跳舞庆祝。第二天他重返湖畔花园 1999 年的那间公寓拍照留念。这是中国互联网历史上最具仪式感的一次告别，也被视为中国民营企业能否实现制度化传承的样本案例。",
+    "summary_en": "On September 10, 2019 — Alibaba's 20th anniversary — 60,000 people gathered at Hangzhou Olympic Sports Center to watch Ma formally hand over the chairmanship of Alibaba Group to Daniel Zhang. In his farewell speech, Ma said: \"Today is not Alibaba retiring; it is the beginning of a new Alibaba.\" He took the stage in rock-star costume, singing and dancing. The next day he returned to the Hupan Garden apartment of 1999 for photos. It was the most ceremonial founder transition in Chinese internet history and is studied as a benchmark for whether Chinese private firms can institutionalize succession.",
+    "location": "杭州奥体中心, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "退休",
+      "20周年",
+      "传承",
+      "张勇"
+    ],
+    "sources": [
+      {
+        "id": "techcrunch-ma-retires-2019",
+        "url": "https://techcrunch.com/2019/09/09/jack-ma-officially-retires-as-alibabas-chairman/",
+        "kind": "article",
+        "title": "Jack Ma officially retires as Alibaba's chairman",
+        "publisher": "TechCrunch",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://techcrunch.com/2019/09/09/jack-ma-officially-retires-as-alibabas-chairman/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "peoplesdaily-ma-retires",
+        "url": "https://en.people.cn/n3/2019/0911/c90000-9613831.html",
+        "kind": "article",
+        "title": "Jack Ma retires as Alibaba's chairman",
+        "publisher": "People's Daily Online",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.people.cn/n3/2019/0911/c90000-9613831.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2020-10-24-bund-summit-speech",
+    "person_id": "ma",
+    "date": "2020-10-24",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "上海外滩金融峰会演讲：批评中国监管 \"当铺思想\"",
+    "title_en": "Bund Finance Summit Shanghai speech — attacks Chinese regulators' \"pawnshop mentality\"",
+    "summary": "2020 年 10 月 24 日，马云在上海外滩金融峰会发表一次后果深远的演讲。他公开批评中国金融监管 \"用昨天的方式监管未来\"、\"全球监管者越管越多，但全社会的风险却越来越大\"，并把传统银行体系斥为 \"当铺思想\" ——只看抵押品而不评估真实信用。演讲发生前一晚，蚂蚁集团刚完成 IPO 定价，规模将是 \"人类历史上最大上市\"。这次讲话被普遍认为直接触怒了北京，9 天后蚂蚁 IPO 被叫停。这是马云最后一次大规模公开演讲。",
+    "summary_en": "On October 24, 2020, Ma delivered a momentous speech at the Bund Finance Summit in Shanghai. He publicly attacked Chinese financial regulators for \"using yesterday's methods to regulate tomorrow\" and warned that \"the world's regulators have managed more and more, while overall societal risk has only grown.\" He famously dismissed traditional banking as a \"pawnshop mentality\" — caring only about collateral, never about real creditworthiness. The night before, Ant Group had finalized IPO pricing for what would have been \"the largest listing in human history.\" The speech is widely believed to have angered Beijing directly. Nine days later, Ant's IPO was suspended. It was the last major public speech of Ma's life.",
+    "location": "上海外滩, 中国",
+    "key": true,
+    "tags": [
+      "外滩峰会",
+      "演讲",
+      "蚂蚁集团",
+      "监管"
+    ],
+    "sources": [
+      {
+        "id": "interconnected-bund-speech",
+        "url": "https://interconnected.blog/jack-ma-bund-finance-summit-speech/",
+        "kind": "article",
+        "title": "Jack Ma's Bund Finance Summit Speech (full English translation)",
+        "publisher": "Interconnected (Kevin Xu)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://interconnected.blog/jack-ma-bund-finance-summit-speech/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "youtube-ma-bund-2020",
+        "url": "https://www.youtube.com/watch?v=ULORUT2Ckw4",
+        "kind": "video",
+        "title": "2020 11 02 Jack Ma Speech at The Bund in Shanghai",
+        "publisher": "YouTube",
+        "lang": "zh",
+        "duration_sec": null,
+        "primary": false,
+        "summary": "2020 年 10 月 24 日马云外滩金融峰会演讲完整中文录像。",
+        "summary_en": "Full Chinese-language video of Ma's October 24, 2020 Bund Finance Summit speech.",
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": []
+      },
+      {
+        "id": "time-ma-saga",
+        "url": "https://time.com/5926062/jack-ma/",
+        "kind": "article",
+        "title": "What the Saga of Jack Ma Says About China Under Xi Jinping",
+        "publisher": "TIME",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://time.com/5926062/jack-ma/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2020-11-03-ant-ipo-suspended",
+    "person_id": "ma",
+    "date": "2020-11-03",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "蚂蚁集团 345 亿美元 IPO 在挂牌前 48 小时被叫停",
+    "title_en": "Ant Group's $34.5B IPO suspended 48 hours before listing",
+    "summary": "2020 年 11 月 3 日（原定挂牌日 11 月 5 日前 48 小时），蚂蚁集团在上交所和港交所的同步 IPO 被中国监管机构突然叫停。该 IPO 原定融资约 345 亿美元（部分报道为 370 亿），将超过沙特阿美成为全人类历史上最大规模上市。前一天监管机构紧急约谈了马云、董事长井贤栋、CEO 胡晓明。市场普遍认为这是 10 天前马云外滩演讲的直接政治后果。阿里美股当天暴跌 8%。这次事件标志着中国政府对互联网平台经济长达数年监管整顿的开端。",
+    "summary_en": "On November 3, 2020 — just 48 hours before its scheduled listing on November 5 — Ant Group's simultaneous Shanghai and Hong Kong IPO was abruptly suspended by Chinese regulators. The deal was set to raise about $34.5 billion (some sources say $37B), surpassing Saudi Aramco to become the largest IPO in human history. The day before, regulators had summoned Ma along with Ant chairman Eric Jing and CEO Simon Hu. The suspension was widely seen as the direct political consequence of Ma's Bund speech 10 days earlier. Alibaba's US shares dropped 8% the same day. The event marked the beginning of a multi-year crackdown on China's internet platform economy.",
+    "location": "上海 / 香港",
+    "key": true,
+    "tags": [
+      "蚂蚁集团",
+      "IPO",
+      "监管",
+      "禁令"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-ant-ipo-suspended",
+        "url": "https://www.cnbc.com/2020/11/03/ant-group-ipo-in-shanghai-suspended.html",
+        "kind": "article",
+        "title": "Alibaba shares dive 7% as Ant Group's record $34.5 billion IPO is suspended",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2020/11/03/ant-group-ipo-in-shanghai-suspended.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnn-ant-ipo-blocked",
+        "url": "https://www.cnn.com/2020/11/03/tech/ant-ipo-postponed-beijing-jack-ma/index.html",
+        "kind": "article",
+        "title": "Ant Group: China halts the world's biggest IPO after dust up with Jack Ma",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnn.com/2020/11/03/tech/ant-ipo-postponed-beijing-jack-ma/index.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "aljazeera-ant-ipo",
+        "url": "https://www.aljazeera.com/economy/2020/11/3/listing-interrupted-ant-group-ipo-suspended-by-shanghai-exchange",
+        "kind": "article",
+        "title": "Listing interrupted: China suspends Ant Group's $37bn IPO",
+        "publisher": "Al Jazeera",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.aljazeera.com/economy/2020/11/3/listing-interrupted-ant-group-ipo-suspended-by-shanghai-exchange",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2021-01-20-reappears",
+    "person_id": "ma",
+    "date": "2021-01-20",
+    "date_precision": "day",
+    "type": "life",
+    "title": "失踪近 3 个月后通过视频在乡村教师颁奖典礼上首次公开露面",
+    "title_en": "Reappears after near-3-month absence via rural teacher award video",
+    "summary": "2021 年 1 月 20 日，马云在沉寂近三个月后通过视频在自己的 \"马云乡村教师颁奖典礼\" 上首次重新露面，与 100 位中国乡村教师在线对话，并说 \"等疫情结束我们再相见！\"。视频公开后，阿里巴巴港股当日大涨 8% 以上。在外滩演讲、蚂蚁 IPO 被叫停、阿里集团 182 亿元人民币反垄断处罚之后，全球都在猜测马云的人身状态——这次露面是他没有 \"消失\" 的第一个明确信号，但他从此基本退出了中国公共生活的中心。",
+    "summary_en": "On January 20, 2021, after a near-three-month absence, Ma resurfaced via video at his own Rural Teacher Award ceremony, addressing 100 Chinese rural teachers online and saying, \"We'll meet again when the pandemic is over!\" After the video appeared, Alibaba's Hong Kong shares jumped over 8% in a single session. Coming after the Bund speech, Ant's IPO suspension, and Alibaba Group's later $2.8 billion antitrust fine, the world had been speculating openly about Ma's safety; this was the first clear signal he had not vanished. From this point on, however, he essentially withdrew from the center of Chinese public life.",
+    "location": "中国（线上）",
+    "key": true,
+    "tags": [
+      "回归",
+      "乡村教师",
+      "马云基金会"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-ma-reappears-2021",
+        "url": "https://www.cnbc.com/2021/01/20/alibaba-founder-jack-ma-reappears-after-crackdown-on-his-tech-empire.html",
+        "kind": "article",
+        "title": "Alibaba founder Jack Ma reappears after crackdown on his tech empire",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2021/01/20/alibaba-founder-jack-ma-reappears-after-crackdown-on-his-tech-empire.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "scmp-ma-rural-teachers",
+        "url": "https://www.scmp.com/tech/big-tech/article/3118454/alibaba-founder-jack-ma-delivers-video-speech-chinas-rural-teachers",
+        "kind": "article",
+        "title": "Alibaba founder Jack Ma delivers video speech to China's rural teachers in first public appearance in three months",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.scmp.com/tech/big-tech/article/3118454/alibaba-founder-jack-ma-delivers-video-speech-chinas-rural-teachers",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2023-03-27-yungu-school-return",
+    "person_id": "ma",
+    "date": "2023-03-27",
+    "date_precision": "day",
+    "type": "life",
+    "title": "结束海外滞留返回中国，参访杭州云谷学校",
+    "title_en": "Returns to China after overseas absence; visits Hangzhou Yungu School",
+    "summary": "2023 年 3 月 27 日，马云结束历时一年多的海外（西班牙马略卡、日本东京等地）滞留，返回中国，并出现在 2017 年由阿里创始人共同出资建立的杭州云谷学校。他与师生讨论 AI 时代的教育，说出名言 \"我们要用 AI 解决问题，而不是被 AI 控制\"。这次回归被中国官方媒体高调报道，被视为中国当局对民营企业释放积极信号。同日阿里集团宣布 \"1+6+N\" 重大重组——把整个集团拆分为 6 个独立业务板块。",
+    "summary_en": "On March 27, 2023, after more than a year living abroad (Mallorca, Tokyo, and elsewhere), Ma returned to China and was filmed at Hangzhou Yungu School — a private K-12 school co-funded by Alibaba's founders in 2017. He discussed education in the AI age with teachers and students, saying: \"We must use AI to solve problems, not be controlled by AI.\" Chinese official media gave the return prominent coverage, treating it as a positive signal toward the private sector. The same day, Alibaba Group announced its \"1+6+N\" reorganization — splitting the entire group into six independent business units.",
+    "location": "杭州云谷学校, 浙江, 中国",
+    "key": true,
+    "tags": [
+      "回归",
+      "云谷学校",
+      "AI",
+      "教育"
+    ],
+    "sources": [
+      {
+        "id": "cnn-ma-yungu-2023",
+        "url": "https://www.cnn.com/2023/03/27/tech/jack-ma-china-school-visit",
+        "kind": "article",
+        "title": "Jack Ma makes rare public appearance in China",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnn.com/2023/03/27/tech/jack-ma-china-school-visit",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "scmp-ma-yungu",
+        "url": "https://www.scmp.com/tech/big-tech/article/3214955/alibaba-founder-jack-ma-returns-mainland-china-visit-school-hangzhou",
+        "kind": "article",
+        "title": "Jack Ma returns to China to discuss AI with school in Hangzhou",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.scmp.com/tech/big-tech/article/3214955/alibaba-founder-jack-ma-returns-mainland-china-visit-school-hangzhou",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2023-05-01-tokyo-college-professor",
+    "person_id": "ma",
+    "date": "2023-05-01",
+    "date_precision": "day",
+    "type": "education",
+    "title": "出任东京大学东京学院（Tokyo College）客座教授",
+    "title_en": "Joins University of Tokyo's Tokyo College as visiting professor",
+    "summary": "2023 年 5 月 1 日至 10 月 31 日，马云正式出任东京大学（University of Tokyo）东京学院（Tokyo College）客座教授（Visiting Professor），方向为可持续农业与食品生产。他于 6 月 12 日为来自日本、中国、印度、马来西亚的学生举办了首次两小时关于管理哲学和成功学的研讨课。这是 2020 年外滩演讲后他首次正式回归学术身份的国际公开活动，也标志着他在 \"教育者\" 身份上的下半场战略。",
+    "summary_en": "From May 1 to October 31, 2023, Ma formally served as a visiting professor at Tokyo College, the University of Tokyo's institute for advanced research, with a focus on sustainable agriculture and food production. On June 12, 2023, he held his first two-hour seminar on management philosophy and success, attended by students from Japan, China, India, and Malaysia. It was his first official return to an academic role on the international stage after the 2020 Bund speech, and signaled Ma's second-act strategy as an educator.",
+    "location": "東京, 日本",
+    "key": false,
+    "tags": [
+      "东京大学",
+      "教授",
+      "教育"
+    ],
+    "sources": [
+      {
+        "id": "japantimes-ma-tokyo",
+        "url": "https://www.japantimes.co.jp/news/2023/05/01/national/jack-ma-tokyo-visiting-professorship/",
+        "kind": "article",
+        "title": "Alibaba founder Jack Ma joins University of Tokyo as professor",
+        "publisher": "The Japan Times",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.japantimes.co.jp/news/2023/05/01/national/jack-ma-tokyo-visiting-professorship/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnn-ma-tokyo-2023",
+        "url": "https://www.cnn.com/2023/06/19/tech/jack-ma-teaching-japan-university-of-tokyo-intl-hnk/index.html",
+        "kind": "article",
+        "title": "Alibaba founder Jack Ma gives first class as visiting professor at University of Tokyo",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnn.com/2023/06/19/tech/jack-ma-teaching-japan-university-of-tokyo-intl-hnk/index.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ma-2024-04-10-internal-memo",
+    "person_id": "ma",
+    "date": "2024-04-10",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "向阿里全员发出长文备忘录，肯定吴泳铭、蔡崇信改革",
+    "title_en": "Issues all-employee memo praising Eddie Wu and Joe Tsai's reforms",
+    "summary": "2024 年 4 月 10 日，马云在阿里内部论坛发布一篇罕见的长文备忘录，公开支持 CEO 吴泳铭（Eddie Wu）和董事长蔡崇信（Joe Tsai）正在推进的 \"1+6+N\" 改革。他承认阿里此前患上 \"大公司病\"——决策慢、效率低，呼吁公司 \"回到创业的状态、回到客户和市场为先\"。备忘录发出当天，阿里港股大涨 5%。这是退休近 5 年后他第一次以创始人身份就公司战略发声，被视为他正在某种程度回归商业舞台。",
+    "summary_en": "On April 10, 2024, Ma posted a rare, long internal memo on Alibaba's company forum, openly backing the \"1+6+N\" restructuring being driven by CEO Eddie Wu (Wu Yongming) and chairman Joe Tsai (Tsai Chongxin). He admitted Alibaba had developed \"big-company disease\" — slow decision-making and low efficiency — and called on employees to \"return to entrepreneurial mode, customer and market first.\" Alibaba's Hong Kong shares rose 5% the same day. This was Ma's first substantive intervention in company strategy in nearly five years of retirement, and it was widely read as a partial return to the business stage.",
+    "location": "杭州 / 在线",
+    "key": true,
+    "tags": [
+      "备忘录",
+      "吴泳铭",
+      "蔡崇信",
+      "重组"
+    ],
+    "sources": [
+      {
+        "id": "cnbc-ma-memo-2024",
+        "url": "https://www.cnbc.com/2024/04/10/alibaba-founder-jack-ma-re-emerges-with-praise-of-transformations.html",
+        "kind": "article",
+        "title": "Alibaba shares jump after founder Jack Ma reemerges with praise of Chinese giant's 'transformations'",
+        "publisher": "CNBC",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnbc.com/2024/04/10/alibaba-founder-jack-ma-re-emerges-with-praise-of-transformations.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "fortune-ma-memo-2024",
+        "url": "https://fortune.com/asia/2024/04/10/alibaba-shares-jack-ma-internal-post-memo-diseases-of-a-big-company-restructuring/",
+        "kind": "article",
+        "title": "Alibaba shares jump 5% after founder Jack Ma praises direction in memo",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "mentions": [],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://fortune.com/asia/2024/04/10/alibaba-shares-jack-ma-internal-post-memo-diseases-of-a-big-company-restructuring/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  }
+]

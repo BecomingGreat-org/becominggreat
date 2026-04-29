@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "ren-1944-10-25-birth",
+    "person_id": "ren",
+    "date": "1944-10-25",
+    "date_precision": "day",
+    "type": "life",
+    "title": "出生于贵州安顺镇宁",
+    "title_en": "Born in Zhenning, Anshun, Guizhou",
+    "summary": "1944 年 10 月 25 日出生于贵州省安顺市镇宁布依族苗族自治县一个乡村教师家庭。父亲任摩逊和母亲程远昭都是中学教师，全家靠两人微薄的薪水度日。任正非在七个孩子中排行老大，下面还有五个妹妹和一个弟弟。",
+    "summary_en": "Born on October 25, 1944 in Zhenning, a poor rural county in Anshun prefecture, Guizhou Province, southwest China. Both parents were rural middle school teachers; his father Ren Musheng later became principal of Duyun No. 1 Middle School, where he met his mother Cheng Yuanzhao. The eldest of seven children, Ren grew up in extreme poverty.",
+    "location": "Zhenning, Anshun, Guizhou, China",
+    "key": true,
+    "tags": [
+      "出生",
+      "家庭"
+    ],
+    "sources": [
+      {
+        "id": "wiki-ren-zhengfei",
+        "url": "https://en.wikipedia.org/wiki/Ren_Zhengfei",
+        "kind": "article",
+        "title": "Ren Zhengfei",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Ren_Zhengfei",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-1963-chongqing-architecture",
+    "person_id": "ren",
+    "date": "1963-09-01",
+    "date_precision": "month",
+    "type": "education",
+    "title": "考入重庆建筑工程学院",
+    "title_en": "Enters Chongqing Institute of Civil Engineering and Architecture",
+    "summary": "19 岁的任正非考入重庆建筑工程学院（后并入重庆大学），主修暖通工程（建筑给排水、采暖通风）。这是他第一次走出贵州。1966 年文革爆发，他在求学期间还经历过被红卫兵从火车上推下的危险。",
+    "summary_en": "At nineteen, Ren tested into the Chongqing Institute of Civil Engineering and Architecture (later merged into Chongqing University) to study heating, ventilation and air-conditioning engineering — his first time leaving Guizhou Province. The Cultural Revolution erupted while he was still enrolled; in 1966 Red Guards once pushed him off a train as he was traveling home.",
+    "location": "Chongqing, China",
+    "key": false,
+    "tags": [
+      "求学",
+      "工程"
+    ],
+    "sources": [
+      {
+        "id": "wiki-ren-zhengfei-edu",
+        "url": "https://en.wikipedia.org/wiki/Ren_Zhengfei",
+        "kind": "article",
+        "title": "Ren Zhengfei",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Ren_Zhengfei",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-1968-pla-engineering-corps",
+    "person_id": "ren",
+    "date": "1968-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "毕业分配到基建工程兵",
+    "title_en": "Assigned to PLA Infrastructure Engineering Corps",
+    "summary": "大学毕业后被分配到中国人民解放军基建工程兵第 31 支队第 304 大队，参与贵州安顺 011 基地飞机制造厂的建设。1974 年正式入伍，成为基建工程兵的技术员、工程师。在部队期间他研发出空气压力天平等仪表，多次被评为先进。",
+    "summary_en": "On graduating, Ren was sent to the PLA's Infrastructure Engineering Corps (基建工程兵), 31st Detachment, 304th Battalion, to help build the 011 aircraft-factory base in Anshun, Guizhou. He was formally drafted in 1974 and rose to engineer and deputy regimental director. During his service he co-developed an air-pressure precision balance instrument, an achievement that earned him an invitation to the 1978 National Science Conference in Beijing.",
+    "location": "Anshun, Guizhou, China",
+    "key": false,
+    "tags": [
+      "军旅",
+      "工程兵"
+    ],
+    "sources": [
+      {
+        "id": "huawei-bio-ren",
+        "url": "https://www.huawei.com/en/executives/board-of-directors/ren-zhengfei",
+        "kind": "article",
+        "title": "Mr. Ren Zhengfei — Huawei Executives",
+        "publisher": "Huawei (official)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.huawei.com/en/executives/board-of-directors/ren-zhengfei",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-1983-pla-discharge",
+    "person_id": "ren",
+    "date": "1983-01-01",
+    "date_precision": "year",
+    "type": "career",
+    "title": "邓小平百万大裁军，转业到深圳",
+    "title_en": "Demobilized in Deng's million-man disarmament; reassigned to Shenzhen",
+    "summary": "1982 年邓小平宣布百万大裁军，1983 年基建工程兵整建制撤销，全员退役。任正非脱军装后被分配到深圳南海石油集团下属的电子事业部，担任副经理。他在深圳曾因被合作方拖欠 200 万元巨款而被国企开除，妻子离他而去，一度租住在简陋的小屋里。",
+    "summary_en": "In 1983 Deng Xiaoping's million-man disarmament dissolved the entire Engineering Corps, and Ren was demobilized. He was reassigned as deputy general manager of an electronics subsidiary under Shenzhen's South China Sea Oil Group. There he was defrauded of two million yuan by a business partner, which led to dismissal from the SOE, divorce, and a stretch of living in a single rented room — directly setting up his decision to start a private company four years later.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "转业",
+      "低谷"
+    ],
+    "sources": [
+      {
+        "id": "uscnpm-ren",
+        "url": "https://uscnpm.org/2021/08/16/value-6/",
+        "kind": "article",
+        "title": "Who is Ren Zhengfei?",
+        "publisher": "U.S.-China Perception Monitor",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://uscnpm.org/2021/08/16/value-6/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-1987-09-15-huawei-founded",
+    "person_id": "ren",
+    "date": "1987-09-15",
+    "date_precision": "day",
+    "type": "founding",
+    "title": "在深圳以 21,000 元注册资本创立华为",
+    "title_en": "Founds Huawei in Shenzhen with RMB 21,000",
+    "summary": "1987 年 9 月 15 日，43 岁的任正非和五个合伙人在深圳南山区一间破旧厂房里注册成立\"深圳华为技术有限公司\"，每人凑 3,500 元，注册资本仅 21,000 元（约合当时 5,000 美元）。最初业务只是代理香港鸿年公司的小型程控交换机。\"华为\"二字寓意\"中华有为\"。",
+    "summary_en": "On September 15, 1987, Ren Zhengfei, then 43, and five partners registered Shenzhen Huawei Technology Co., Ltd. in a dilapidated industrial shed in Shenzhen's Nanshan district. Each contributed RMB 3,500 — a total starting capital of RMB 21,000, roughly US$5,000 at the time. The original business was reselling small program-controlled switches imported from a Hong Kong supplier. The name \"华为\" means \"China can do it\" / \"Achievement for China.\"",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "创业",
+      "华为"
+    ],
+    "sources": [
+      {
+        "id": "britannica-huawei",
+        "url": "https://www.britannica.com/money/Huawei",
+        "kind": "article",
+        "title": "Huawei | Founding, Expansion, Innovations, & Controversy",
+        "publisher": "Encyclopedia Britannica",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.britannica.com/money/Huawei",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wiki-huawei",
+        "url": "https://en.wikipedia.org/wiki/Huawei",
+        "kind": "article",
+        "title": "Huawei",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Huawei",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-1993-cc08-switch",
+    "person_id": "ren",
+    "date": "1993-01-01",
+    "date_precision": "year",
+    "type": "product",
+    "title": "C&C08 万门程控交换机研制成功",
+    "title_en": "Launches C&C08 — China's most powerful program-controlled switch",
+    "summary": "1993 年华为推出自主研发的 C&C08 万门数字程控交换机，是当时中国最大容量的电话交换机。任正非把绝大部分利润再投入研发，避开北上广的西方厂商，从农村县城打起，逐步把 Lucent、Siemens、Alcatel 挤出中国低线市场。这一仗奠定了华为作为电信设备制造商的地位。",
+    "summary_en": "In 1993 Huawei shipped the C&C08, an in-house digital program-controlled telephone switch that was the largest-capacity exchange in China at the time. Ren plowed almost every yuan of profit back into R&D and pursued an Mao-inspired \"countryside surrounding the cities\" strategy — selling first into rural counties bypassed by Lucent, Siemens and Alcatel, then converging on the metros. The C&C08 firmly established Huawei as a domestic telecom-equipment vendor.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "产品",
+      "交换机"
+    ],
+    "sources": [
+      {
+        "id": "wiki-huawei-cc08",
+        "url": "https://en.wikipedia.org/wiki/Huawei",
+        "kind": "article",
+        "title": "Huawei",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Huawei",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-1997-hutchison-contract",
+    "person_id": "ren",
+    "date": "1997-01-01",
+    "date_precision": "year",
+    "type": "deal",
+    "title": "拿下首个海外大单：李嘉诚旗下和记电讯",
+    "title_en": "Wins first major overseas contract — Hutchison Telecom",
+    "summary": "1997 年华为与李嘉诚旗下香港和记黄埔（Hutchison Whampoa）签下首张海外固网设备合同，向其旗下电讯公司提供窄带交换机系统。这是华为第一次走出中国大陆做生意，也证明了 C&C08 体系在国际市场具备竞争力，为之后进军非洲、亚太、欧洲打开了大门。",
+    "summary_en": "In 1997 Huawei signed its first major contract outside mainland China, supplying narrowband switching systems for the fixed-line network of Hong Kong's Hutchison Whampoa, controlled by Li Ka-shing. The deal proved the C&C08 platform could compete on global terms and opened the door to Huawei's subsequent expansion into Africa, the Asia-Pacific and Europe.",
+    "location": "Hong Kong, China",
+    "key": true,
+    "tags": [
+      "国际化",
+      "和记电讯"
+    ],
+    "sources": [
+      {
+        "id": "wiki-huawei-hutch",
+        "url": "https://en.wikipedia.org/wiki/Huawei",
+        "kind": "article",
+        "title": "Huawei",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Huawei",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-1998-03-23-huawei-basic-law",
+    "person_id": "ren",
+    "date": "1998-03-23",
+    "date_precision": "day",
+    "type": "writing",
+    "title": "《华为基本法》正式颁布",
+    "title_en": "'Huawei Basic Law' formally promulgated",
+    "summary": "1995 年起任正非邀请人民大学六位教授帮华为系统梳理使命、价值观和管理制度，历时三年。1998 年 3 月 23 日《华为基本法》第八稿正式颁布，是中国第一部由民营企业制定的\"宪法\"。其中规定将销售收入的 10% 投入研发——这条铁律为日后华为在 5G 等领域的突破打下了基础。",
+    "summary_en": "Starting in 1995 Ren commissioned six professors from Renmin University to codify Huawei's mission, values and governance — a three-year exercise that produced the eighth-draft 'Huawei Basic Law' (华为基本法), formally promulgated on March 23, 1998. It was the first modern 'constitution' written for a Chinese private enterprise. One clause mandated that 10% of revenue be reinvested in R&D — an iron rule that later underpinned Huawei's breakthroughs in 5G and chipsets.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "管理",
+      "基本法",
+      "价值观"
+    ],
+    "sources": [
+      {
+        "id": "laitimes-basic-law",
+        "url": "https://www.laitimes.com/en/article/4qq8t_57a3b.html",
+        "kind": "article",
+        "title": "Twenty-five years ago today, the Huawei Basic Law was promulgated",
+        "publisher": "Laitimes",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.laitimes.com/en/article/4qq8t_57a3b.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2001-huaweis-winter",
+    "person_id": "ren",
+    "date": "2001-01-01",
+    "date_precision": "year",
+    "type": "writing",
+    "title": "发表《华为的冬天》内部讲话",
+    "title_en": "Publishes the internal essay 'Huawei's Winter Is Coming'",
+    "summary": "2001 年初，任正非在公司经管会上发表了著名的《华为的冬天》。开头第一句就是：\"公司所有员工是否考虑过，如果有一天，公司销售额下滑、利润下滑甚至会破产，我们怎么办？\"他刻意敲响危机警钟，并要求文章登上《华为人报》头版人手一份学习。两个月后纳斯达克崩盘、全球电信业进入寒冬，这篇被誉为华为的\"圣经\"。",
+    "summary_en": "Early in 2001 Ren delivered an internal speech to Huawei's Executive Management Team that opened with: \"Has every Huawei employee asked themselves what we would do if one day our sales fall, profits collapse, or we go bankrupt?\" He ordered the text printed on the front page of *Huawei People* and made required reading for every employee. Two months later the Nasdaq crashed and the dot-com bust gutted global telecom; 'Huawei's Winter Is Coming' (华为的冬天) became Huawei's internal scripture for crisis-readiness.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "经典语录",
+      "管理",
+      "危机"
+    ],
+    "sources": [
+      {
+        "id": "howtheybegan-winter",
+        "url": "https://www.howtheybegan.com/stories/huawei-winter-is-coming-dotcom-crisis",
+        "kind": "article",
+        "title": "Huawei's Winter: How Ren Zhengfei Saved a Multi-Billion Company with an 'Alarmist' Speech",
+        "publisher": "How They Began",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "公司所有员工是否考虑过，如果有一天，公司销售额下滑、利润下滑甚至会破产，我们怎么办？",
+            "text_zh": "公司所有员工是否考虑过，如果有一天，公司销售额下滑、利润下滑甚至会破产，我们怎么办？",
+            "text_en": "Has every Huawei employee thought about what we would do if one day our sales fall, profits collapse, or we even go bankrupt?",
+            "speaker": "任正非",
+            "context": "《华为的冬天》开篇句，2001 年初公司经管会讲话"
+          },
+          {
+            "text": "十年来我天天思考的都是失败，对成功视而不见，也没有什么荣誉感、自豪感，而是危机感。",
+            "text_zh": "十年来我天天思考的都是失败，对成功视而不见，也没有什么荣誉感、自豪感，而是危机感。",
+            "text_en": "For ten years what I have thought about every single day is failure. I am blind to success. I feel neither honor nor pride — only crisis.",
+            "speaker": "任正非",
+            "context": "《华为的冬天》"
+          }
+        ],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.howtheybegan.com/stories/huawei-winter-is-coming-dotcom-crisis",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2003-cisco-lawsuit",
+    "person_id": "ren",
+    "date": "2003-01-22",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "Cisco 起诉华为侵犯知识产权",
+    "title_en": "Cisco sues Huawei for IP infringement",
+    "summary": "2003 年 1 月，思科系统在美国得州东区联邦法院起诉华为，指控华为路由器源代码、命令行接口、用户手册抄袭。双方对簿公堂期间，思科法律顾问 Mark Chandler 飞到深圳当面向任正非展示证据（连思科手册的拼写错误都出现在华为手册里），任正非的回应是\"巧合\"。2004 年 7 月，华为修改受争议代码后双方庭外和解。这是华为第一次面对国际级诉讼，也成为华为合规与知识产权管理的转折点。",
+    "summary_en": "In January 2003 Cisco Systems sued Huawei in the U.S. District Court for the Eastern District of Texas, alleging Huawei's routers had copied Cisco's source code, command-line interface and even typo-laden documentation. Cisco general counsel Mark Chandler flew to Shenzhen to confront Ren personally with the evidence — Ren's reply was reportedly a single word, \"coincidence.\" Huawei eventually scrubbed the contested code, manuals and CLI; the case settled out of court in July 2004. The episode forced Huawei to take IP compliance seriously and is widely seen as a turning point in its globalization.",
+    "location": "Marshall, Texas, USA",
+    "key": true,
+    "tags": [
+      "诉讼",
+      "Cisco",
+      "知识产权"
+    ],
+    "sources": [
+      {
+        "id": "justia-cisco-huawei",
+        "url": "https://law.justia.com/cases/federal/district-courts/FSupp2/266/551/2516657/",
+        "kind": "document",
+        "title": "Cisco Systems, Inc. v. Huawei Technologies, Co., Ltd., 266 F. Supp. 2d 551 (E.D. Tex. 2003)",
+        "publisher": "Justia US Law",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://law.justia.com/cases/federal/district-courts/FSupp2/266/551/2516657/",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2010-fortune-global-500",
+    "person_id": "ren",
+    "date": "2010-01-01",
+    "date_precision": "year",
+    "type": "award",
+    "title": "首次入选《财富》世界 500 强",
+    "title_en": "Huawei enters the Fortune Global 500 for the first time",
+    "summary": "2010 年华为以 218 亿美元年销售额首次入选《财富》世界 500 强榜单，排名第 397 位。这是中国电信设备厂商首次跻身世界最大企业行列，也标志着华为完成了从国内挑战者到国际巨头的身份切换。",
+    "summary_en": "In 2010 Huawei broke into the Fortune Global 500 for the first time, ranked 397th with annual revenue of US$21.8 billion. It was the first time a Chinese telecom-equipment maker had reached the world's largest-company tier, marking Huawei's transition from domestic challenger to global incumbent.",
+    "location": "Global",
+    "key": true,
+    "tags": [
+      "里程碑",
+      "Fortune 500"
+    ],
+    "sources": [
+      {
+        "id": "fortune-2010-huawei",
+        "url": "https://money.cnn.com/magazines/fortune/global500/2010/snapshots/11397.html",
+        "kind": "article",
+        "title": "Fortune Global 500 2010: Huawei Technologies",
+        "publisher": "Fortune / CNN Money",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://money.cnn.com/magazines/fortune/global500/2010/snapshots/11397.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2012-surpass-ericsson",
+    "person_id": "ren",
+    "date": "2012-07-24",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "营收首次超越爱立信，登顶全球第一",
+    "title_en": "Surpasses Ericsson as world's #1 telecom equipment maker",
+    "summary": "2012 年 7 月华为公布上半年营收 1,027 亿元人民币（约 161 亿美元），比爱立信同期高出约 8.5 亿美元，首次成为全球营收最大的电信设备厂商。这是从 1987 年深圳一间小厂房到 25 年间击败欧洲百年巨头的标志性时刻。",
+    "summary_en": "In July 2012 Huawei reported first-half revenue of RMB 102.7 billion (US$16.07 billion), about US$850 million ahead of Ericsson over the same period — the first time it had overtaken its century-old Swedish rival to become the world's largest telecom-equipment vendor by sales. The milestone marked the 25-year arc from a Shenzhen industrial shed to global #1.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "里程碑",
+      "Ericsson"
+    ],
+    "sources": [
+      {
+        "id": "chinadaily-huawei-ericsson",
+        "url": "https://www.chinadaily.com.cn/business/2012-07/26/content_15618906.htm",
+        "kind": "article",
+        "title": "Huawei becomes top telecom gear maker",
+        "publisher": "China Daily",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.chinadaily.com.cn/business/2012-07/26/content_15618906.htm",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "china-org-huawei-ericsson",
+        "url": "http://www.china.org.cn/business/2012-07/25/content_26011465.htm",
+        "kind": "article",
+        "title": "Huawei overtakes Ericsson as world's largest telco player",
+        "publisher": "China.org.cn",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/http://www.china.org.cn/business/2012-07/25/content_26011465.htm",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2015-01-22-davos",
+    "person_id": "ren",
+    "date": "2015-01-22",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "首次出席达沃斯论坛公开对话",
+    "title_en": "First public on-record dialogue at Davos",
+    "summary": "2015 年 1 月 22 日，任正非在世界经济论坛达沃斯年会的\"An Insight, An Idea\" 环节首次公开露面接受全程直播采访。他说华为 70% 的收入来自中国境外，反复强调华为不会、也不可能为任何政府监听。这是这位极少受访的创始人第一次出现在国际镜头里。",
+    "summary_en": "On January 22, 2015 Ren made his first ever live-streamed public appearance, sitting for an 'An Insight, An Idea with Ren Zhengfei' session at the World Economic Forum in Davos. He noted that 70% of Huawei's revenue came from outside China and repeatedly insisted Huawei had never been asked, and would never agree, to spy for any government. It was the first time the famously reclusive founder had spoken on camera to a Western audience.",
+    "location": "Davos, Switzerland",
+    "key": true,
+    "tags": [
+      "采访",
+      "达沃斯"
+    ],
+    "sources": [
+      {
+        "id": "huawei-davos-2015",
+        "url": "https://www.huawei.com/us/about-huawei/executives/articles/hw_412440",
+        "kind": "article",
+        "title": "An Insight, An Idea with Ren Zhengfei",
+        "publisher": "Huawei (official)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.huawei.com/us/about-huawei/executives/articles/hw_412440",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "fortune-davos-2015",
+        "url": "https://fortune.com/2015/01/22/huawei-ren-zhengfei-davos/",
+        "kind": "article",
+        "title": "Huawei founder Ren Zhengfei opens up in Davos",
+        "publisher": "Fortune",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://fortune.com/2015/01/22/huawei-ren-zhengfei-davos/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "yt-davos-2015",
+        "url": "https://www.youtube.com/watch?v=uOJIzBY0mi8",
+        "embed_url": "https://www.youtube-nocookie.com/embed/uOJIzBY0mi8",
+        "kind": "video",
+        "title": "Huawei CEO Ren Zhengfei speaks at Davos",
+        "publisher": "WION",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2018-12-01-meng-arrest",
+    "person_id": "ren",
+    "date": "2018-12-01",
+    "date_precision": "day",
+    "type": "life",
+    "title": "女儿孟晚舟在温哥华被捕",
+    "title_en": "Daughter Meng Wanzhou arrested in Vancouver",
+    "summary": "2018 年 12 月 1 日，任正非长女、华为副董事长兼 CFO 孟晚舟从香港转机赴墨西哥途中，在加拿大温哥华机场被加拿大皇家骑警应美方要求扣押。美方依据 2018 年 8 月 22 日纽约东区联邦法院的逮捕令，指控其因绕过对伊朗制裁向汇丰银行作出虚假陈述，构成欺诈。事件直接把华为推到中美科技战的最前沿。",
+    "summary_en": "On December 1, 2018, Ren's eldest daughter Meng Wanzhou — Huawei's deputy chairwoman and CFO — was detained by the Royal Canadian Mounted Police while transferring at Vancouver International Airport en route from Hong Kong to Mexico City. The arrest was made on a U.S. provisional extradition request stemming from a sealed August 22, 2018 warrant issued by the Eastern District of New York, accusing her of bank fraud over alleged misrepresentations to HSBC about Huawei's business in Iran. The arrest dragged Huawei to the front line of the U.S.–China tech war.",
+    "location": "Vancouver International Airport, Canada",
+    "key": true,
+    "tags": [
+      "孟晚舟",
+      "中美关系",
+      "家庭"
+    ],
+    "sources": [
+      {
+        "id": "wiki-meng-extradition",
+        "url": "https://en.wikipedia.org/wiki/Extradition_case_of_Meng_Wanzhou",
+        "kind": "article",
+        "title": "Extradition case of Meng Wanzhou",
+        "publisher": "Wikipedia",
+        "lang": "en",
+        "primary": true,
+        "license": "cc-by-sa",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.wikipedia.org/wiki/Extradition_case_of_Meng_Wanzhou",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cbc-meng-timeline",
+        "url": "https://www.cbc.ca/news/meng-wanzhou-huawei-kovrig-spavor-1.6188472",
+        "kind": "article",
+        "title": "The Meng Wanzhou Huawei saga: A timeline",
+        "publisher": "CBC News",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cbc.ca/news/meng-wanzhou-huawei-kovrig-spavor-1.6188472",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2019-01-15-first-western-media",
+    "person_id": "ren",
+    "date": "2019-01-15",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "首次接受西方媒体圆桌专访",
+    "title_en": "First-ever roundtable with Western media",
+    "summary": "2019 年 1 月 15 日，74 岁的任正非在深圳华为总部接受 BBC、AP、华尔街日报等十几家国际媒体的圆桌专访——这是他自 1987 年创立华为 32 年来第一次面对西方记者。他逐条回应美方指控、孟晚舟案、是否会替中国政府收集数据等问题，并以\"狠狠打蚊子，但不会跟蚊子谈判\"形容华为应对压力的姿态。整个 1 月份接连有四场密集采访，被外界视为华为公关战略的重大转折。",
+    "summary_en": "On January 15, 2019, in Shenzhen, the 74-year-old Ren convened a roundtable with the BBC, AP, the Wall Street Journal and a dozen other international outlets — his first encounter with Western journalists in the 32 years since founding Huawei. He answered point by point on U.S. accusations, his daughter's arrest, and whether Huawei could be forced to hand over data, vowing he would 'definitely refuse' such a request from Beijing. Four such roundtables took place in January 2019, marking a sharp shift in Huawei's previously secretive public-relations posture.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "采访",
+      "西方媒体",
+      "Meng Wanzhou"
+    ],
+    "sources": [
+      {
+        "id": "scmp-ren-jan-2019",
+        "url": "https://www.scmp.com/tech/big-tech/article/2182367/transcript-huawei-founder-ren-zhengfeis-responses-media-questions",
+        "kind": "transcript",
+        "title": "Transcript: Huawei founder Ren Zhengfei's responses to media questions at a round table this week",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.scmp.com/tech/big-tech/article/2182367/transcript-huawei-founder-ren-zhengfeis-responses-media-questions",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "caixin-ren-jan-2019",
+        "url": "https://www.caixinglobal.com/2019-01-18/huawei-founder-speaks-out-to-address-doubts-101371245.html",
+        "kind": "article",
+        "title": "Huawei Founder Speaks Out to Address Doubts",
+        "publisher": "Caixin Global",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.caixinglobal.com/2019-01-18/huawei-founder-speaks-out-to-address-doubts-101371245.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2019-02-bbc-interview",
+    "person_id": "ren",
+    "date": "2019-02-19",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "BBC 独家专访：\"美国不能代表世界\"",
+    "title_en": "BBC exclusive: 'America does not represent the world'",
+    "summary": "2019 年 2 月 19 日 BBC 播出对任正非的独家电视专访——这是他史上第一次接受西方电视镜头长篇采访。他直言：\"如果美国不卖华为设备，那是他们的损失\"，并形容美方打压是\"刻意的政治行为\"，呼吁国际客户用脚投票。这条片段在 BBC News YouTube 频道发布后病毒式传播。",
+    "summary_en": "On February 19, 2019 the BBC aired its exclusive television interview with Ren Zhengfei — his first long-form on-camera interview with a Western broadcaster. He told the BBC the U.S. crackdown was 'a politically motivated act,' that 'America does not represent the world,' and that 'there is no way the U.S. can crush us.' The clip went viral on the BBC News YouTube channel.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "采访",
+      "BBC",
+      "中美关系"
+    ],
+    "sources": [
+      {
+        "id": "yt-bbc-ren-2019",
+        "url": "https://www.youtube.com/watch?v=ju1epxXUPkQ",
+        "embed_url": "https://www.youtube-nocookie.com/embed/ju1epxXUPkQ",
+        "kind": "video",
+        "title": "Huawei founder: 'America doesn't represent the world' - BBC News",
+        "publisher": "BBC News",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "There's no way the US can crush us. The world cannot leave us, because we are more advanced.",
+            "text_en": "There's no way the US can crush us. The world cannot leave us, because we are more advanced.",
+            "text_zh": "美国压不垮我们。世界离不开我们，因为我们更先进。",
+            "speaker": "Ren Zhengfei",
+            "context": "BBC interview, February 2019, on US sanctions"
+          }
+        ]
+      },
+      {
+        "id": "cnn-ren-bbc-2019",
+        "url": "https://edition.cnn.com/2019/02/18/tech/ren-zhengfei-huawei-bbc-intl/index.html",
+        "kind": "article",
+        "title": "Ren Zhengfei, Huawei founder, says the US 'cannot crush us'",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://edition.cnn.com/2019/02/18/tech/ren-zhengfei-huawei-bbc-intl/index.html",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "yt-huawei-bbc-2019",
+        "url": "https://www.youtube.com/watch?v=vxoeLLq14zI",
+        "embed_url": "https://www.youtube-nocookie.com/embed/vxoeLLq14zI",
+        "kind": "video",
+        "title": "Huawei's Founder Speaks To BBC",
+        "publisher": "Huawei (official channel)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2019-05-15-entity-list",
+    "person_id": "ren",
+    "date": "2019-05-15",
+    "date_precision": "day",
+    "type": "deal",
+    "title": "美国将华为列入实体清单",
+    "title_en": "United States places Huawei on the Entity List",
+    "summary": "2019 年 5 月 15 日，美国商务部产业与安全局（BIS）将华为及其 68 家关联公司列入\"实体清单\"，禁止美国厂商在没有许可证的情况下向华为出口任何美国原产技术。同日，特朗普签署 13873 号行政命令，将外国\"对手\"对美 ICT 供应链构成的威胁宣布为国家紧急状态。次日华为子公司海思半导体总裁何庭波发出\"备胎转正\"内部信，称\"长期以来一直被视为绝对保密的备胎计划，一夜之间全部转正。\"",
+    "summary_en": "On May 15, 2019, the U.S. Commerce Department's Bureau of Industry and Security added Huawei and 68 affiliates to its Entity List, requiring a license — under a 'presumption of denial' — for any export of U.S.-origin technology to Huawei. The same day President Trump signed Executive Order 13873 declaring foreign-adversary threats to the ICT supply chain a national emergency. The following day Huawei chip subsidiary HiSilicon's CEO He Tingbo wrote her famous internal letter that called Huawei's secretly stockpiled chip designs the 'spare tires' (备胎) that 'were promoted from spare to main overnight.'",
+    "location": "Washington, D.C., USA",
+    "key": true,
+    "tags": [
+      "制裁",
+      "中美关系",
+      "Entity List"
+    ],
+    "sources": [
+      {
+        "id": "crs-huawei-r46693",
+        "url": "https://www.congress.gov/crs-product/R46693",
+        "kind": "document",
+        "title": "Huawei and U.S. Law (CRS Report R46693)",
+        "publisher": "Congressional Research Service / Library of Congress",
+        "lang": "en",
+        "primary": true,
+        "license": "public-domain",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.congress.gov/crs-product/R46693",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "cnn-huawei-ban-2019",
+        "url": "https://www.cnn.com/2019/05/15/tech/trump-executive-order-telecom-security",
+        "kind": "article",
+        "title": "US bans Huawei from selling telecom gear and threatens its supply chain",
+        "publisher": "CNN Business",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cnn.com/2019/05/15/tech/trump-executive-order-telecom-security",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2019-05-21-cctv-interview",
+    "person_id": "ren",
+    "date": "2019-05-21",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "实体清单后首次央视专访",
+    "title_en": "First CCTV interview after Entity List sanctions",
+    "summary": "2019 年 5 月 21 日，被列入实体清单仅 6 天后，任正非在深圳华为总部接受央视、人民日报、新华社、彭博等中外媒体集体专访。他罕有地详细谈及备胎计划：华为的高端芯片有备胎，操作系统也有；提及女儿孟晚舟时说\"父女通过电话还能开玩笑\"；强调\"任何时候我们都要走自己的路\"。这次访谈被视为华为应对美国全面打压的纲领性回应。",
+    "summary_en": "On May 21, 2019 — just six days after the Entity List blow — Ren held a televised group interview at Huawei's Shenzhen headquarters with CCTV, *People's Daily*, Xinhua, Bloomberg and others. For the first time he spoke openly about Huawei's 'spare tire' (备胎) chip and operating-system contingency plans, joked that he and his detained daughter Meng Wanzhou were still trading phone jokes, and insisted that 'whatever happens, we walk our own road.' The interview is widely treated as Huawei's manifesto-level public response to the full-scale U.S. crackdown.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "采访",
+      "央视",
+      "Entity List"
+    ],
+    "sources": [
+      {
+        "id": "huawei-ren-cn-media-2019",
+        "url": "https://www.huawei.com/au/news/2019/huawei-founder-ren-zhengfei-interview-with-chinese-media",
+        "kind": "transcript",
+        "title": "Huawei Founder Ren Zhengfei's Interview with Chinese Media",
+        "publisher": "Huawei (official transcript)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.huawei.com/au/news/2019/huawei-founder-ren-zhengfei-interview-with-chinese-media",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "github-ren-cctv-2019",
+        "url": "https://github.com/flopoint/huawei-ceo-interview",
+        "kind": "transcript",
+        "title": "Full English text of Ren Zhengfei's interview with CCTV and other major media on 2019-05-21",
+        "publisher": "GitHub (flopoint)",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://github.com/flopoint/huawei-ceo-interview",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "people-cn-ren-may-2019",
+        "url": "https://en.people.cn/n3/2019/0523/c90000-9581056.html",
+        "kind": "article",
+        "title": "Huawei CEO talks everything from 5G to the latest US ban",
+        "publisher": "People's Daily Online",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://en.people.cn/n3/2019/0523/c90000-9581056.html",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2019-06-17-coffee-with-ren",
+    "person_id": "ren",
+    "date": "2019-06-17",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "\"咖啡对话\"：与 Negroponte、Gilder 同台",
+    "title_en": "'A Coffee with Ren' — dialogue with Negroponte and Gilder",
+    "summary": "2019 年 6 月 17 日，任正非在深圳华为总部与 MIT 媒体实验室创始人 Nicholas Negroponte 和未来学家 George Gilder 进行 100 分钟的公开对话，主持人为 CGTN 的田薇。他在会上罕有地谈到华为不\"窃取知识产权\"，并表示\"一颗树不能挡风\"——华为愿意把自己的 5G 技术许可给一家美国公司。这是 \"A Coffee with Ren\" 系列的第一场，之后又与彭博社等举办多场。",
+    "summary_en": "On June 17, 2019 Ren held a 100-minute public conversation in Shenzhen with MIT Media Lab co-founder Nicholas Negroponte and futurist George Gilder, moderated by CGTN's Tian Wei. He flatly denied that Huawei had ever stolen intellectual property, and floated the striking offer to license Huawei's full 5G stack to a single U.S. company so American firms could build a domestic counterpart. It was the first of the 'A Coffee with Ren' series, later expanded with Bloomberg and others.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "采访",
+      "Negroponte",
+      "5G"
+    ],
+    "sources": [
+      {
+        "id": "huawei-coffee-ren-2019",
+        "url": "https://www.huawei.com/en/news/2019/6/a-coffee-with-ren",
+        "kind": "article",
+        "title": "A Coffee with Ren",
+        "publisher": "Huawei (official)",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.huawei.com/en/news/2019/6/a-coffee-with-ren",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "yt-coffee-ren-2019",
+        "url": "https://www.youtube.com/watch?v=bOmttBqY7Cc",
+        "embed_url": "https://www.youtube-nocookie.com/embed/bOmttBqY7Cc",
+        "kind": "video",
+        "title": "Live: Huawei founder & CEO Ren Zhengfei holds discussion in Shenzhen 任正非首次对话美国嘉宾",
+        "publisher": "CGTN",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human"
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2021-09-25-meng-returns",
+    "person_id": "ren",
+    "date": "2021-09-25",
+    "date_precision": "day",
+    "type": "life",
+    "title": "孟晚舟与美方达成 DPA 后回到中国",
+    "title_en": "Daughter Meng Wanzhou returns to China after DPA",
+    "summary": "在加拿大被软禁近三年后，孟晚舟与美国司法部达成\"暂缓起诉协议\"（DPA），承认对汇丰银行做出的部分陈述存在虚假成分但不认罪、不缴纳罚款。2021 年 9 月 25 日她乘坐中国政府包机降落深圳宝安机场，国内多家电视台进行直播。任正非在机场迎接，对外发布致谢信。同日中方释放了被拘留的两名加拿大公民康明凯和斯帕弗。",
+    "summary_en": "After nearly three years of house arrest in Vancouver, Meng Wanzhou reached a deferred-prosecution agreement (DPA) with the U.S. Department of Justice, conceding to certain misstatements to HSBC but pleading not guilty, paying no fine, and avoiding incarceration. On September 25, 2021 she landed at Shenzhen Bao'an Airport on a Chinese government charter, broadcast live across Chinese state TV. Ren met her on the tarmac and issued a public letter of thanks. On the same day China freed Canadian detainees Michael Kovrig and Michael Spavor.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "孟晚舟",
+      "中美关系",
+      "家庭"
+    ],
+    "sources": [
+      {
+        "id": "ajil-meng-dpa",
+        "url": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/huaweis-meng-wanzhou-released-to-china-after-entering-into-deferred-prosecution-agreement-with-us-justice-department/2D1E2F6D6278467B65A4BCB0DF109CE8",
+        "kind": "article",
+        "title": "Huawei's Meng Wanzhou Released to China After Entering into Deferred Prosecution Agreement with U.S. Justice Department",
+        "publisher": "American Journal of International Law / Cambridge University Press",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.cambridge.org/core/journals/american-journal-of-international-law/article/huaweis-meng-wanzhou-released-to-china-after-entering-into-deferred-prosecution-agreement-with-us-justice-department/2D1E2F6D6278467B65A4BCB0DF109CE8",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "xinhua-meng-return",
+        "url": "http://www.china.org.cn/china/Off_the_Wire/2021-09/26/content_77774504.htm",
+        "kind": "article",
+        "title": "Xinhua Headlines: Meng Wanzhou back in China",
+        "publisher": "Xinhua / China.org.cn",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/http://www.china.org.cn/china/Off_the_Wire/2021-09/26/content_77774504.htm",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2021-11-fight-survival",
+    "person_id": "ren",
+    "date": "2021-11-04",
+    "date_precision": "day",
+    "type": "speech",
+    "title": "\"为活下去拼搏\"：内部讲话激励员工",
+    "title_en": "Internal speech: 'Fight to survive'",
+    "summary": "2021 年 11 月，华为内部论坛\"心声社区\"发布了任正非在新成立的 5 个军团誓师会上的内部讲话视频。他说：\"我们要通过艰苦奋斗、英勇牺牲，通过未来三十年的奋斗换取一个和平的环境，让任何人不敢欺负我们。\"这段话在中文社交网络迅速刷屏，成为美国制裁背景下华为最有代表性的精神符号。",
+    "summary_en": "In November 2021 Huawei's internal forum 'Xinsheng' (心声社区) released a video of Ren's address at the inauguration of five new internal 'corps' fighting U.S. chip sanctions. \"We must, through hard work and heroic sacrifice, fight for the next 30 years to win a peaceful environment in which no one dares bully us.\" The clip rocketed across Chinese social media and became Huawei's most iconic post-sanctions rallying cry.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": false,
+    "tags": [
+      "演讲",
+      "心声社区",
+      "经典语录"
+    ],
+    "sources": [
+      {
+        "id": "globaltimes-ren-fight-2021",
+        "url": "https://www.globaltimes.cn/page/202111/1238103.shtml",
+        "kind": "article",
+        "title": "Huawei founder Ren Zhengfei calls for 'hard fight, heroic sacrifices' amid US chip sanctions",
+        "publisher": "Global Times",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "我们要通过艰苦奋斗、英勇牺牲，通过未来三十年的奋斗换取一个和平的环境，让任何人不敢欺负我们。",
+            "text_zh": "我们要通过艰苦奋斗、英勇牺牲，通过未来三十年的奋斗换取一个和平的环境，让任何人不敢欺负我们。",
+            "text_en": "Through hard work and heroic sacrifices, we must use the next thirty years of struggle to win a peaceful environment where no one dares to bully us.",
+            "speaker": "任正非",
+            "context": "2021 年 11 月华为新军团誓师会内部讲话，心声社区发布"
+          }
+        ],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.globaltimes.cn/page/202111/1238103.shtml",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "scmp-ren-fight-2021",
+        "url": "https://www.scmp.com/tech/tech-war/article/3154907/battered-us-sanctions-huawei-founder-ren-zhengfei-vows-keep-fighting",
+        "kind": "article",
+        "title": "Battered by US sanctions, Huawei founder Ren Zhengfei vows to keep fighting in latest motivational message to employees",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.scmp.com/tech/tech-war/article/3154907/battered-us-sanctions-huawei-founder-ren-zhengfei-vows-keep-fighting",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2023-08-29-mate60",
+    "person_id": "ren",
+    "date": "2023-08-29",
+    "date_precision": "day",
+    "type": "product",
+    "title": "Mate 60 Pro 静默上市，搭载麒麟 9000S 国产芯片",
+    "title_en": "Mate 60 Pro launches with domestic Kirin 9000S chip",
+    "summary": "2023 年 8 月 29 日，华为不开发布会、不打广告，悄悄在官网上架 Mate 60 Pro 并开放预售。机身搭载中芯国际 N+2 工艺生产的麒麟 9000S 7 纳米 SoC，恢复了 5G 网络能力，并支持卫星通话。被实体清单封锁四年之后，Mate 60 Pro 被中国舆论视为对美国半导体禁令的\"破壁\"标志。彼时美国商务部长雷蒙多正访问北京。",
+    "summary_en": "On August 29, 2023 Huawei silently listed the Mate 60 Pro for online pre-order — no keynote, no advertising. The phone ran on the Kirin 9000S, a 7-nanometer SoC fabricated by China's SMIC on its N+2 process, restoring full 5G connectivity and adding satellite calls. Four years into the U.S. Entity List, Chinese media celebrated the launch as a 'breakthrough' against U.S. semiconductor sanctions. The release coincided pointedly with U.S. Commerce Secretary Gina Raimondo's visit to Beijing.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "产品",
+      "Mate 60 Pro",
+      "麒麟",
+      "制裁"
+    ],
+    "sources": [
+      {
+        "id": "techinsights-mate60",
+        "url": "https://www.techinsights.com/blog/techinsights-finds-smic-7nm-n2-huawei-mate-60-pro",
+        "kind": "article",
+        "title": "TechInsights Finds SMIC 7nm (N+2) in Huawei Mate 60 Pro",
+        "publisher": "TechInsights",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.techinsights.com/blog/techinsights-finds-smic-7nm-n2-huawei-mate-60-pro",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "wapo-mate60-2023",
+        "url": "https://www.washingtonpost.com/technology/2023/09/02/huawei-raimondo-phone-chip-sanctions/",
+        "kind": "article",
+        "title": "New Huawei Mate 60 Pro phone raises worries that China sanctions failed",
+        "publisher": "The Washington Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.washingtonpost.com/technology/2023/09/02/huawei-raimondo-phone-chip-sanctions/",
+          "timestamp": "2024"
+        }
+      },
+      {
+        "id": "scmp-mate60-2023",
+        "url": "https://www.scmp.com/tech/big-tech/article/3236295/huaweis-5g-smartphone-comeback-advanced-chip-wrapped-secrecy-releases-chokehold-us-sanctions-china",
+        "kind": "article",
+        "title": "Huawei's 5G smartphone comeback, with advanced chip wrapped in secrecy, releases chokehold of US sanctions on China tech",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2024if_/https://www.scmp.com/tech/big-tech/article/3236295/huaweis-5g-smartphone-comeback-advanced-chip-wrapped-secrecy-releases-chokehold-us-sanctions-china",
+          "timestamp": "2024"
+        }
+      }
+    ],
+    "source_hints": null
+  },
+  {
+    "id": "ren-2025-06-10-peoples-daily",
+    "person_id": "ren",
+    "date": "2025-06-10",
+    "date_precision": "day",
+    "type": "interview",
+    "title": "登上《人民日报》头版：以数学补物理",
+    "title_en": "People's Daily front-page interview: 'Use math to make up for physics'",
+    "summary": "2025 年 6 月 10 日《人民日报》头版刊登对任正非的整版专访，规格罕见——通常这种位置只留给最高层领导。他承认华为单芯片仍落后美国一代，但提出\"以数学补物理、以非摩尔补摩尔、以集群计算补单芯片\"的策略，并透露华为每年 1,800 亿元研发投入中，600 亿元投入基础理论研究。他说\"中国未来会有几百乃至上千个操作系统支撑各行业前进。\"",
+    "summary_en": "On June 10, 2025 *People's Daily* devoted its entire front page to an interview with Ren Zhengfei — a placement normally reserved for top Party leaders. He admitted Huawei's single chips were still 'one generation behind' the United States, but argued that Huawei could 'use math to make up for physics, non-Moore to make up for Moore, and cluster computing to make up for single chips.' Of Huawei's RMB 180 billion (US$25 billion) yearly R&D budget, he said, RMB 60 billion now flows into basic theoretical research. He predicted China would build 'hundreds, even thousands of operating systems' powering its industries.",
+    "location": "Shenzhen, Guangdong, China",
+    "key": true,
+    "tags": [
+      "采访",
+      "人民日报",
+      "芯片"
+    ],
+    "sources": [
+      {
+        "id": "people-cn-ren-2025",
+        "url": "https://en.people.cn/n3/2025/0611/c90000-20325959.html",
+        "kind": "article",
+        "title": "Huawei founder remains optimistic despite US curbs",
+        "publisher": "People's Daily Online",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://en.people.cn/n3/2025/0611/c90000-20325959.html",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "globaltimes-ren-2025",
+        "url": "https://www.globaltimes.cn/page/202506/1335800.shtml",
+        "kind": "article",
+        "title": "The more open the country, the more it will drive our progress: Ren Zhengfei speaks to People's Daily",
+        "publisher": "Global Times",
+        "lang": "en",
+        "primary": true,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "quotes": [
+          {
+            "text": "用数学补物理、用非摩尔补摩尔、用集群计算补单芯片。",
+            "text_zh": "用数学补物理、用非摩尔补摩尔、用集群计算补单芯片。",
+            "text_en": "We use math to compensate for physics, non-Moore to compensate for Moore, and cluster computing to compensate for single chips.",
+            "speaker": "任正非",
+            "context": "2025 年 6 月 10 日《人民日报》头版专访"
+          }
+        ],
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://www.globaltimes.cn/page/202506/1335800.shtml",
+          "timestamp": "2025"
+        }
+      },
+      {
+        "id": "scmp-ren-pd-2025",
+        "url": "https://www.scmp.com/tech/big-tech/article/3313779/tech-war-huawei-founder-ren-says-state-art-chip-performance-can-be-achieved",
+        "kind": "article",
+        "title": "Huawei founder Ren says state-of-the-art chip performance can be achieved",
+        "publisher": "South China Morning Post",
+        "lang": "en",
+        "primary": false,
+        "license": "all-rights-reserved",
+        "authored_by": "human",
+        "wayback": {
+          "snapshot_url": "https://web.archive.org/web/2025if_/https://www.scmp.com/tech/big-tech/article/3313779/tech-war-huawei-founder-ren-says-state-art-chip-performance-can-be-achieved",
+          "timestamp": "2025"
+        }
+      }
+    ],
+    "source_hints": null
+  }
+]
